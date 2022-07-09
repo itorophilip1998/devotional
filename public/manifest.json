@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Fulga Devotional",
+  "name": "Fulga Sunday School Manual And Devotional",
+  "description":"Fulga Sunday School Manual And Devotional",
   "icons": [
     {
       "src": "favicon.ico",
