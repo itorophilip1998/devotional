@@ -934,217 +934,217 @@ export const devotional = [
         "prayer_focus": "Lord, open my eyes to behold and acknowledge your sovereignty and power as I continue to serve you."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday, 11th November, 2022",
+        "topic": "TITHE SERVES AS A DEFENCE",
+        "text": "Mal. 3:11 - “I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground neither shall your vine cast her fruits before the time in the field, saith the Lord of host”.",
+        "introduction": "To defend means to stop attack, to uphold or to keep from spoiling or falling.  Tithe is a defense to our life, properties, marriage, relationships etc. When we pay our tithe, that spiritual exercise automatically serves as a protection or defense against the wiles of the devil, satanic attack, bondage, sickness and curses.  Tithing bulldozes the devourer.  The devourer cannot devour us when we consistently pay our tithes.  It is your tithes that speak for you and enable you win the battles of life, physically and spiritually. Our tithe serves as a defense to our business and the labour of our hands (Mal. 3:11).  The spiritual warfare cannot be fought with physical weapon (Eph. 6:12).  Tithing and prayers can pull down strongholds. Our tithing is a spiritual exercise that attracts the Almighty-power (2 Cor. 10:3-6).  The ‘Mighty’ pulls down the strongholds, negative imagination and diverse forms of captivities.  Continue to pay your tithe for all round defence.",
+        "prayer_focus": "Fight my battles O Lord and let my enemies be scattered."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday, 12th November, 2022",
+        "topic": "TITHE IS SACROSANCT",
+        "text": "Lev. 27:30 - “And all the tithes of the Lord whether of the seed of the Land or of the fruit of the tree is the Lord’s, it is Holy unto the Lord”.",
+        "introduction": "10% of our income, wages, profit, fruits of the tree, crops and animals (livestock) belongs to God.   They are sacred and Holy unto the Lord.  Sacrosanct means you should not touch or tamper with the tenth of those mentioned items.  It is God’s property. Unfortunately, we eat and consume everything we have: ours and God’s own.  By so doing, we cheat and rob God (Mal. 3:8). If we claim to love, fear and honour God, where is the honour if we refuse to pay our tithe?  Salary earner, farmer, trader, professionals in different fields, politician and every Ministers, you have robed God! How? It is by refusing to release the 10% of your income unto God’s service. And do you know, that some people pay/or package their tithe in a wrong way? Note that: Tithe is supposed to be removed first, before you use your 9/10.  When you collect salary, remove tithe before spending the money for other items.  The first 1/10 of money, fruits crops, animal etc is Holy.  It belongs to God.  Tithe first before other expenses.",
+        "prayer_focus": "Teach me thy ways O Lord, so as to serve you with fear and trembling."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday, 13th November, 2022",
+        "topic": "TITHING IS A POINTER TO OBEDIENCE",
+        "text": "Mal. 3:10 - “Bring ye all the tithes into the storehouse that there may be meat in mine house”.",
+        "introduction": "Obedience is better than sacrifice; most especially when it comes to payment of tithe.  Tithing diverts evil approaches far from you and your endeavours.  It helps you to stay buoyant and flourish prosperously in all your doings and goings.  Go ahead and be known as someone who is addicted to tithing.  Then, you will see and enjoy proofs of additions to your income. God is pleased with the obedient servants. His word says “when a man’s ways pleases the Lord, He makes even his enemies to be at peace with him” – (Prov. 16:13).  Tithing is a route to financial peace.  When you are at peace in your finances, your life will be a visible proof of peace – in health and in income.  Step and stay forward as you keep paying your tithe.  Welcome to the world of the wealthy!",
+        "prayer_focus": "Father, help me to resist all the negative promptings ordering me not to pay me tithe"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday, 14th November, 2022",
+        "topic": "REPENTANCE AND SALVATION IN CHRIST",
+        "text": "Luke 1:74-77 “That he would grant unto us that we, being delivered out of the hand of our enemies, might serve him without fear… vs 75 “In holiness and righteousness before him all the days of our life… Vs 77 “To give knowledge of salvation unto His people by the remission of our sins”.",
+        "introduction": "Repentance is the route to salvation in Christ.  Many people are of the illusion that since they received deliverance and began to serve God, they have as well been saved or obtained salvation.  It goes deeper than that.  Repentance is total withdrawal from sin; to enjoy full salvation in Christ.  Beloved, it is noteworthy that salvation speaks of total liberty.  It is a desire from God to set man free from sin and every satanic bondage.  Meanwhile, deliverance from attack or life’s challenges is just the beginning of a divine touch.  In this regard one delivered from troubles or pains has need to endear his or herself to God who has lots more to give in the package of salvation.",
+        "prayer_focus": "O God, as I repent of my sins, help me to stay connected to your watch."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday, 15th November, 2022",
+        "topic": "THE ORDER OF SALVATION",
+        "text": "Obadiah 1:17 - “But upon mount Zion shall be deliverance and there shall be holiness, and the house of Jacob shall possess their possessions”.",
+        "introduction": "Just like Lk 1:74 -77 pointed to deliverance before holiness and righteousness as a preferential procedure of salvation, one other scriptural text reveals this truth; Obadiah 17 confirms this saying, upon Mount Zion “that is God’s presence” there is first deliverance, then holiness and finally possessions or physical wealth for God’s people – House of Jacob. Brethren these things must not be otherwise preferred or placed against the scriptural order that would be our attempt to oppose divinity.  Realize that deliverance is first assured to settle individual state of mind, and holiness must be introduced to guarantee divine presence and acceptance. Note, as men under the bondage of sin, sickness and load of burdens can’t, in their trouble perceive or assimilate divine leading unto holiness, so likewise a man who is not safe can’t accommodate the possession or gifts of God.  He’ll either waste it or the possession destroys him.  When delivered, desire holiness before demanding possessions.",
+        "prayer_focus": "Oh God, help me to walk before you in holiness. "
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday, 16th November, 2022",
+        "topic": "A NEW WINE NOT IN AN OLD JAR!",
+        "text": "James 3:12 - “Can the fig tree, my brethren, bear olive berries? Either a vine, fig? so can no fountain both yield salt water and fresh”.",
+        "introduction": "At salvation, new life in Christ must be separated from old life of sin.  In respect to divine order, Jesus taught in parables that new things mixed with old ones can’t guarantee perfection or sustenance but often leads to total waste.  Is it a piece of new fabrics that is used to stich an old cloth or a new and fresh wine that is emptied into a stinking old container?  The result would be futile and worth regretting. It’s funny to see people introduce spiritual gifts, prosperity and divine power to unsafe souls and immature convert.  In plain speech an immoral, un-repented person cannot be boasting of being a spiritual tongue speaker, except maybe it’s such as Saul’s experience among the prophets (I Sam 10:11). Beloved, divinity and carnality can’t mix.  Don’t be deceived if you are delivered from sin and saved by God you will abhor even the sinful things. ",
+        "prayer_focus": "Lord Jesus, help me to live a life of transparency and not that of hypocrisy."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday, 17th November, 2022",
+        "topic": "THE WEIGHTIER MATTER OF SALVATION",
+        "text": "Matt. 6:33 - “But seek ye first the kingdom of God, and his righteousness, and all these things shall be added unto you”.",
+        "introduction": "Addiction to salvation as a priority equals addition of provision as a necessity.  The Bible is point blank on the issue of divine priority.  Our text places value on the kingdom and righteousness of God than all other things.  To be specific, what are the things? This is a question answered in Matt 23:31-32 which states that giving undue attention to food and clothing is the gentile (sinners) ways but believers should let God take care of that.  Living a justified life before God and man, applying mercy in ones dealing with others and being strong in faith are the attributes of righteousness expected to be prioritized above all other things by a believer.  Jesus called this the weightier matter.",
+        "prayer_focus": "O God, enable me to focus on your kingdom and take my eyes off the additions."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday, 18th November, 2022",
+        "topic": "HOLINESS A COMMAND AND COMPONENT OF SALVATION",
+        "text": "Levi. 19:2 - “Speak unto all the congregation of the children of Israel and say unto them, ye shall be holy for I the Lord your God am holy”.  1Peter 1:15 – “But as he which hath called you is holy, so be ye holy in all manner of conversation”.",
+        "introduction": "In scriptural viewpoint it is obvious both in new and old testaments that the call to holiness is more of a command than a demand.  Holiness is simply a life practice that someone stays away or is separated from what is known to offend God.  However, in our context we defined it as an expression of a man willing, proving a desire to please God.  Beloved, when God gives a command, even if its seem impossible, He is waiting to see an attempt by His people and He (God) is ready to grant such sincere attempt the grace; thus making it possible to overcome the most impossible task.  A command by God to be holy is not impossible, thus men like Job, Enoch, Lot etc had qualities link to holiness.",
+        "prayer_focus": "Father, as I obey the command to be holy, let me not stray from it along the way."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday, 19th November, 2022",
+        "topic": "RIGHTEOUSNESS A GIFT AND PART OF SALVATION",
+        "text": "Psalm 5:12 - “For thou, Lord, will bless the righteous; with favour wilt thou compass him with a shield”.",
+        "introduction": "Although righteousness is often juxtaposed with holiness, there’s still a thin line between both virtues in terms of variance.   Col. 3:6, James 2:23 and more scriptures confirm that it attracts favour. The belief that our father Abraham had in God was counted to him for righteousness. The life line and affairs of Abraham revealed that he made some mistakes that humanly would be counted as unrighteousness e.g. is accepting to sleep with his servant for the promise of a child God promised his wife.  The mystery can be revealed in the truth that righteousness is a gift from a gracious God to man who sincerely demand to please him.  Check this out, in Isa. 54:14-17 in its conclusion after God stated all the inheritance of his servant, He makes it clear that their righteousness is of Him.  When God sees a true desire of man to serve Him, He offers such righteousness.",
+        "prayer_focus": "Oh Lord, grant me the favour of being counted as righteous all the time."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday, 20th November, 2022",
+        "topic": "TRUE REPENTANCE SUSTAIN SALVATION",
+        "text": "Matt. 3:7-8 - “Then Peter said unto them, repent and be baptized every one of you in the name of Jesus Christ for the remission of sin and ye shall receive the gift of the Holy Ghost”.",
+        "introduction": "Total abstinence from sin can be regarded as true repentance.  This is an experience whereby everything in you and about you abhors or rejects sin in all its entirely.  You get committed in your heart and hands in pleasing God as well as in your thoughts and actions.  You say no to sin and sin knows that you’ll never be friendly with it. True repentance is secured when a person is free from sin by accepting Jesus Christ as his personal Lord and Saviour.  He is then compelled to live in holiness, propelled by the gift of righteousness to walk in the spirit of God unto righteousness.  Under the Abrahamic covenant, God justified men who abided by the covenant He had with them, from the Mosaic covenant men were justified by keeping of the laws, and  now is the Messianic dispensation where grace and with truth are the panacea for justification (John 1:17).  Grace and truth implies that though we do not depend on the law, we must not overlook the truth or sincerity in righteousness and holiness for only by this way salvation can be guaranteed. Moreover, although we are not justified by works, we are to work out our salvation with fear and (trembling Phi.2:12, Psm. 2:11).  From our key verse, it is evidence that repentance has visible fruit as John warn people to come with such for baptism.  ",
+        "prayer_focus": "O Lord, help me to get rid of sin in my thoughts and actions."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 21st November, 2022",
+        "topic": "UNDERSTANDING GOD’S LOVE 1",
+        "text": "Rom. 5:8 - “But God commendeth his love toward us, in that while we were yet sinners, Christ died for us”.",
+        "introduction": "God’s love is not a things but a nature.  The scripture spells it out in the message bible translation “while we were of no use whatever to him” God put His love on the line for us by the sacrifice of Jesus. That man, woman, brother or sister shouldn’t experience genuine love from you simply because he/she is useful to you; as a matter of truth, love should speak the language of usefulness when unconditionally demonstrated. 	You must understand that God’s love is all inclusive and totally accommodating.  Love is not genuine until it is void of evil and discrimination (Rom. 12:9-10)",
+        "prayer_focus": "Lord, I desire a deeper revelation of your love today."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 22nd November, 2022",
+        "topic": "UNDERSTANDING GOD’S LOVE 11",
+        "text": "Rom. 5:8, “But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us”.",
+        "introduction": "It may interest you to know that every believer who has genuinely surrendered his life to Jesus has entered into the journey and privilege of love forever.  You cannot exercise the nature of God until you practice the act of unconditional love because God is love and love is God. God’s love is unconditional only when you give out without expecting anything in return from the person.  Until you understand love, you don’t understand God (1John 4:8).  God’s love is that preferential treatment Christ gave to us while we were of no use whatever to him.  You too can give someone that preferential treatment as well.",
+        "prayer_focus": "Lord, by your spirit, shed your love abroad in my heart the more."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 23rd November, 2022",
+        "topic": "SOW LOVE",
+        "text": "Heb. 13:1 - “Let brotherly love continue”.",
+        "introduction": "Scripturally, love has the potential to accomplish a lot more than other spiritual qualities (1 Cor. 13:13).  True love manifests in the works it produces.  Love must be practically and unconditionally demonstrated not only verbally.  Your word only will achieve very little if love is not genuinely practiced. 	Every act of generosity or love shown to another is a seed to be harvested someday but the truth remains that you may never reap from the angles you sow it to.  One of the ways to sow love is by caring about other’s physical and spiritual well-being and sharing with them the good news of salvation. To be full of love is to be full of God.  God will never be seen in and through you until love is first seen and enjoyed through you.  Put love to work now practically and you will see amazing results.  Where there is genuine love, giving is inevitable.  A liberal man is not liberal because he has so much but he gives because he loves giving.",
+        "prayer_focus": "Lord, today I receive grace to put love to work"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 24th November, 2022",
+        "topic": "LOVE CAN BE REWARDED",
+        "text": "John 15:17 - “These things I command you, that ye love one another”.",
+        "introduction": "God has a mind-blowing reward for those who walk in love.  If you must enjoy the blessings reserved for the beloved of God, walk in love.  You are not going to be rewarded by only confessing love but by keeping this great command to walk in love practically and passionately. The best of God is enjoyed when His great command is kept.  God is love and has given us the privilege of experiencing His love nature through practical principles stated in His word.  It is not a sign of strength to get even with those who hurt you, you lose at the end.  Hatred, wrath, malice, grudge and bitterness is not a good pay back for any offense or hurt done to you but love counts no error. Love endures and overlooks any offence. If you must be rewarded by God before your world, you must walk in love.",
+        "prayer_focus": "Lord, forgive me for every practice that is not of love."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 25th November, 2022",
+        "topic": "THE POWER OF LOVE 1",
+        "text": "John 3:16 - “For God so loved the world, that he gave his only begotten son, that whoever believeth in him should not perish, but have everlasting life”.",
+        "introduction": "Love is the most powerful force on earth. Love is a potent spiritual force that can never fail.  The only thing God cannot do without is loving man because love is his nature, and the believer should as well strive not to do without love for the fellow man. It may interest you to know the truth that when there is no genuine love among us, the power of God cannot flow maximally (as it should flow) among us.  Every time you practice genuine love, you are simply demonstrating the power of God which enables us to love one another unreservedly. Love for one another is not an option but a command that validates one’s sonship in Christ.  It is the absence of genuine love that births jealousy, backbiting, backstabbing and gossip amongst people.   	The preaching of the gospel of Jesus Christ can only go a long way and make more impact on people if it is done in/with love.  Rise up today and be a channel of love to your world, you may be the only bible they will read every day",
+        "prayer_focus": "Lord, from today, I may I not only talk/preach about love, help me love as you do."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 26th November, 2022",
+        "topic": "UNDERSTANDING BROTHERLY LOVE",
+        "text": "1 John 3:16 - “Hereby perceive we the love of God, because he laid down his life for us, and we ought to lay down our lives for the brethren”.",
+        "introduction": "There is no limit to God’s love.  Loving one another is an essential part of Christian discipleship and pleasing the Lord. Brotherly love is the hallmark of spiritual maturity and an indicator of our oneness with Christ. Understanding brotherly love allows us to do what Christ did: He got down on that persons’ level and reach them.  The personal trait of brotherly love humbly puts others before you and it’s needed to prevent strife among brethren (Gen 13:8). Brotherly love will cause you to sacrifice yourself for others. People who sacrifice for others are often productive.  When you know and believe the love of God for you, that love overflows to those around you effortlessly. The greatest investment you can make to walk in brotherly love is to know and believe God’s love for you.",
+        "prayer_focus": "Lord, help me to manifest brotherly love the way you want henceforth."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday 27th November, 2022",
+        "topic": "COMPASSION TOWARDS ANOTHER",
+        "text": "Luke 10:33 (KJV) - “But a certain Samaritan, as he journeyed, came where he was; and when he saw him, He had compassion on him”.",
+        "introduction": "Addiction to compassion binds, maintains and flourishes relationships.  Who does not love or cherish compassion?  No one. Everyone loves compassion.  Compassion is that inner voice that keeps telling you to show love, care or help to somebody even when others don’t have the drive to do so. The Good Samaritan, not minding the unforeseen expenses that may come enroute his journey; he spared his time and spent his money to ensure that the man who was “half dead fully revived and recovered”.  I encourage you to be inspired to be of help to those who are in need.  It is never a lost rather it has a lot to pay you back as reward.  Compassion helps build up people’s faith.  It is to be made available to somebody even when he is not known.  This is the spirit of the Good Samaritan.",
+        "prayer_focus": "Oh Lord, baptize me with the spirit of compassion"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 28th, November, 2022",
+        "topic": "A VESSEL UNTO HONOUR – 1",
+        "text": "2 Timothy 2:21 – “If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use”.",
+        "introduction": "Becoming a vessel unto honour needs proper preparation called purging.  You need to be purged or freed from frivolities and impurities.  People who engage in pottery, now known as ceramics work, know better what it takes to have a very good, large and honoured vessel.  The miry clay is purged from all dirt, stains and rubbish.  It passes through different processes, including fire, before a desirable vessel can be produced and made ready for use. Similarly, God uses various ways to purge the Christian believer from filtiness of the flesh.  One way is physical discipline.  This involves staying away from secret sins and renouncing practices of dishonesty.  Today’s message is for those who desire to be used by God.  It means you must have given your life to Christ and continue to steer clear from evil. 	Prepare, pray, plan and work until God cleanses you from all defilements and makes you holy for sacred work.  For you to be used by God, you must be clean and free from sin.  Only clean vessels are vessels of honour.",
+        "prayer_focus": "Father, purge and cleanse me within and without."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 29th November, 2022",
+        "topic": "A VESSEL UNTO HONOUR – 2",
+        "text": " Isaiah 52:10-11 – “Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD” – verse 11.",
+        "introduction": "A Godly treasure is a vessel unto honour; he is whom God treasures.  For you to qualify for such ranking, placement and portfolio, you need to heed divine commands.  The command is: “Depart ye” from all iniquities and appearances of evil.  As you desire God to use you as the instrument of honour to glorify His name; you must stay clean and undefiled. “Touch no unclean thing means shun idolatry in all its ramifications.  You cannot serve two masters at a time.  You cannot serve God and idol at the same time.  You will honour one and despise the other.  Focus on God.  God is high above and sees your enemies. He knows how to make them turn their faces away from you and secure you from any danger ahead.  Consistently follow Him and He will make provisions available to you daily as He uses you.",
+        "prayer_focus": "Lord, I strongly rely on you to enable me depart from all appearances of evil."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 30th November, 2022",
+        "topic": "A VESSEL UNTO HONOUR – 3",
+        "text": "Isaiah 52:1 – “go ye out of the midst of her, be ye clean, that bear the vessels of the LORD”.",
+        "introduction": "Joseph was a vessel unto honour; what qualified him was the ability to flee from the grab and trap set for him by the wife of Potiphar.  Such traps are still there today and even tomorrow.  The divine counsel is: “go ye out of the midst of her”.  “Be ye clean” is a pointer to the decision to separate yourself from every amorous advances and disconnect from any immoral connections. The devil uses women to terminate the career of prospective vessels of honour.  Satan prompted Potiphar’s wife to woo Joseph to his wounding.  But God’s presence with Joseph never allowed that to happen.  Joseph was able to escape unscathed, unhurt.  Pray for the grace upon Joseph come upon you today. You are a man or woman on a mission, therefore, you must not allow confusion to envelop you.  You will brave through in Jesus Name.",
+        "prayer_focus": "Lord, deliver me from the prevailing evils of fornication and adultery."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 1st December, 2022",
+        "topic": "A VESSEL UNTO HONOUR – 4",
+        "text": "Isaiah 52:11 – “go ye out of the midst of her, be ye clean, that beareth vessels of the LORD”.",
+        "introduction": "We read yesterday that Joseph had conquered, though the temptation came on a serious note; yet he was able to break through.  Why! His focus was fixed on becoming a vessel unto honour.  His other secret was that he disciplines his eyes.  You must learn to discipline your eyes.  Let’s take a cue from Job: “I made a covenant with mine eyes; why then should I think upon a maid”. - (Job 31:1). This is another dimension.  Your eyes see a maid (beautiful woman) or a handsome man and you go away thinking about him/her.  What you allow in you thought can tease your mind out of thought of being a vessel unto honour.  It will not only stay and stain your memory; it will stir you to taking evil action or lead you into sinful habits that may eventually have terrible repercussions.   This is what befell Sampson and he slipped from being a vessel unto honour to becoming a grinder of the pepper in the market.",
+        "prayer_focus": "Father, I refuse to shift my focus from becoming a vessel unto honour."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 2nd December, 2022",
+        "topic": "A VESSEL UNTO HONOUR – 5",
+        "text": "1 Corinthians 10:14 – “Wherefore, my dearly beloved, flee from idolatry”.",
+        "introduction": "The world is so infiltrated nowadays with various guises and disguises of idolatry.  Idolatry practice simply refers to worshipping fetish god as against the Almighty God.  The fetish worshippers simply group themselves into a coded name “cult” or are called ‘cultists’ and they are everywhere.  You go into politics, they are there as stakeholders or elective position seekers and party-carrying members.  How does one brave through with Bible in hand and a strong drive to fulfill one’s political ambition or vision?  This is the challenge in the now! A small still voice keeps telling you and me, “Wherefore, my dearly beloved, flee from idolatry” (cultism).  Never to worry, the Holy Spirit will show you the way out. How? He will help you stay prayerful and reveal to you, meetings to attend, and the ones to avoid.  He will inform you of gatherings to put in your appearance and the ones to attend or be part of it by proxy (representative).  Rely on Him to enable you depart from all appearances of evil.  Yet, since He is still with you, He leads you to the winning level.",
+        "prayer_focus": "Holy Spirit, make intercession for me to overcome and escape all the tricks of the fetish class."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 3rd December, 2022",
+        "topic": "A VESSEL UNTO HONOUR – 6",
+        "text": "1 Cor. 10:14 – “…flee from idolatry”.",
+        "introduction": "A youth with a sound Christian faith background, left home for the University to study.  Family and friends were happy for his admission and excited about his accommodation in the hostel.  However, the parents gave him one instruction, “….flee from idolatry”.  He promised them he will, by the grace of God and help of the Holy Spirit. God knows what He will do; once you rely on Him to enable you depart from all appearance of evil and still maintain your status as a vessel unto honour.  The young man in the story got accommodated among cultists in the same hostel room. These roommates secretly held a meeting and sought to initiate him by force. Why?  They noticed that every morning he was always on his knees praying.  That gesture and action disturbed them and threatened their fetish acts and belief.  Their plans were revealed to this young man in the dream.  He called his Pastor and through intercessory prayer for him the “cult gang” disagreed among themselves and dropped the move to initiate the young man till they all graduated and left him in school.  They started calling him Pastor.  That’s how no other group bothered to disturb him.  There’s nothing prayer cannot do.  ",
+        "prayer_focus": "Oh God, deliver me from evil hands stronger than me."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday 4th December, 2022",
+        "topic": "A VESSEL UNTO HONOUR – 7",
+        "text": "Cor. 10:14 – “Wherefore, my dearly beloved, flee from idolatry”.",
+        "introduction": "God is love and love is of God.  If you’re conscious of the truth that you are the beloved of God and you intentionally love Him with your whole heart and with all your efforts, then you’re in for victory over all appearances of evil.  Love has a lifting power.  Love is capable of overturning evil impediments to give you joy and victory.  When love from God is in place for you, answers to your prayers cannot be in doubt. Proverb 16:7 says “when a man’s ways please the LORD, he maketh even his enemies to be at peace with him”.  Two things that pleases God and make Him happy with a person: When you love Him with your whole heart and when you strive to please Him especially with your prayer effort.  David, Daniel and Esther are examples.  Each of them dwelled in the midst of those who were not vessels of honour unto God yet they had contact with them but these three were not contaminated.  You can become same.",
+        "prayer_focus": "Oh God, though I mingle with unbelievers in the cause of my duty or career, let me not be equally yoked with them.  Rather let me win them over.  Thank you Jesus!"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 5th December, 2022",
+        "topic": "ONE WITH GOD – 1",
+        "text": "2 Samuel 8:6 – “Then David put garrisons of Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the Lord preserved David withersoever he went”.",
+        "introduction": "When you team up with God, you become unbeatable.  He gives you all-round success. When you do otherwise, defeat becomes inevitable.  The choice is yours. A man once observed the life of a new convert from secret cult, whose success in everything he did caused attraction.  He went into vehicle spare part sales, the business prospered while his colleague run into loses.  He then went into actual sales of new vehicles, his business prospered much more.  The man still in cult asked this cult-turned –Christian brother for the secret of his rapid business success. He revealed that it was God’s favour and faithfulness.   He added “since I repented of my sins, left cultism, and gave my life to Jesus, everything has changed concerning me, including my business performance. David, in today’s text, had special favour with God, succeeding where others failed.  What endeared David to God’s heart?  He put high premium on God’s word.  There is no other way to get God’s attention and have Him fight all battles for you than to be addicted to His word.  Are you on God’s side? One with God is better than one in cult.",
+        "prayer_focus": "Lord, give me victories over all enemies and preserve me."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 6th December, 2022",
+        "topic": "ONE WITH GOD – 2",
+        "text": "Esther 2:20 – “Esther had not yet shewed her kindred nor her people: as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him”.",
+        "introduction": "Sometimes, you can link with God through a mentor who gives you Godly counsel.  Always receive Godly counsel in all areas of life.  Doing so, will give you speed and keep you prosperous in life.  The truth is:  When you stand on the shoulders of others, through their Godly counsel, you fly even higher than them. Benjamin franklin said: “He that won’t be counseled can’t be helped”.  Esther seemed to have learnt this early in life.  She was an orphan, brought up by her uncle, Mordecai.  She was a beautiful girl, yet, submissive and obedient to him.  There is a lot to learn from Esther who later became First Lady in a foreign land.  Esther accepted good counsels and instructions from Mordecai and they helped her to become a Queen and to succeed in delivering the Israelites from extermination. Great plans fail without Godly counsels.  This is why King David always consulted with God before doing anything important, such as wars.  Do you accept Godly counsels and advice from your parents, mentors, friends and well-wishers, Pastors and teachers?  The greatest counselor, however, is Jesus.  He wants to instruct you in spiritual, moral, business, ministry, and family matters.  Tune to Him now.",
+        "prayer_focus": "Lord, make me submissive to you counsels."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 7th December, 2022",
+        "topic": "ONE WITH GOD – 3",
+        "text": "Romans 8:11 – “But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you”.",
+        "introduction": "Your spiritual quotient plays a role in enhancing your spiritual conquests.  What you conquer spiritually, gets conquered physically.  That’s why your level of endowment determines the quality of service you can render to God and man.  I  pray for you that God empowers you afresh daily for exploits and your light keep shining brightly. I am sure you know about Intelligence Quotient (IQ). There is something more important.  It is called Spiritual Quotient (SQ).  Though both are virtues and gifts, the difference between IQ and SQ has in the letter 1 in Intelligence and S in Spiritual.  People with very high IQ like Albert Einstein are normally very productive intellectually.  It is easy for them to achieve the dreams they are committed to.  It is the same thing Spiritual Quotient which begins when you give your life to Christ.  God’s righteousness through and the fruit of the Spirit become yours.  As you pray and receive other Christian experiences you become more empowered for exploits. You may ask: Do all Christians have the same SQ?  No! As it is with IQ, so it is with SQ.  All gifts –physical, mental or spiritual – come from God.  We are told in 1 Corinthians 12:11 that by the Holy Spirit, He gives to every man severally as he will!  You may not be as endowed as Peter or Paul but you can let your own light shine in your own corner.   Don’t let your SQ waste",
+        "prayer_focus": "Pray as led."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 8th December, 2022",
+        "topic": "ONE WITH GOD – 4",
+        "text": "Genesis 37:5 – “And Joseph dreamed a dream, and he told it to his brethren: and they hated him yet the more”.",
+        "introduction": "A dream will always take you to a realm in life and destiny if you devote your time and resources to realize it.  A dream not worth dying for is not worth living for.  Work on your dream and it will bring out your worth in life.  Good dreams let to good placements. John L. Mason said:  “All men who have achieved great things have been dreamers.  It may be that those how do most, dream most”.  Great dreamers in various nations have helped to move the world forward in various spheres such as science, medicine, education, technology, engineering and gospel ministry.  The world would have been very backward without dreamers.  Dreams make the dreamer and dreamers make the world go round. 	Our text shows how Joseph dreamed a dream, a God-given dream.  Not all dreams come from God; some emanate from Satan and the human mind.  Martin Luther King Junior’s famous” I have a dream” Changed America for good. What is your dream today?  Is it worth living for?  Jesus had the dream of redeeming lost humanity and it was fulfilled when He died on the cross for the redemption of Adam’s fallen race.  You too can dream a big dream.",
+        "prayer_focus": "Lord, help me to dream dreams and realize them. "
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 9th December, 2022",
+        "topic": "ONE WITH GOD – 5",
+        "text": "Titus 2:13 – “Looking for that blessed hope and glorious appearing of the great God and our Saviour Jesus Christ”.",
+        "introduction": "How we live matters.  Enoch lived a reputable life, forsaking pleasures and accepting the mockery of people.  He lived a life that God was proud of and as a result, he didn’t die a natural death because God took him alive. What does it actually mean to live a reputable life?  Living a reputable life entails a lot.  It’s more sacrifices, self-deprivation, especially for the pleasure of this present evil world so as to enjoy blessed eternal reward from our Saviour Jesus Christ. Joseph also forsook pleasures and resisted pressure from his master’s wife, he suffered for a crime he never committed yet he pleased God even with his life in this situation.  Just like I said earlier, to live a reputable life in expectation of our Lord and Saviour we have to suffer and deny ourselves pleasure that won’t last so we can attain external treasure, live a spotless life and wait patiently on the Lord, live your life as if He is coming that very minute for that’s the way to gain your eternal reward, live a Holy life.",
+        "prayer_focus": "Help me, O Lord, to live a reputable life."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 10th December, 2022",
+        "topic": "ONE WITH GOD – 6",
+        "text": "Proverbs 3:3 – “Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart”.",
+        "introduction": "Many parts of the human body, such as eyes, nose, hands, and legs, look identical.  Our text today presents mercy and truth as a couple that should not be separated.  Mercy brings favour while truth works honesty and openness.  Every believer wants mercy and favour.  To enjoy these, therefore, God demands truth from you as an individual.  Truthfully confess your sins, without covering them up before God and man. Don’t allow these virtues to miss you.  Give an honest report to your Pastor, leaders, parents and friends, even if it will earn you rebukes, for those who cover sin will not prosper. Truth and mercy will save you from sin and keep you on the Christian track.  Be a Godly and truthful child of God and you will have abundance of favour.  The Lord is an embodiment of mercy and truth. Accept Him and all will be well with you.",
+        "prayer_focus": "Lord, as I hold to truth let me reap your mercy."
     },
     {
-        "date": "",
+        "date": "Sunday 11th December, 2022",
         "topic": "",
         "text": "",
         "introduction": "",
