@@ -1,4 +1,5 @@
- export const devotional =[
+export const devotional = [
+//  july
      {
          "date":"Friday, 1st July, 2022", 
          "topic":"THE LORD IS YOUR STRENGTH",
@@ -216,382 +217,384 @@
          "introduction": "Laying on of hands speaks of impartations.  Without impartation, you can’t enjoy manifestations.   Even in Church, wait for impartation.  Be properly released, don’t release yourself or go before service is over. When hand is laid, speed is shared, grace is released and the person whom hand is laid is empowered to feel strong and do well.  Heaven is committed to back his assignment such that his work will be admired.  As he is accepted as the beloved by God, so will no man be permitted to harm him on earth.  If he is attacked, God will be the one to counter the attack by Himself.  These are the procedure and condition for sending away a minister into the preaching ministry.  Paul and Barnabas were thus equipped, that’s why they succeeded in the work and no evil could conquer them in the Lord.  May those going into Gospel Ministry this year be likewise equipped and inspired.",
          "prayer_focus": "O God, let our fasting and intercession help our Ministers to keep climbing up in Spiritual Growth."
      },
+    //  august
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Monday 1st August, 2022", 
+         "topic": "TOPIC: HELP IS RECIPROCAL – 1",
+         "text": "1 King 17:8-14, “And Elijah said unto her, fear not; go and do as thou hast said but make me thereof a little cake first, and bring it unto me, and after make for thee and thy son”. – verse 13",
+         "introduction": "Everybody in human life is loaded with one problem or the other.  Because of this, help should be seen as a divine prompting to lift evident burden away from human lives around us.  By this prompting, God gives everybody the ability to help one another, one way or the other. As you help others, you are indirectly helping yourself.  Help is reciprocal.  The widow of Zarephath helped Elijah get a meal, doing so she helped herself to provoke God to supply back to her as long as she kept doing so to the man of God.  That exactly is what happens on daily basis; such that for 3 years and six months, they knew no lack. Reason with me, when you help someone provide the supply, you indirectly apply for more of God’s supply back to you.  There’s no loss with God.  You can’t lose out helping someone.  So, help is gain; help is reciprocal.  Both sides benefit.  The common denominator is obedience.  When obedience is in place, God performs on His part.",
+         "prayer_focus": " O God, help me to obey your promptings to help others, so that I too should be helped by others."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 2nd August, 2022", 
+         "topic": "HELP IS RECIPROCAL – 2",
+         "text": "I Kings 17:8-14, “And Elijah said unto her, fear not; go and do as thou hast said but make me thereof a little cake first, and bring it unto me, and after make for thee and they son”. – verse 13",
+         "introduction": "Like it was said yesterday, when you do good to someone, God Himself reciprocates good back to you. Obedience is key; but fear fights obedience. Fear does not allow people to do as they said.  It makes them feel if I do, I will fall into lack, short supply or utterly loose out.  That is not true! Elijah told the woman; “fear not; go and do as thou hast said”.  Promise and fail syndrome came up as a result of not being able to do as they had said.  Reason is fear. The devil uses fear (false evidence appearing real) to stop people from enjoying the free flow of the blessings from God.  This is the reason why there’s so much lack in the Church and in the world.  Child of God, may this lesson open your eyes today.  Helping others is the way out from escaping lack and attracting help to yourself.   Help is a seed.  Matt. 7:12 says “Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets”.  Help reciprocates when you initiate it or respond to a demand for it.  Help somebody today, help will visit you tomorrow.",
+         "prayer_focus": "Lord, remove fear from me when it’s time to be of help to somebody."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 3rd August, 2022", 
+         "topic": "HELP IS RECIPROCAL – 3",
+         "text": "1 Kings 17:8-14, “…but make me thereof a little cake first, and bring it unto me and after make for thee and they son”. – verse 13",
+         "introduction": "Every person you help has a divine deposit of blessing in him or her to be released to you for the help rendered.  It can be released by a prayer of God bless you or a word of thank you and an action of a smile.  Any of these will translate into good returning to you.  Check if the release were to be in the reverse, you will see that it will result in bad omen. It pays to help, doing so is creating site for help to spring up and back to you.  Meaning, the more help you give to people, the more God will arrange same or other people to give to you.  It comes as a harvest.  Harvest is always much more.  Put one seed of corn in the soil, what you get as harvest is fifty seeds and above.  Help is a spiritual business transaction that yields unfailing dividends in the physical and spiritual. A man gave money to an applicant in the Church one day.  The boy smiled and said God will make you smile sir.  The man said Amen.  Unknown to both of them that God had confirmed that prayer.  A day came, this man’s son went to collect his result from school to apply for a job, while arranging his papers inside a taxi, another man next to him asked who owns this result and he said it was his. The man said we are looking for someone like you to employ in our office.  In the process, the applicant boy in the taxi got employed. He took the letter of appointment smiling to his father.  As the father smiled back, he remembered the prayer said to him by that applicant in the Church.",
+         "prayer_focus": "O God, what I make happen to others for good, let it happen to me."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 4th August, 2022", 
+         "topic": "HELP IS RECIPROCAL – 4",
+         "text": "1 Kings 17:8-14, “… but make me thereof a little….” Verse 13",
+         "introduction": "When help faces a threat, there’s a “but” to consider.  God instructed Elijah” I have commanded a widow there to sustain thee” (verse 9).   To “sustain thee” speaks of many days, months and year’s meal and not a one-time meal.  In his heart, he knew that God will sustain her and him no matter how small the meal may be.  He remembered, still in his heart, that God had used the Ravens to sustain him by the brook (verse 3). Elijah using the word “but” in the text above was on a positive note.  He considered if she made a little meal for him first, God was going to use that to provoke multiple supplies of the meal into the woman’s pot for many days and as long as the famine will last.  The brook dried because God wanted to shift the supply from the Ravens to feed Elijah to the house of this widow.  God will shift supplies from other people to you and your household in this present economic climate. “But make me thereof a little”. Her obedience to Elijah’s demand provoked God to supply to her needs and demands in the years that went by. Pastor Dr. Mike Murdock said: “what you make happen to somebody, God will make happen to you”.  There’s a covenant of multiplication in place for whoever gives to a man of God.  The widow accessed it by obedience, what about you?",
+         "prayer_focus": "As I provide for others, let that provoke the covenant of multiplication upon my provisions from God."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Friday 5th August, 2022", 
+         "topic": "HELP IS RECIPROCAL – 5",
+         "text": "1 Kings 17:8-14, “but make me thereof a little”. – verse 13",
+         "introduction": "No matter how little your resources may be, there’s still a little you can help somebody with so as to provoke multiplication back to you.Faith runs down fear.When you release that your little by faith, God will be fair to you by causing the grace of multiplication to rest on your resources and treasury.Let’s assume the widow had given Elijah 60%, took 25% and gave her son 15% of the meal, God was still going to multiply to each of them in that ratio 12: 5: 3.  The principle is that help coming to you is directly proportional to the help accruing to others from you.Then, it progresses to yield increase still to you because its coming as an harvest.Elijah helped the widow as a channel of provision coming to her.Her son was a channel of blessing of the fruit of the woman that came to her.She was an activator of divine provisions to the family.So, mutual help was operating between them.What really happened in the Zarephath of Zidon was that, God arranged His glory to come into the house of the widow whereas there was gloom in the city.Isaiah 60: 1, 2 – “Arise, Shine; for thy light is come, and the glory of the LORD is risen upon thee(22) “A little one shall become a thousand and a small one a strong nation: I the LORD will hasten it in his time”.That means, each time a man of God enters your house, God’s glory will fill that house; as you make provision available for him, God commands the grace of multiplication to rest upon your house and resources in the time you do that.Help is coming for you!",
+         "prayer_focus": "Lord, cause my multiplication to reset my life and destiny as I help others.  "
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Saturday 6th August, 2022", 
+         "topic": "HELP IS RECIPROCAL - 6",
+         "text": "Matt. 7:12 – “Therefore all things whatsoever ye would that men should do to you, do ye even so to them; for this is the law and the prophet”.",
+         "introduction": "With church as the audience, when you help you Pastor meet his needs, his prayers will meet all your needs.  It goes without saying.  It happens without prompting.  Help is reciprocal!  As you rub one’s back, the person’s back will also rub your hand. What you do for others, others will also do for you.  It may not necessary be the people you directly do things for or to them.  This is one principle that can never fail or fade.  It is a prophecy that will always come to pass.  It is a prophetic declaration that can never leave your life in a pathetic condition.  Help is reciprocal! What a wife does to help the husband is what prompts the husband do things to help her.  This is one law that sponsors love and mutual co-existence.   This is the prophecy, God Himself highlighted: “I will make him an help meet for him” (Gen. 2:18b).  Without prayers as you help people, people will help you.",
+         "prayer_focus": "  Lord, help me to constantly be of help to others."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Sunday 7th August, 2022", 
+         "topic": "HELP IS RECIPROCAL - 7",
+         "text": "Prov. 11:25 – “And he that watereth shall be watered also himself”.",
+         "introduction": "Ignorance is a disease.  If some people know that when they do evil to someone evil will befall them; I think they wouldn’t do evil to anyone. Life reciprocates whatever you do to others back to you, good or bad.  Some diseases or pains people go through were because of the hurt or injury they did on people; it could be physical or psychological.  Or it could have been diabolically done. This week’s devotional is meant to solve the problem of bringing harm, instead of help on people.  Doing good to others, does good to you.  When you use your hand to scoop water and bath your child, water will also wash your hands.  Help is never a one-sided affair.  Help is always interchangeably.  No one loses out helping the other person. I remember washing the car for my Auntie’s husband every day, years back.  One day he came out to see the car very clean, he smiled excitedly and said: you will have your own car and people will wash it for you voluntarily.  Few years later, I took my first car to show to him.  He reminded me of this prayer and prophecy to me.  “He that watereth shall be watered also himself.",
+         "prayer_focus": "Thank you Jesus, for as I help someone today, help is waiting for me tomorrow. "
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Monday 8th August, 2022", 
+         "topic": "BE PROFITABLE TO YOURSELF",
+         "text": "Job 22:2, “Can a man be profitable to God, though he who is wise may be profitable to himself”.",
+         "introduction": "It is not out of place to access ourselves if we are truly profitable to ourselves. This we do if we update ourselves so that we can be of benefit to others.  Meaning, when you are profitable to others, you are indirectly profitable to yourself. This expresses wisdom. The above text enlightens us that it is only wise men that can be profitable to themselves.  That means fools can never be profitable to themselves.   Who are the fools?  Those who say there is no God. This is from one perspective while the wise ones are those that fears God. The fear of the Lord is the beginning of wisdom. Moreover, Eccl. 4: 5 put it very clearly that “The fool folds his hands and consumes his own flesh.A fool is a waster to his own self and life.In essence, this means that no one can be profitable to other persons, if he is not profitable to himself.Wisdom is profitable to direct.To be profitable to yourself is a great gain.",
+         "prayer_focus": "I pray God not to be a fool in this life."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 9th August, 2022", 
+         "topic": "BE PROFITABLE TO YOUR NEIGHBOURS",
+         "text": "Romans 15:2, “Let everyone of us please his neighbour for his good to edification”.",
+         "introduction": "To be profitable to our neighbours is to be good to others and this is what God strongly desires from us.  He demonstrated this by creating man in His image and likeness.  This is so important to God and He says when you do it for this little one of mine, you do for me (Matt 25:40). Most people are cat and dog with their neighbours and yet claiming to be believers. Being a believer and yet you are not profitable to your neighbours qualifies you to be an unbeliever.  This shows you are not a Good Samaritan as demonstrated in Luke 10:25-37.   From this man’s story, the Priest and the Levite were not regarded as good, but the man from Samaria showed compassion to the man who was in danger and was regarded as a Good Samaritan.",
+         "prayer_focus": " I pray that nothing should make us not to live up to our name as believers."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 10th August, 2022", 
+         "topic": "PROFITABILITY VERSUS FRUITFULLNESS",
+         "text": " John 15:2. “Every branch in me that does not bear fruit He takes away; and every branch that bears fruit He prunes, that it may bear more fruit”.",
+         "introduction": "Your fruitfulness is shown and known by your profitability to others.  God expunges those who are not profitable to others from the list of those useful to Him. Profit is the main reason why someone ventures into a particular business no matter how risky it might be.  Likewise, fruit is the obvious reason for planting a particular tree. It is therefore a very sad thing for any business plan to come short of the expectation from the business owner. Fulfilling your purpose is God’s business plan. If a man refuses to be profitable or fruitful, such man is most miserable, because he will always stand among useless men and God can never identify Himself with him.",
+         "prayer_focus": "Oh Lord, may I receive the auction to be profitable/fruitful in my life."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 11th August, 2022", 
+         "topic": "BE PROFITABLE TO YOUR GENERATION",
+         "text": "Genesis 26:4, “And I will make your descendants multiply as the stars of Heaven; I will give to your descendants all the lands:  And in your seed all the nations of the earth shall be blessed”.",
+         "introduction": "It is one thing for a person to belong to a certain generation, but the most important thing is the legacy he/she leaves behind, meaning that you should strive to be profitable to your generation. This is what will keep you in people’s memory when you are long gone or are you just coming to exist in your generation without adding any meaningful value to it?  That will be too bad! Note that in the generation of Adam and Eve, they only succeeded in destroying the garden of  Eden thereby making God to be at a loss rather than being profitable.In the generation of Noah only eight people were profitable to God and the rest of them were unprofitable.In the era of Abraham, Isaac and Jacob, they and their seed were a blessing to all nations of the earth.What about you? What will be remembered about you?",
+         "prayer_focus": "O Lord God, help me to leave behind a glaring legacy for my generation and generation yet unborn"
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Friday 12th August, 2022 ", 
+         "topic": "BE PROFITABLE TO YOUR ORGANIZATION (CHURCH)",
+         "text": "Luke 7:5, “For he loves our nation, and had built us a synagogue”.",
+        "introduction": "In every organization, there are always expectations from members but it’s always disheartening if the expectations of the organization are cut-off by those who should be profitable to it. In the church, which is the body of Christ, one is expected to carry out his/ her given responsibility as endowed by God; particularly winning the lost souls from the kingdom of darkness to the kingdom of light which  is the heart beat of God.It is worth saying here that the worst barrenness is not the inability to beget children but the inability to win a soul for Christ, because even when you are able to bear children and you cannot win souls for Christ, you are most miserable; you are still barren in the sight of God.Therefore in this kingdom race, let us use our gift to be a blessing to God and man.",
+         "prayer_focus": " Lord, give me the grace to be spiritually fruitful and profitable to you."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Saturday 13th August, 2022", 
+         "topic": "BE PROFITABLE TO YOUR SOCIETY",
+         "text": "Prov. 18:16, “A man’s gift makes room for Him…”",
+         "introduction": "Everyone is endowed with talents to be a blessing to the society (village, Local Government Area, State and Nation). A typical case study is the story of Joseph in Egypt.  God blessed him with the ability to interpret dreams.  He used this talent with a few people around him and later became a national blessing to the whole nation of Egypt and other nations of the world when famine struck the land.  Because of this, He was made a governor of Egypt.  This is what made him to be profitable to the society of his time. Note that there is no gift that is Superior to the other. All we need is to identify our God given talent/gift, put it to service diligently. We will be blessed like no other.  Don’t bury/look down on your talent, it shall be profitable for you one day.   That is why Eccl. 9:10  states that, WHATEVER YOU FIND TO DO WITH YOUR  hands, do it with all your might…; because to every labour (fruitful), there is a profit as in Prov. 14:23.",
+         "prayer_focus": "Oh Lord, may I not just be but a blessing to a locality. Help me to impact lives globally."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Sunday 14th August, 2022", 
+         "topic": "BE PROFITABLE TO YOUR FAMILY ",
+         "text": "1 Tim 5:8 “But if any provide not for his own and specially for those of his     own house, He hath denied the faith, and is worse than an infidel”.",
+         "introduction": "God wants you to be profitable to your family (your wife, your husband, children, your father, your mother, brothers and sisters, uncles, cousins and extended members of the family); Failure to do so the scripture states that you are worse than an infidel.  You are making contrary to your faith. This is very true, that in some families there is absence of fatherism; in some, the husband does not enjoy the essence of a wife as a help meet(number one destiny helper) that God gave to man and vice versa.In some, the parents don’t see the profit from the children though they are blessed but glory to God for a man like Joseph in Egypt who became a blessing to his family, not minding how he was treated by them.We should also emulate Queen Esther who did not neglect her family when she became the queen in the palace but saved their lives from destruction, Esther 4: 1 - 17; Esther 5: 1 - 14.",
+         "prayer_focus": "Oh Lord, may I not only be fruitful to myself and neglect the family."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Monday 15th August, 2022", 
+         "topic": "Test of Obedience 1",
+         "text": "Deut. 8:2, “You shall remember that the Lord your God led you all the way   these forty years in the wilderness, to humble you and test you, to know what was in your heart, whether you would keep His Commandments or Not”.",
+         "introduction": "Beloved, it is pertinent to put it clear that, we are living in the world that spins on the wheels of obedience.It is lack of knowledge that leads many into doom.This is because the world that we live has physical, spiritual, natural and Supernatural laws and principles that must be obeyed for things to work perfectly well.One might be surprised here, to know that God is the most obedient person in existence, that is why God’s things are always perfect and the reason God is a perfect being.He obeys Himself(Num. 23: 19) as such, whoever wants to have dealings with God and enjoy His blessings must be ready to obey the laws, the commandments, the statutes and precepts of life.Since the blessings of God are not for the disobedient, therefore, as many that really want to swim, run, dwell, fly in the blessings of God must know that they will be tested and proven on the level of their obedience to God.",
+         "prayer_focus": "Oh Lord, may I obey you at all times."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 16th August, 2022", 
+         "topic": "A TEST OF OBEDIENCE II",
+         "text": "Gen. 2:15-17, “Then the Lord God took the man and put him in the Garden of Eden to tend and keep it. And the Lord God commanded the man, saying, of every tree of the Garden you may freely eat.  But of the tree of knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die”.",
+         "introduction": "Our first Parents, Adam and Eve were tested on their obedience to God as seen in the above text but it was so surprising that, though God expressly told them of the consequences of eating the forbidden fruit, they still did not eat the fruit of life first, but rather preferred to eat the forbidden fruit which is the reason of the present suffering mankind is going through. Today, many people can blame Adam and Eve as the cause of what we are passing through in life. The truth is that even if we were to be Adam and Eve, we would have done the same thing, even worse than what they did.  If we say, we would have not; how many of those things that God told Adam and Eve not to do that we strictly shun, so that we can prove to God that we would have not done what Adam and Eve did? Above all, let us know that whatever God told Adam and Eve not to do is still applicable to us as in Mark 13: 37. So if Adam and Eve were tested of their obedience, know that we are all passing through the same test every day.If Adam and Eve had failed God, why wouldn’t we make God proud of us by obeying His words as Christ says in John 8: 51 - 52",
+         "prayer_focus": "Oh Lord, may I not disappoint you in my generation."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 17th August, 2022", 
+         "topic": "A TEST OF OBEDIENCE III",
+         "text": "Judges 13:5, “For behold, you shall conceive and bear a Son.  And no razor shall come upon his head, for the child shall be a Nazarite to God from the womb; and he shall begin to deliver Israel out of the hand of the Philistines”",
+         "introduction": "Samson was a warrior that could stand alone and fight a whole nation successfully, provided no razor touches or shaves hairs on his head.  But one day, his obedience to this instruction was tested when Delilah asked him to show her where his great strength lies. The surprising thing was that the parents of Samson were able to obey what God said concerning the hidden power in Samson, but Samson could not keep the simple instructions.  He showed the secret of his power to Delilah and was doomed; because Delilah shaved his hair and he lost the power. Beloved, how do you keep the instructions of God so that you can save yourself from being doomed. Disobedience therefore is the sharpest razor that can shave God’s blessing from His people.",
+         "prayer_focus": "Holy Spirit, please I need your help, deliver me from the spirit of flippancy."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 18th August 2022", 
+         "topic": "THE PLACE OF OBEDIENCE AND THE PROMISED LAND",
+         "text": " Duet. 8:1, “Every commandment which I command you today you must be careful to observe, that you may live and multiply, and go in and possess the land of which the Lord swore to your fathers”.",
+         "introduction": "Jesus went to heaven and promised that He shall return to take us to where He stays as seen in John 14:1-3.  This is to remind of us as He set the land of milk and honey before the Israelites of Old. As the Israelites(Believers) of this dispensation, note that the condition for entering the promise land(Heaven) is by obedience to the word of God, and not the words, the ideas and the philosophies of men.A very good case study is Moses.He was destined to be the one that will lead the Israelites to the promise land, but one day God ordered him to do so as in Deut. 1: 6 - 8, but people went and suggested to him that he should send spies to go and spy the land, instead of everybody going in one accord.The words of men were pleasant to his ears than the word of God.That was how Moses missed the Promised Land.This is where we all have to examine ourselves sincerely, to know whose word we choose to live with.Is it the word of God or men? It was in the same manner that Adam and Eve missed the Garden of Eden because of listening to the Serpent and refused to obey God.Whose word do you live with? Examine yourself.Peter said, we ought to obey God rather than men(Acts 5:29).",
+         "prayer_focus": "Oh Lord, may I keep to your instructions till I enter the promise land."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Friday 19th August 2022", 
+         "topic": "A TEST OF OBEDIENCE IV",
+         "text": "Dan. 11:32, “Those who do wickedly against the covenant he shall corrupt   flattery; But the people who know their God shall be strong and carry out great  exploit”",
+         "introduction": "One day, the obedience of the three Hebrews were tested when King Nebuchadnezzar commanded them to bow before his golden image but the Hebrew boys refused because they remembered that the Almighty God had commanded that no one should bow to any graven image as in Ex. 20:1-5.  The Hebrew boys did not mind the threat of the King because they knew their God and what He can do, to confirm what Dan 11:32b says, “But the people who know their God shall be strong and carryout  great exploits. The question is. How do you obey God even in the midst of threat like it happened to Shadrach, Meshach and Abednego?  Would you still remember that whoever that wants to save his life shall lose it (Mark 8:35) or you would love to please men by disobeying God? The Good news is that, because the Hebrew boys feared God and disobeyed men; God made them to be promoted above all those that reported them to the King.",
+         "prayer_focus": "Oh Lord, may I not deny you at any given time because of the threat of men."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Saturday 20th August 2022", 
+         "topic": "TEST OF OBEDIENCE V",
+         "text": "Deut. 28:13, “And the Lord will make you the head and not the tail; you shall be  above only, and not be beneath, if you heed the commandments of the Lord your God, which I command you today, and are careful to observe them”.",
+         "introduction": "God actually showed Joseph that he would be a reputable leader as in Gen. 37: 5-11.  But before this came to pass, God tested his obedience.  As handsome as Joseph was, his master’s wife cast lusting eyes on him and asked Joseph to lie with her, but Joseph quickly refused.  If Joseph had failed that test of obedience, his dreams of greatness would have ended or failed and he would have blamed witches and wizards for being responsible for his failure. Examine yourself today; how many times have you damned the consequence of disobedience and continue to indulge in what God had strongly warned you not to do and thereafter blame everybody/everything for being responsible for your failure. The truth is that obedience is the sure way to your greatness or success in life.",
+         "prayer_focus": "Oh Lord, may I not fail you in my generation."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Sunday 21th August, 2022", 
+         "topic": "TEST OF OBEDIENCE VI",
+         "text": "John 15:22, “They would not be guilty if I had not come and spoken to them, but now they have no excuse for their sin”.",
+        "introduction": "It is pertinent to highlight here that every person should know that there is a test of obedience to everyone that exists on earth. The test began with Adam and Eve to Jesus Christ and to generations to come. When Jesus came to the world, He was tested severally.  One day after Jesus fasted and prayed the Devil took Him up to a high mountain and showed Him all the kingdoms of the world and their glory, the Devil said to Him, “All these things I will give you if you will fall down and worship me”. But Jesus said to him, “away with you, Satan! For it is written, you shall worship the Lord your God; and Him only you shall serve” (Matt 4: 1 - 11).How many of us would be bold enough to stand against the conditional demands that are baneful in our community ? When they say, you must sacrifice goat for your first and second daughter before you give her hand in marriage and all other traditional demands which are against God; would you fear God and resist the devil or you would fear man and be ready to disobey God; know that Jesus was 100 % spirit and 100 % flesh, but yet He was able to resist the devil, we have no more excuses to give, but to obey.",
+         "prayer_focus": "Lord Jesus, I pray to become your model here on earth."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "MONDAY 22nd August, 2022", 
+         "topic": "HUMILITY: A KEY TO A SUCCESSFUL WALKING WITH GOD.",
+         "text": "Micah 6:8 – “He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God”.",
+         "introduction": "Humility is a key principle to a successful walking with God, looking at the Bible you will see two set of people. And these include: • Those who successfully walk with God to the end.  • Those who fail on the way.  Those who succeeded did so because they exhibited the attitude of humility which they adhered to. Humility is the foundation of obedience. It takes humility to obey God despite how unpleasant the situation might be.  Without humility it is impossible to successfully walk with God, that's why he resist the proud but giveth grace to the humble. Many Kings fail because at a point humility disappears from their heart and pride takes over and from that moment they become the enemy of God. Pride causes one to rebel against God but Humility helps in walking successfully with God .",
+         "prayer_focus": "Lord, grant unto me a humble heart to successfully walk with you Amen"
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 23rd August, 2022", 
+         "topic": "HUMILITY: A KEY TO HONOUR",
+         "text": "Proverbs 15:33 “The fear of the LORD is the instruction of wisdom; and before honour is humility”.",
+         "introduction": "Most times we make this mistake of trying to place ourselves to be honoured without been clothed with humility. Before honour is humility. It is the level of our humility that determines the level of our honour.  Humility is the only sure way of getting honour without bribe. It is often said give honour to whom honour is due” considering this short sentence we must therefore examine ourselves with this question; “The honour I am looking for am I due for it ? Many desire to be honoured but do not desire to be humble.Humility gives honour and also sustains it.Jesus who is our perfect example never look for honour first rather, he practiced humility by obeying His father  and that resulted in him being crown LORD OF LORD'S.  See Prov. 29:23 (Amp) “A man’s pride will bring him low, but he who is of a humble spirit will obtain honor”.  Beloved note this secret quality of getting honour today and see yourself swimming in the pool of Honour.",
+         "prayer_focus": "Lord, open unto me the doors of honour as I practice humility today Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 24th August 2022", 
+         "topic": "HUMILITY: A KEY TO ABUNDANCE GRACE ",
+         "text": "James 4:6 - “But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble”.",
+         "introduction": "Dearly beloved it is very essential to know that grace is available to all but it is in abundance unto men of humility.  Humility is a magnet that attracts abundant grace and also a key for sustenance.  Many have fallen from top to bottom while others have been lifted from bottom to top. “He resisted the proud but giveth grace to the humble. A proud man is an enemy with God; grace does not pamper pride, so be humble and enjoy aboundant grace. Grace from God makes work easier; it connects one to Kings and queens. Grace aligns one with the will of God and Humility is the key. ",
+         "prayer_focus": "Lord, help me to stay humble that i may enjoy abundant grace Amen"
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 25th August, 2022", 
+         "topic": "HUMILITY: A KEY TO VICTORY:",
+         "text": "Romans 12:3 “For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith”.",
+        "introduction": "There is a possibility for anyone to be victorious in life if humility becomes his or her lifestyle. Humility is the attitude of God and as His dear children He is looking forward to us to display His character here on earth in order to gain victory over the world.Our scripture today admonished us not to think of ourselves more highly than we ought.This is a call to a deeper life of humility which results to victory in life, business, ministry etc.Many have lost their victory simply because of their high- minded, pomposity, disobedience to order.No soldier is permitted to pull the trigger in a war front until the commander commands him to do so.It takes humility to wait for the commander’s order despite how close the enemy is.Indeed humility is a key to victory this is the key David used and became the Apple of God's eye that's why there's no battle David will embark on without victory.  Friends, humility is the code.",
+         "prayer_focus": "Lord, help me to be clothed with humility that I may be victorious in life Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Friday 26th August, 2022", 
+         "topic": "HUMILITY: A KEY TO UPLIFTMENT",
+         "text": "Luke 18:14 - “I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted”.",
+         "introduction": "Our text has proven that humility is a key to upliftment, every human desire to be exalted but very few understand that humility is the sure ladder to upliftment. Two men went to God in prayer; one a Pharisee, the other a publican but unfortunately only the Publican went home with the answers to his prayers because he understood humility as the key to answered prayers, while the Pharisee who was high-minded trusted in his chariot and horses and his prayers were not answered. This therefore teaches us that in order for us to be exalted we must lower ourselves. 1 Peter 5:6 “Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time”: Friend, even after David was anointed as the next king, he still went back to the bush and continue taking care of the sheep. Don't be anxious for high position but be anxious of humility and you will see the seat of Honour running to you in a haste.",
+         "prayer_focus": "Lord, separate me from everything that will stir-up pride in me Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Saturday 27th August 2022", 
+         "topic": "HUMILITY: A KEY TO CONTINUAL USEFULNESS",
+         "text": "James 4:10, “Humble yourselves in the sight of the Lord, and he shall lift you up”. ",
+         "introduction": "Many prominent persons become irrelevant simply because at a point in life, Pride takes over them, they esteem themselves more than others. The applause, Praise and hailing of men spur them up making them feel more important than others. Hmm, friend's it is sad that the end is always shameful. Pride is a killer of glorious destiny, it is a force that separate one from God but Humility is a key to continual usefulness.  In order to be continually useful, humility must be a life style. Any young person can wine and dine with Kings if he or she is clothed with humility.  John Osteen said, “Humility is the secret to continual usefulness in the kingdom of God”. We need to be conscious of this secret of continual usefulness. For us to continue being a vessel unto honour we must humble ourselves in the sight of God.",
+         "prayer_focus": "Lord, help me to be humble that I may be continually useful Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Sunday 28th August, 2022", 
+         "topic": "HUMILITY: A KEY TO A SUPERNATURAL POWER OF GOD ",
+         "text": "NUMBERS 12:3(NLT) “Now Moses was very humble—more humble than any other person on earth”.",
+         "introduction": "Any person can act supernaturally with the help of God and by staying humble. It takes humility to access the secret place of God. The man Moses became superhuman at some point because the presence of God was with him. Humility draws the presence of God to man and helps one to function beyond the natural into supernatural.  John Osteen quote “The man who lives a life of humility is the man who will walk in the supernatural power of God” The Bible recommended Moses as the most humble man on Earth. That's why when Aaron and Miriam spoke ill of Moses, the burning anger of God fell upon them. Humility makes one to become the Beloved of God and open the way towards enjoying the supernatural power of God. Do you want to function supernaturally then be clothed with humility in all ramifications and see God manifesting Himself in your Life.  A humble man enjoys abundance of God's power. Again, be the Moses of this age with the habit of humility and Pharaoh will kneel before you. God bless you.",
+         "prayer_focus": "Lord, cause pride to die in me and help me to enjoy your supernatural power Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Monday 29th August, 2022", 
+         "topic": "GOD IN THE SPIRIT",
+         "text": "John 4:23-24, “But the hour cometh, and now is, when the true worshipers shall Worship the father in spirit and in truth: for the father seeketh such to worship Him.God is Spirit and they that worship Him must worship Him in Spirit and in truth”.",
+        "introduction": "Beloved in Christ welcome to a new week, any service not rendered according to spiritual leading is a service not rendered effectively.No man after the flesh can serve effectively because spiritual things are carnal to human sense(1 Cor. 1: 18).Jesus knew He was about leaving this earth, He said to the disciples “When, the Holy.Spirit comes, He shall teach you all things” (John 14: 26).A man in the flesh cannot serve God beyond the lay - down rules and principles.Note: it will take a man with spiritual understanding going to church on a Sunday or any church service to help anyone in distress while he / she is late for church service.The Good Samaritan tarried - over night to serve a soul. (Luke 10: 25 - 37) ",
+         "prayer_focus": "Holy Spirit I surrender my will and thought take the lead."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 30th August, 2022", 
+         "topic": "SERVICE DEMAND SINCERITY",
+         "text": "I Cor. 4:1, “Let a man so account of us, as of the ministers of Christ, and steward of the mysteries of God.  Moreover, it is required in stewards, that a man be found faithful”.",
+         "introduction": "According to our text, it is not wisdom to serve without being accountable for/to.  Accountability gives birth to effective services. The truth here is we all are faced with different responsibilities but as a Choir leader, youth, Deacon, Usher, Elder, Pastor etc who are you accountable to. Sincerity is not found in church because too much responsibility is given to that man without giving room to render account.  Power is been misused when a title is respected for fear and this stops the person from giving account of service. When there’s room for accountability, a soul would be saved and there will be no room for suspicion in the place of service. N/B:  Ananias and Sapphira died as a result of insincerity in service (Acts 5:1-11).",
+         "prayer_focus": "Lord, help me to be sincere in rendering account of my service."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 31st August, 2022", 
+         "topic": "GOD ACCEPTS A WILLING SERVICE",
+         "text": "2 Cor. 9:7, “Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver”.",
+         "introduction": "The secret to bountiful blessing is giving cheerfully.  According to our text every service gives reward, how it is rendered determines the reward. It calls for caution that we have more forceful givers today than willingful givers.  It also calls for a stop to false prophecy in place of giving.  It is another opportunity to teach the believers how to render accountable service and not forcing them to give unacceptable service.  A man cannot give beyond his/her understanding as forcing brings grudging giving; the solution is to teach and give the people the liberty of giving as they are propose to have purpose. Moses while speaking to the Israelite admonished them, that God can only take the offering of a willing heart (Exo. 35:5).",
+         "prayer_focus": "Lord, open my understanding to know more and more."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 1st September, 2022", 
+         "topic": "SERVE WITH HOLINESS",
+         "text": "1 Peter 1:16, “Because it is written, be ye holy for I am holy”.",
+         "introduction": "Holiness is very important in as much as you want to have a relationship with God. There’s no relationship with God without holiness.  “But upon mount Zion shall be deliverance, and there shall be holiness” (Obadiah 1:17).  Holiness comes through striving daily to become more like Jesus while deliverance here means changing the old nature sin before service, Holiness becomes so pronounce as none can see the Lord without holiness (Heb. 12:14). Lucifer, an angel of God, did not get enough of God’s perfection and Holiness but he wanted it all.  He rebelled against God and lost all of what God gave him.  Ever since, Satan’s wishes to ruin holiness elicited the fall of Adam and Eve, depriving them of holiness. Beloved, holiness has being the twain between God and man (Lev. 19:2).  Choose to be holy from today and the face of God will not depart from you.",
+         "prayer_focus": "Lord, baptize me with hunger for holiness."
+    },
+    {
+        "date": "Friday 2nd September, 2022",
+        "topic": "NO SERVICE WITHOUT PASSION",
+        "text": "John 2:17, “And his disciples remembered that it was written, the zeal of thine house hath eaten me up”.",
+        "introduction": "It is passion that drives the reaction of anything here on earth.  The question is, do you have passion for that service?  Our anchor scripture talks about Jesus.  Passion moved him such that He never wanted to see people being oppress or His father’s house being misused, this can only be done through passion. The earnest will of Jesus is to turn men unto God. Any service without this desire is against God’s agenda; passion brings hunger and until the hunger is satisfied, the passion is not complete.",
+        "prayer_focus": "O Lord, set my heart on fire for you."
+    },
+     {
+         "date": "Saturday 3rd September, 2022", 
+         "topic": "COMPLETE SERVICE",
+         "text": "Deut. 10:12b, “And to serve the Lord thy God with all thy heart and with all thy soul”",
+         "introduction": "Whatever we do in His presence must be done cheerfully and with good will.  God over the ages never accepted the service of an hypocrite, that was why after discovering that the attention of Adam and Eve were divided, He sent them out of the place of service.  A hypocrite is a double minded person. (James 1:8). God still demands a sincere worship in our generation, so many people serve God with so many reasons, some serve because they are in lack, in good health, needs a Job and so on but service to God is limited to anything under the sun.  He says “you can’t find me until you seek me with all your heart” (Jere. 29:13). Never seek or serve God because of what you want but worship Him because of who He is.",
+         "prayer_focus": "O God, Help me to serve you because of who you are."
+     },
+  
+     {
+         "date": "Sunday 4th September, 2022", 
+         "topic": "MAKE YOUR LIFE COUNT",
+         "text": "Romans 12:1, “I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service”.",
+         "introduction": "Beloved in Christ, your sacrifice must be holy in order to be acceptable, our text says we make our bodies a living sacrifice, holy and acceptable. What this means is that in the place of service there’s room for acceptance or rejection. Moreover, does it occur to you why the scripture mentioned the body before every other thing? Note that it is the body that determines the quality of the service rendered.  The body is not our own but God’s,  so therefore glorify God with that body (1Cor. 6:20).  This is a call that every wrongful action that causes questions in your service to God should be discouraged/discontinued. This is why some serve for years without a tangible reward or evident of service.   Desire to serve sincerely and stop doing cover-up God bless you.",
+         "prayer_focus": "Lord, I present my body before you to make it white again."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Monday 5th September, 2022", 
+         "topic": "FEAR IS A SNARE",
+         "text": "Prov. 29:25 KJV, “The fear of man is a snare: but whoso putteth his trust in the Lord shall be safe”.",
+         "introduction": "Fear is a snare when faith in God is down played.  Children of God should take it upon themselves to ensure their faith and trust in God do not go down.  God needs to be feared or reverenced, not man. I rebuke every fear of man in the Church in Jesus name. A snare is a trap that tends to put someone on one spot for long. Trap resists progress and can even make one to stray from safety.  However, addiction to trusting in the Lord can be a quick way to banish fear of man and shatter every snare on the way.  From today, I command every snare caused by fear broken in the name of Jesus. Fear is a spoiler.  It fights faith, thwarts speed, erodes advancement and effort gets wasted. Wherever the fear of man is in place, people don’t dare to bring out their best,  thinking that they could be attacked and killed.  Therefore, trust in God is hereby negatively affected.  The text agrees that the fear of man is a snare:  but who putteth his trust in the LORD shall be safe”.  Remedy from fear is our trust in the LORD.  The fear of man would have gripped Joshua after the death of Moses and may be snare him from fulfilling his leadership responsibilities but God promptly armed him with His presence.  His trust in God got built up and safety was guaranteed.",
+         "prayer_focus": "Oh God, deliver us from any trace of fear of man or things."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 6th September, 2022", 
+         "topic": "ATTITUDE OF FEAR",
+         "text": "Gen. 50:15 KJV, “And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him”.",
+         "introduction": "John Maxwell defines fear using the acronym F.E.A.R. (False Evidence Appearing Real).  This appears to explain the story and feeling of Joseph’s brethren.  Sometimes we create fear where there is no need for it.  This is a picture of people who lived in fear of the future.  Today, many people in the Church are still living with this attitude of fear.  I plead the Holy Spirit to dismantle such evil structures in our hearts in the name of Jesus. Joseph had a heart of real love towards the brethren.  He planned for their good and took steps to ensure good things come to them.  Yet, they were still holding an attitude of fear.  We still have people who have all things working for their good and the future beaming to their advantage but they are still harbouring fear.  This day, you are being requested to dump such attitude.  Don’t look for hatred for yourself where there is none.  No evil will be permitted to visit you because the love of God is coming on strong in your case daily. 	Have an attitude of gratitude to God for the peaceful or favourable life He has given to you.  Learn to celebrate Jesus for dying on the cross for your safety and salvation.  Believe that lines are falling for you in pleasant places and nothing of shame, sorrow and fears will come your way.",
+         "prayer_focus": "O Lord, let my faith in you drown every seeming fear around."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 7th September, 2022", 
+         "topic": "A REASON NOT TO FEAR",
+         "text": "Psalm 33:18 KJV, “Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy”.",
+         "introduction": "Anytime the devil gives us a reason to fear; God will promptly give us a reason not to live in fear.  So, always look out for God’s opposite to the devil’s plan.  God’s eyes are on you to ensure you do not go hopeless on earth.  He has plans good enough for us to make us keep smiling, singing and dancing all day. God speaks to each of us in Jeremiah 29:11 – “For I know the thoughts that I think toward you, saith the LORD, thought of peace, and not of evil, to give you an expected end”.  God’s expected end for you is to live long and enjoy a life devoid of fear.  No matter the level of hatred, danger or terrorism planned for you today, the Heavenly authorities have upturned everything and trend of events to work in your favour.  Before you woke up from bed today, it has already been declared that “it will be well with you today and days ahead”.  Cheer up! Go out confidently and walk majestically!. You fear (reverence) God and God cannot allow you to fear anything else or create room for fear to grip you.  Your hope is in His mercy.  He will surely be merciful unto you and do you good even beyond your heart desire.  I can see God beaming His watchful eyes of care and protection; announcing to the devil that you are untouchable.  Go ahead and dwell in the glory of God, the Father, Son and the Holy Spirit.",
+         "prayer_focus": "Thank you Lord for caring so much for me and my family."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 8th September, 2022", 
+         "topic": "BOLDNESS THAT OVERCOMES FEAR",
+         "text": "Psalm 27:1 KJV, “The Lord is my light and my salvation; whom shall I fear? The LORD is the strength of my life; of whom shall I be afraid”.",
+         "introduction": "Faith sponsors boldness so that fear should relegate to smallness and go down to nothingness.  This is the boldness that overcomes fear.  Reports are for the fearful whereas results run after the bold in heart.  Nebuchadnezzar plunged into regrets and stored up in a fearful surprise to declare we put three people in the fire, how come that they are now four.  “And the form of the fourth is like the son of God” (Dan 3:24 -25 KJV).  God will put fear in the heart of your enemies and they will regret that they had planned evil against you in the first place.  Every evil against you backfires from today. Light and salvation are tools that helps us overcome fear.  Fear is associated with darkness and works of the devil, that’s why it cannot withstand the blinding impact of light and the transforming virtue of salvation.  The boldness that comes with light and salvation always have commanding and challenging influence over darkness.  “Whom shall I fear? David boldly exclaimed.  Even Goliath, the giant of Gath, could not withstand his boldness, prowess and audacity. When the Lord is the strength of your life no one and nothing on earth can make you afraid.  There is an influence boldness bestows on a believer.  I pray God to clothe us with the garment of boldness to inform the devil of our seriousness to be on His side.  God is able to make all grace abound and to put fear behind us.",
+         "prayer_focus": "Lord, deliver us from every influence of fear as we serve you."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Friday 9th September, 2022", 
+         "topic": "FEAR OF THE LORD PAYS",
+         "text": "Prov. 14:27KJV, “The fear of the LORD is the fountain of life, to depart from snares of death”.",
+        "introduction": "I am yet to see something done towards God that does not bring profits.  That is, any labour done in the name of the LORD pays; including the fear of the LORD.  This is called reverential fear.  It has two key rewards namely:  It pitches the believer to the fountain of life.  It makes his life to depart from the snare of death.Can I hear you shout praise the Lord! God is faithful.He does not allow anyone serve Him in vain or with groaning. Life and death are regulated based on our level of faith or fear of the Lord.It pays to fear the Lord because He will always postpone evil events happening to us.He breaks yokes of death without seeking our permission and renews our lives with joy in His heart.David got the privilege where God kept postponing death plots against him because David’s life was embellished in the fear of the LORD.A Governor went with his team to demolish a Church building in which the Pastor’s residence was inclusive.The Pastor said he does not fear their guns but he only fears God but requested the Governor to allow him to go inside and take out two things – his Bible and his Hymn book and that he will not take out any other thing as he  was commanded to pack out everything.The Governor was shocked on this Pastor’s reverential fear.He left with his task force and diverted the road away from the Church.This was a proof that the fear of the Lord pays.",
+         "prayer_focus": "O Lord, strengthen me to fear you unconditionally."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Saturday 10th September, 2022", 
+         "topic": "NO FEAR IN LOVE",
+         "text": "I John 4:18 KJV, “There is no fear in love.  But perfect love drives out fear, because fear has to do with punishment.  The one who fears is not made perfect in love”.",
+         "introduction": "True love does not and should not harbour fear.  True love depicts transparency and there is nothing in hypocrisy.  Doubts or dread does not exist.  It is full blown love that turns fear out of the door and expels every trace of terror or horror.  True love is formed in the heart which only God reigns and Satan is not permitted to infiltrate. Fear has torments.  It sponsors punishment and expresses lack of peace and tranquility.  Where fear is in a heart, God fails to be in attendance.  He doesn’t dwell there or look at such heart because it abhors it and appalls Him.  Husband and wife, who truly love themselves do not plan to poison each other and therefore no hidden fear towards each other. 	“No fear in love depicts a love affair or a love atmosphere where the parties concerned are dwelling in absolute unity.  Their feelings are one, their thoughts are the same and their purposes are mutually supportive.  This kind of love exemplifies a tale of harmony without acrimony.  God is ever with them and each holds the potency of being outstanding in every consideration.  May this kind of love take shape in your family, Church and community, Amen",
+         "prayer_focus": "Lord, place your Church in a love atmosphere which counts no error."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Sunday 11th September, 2022", 
+         "topic": "YOU ARE BLESSED IF YOU FEAR GOD",
+         "text": "Psalm 112:1-2, “Praise ye the LORD.  Blessed is the man that feareth the LORD, that delighted greatly in his commandments.  His seed shall be mighty upon earth; the generation of the upright shall be blessed”.",
+         "introduction": "The fear of God is often being rewarded by being blessed by God.  God favours those who are on His side and their hearts always beat towards Him.  We often hear that respect is reciprocal.  Will you not respect someone that respects you?  If you would do so; how much more God. Fearing God is often showcased in keeping His commandments.  Also, in delighting to pray, fast, sing and dance worthy to the glory of His holy name.  It stretches forth to being kindly affectionate towards one another, care for the less privileged and helping the needy.  This is the secret of greatness through the fear of God. When you fear God, you will be blessed in your family, finances and business.  Your children will be mighty and prominent.  They will enjoy favour before the high and mighty.  They will prosper in their endeavours and enjoy long life up to third and fourth generations.  Having the fear of God is the seed you sow for a harvest of generational blessings.  This is one blessing no devil, enchantment and spells can upturn.",
+         "prayer_focus": "Thank you Father, for granting me generational blessing as I fear and serve you. "
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Monday 12th September, 2022", 
+         "topic": "HOSPITALITY IN SERVICE",
+         "text": "Phil. 2:3-4, “Let nothing be done through strife or vain glory, but in lowliness of mind let each esteem other better than themselves.   Look not every man on his own things but every man also on the thing of others”.",
+         "introduction": "Service without hospitality will end in futility.  It will lack care, love and comparison.  Such Service will not be rendered in humility and cordiality. Jesus ministry on earth was a ministry of humble service.  There was nothing pretentious about him.  He didn’t expect special treatment and did not chase after fame.  Infact, on more than one occasion he told others to remain quiet about what they had seen him do or hear him say.  What we learn from Jesus by his example is the importance of putting the needs of others ahead of our own.  Our life should not major on the pursuit of comfort or recognition but on being concerned about others and in pursuing God’s purpose, for our lives.",
+         "prayer_focus": "Father, create in us a desire to serve others in Jesus Name, Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 13th September, 2022", 
+         "topic": "HOSPITALITY IN SERVICE – 1",
+         "text": "Phil. 2:3, “Let nothing be done through strife or vain glory, but in lowliness of mind let each esteem other better than themselves”.",
+         "introduction": "Service, here, is what we do or help we render to others.  Service without hospitality ushers hostility.  But we are warned: “Let nothing be done through strife”,  that means we should do away with hostility and embrace cordiality.  Hospitality and cordiality are like the left hand and the right hand.  When both are in place, our service honour God and benefits mankind. Hospitality speaks of the generous and friendly treatment given to people in the process of rendering service to them,  while hostility is unfriendly attitude or action when dealing with or doing something for people.  Strife is about being very angry or engaging in violent disagreement with people  you are supposed to serve lovingly and peacefully.  The question is: What attitude dominates your life?  Is it hospitality, hostility or strife?  It pays to render hospitality in service so that God will open doors for you in blessing, favour and victory.",
+         "prayer_focus": "Father, help me to maintain lowliness of mind so that I can render my service aright"
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 14th September, 2022", 
+         "topic": "MIRACULOUS PROVISION -1",
+         "text": "Jos. 1:17, “Every good gift and every perfect gift is from above, and cometh down from the father of lights, with whom is no variableness, neither shadow of turning”.",
+         "introduction": "Every true believer receives miraculous provision as a right and a reward for serving God. Miraculous provision is a covenant blessing reserved for special people who love and render quality service to God with all their hearts.  It is called good and perfect gifts. It is to offer encouragement to receivers or believers.  Miraculous provision include amongst others:  Covenant children, multifaceted blessings, long and fulfilled life as well as all-round success.  Good food, clothes, houses and cars are inclusive.   Child of God you deserve your own share of God’s miraculous provision.  Quality service to God is the secret for miraculous provisions.  This strongly connects you to God.  When you remain connected to the vine; there is nothing about this provision that you will demand which will not be given unto you (1 Jn. 15:1-7).  Remain connected in service and obedience and receive your share of the miraculous provision.",
+         "prayer_focus": "Father, include my name amongst those you are blessed, Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 15th September, 2022", 
+         "topic": "MIRACULOUS PROVISION - 2",
+         "text": "Isa. 1:19, “If ye be willing, and obedient, ye shall eat the good of the land”.",
+         "introduction": "Beloved in Christ, your level of obedience to the commandments of God determines the corresponding miraculous provisions you receive.  Interestingly, quite unlike the computer principle – garbage in, garbage out, God’s miraculous provisions is more exceedingly as expressed by Paul the Apostle (Eph. 3:20). God can provide abundantly above all that we ask or think according to the power that worketh in us.  Obedience is a key factor as far as miraculous provision is concerned.  The text emphasizes; Your willingness and your obedience. Abraham obeyed God and was willing to sacrifice his only son-Isaac and God provided the sacrificial lamb.  This LAMB of God is the ‘type’ of Jesus our Saviour and Redeemer.  Wow! What a miraculous provision as and when needed! Child of God, always be willing to obey the voice of God and His words and your miraculous provision is sure.",
+         "prayer_focus": "Lord, plant in my inside the spirit of obedience."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Friday 16th September, 2022", 
+         "topic": "CHRIST, THE CHANNEL OF MIRACULOUS PROVISION",
+         "text": "John 2:7-8, “Jesus said unto them, Fill this water pots with water. And  they filled them up to the brim.  And he said unto them, Draw out now, and bear unto the governor of the feast.  And they bare it”.",
+         "introduction": "Every good gift that stands the test of time comes from God.  God makes provisions for our needs through Jesus Christ. The story of the marriage ceremony at Canaan in Galilee is a good example.  When  the original wine finished, and Jesus was informed, he provided a better and miraculous wine to the amazement of the Governor and other guests.  This is a proof that Chrsit is the channel of miraculous provisions. Yes, that is what Jesus can do for me and for you.  When all hope is lost, Jesus is our last hope (Col. 1:27)  There is no hopeless situation that Jesus cannot subdue.  The name of Jesus is the answer to all our problems, and a channel for our provisions. In other words miraculous provisions will be absent if we detached Jesus.  When we abide in Him, whatever we ask in His name will be provided (Jn. 2:3; 15:7). Anytime you face danger and when it seems all hope is lost financially and otherwise, call Jesus and He will answer you. Jesus is waiting for you.  ",
+         "prayer_focus": "O Lord, provide my needs anytime I call upon you."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Saturday 17th September, 2022", 
+         "topic": "MIRACULOUS PROVISIONS IS OUR HERITAGE",
+         "text": "John 1:12, “But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name”.",
+         "introduction": "Your reception of Him commands your provision from Him.  Jesus provides for those who receive Him. 	Heritage means to inherit. We inherit lands, houses, money, properties, cars, clothes, bank account etc from our parents.  This is our right because our father’s property is ours.  We are his children because as we receive Him, He grants us power to become His sons. According to the above text Jesus emphasized that those that receive him and also believe in him are automatically given the right and authority to become His sons.  Legally, whatever Jesus has is our own.  When you become a true child of God, miraculous provision therefore becomes your right.  Any time you demand, your father cannot deny you any good thing. Every child of God is entitled to enjoy God’s miraculous provision by reason of being joint heirs of God’s kingdom (Rom. 8:16-17). Child of God, Why suffer in silence? Arise and possess your possession.  Miraculous provision is your birth right and heritage.",
+         "prayer_focus": "Dear Lord,  let your miraculous provisions keep flowing to me when I am in need."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Sunday 18th September, 2022", 
+         "topic": "CONDITIONS FOR RECEIVING GOD’S MIRACULOUS PROVISION",
+         "text": "John 15:7, “If ye abide in me, and my words abide in you, ye shall ask what ye will and it shall be done unto you” Prov.11:24.",
+         "introduction": "In the early 60s and 70s, a child has to reach the age of six years, be of a certain height and has his hands touch the opposite side of his ears before being admitted into Primary School.  Yes, that was the condition.  Meaning, for every provision, there are conditions. The God we serve is not an author of confusion.  He is an orderly God.  He has his principles, precepts, statutes and commandments that we have to follow in order to succeed in life. The text admonishes that if we abide in Jesus and also allow His words to abide in us, whatever we ask in his name, he will provide.  The condition is very simple: Do not have any other god, abstain from Sin and love one another, acknowledge Christ as your source, root and power, repent of your Sins, tell others about Christ.  When you sincerely live a life that pleases Him, there is nothing you will request of him that he will not provide for you. If you are a sheep in a wolf skin, there is no way you can receive sufficiently from God.  You cannot eat from two tables; table of God and that of witches and claim to be a child of God.  No man can serve two masters.  Choose God and enjoy the benefits of God’s kingdom.  Choose Christ and live eternally.",
+         "prayer_focus": "Lord Jesus, hold me tight unto thee and give me the grace to abide in you always. Amen."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Monday 19th September, 2022", 
+         "topic": "THE BLESSINGS OF GOD FOR MAN",
+         "text": "Psalm 1:1 – 2 (NIV) “Blessed is the man who does not walk in the counsel of the ungodly (wicked) or stand in the way of sinners or sit in the seat of mockers.  But his delight is in the law of the Lord”",
+         "introduction": "Beloved, there is no man created by God without blessings by default.  Remember in Gen. 1:27-28 “And God blessed them, be fruitful and multiply and replenish the earth, and subdue it”. But these blessings manifest when we are able to live up to the expectations of God.	Our first parents (Adam and Eve) missed out on this God’s plan for mankind because of disobedience. So the book of Psm. 1:1-3 now outlines the criteria’s and principles that governs God’s blessing for man. (Verse 2) says “But his delights is in the law of the Lord and in his law doth he meditate day and Night”. Talking about the “Law of the Lord” it means walking in the statue, commandments and principles of God. Abraham wouldn’t by himself become so blessed if he did not choose to walk with God and obey in totality with wavering, even when God commanded him to leave his Father’s house to an unknown place that he will show him . Friends the secret to the eternal blessings of God in any man’s life is obedience and walking in God’s statues.",
+         "prayer_focus": "Lord, please help me to walk in your statue and to love you and obey you in totality."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Tuesday 20th September, 2022", 
+         "topic": "WHO AM I",
+         "text": "Gen. 1:26 (NIV) “Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the creatures that move along the ground”.",
+         "introduction": "First, can we ask ourselves this question again, “Who am I”?  The scripture in Gen. 1:26 has answer to that Question which is  “I am man made in the image and in the likeness of God to rule and to dominate the earth and all creatures God had created”. Most times we think we are not who God had created.  We think less of ourselves so much that we can’t assume our place of authority and dominion and  fellowship with the father. Friends lack of self-discovery deprives us of some certain privileges in this kingdom.",
+         "prayer_focus": "Father, please restore me back to my place of authority, dominion and fellowship with you."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Wednesday 21st September, 2022", 
+         "topic": "THE ACT OF STAYING WITH GOD",
+         "text": "Job 14:14b “All the days of my appointed time will I wait, till my change come”.",
+         "introduction": "What does it really means to stay? To stay means to wait patiently, to reserve, to hold on to something reliable. Staying with God actually means holding on to God no matter how life toss you around, whether in good or bad times. Today, most believers and God’s people only fall back to God during bad times (challenges) but when all is going well they tend to side line God. But God is telling us today that we should gaze on him daily no matter what.  Even our Lord Jesus after promising his disciples that He will send the comforter (Holy Ghost) asked them to stay at the upper room, only God knows how long they stayed and waited for the promise of the father. Same here to us today, God has made the same promises to us but we tend to have many options than staying on him for the promise to be fulfilled.",
+         "prayer_focus": "Help me Jesus to practice the act of STAYING"
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
+         "date": "Thursday 22nd September, 2022", 
+         "topic": "BUILDING MY WALLS 1",
+         "text": "Neh. 6:6, “In which was written; “It is reported among the nations and Geshon says it is true that you and the Jews are plotting to revolt, and therefore you are building the wall…”",
+         "introduction": "The wall here simply means a structure built for the purpose of division and for defensive purpose against something. Every believer needs an hedge (walls) around them to keep them from the terror that flies by the days and by night, and we must know that the builder of this hedge (walls) is God Almighty.  Therefore for him to build our walls he demands certain things from us.   	Just the same way a man will need a fence or hedge around his house and will be given a proposal from the person who’s doing the work making demands for the materials needed for the work to be completed. 	This is actually the same way God demands from us, (Eph. 6:10-15) for him to build an hedge that cannot be moved around us.",
+         "prayer_focus": "Lord, help me to meet the demands you’ve set for me."
      },
      {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
-     },
-     {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
-     },
-     {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
-         "prayer_focus": ""
-     },
-     {
-         "date": "", 
-         "topic": "",
-         "text": "",
-         "introduction": "",
+         "date": "Friday 23rd September, 2022", 
+         "topic": "BUILDING MY WALLS II",
+         "text": "Job 1:9, “Have you not put an hedge around him and his household and everything he has …”",
+         "introduction": "Job 1:9, “Have you not put an hedge around him and his household and everything he has …”. Our text states that God built an hedge around Job and his household because he feared God and eschewed evil. Friends let’s make up our mind this week to live up to the demands of God for the building project because we are all projects in the hands of God that cannot be abandoned. Although oppositions will come to cause you to lose focus but stand firm and continue in doing the good works,  like Nehemiah did, because  at the completion of the walls your enemies will be terrified and will lose themselves confidence because they’ll realize that this work has been done with the help of our God (Neh. 6:15). Just as the scripture says in Eccl. 3:14 - “That whatever God does stands forever, nothing is added and nothing removed and the Lord did it so that man will fear him.",
          "prayer_focus": ""
      },
      {

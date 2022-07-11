@@ -16,6 +16,7 @@ function App() {
       <Header/>
         <Routes> 
         {/* auth routes */} 
+          <Route path="/" element={<DevotionalList />} /> 
           <Route path="/devotional" element={<DevotionalList />} /> 
           {/* <Route path="/devotional" element={<Devotional />} />   */}
        
