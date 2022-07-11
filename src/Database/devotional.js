@@ -685,186 +685,186 @@ export const devotional = [
         "date": "Thursday 6th October, 2022",
         "topic": "BE EQUIPPED FIRST.",
         "text": "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
-        "introduction": "",
-        "prayer_focus": ""
+        "introduction": "Yesterday, we established that your sonship cannot be hidden, men must confirm it and testify to God's glory. Today, we are simply pointing to the fact that there is a waiting period for the creature and the sons. Friends, no one gets to the top, first he passes through processes; life demands that protocols and procedures be duly followed.  You see, apart from the common grace given by God to every believer (Jn.1:12), to become a bonafide son, you need power. Power enables one perform good works (Acts10:38) which is the only thing men can see and glorify God. To receive power, you need to wait, ask, believe, and be sure to receive. You'll agree with me that while your name may be boldly written as next of kin to your dad estates, you're yet to have total control of it because he still lives or you're still a child; so it is with sonship. Processes must be followed for confirmation; else it's just a mere proclamation rather than reality.",
+        "prayer_focus": "Lord, I receive grace to wait, I receive power for manifestation."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 7th October, 2022",
+        "topic": "STOP THAT!",
+        "text": "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
+        "introduction": "No one is hurrying you into manifestation, our scriptures today explains to us that creatures are waiting, if they are, then why the hurry, why walk ahead of God, why do what you've not been instructed to do, why persist on immature manifestation.  Beloved, we need to stop this attitude of hurrying into manifestation. As much as physical and spiritual readiness is necessary, we must understand that the timing and platform for manifestation can only be orchestrated by God, not by our effort, so stop punishing yourself! Stop the lying prophecy! Quit the fake tongues, shouting and babbling while in public prayers! Drop that big bible! Stop the pride! Stop the pretence! Quit the hypocrisy! Stop punishing yourself! Say no to immature manifestation! Hunger for the real thing, that which is faked can’t be real when there is true hunger. You can be that true Oracle, but first, stop the hypocrisy and hunger for the real deal.",
+        "prayer_focus": "Father, I receive grace to hunger for the reality of your glory upon my life."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 8th October, 2022",
+        "topic": "MANIFESTATION IS FOR SONS",
+        "text": "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
+        "introduction": "We established on Monday that the sons here represent both gender. Manifestation is stated clearly as an inheritance for the sons of God. There are few tasking responsibilities a father may delegate to his child, only sons reserve exclusive rights to their father's properties. Legally, a child may not have full authority or access to the father's properties until he/she comes of the age of maturity and responsibility. So the level of your willingness and ability to take responsibilities for God's kingdom determines your relationship status with Him. You must be trustworthy to be entrusted with certain sacred responsibilities of the kingdom, that's when you've become a son, before then, you're still a child, far from manifestation. Manifestation is the reward for sonship, children are pampered, and sons are mandated! Decide today whether to be a son or child.",
+        "prayer_focus": "Lord, I quit childish ness, I receive grace for sonship. "
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday 9th October, 2022",
+        "topic": "MANIFEST.",
+        "text": "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
+        "introduction": "Happy Sunday sons of God, it is your season of manifestation! Have you seen a helpless sick fellow or grossly wretched family, and though you had nothing to do to contribute to their calamity, you know there's a deep burden stuck in your heart? That's your purpose calling you; manifestation is beckoning on you. Friends, the creature waits for you, that man remains sick because you're yet to manifest, same as the poverty of that family, your manifestation is a liberation mandate to the creature. It's the earnest, utmost and most pressing expectation of the creature that you manifest and loose their bands of captivity, please don't disappoint. May we never fail God and our generation. Arise and manifest, it's your season!",
+        "prayer_focus": "Lord, I receive grace to manifest."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 10th October, 2022",
+        "topic": "YOU ARE A GOD",
+        "text": "Psm.82:6 (NIV.) - I said, you are gods; you are all sons of the Most High.",
+        "introduction": "Hallelujah, you survived another week through God's love, you've made into a week of divine authority, please give Jesus a shout of Hallelujah.  Our text today states emphatically that we are gods, we are meant to operate in the standard and glory of our maker. Think about it 'god', if you've seen any movie about a demi-god or idol, you'd know how special and endowed you are. Don't forget you are created in God's image, you've been fashioned in His likeness, and today we've been made to remember that we're not just like Him, but we are gods indeed! Live with this and see how it works. Make up your mind to accept your status as a god, you'll see how you operate in dimensions of all possibilities like He who created you. Please pray.",
+        "prayer_focus": "I grow in the knowledge of who I am as a god, help me Jesus. "
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 11th October 2022",
+        "topic": "BE CONSCIOUS OF IT",
+        "text": "Psm.82:6(NIV.) - I said you are gods; you are all sons of the Most High.",
+        "introduction": "Good day beloved, one problem most believers have is the inability to sustain the consciousness of who they are. You can see a believer confess faith in Christ while in Church, but as he encounters problem immediately after service, he seems to have forgotten his status.  In our text today, we've been called to remembrance! 'I said', this means this utterance had been made previously by God, but the believer sooner or later forgot it. Jesus is calling us today to a divine state of consciousness of who we are. He is saying 'Never forget who you are'. You'll think and act like a god when you're conscious of that status. Never let your problems or emotions take the knowledge of who you are away, at all times believe, act, confess and proclaim loudly 'I am a god', you'll see it work for you.",
+        "prayer_focus": "Lord, I ask for grace to always be conscious of my status as a god."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 12th October, 2022",
+        "topic": "PROVE IT",
+        "text": "Psm.82:6 (NIV.) - I said, you are gods; you are all sons of the Most High.",
+        "introduction": "You may know this song 'all other gods, they`re the works of men, you`re the only God, there is none like you', please sing aloud, so you grow in that consciousness. Believers, we are not the only gods out there, there are other idols and deities, we are just fortunate that our status as gods is linked to an unlimited source- Jesus. Friends, there is a battle between good and evil. As a god, your origin is good; you'll face the darts of evil gods, that's when you need to draw strength from your maker! You must constantly be in fellowship and communion with your maker so as to draw power to stand. As a god, you must be sensitive and vigilant, never laying down your guard because evil may be lurking. Live, knowing that your maker never loses and so you're undefeatable. Prove that you are a god.",
+        "prayer_focus": "Though I be surrounded by evil, I conquer through Jesus for I am a god."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 13th October, 2022",
+        "topic": "LIVE IT",
+        "text": "Psm.82:6 (NIV.) - I said, you are all sons of the Most High.",
+        "introduction": "Our journey from today will lead to Sunday, powerfully follow God's word and you'll see the light. Beloved, you're a god, this means exactly what you just read or heard. The realm and possibilities God walks in can be accessed by you. You can do wonders, you have no limitations, you're fearful, you're perfect, you're powerful, you can be anything good you think of, live in this truth.  Come out from the circle of mediocrity, break the shackles of impossibilities, trash that second fiddle mentality, you're not second favourite to anyone, you're the best version of a god. Beloved, you are a god! Believe it, yes you! Forget your condition, believe and act as one then see how things change for your good. As an activity, study the Bible, browse the internet and copy out the qualities of God, live them and see how things will turnaround for you.",
+        "prayer_focus": "Lord, I believe, I am a god! Help me live it."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 14th October, 2022",
+        "topic": "Sons of God",
+        "text": "Psm.82:6 (NIV) - I said, you are gods; you are all sons of the Most High.",
+        "introduction": "Whenever the Bible mentioned `Sons of God` in the Old Testament, it referred to the ministering spirits commonly known as angels. (Gen.6:2, Job1:6, 2:1, 38:7). In the ranking of the spirits, after God (The trinity), we have the angels who are ministers to God and man. Let's be simple, consider the strength of one fallen angel Lucifer, he was once an angel of light, then he rebelled and was beaten down, now he comes to the world and amass such power, fame, influence and authority. Considering it positively, if Lucifer hath gathered all these rightly according to God's standards as an holy angel of light, think about the exploits he would make for God's kingdom.  Now what? God replaced Lucifer with you, yes you! You're a son of God, and angel of light, possessor of power and fragrance of Christ. Now act in your capacity, undo what Lucifer has done, liberate men, bring them out of Lucifer's bondage, live it!",
+        "prayer_focus": "Lord, I stand as a son of God, I declare freedom upon earth."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 15th October, 2022",
+        "topic": "MAN OF GOD",
+        "text": "Psm.82:7(Esv) - 'Nevertheless, like men you shall die, and fall like any prince'.",
+        "introduction": "You'd see that from the beginning to the end of the scriptures, man is the centre of God's creation. In the ranking of spirits, after God (the trinity), we have the angels, then man (psm.8:4-5). Man has been given authority over the earth realm, man is to subdue, dominate and replenish the earth and man's authority over the earth realm cannot be over emphasized. Beloved, act as a man of God, command things to work for you, you've possessed the earth as an inheritance. Don't live like the carnal or ignorant man, live to the fullness of your potential, be a man with a difference.  Your power is not just limited to your environment, state or country alone, you've been given power over the mundane realm, stay wherever you are and command things in any place in the world to bow, they will. Live it thou man of God! ",
+        "prayer_focus": "Lord, I am a man, possessor of the earth realm; I command things to work for me now!"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday 16th October, 2022",
+        "topic": "PRINCE OF PEACE",
+        "text": "Psm.82:7(ESV) - Nevertheless, like men you shall die, and fall like any prince.",
+        "introduction": "The ranking in the spirit realm goes this; God first, angels next, man, then princes. Princes have been mandated by God to have territorial dominion.  In a monarchical government, a prince’s licence is their link to the father's throne, he acts in his father's stead or when mandated by the king to do so. The prince rules and commands a particularly defined territory. Beloved, every territory has its prince, good or bad, but hear this, you're a prince of peace, yes you! Correct the errors in your territory, tame the evil in your environment, chase away darkness from your vicinity, you can't operate as a prince of Christ yet evil thrives in your domain.  Manifest your princely mandate, dethrone the prince of hell and establish righteousness in your territory, live it thou prince of peace. ",
+        "prayer_focus": "Lord, I establish your authority in my territory, Satan out!"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 17th October, 2022",
+        "topic": "BE TRUTHFUL TO YOURSELF ABOUT YOUR INBORN NATURE",
+        "text": "1Peter 5:8 - “Be sober, be vigilant, because your adversary the devil as a roaring lion, walketh about, seeking whom he may devour”.",
+        "introduction": "I welcome you to a fresh week of encounter with God's word. The Holy Spirit will remind us of something very important in the body of Christ that the devil has been using as a tool to destroy marriages - adultery.  Can the believer stay free from this sin? Yes! One of the ways is to be truthful to yourself about the nature you were fashioned in.  David said 'Behold I was sharpen in iniquity; and in sin did my mother conceive me' (Psm 51:5). This nature always fights against our holy living even as saints (Rom 7:15). This nature therefore is the reason the believer who wants to perfect his walk with God should be sober, vigilant and careful at all times because Satan comes around to use any little thing to devour the believer's stand with God. Remember, though you are born again and full of the Holy Ghost, you are not above temptations. So shut every door against sin and adultery in your daily endeavours. God grant us grace. Amen.",
+        "prayer_focus": "I shut the door against any devices of the devil"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 18th October, 2022",
+        "topic": "SPONSORS OF ADULTERY 1",
+        "text": "2Sam11:1 -  “And it came to pass after the year was expired, at the time when kings go for battle, that David sent Joab with his servants with him, and all Israel....but David tarried still at Jerusalem”.",
+        "introduction": "David! What were you doing as a king at the time kings were at the battle field? Listen, when you are not at your duty post as at when due, be rest assured that the devil will soon lure you. A local adage says that an idle man is the devil's workshop. Satan easily takes advantage of you when you are idle and at rest.  Therefore, my counsel to you is - always engage your spirit man with right thoughts and information and refuse to be found wanting in the place of your assignment as your eyes can always see 'Bathsheba bathing' when you are at home doing nothing while others are in the field. Remember this, 'a man's most pleasurable time can also be his weakest moment'",
+        "prayer_focus": "Lord, help me to always be at my post and stay spirit-filled."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 19th October, 2022",
+        "topic": "SPONSORS OF ADULTERY 2",
+        "text": "Prov. 20:1 - 'Wine is a mocker, strong drink is raging and whoever is deceived thereby is not wise'.",
+        "introduction": "Another easy way to be drawn closer to adultery is to be given to wine (strong drink). 'And be not drunk with wine wherein is excess: but be filled with the spirit' (Eph5:18). Strong drink has a spirit and whoever is filled with its spirit will soon be deceived into the ways of foolishness and adultery, according to Prov. 6:32, - “makes one foolish”.  The spirit of strong drink is what draws a man from the house daily to go and mingle with unwise people and be exposed to detrimental things capable of puncturing or frustrating marriage. Also, anything can happen when a man is drunk, he can be senseless and full of rage against his spouse and can commit sacrilege. Noah cursed Ham his son without a cause under the influence of wine and Lot defiled her two daughters unknown to him still under the same influence (Gen 19:30-35). Don’t give the devil such access into your temple.",
+        "prayer_focus": "Lord, help me to maintain the ways of wisdom"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 20th October, 2022",
+        "topic": "SPONSORS OF ADULTERY 3",
+        "text": "1Cor 15:33 - 'Be not deceived, evil communications corrupt good manners '.",
+        "introduction": "There is a great blessing in trusting in God. One of it is sustenance (Heb12:2). Adversely, when couples begin to distrust, when they start having dual thoughts towards the actions of the other, it makes marriage develop porosity. Your best friend after God should be your spouse. You should trust, communicate, rely and depend on her as a friend to a friend. Invariably, the moment you start enjoying the company and utmostly believe another more than your spouse, be ascertained that adultery is knocking hardly on you door. In fact whoever does this is regarded as a hypocrite. Don’t shut your mouth against your spouse when hurt by her and never be action-driven by the advice of another or befriend someone else, no matter who they are to you so closely more than your spouse. Remember, you are at the chance of corrupting good manners (chastity) when you locate and allocate yourself with wrong people ",
+        "prayer_focus": "Lord, I live trusting the right people assigned for my life and destiny in Jesus name amen."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 21st October, 2022",
+        "topic": "SPONSORS OF ADULTERY 4",
+        "text": "1Cor 7:3 - 'Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband'.",
+        "introduction": "Another lever or activator of adultery is a negation of rights or benevolence among couples. One thing expected of couples is that they bear each other's burden and yoke. It is a mutual responsibility. Second is that couples should not defraud each other. This is to say that they should not refuse each other’s body from sexual pleasure (1Cor 7:5). The only time this is permitted is when fasting and praying at the agreement or consent of one another. This can also explain that the effectuality of such prayer is abortive if one disagrees while another persist. Listen believer, there are billions of others who are eagerly waiting out there to do to your spouse what you see as burden doing for him/her. Render each other their due right, especially the sexual rights as this is the most macro contributor to adultery in marriage today and even in Christian marriages. ",
+        "prayer_focus": "Father, help me perform my marital rights at all times in Jesus name. Amen"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 22nd October, 2022",
+        "topic": "LET NONE PUT ASUNDER",
+        "text": "Matt 19:6 - 'Wherefore they are no more twain but one flesh.What therefore God hath joined together, let not man put asunder'.",
+        "introduction": "When a man's heart goes after other things not given to be so, he's committed adultery. This is why the word whore or the words 'go a- whoring' is/was mostly used by God against the Israelites when they worshipped baal. This means many who were in harmonious relationship with God have committed adultery against him when they disobeyed.  Seemingly, like disobedience, many reasons are attached to adultery in marriages. Some include childlessness, dissatisfaction, intrusion from family acquaintances and even couples themselves. Marriage is held in high esteem by God and therefore none of these mentioned should stop the marital relationship. Note that your marriage is between you and your couple and not with your father, mother, in-laws, friends, children etc. It is therefore a step towards adultery for any to prefer children or highly esteem family relations or even for your heart to go after others aside your spouse.",
+        "prayer_focus": "Father, let nothing come in between me and you and my God given relations "
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday 23rd October, 2022",
+        "topic": "OUR MUTUAL RESPONSIBILITY",
+        "text": "2Sam 11:2 - “And it came to pass in an even tide that David arose from off his bed, and walked upon the roof of the king's house; and from the roof, he saw a woman washing herself; and the woman was very beautiful to look upon”.",
+        "introduction": "The focal scripture of today reveals why David committed adultery. On his own, he wouldn't have conceived the evil of wife snatching but a woman who knew that her bathroom was proxy to the king's palace situated upstairs was bathing downstairs without roofs or coverage.  Brethren, the urge for unchasity (the quality or state of being sexually immoral) is very conflagration and dynamite. The scripture juxtaposes it with fire and therefore should be tamed. The only safe way to combating this explosive urge that can result in adultery is for the wonderful and beautiful creatures made in God's image and likeness to take responsibility of 'roofing their bathrooms', that's covering our bodies well.  Seductive dressing is one great tool in the hands of the devil to spread immorality. Let us not all the way blame David. Brothers, sisters, mommies, daddies, let us be well covered- it's our mutual responsibility to silence the temptation to adultery.",
+        "prayer_focus": "Father, help me close doors against anything that would cause the fall of others"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 24th October, 2022",
+        "topic": "A PLACE CALLED CAPERNAUM -1",
+        "text": "Matthew 27:24-27 - “And when they were come to Capernaum, they that received tribute money came to Peter and said doth not your master pay tribute?” – verse 24",
+        "introduction": "There is a city in Eastern Nigeria which is notable for subjecting people to financial harassment and embarrassment in the guise of tax drive.  They don’t care who you are.  Even when you have your papers to show them, they will still find one thing or the other to accuse you of, so that they can extort money from you. In our text, Capernaum is a pleasant city; it serves as a nerve centre of commercial activities. On the other hand, Capernaum speaks of a city where one is facing financial embarrassment.  It’s a place where one is being ridiculed because one can’t pay bills as at when due. It is equally a location where people smile at you but at the back of their minds they declare you a debtor. I pray for you this day, the city where you are living in or travelling to should not be a Capernaum to you.  That is to say may God deliver you from any form of financial harassment today.  God will arrange for you unexpected financial favour.  You have been helping people, may God give you a harvest of financial blessing to day in Jesus name, Amen.",
+        "prayer_focus": "Oh God, let this city my place of residence not be a Capernaum."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday, 25th October, 2022",
+        "topic": "A PLACE CALLED CAPERNAUM -2",
+        "text": "Matthew 17:24-27 - “And when they were come to Capernaum, they that received tribute money came to Peter and said doth not your master pay tribute?” – verse 24",
+        "introduction": "Tribute money takers specialize in liking to mete out ill-treatment to people.  They are commonly addressed as task-force people.  They are happy with that name because it brings money into their pockets, mostly in a dubious way.  May they not harass you today. Jesus and His disciples were confronted by task-force people at a place called Capernaum.  As partially seen yesterday; Capernaum is a place where people gossip you on your inability to pay school fees.  I pray God delivers you from any form of financial embarrassment.  Financial challenges are not restricted to poor or low income people.  The rich people also face financial challenges at their own level.  They may be able to pay bills but they can equally run into a financial challenge of having sufficient funds to expand their businesses. Whatever it is, God will still deliver you from it. Another perspective of Capernaum is that, it is a city where instead of people to help you, they go round to advertise you in bad light and mock you that there’s no money in your pocket.  As you call Jesus, this morning, He is taking you beyond that level.",
+        "prayer_focus": "Oh Lord, deliver me from any form of financial inadequacies."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday, 26th October, 2022",
+        "topic": "A TIME BEFORE CAPERNAUM ",
+        "text": "Matthew 17:24-27 - “And when they were come to Capernaum…” – verse 24",
+        "introduction": "The word “when” indicates that there was a time people were not financially stranded in this city.  People were able to pay bills without hassles.  This was the time when people pray before going out in the morning.  This was the time people heightened their intimacy with God and distanced themselves from the world; a time of careful planning as against careless living. Capernaum is a seaport, a place close to the seashore.  By reason of its location, most times come under attack by marine powers.  These posers cast a spell on people and make them spend their money in a careless and lavish way.  It is after the money has finished or gone down drastically that they remember they are yet to pay their bills.  Before they know it, they are already on the hook of tribute money collectors, school fees and other bills demands. Every child of God needs this timely discernment – to make God have a share in their money in tithes and offerings.  This will stop the devourer who comes as marine powers and evil forces from witchcraft covers which pushes people into riotous living and unreasonable spending.  (Mal. 3:10-12).  Tithing shields you from evil hands and would not allow them perform their fetish enterprises with your finances.",
+        "prayer_focus": "Lord, restore me to the era of financial abundance via tithing and careful planning."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday, 27th October, 2022",
+        "topic": "A MAN CALLED PETER – 1",
+        "text": "Matt 17:24 - “They that received tribute money came to Peter.” – verse 24",
+        "introduction": "God does not come down from Heaven to Earth to help or deliver people from financial struggles.  He raises people here on earth to achieve such aim.  He can use you.  May He use you and me.  Don’t doubt it.  He equips people for such duty or responsibility. You can be favoured for it. “Peter” means there’s somebody whom God can use to restore you to financial abundance.  He is somebody that God must bless his hand work so that he/she can be your channel of financial favour.  Peter is a type of somebody when he/she makes money (through your prayers or ministration) will not run away from you but will be available to setter your bills and his own. In the story of Jesus, the tribute money people didn’t go to Him, they went to Peter.  May God lay it on somebody’s heart to settle your bills today.  May your life not run on human calendar but on God’s agenda today.  Human calendar will place load on you, as you’ll be thinking of the date and appointment you gave to somebody to come and collect money from you.  By God’s agenda, He will touch somebody either to bring the money for you to pay or get the bills settled behind you.",
+        "prayer_focus": "Lord, give me a Peter in this Church/City."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday, 28th October, 2022",
+        "topic": "A MAN CALLED PETER – 2",
+        "text": "Matt 17:24 - “they that received tribute money came to Peter”.",
+        "introduction": "Peter was not the only disciple Jesus had.  They were twelve including Peter.  Why did they leave the rest and went to Peter.  Listen to me:  There’s somebody God has raised for you as a financial helper in the Church and city where you are.  Pray that God should reveal him or them to you. Your Peter is that person that will say: “Don’t worry, I will pay for you”.  He is somebody who believes in the grace you carry.  He is one of the beneficiaries of your anointing.  That is, the person whom people trusts that whatever you say will work good for him/them.  Note: This is not somebody or people who will say Amen to your prophetic declarations upon them but will turn round to doubt if you’re a child of God or man of God.   For others, Capernaum was a place of financial harassment and embarrassment.  But for Jesus, it’s a place of financial turn-around and where He enjoyed the privilege of destiny helpers in the person of Peter. Name where you are as a better Capernaum; a place of financial turn-around especially after you have been mocked.",
+        "prayer_focus": "Lord Jesus, raise for me those who will speak for me and lift my financial burdens."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday, 29th October, 2022",
+        "topic": "A MAN CALLED PETER – 3",
+        "text": "Matt 17:24 – “they that received tribute money came to Peter”.",
+        "introduction": "Of all the disciples of Jesus Christ, boldness singled Peter out.  One crucial trait money gives to the person that has or carry it is exclusive boldness.  The tribute money people saw the boldness of Peter and felt convinced, he is with the money of the master – though Peter was not, it was Judas Iscariot that kept Jesus money. Boldness is an exalted level of self-confidence.  It makes you qualify as a person who could defend his master, the group or anything.  According to Eccl. 7:12 – “Money is a defense…”.  Peter showcased a personality of a defender.  Of a truth God used him to defend the master (Matt. 7:27).  The money for the tribute actually came through Peter.  As a matter of truth, Peter didn’t fail them or their expectation.  May God make it that any time people have certain good expectation about you, you will be able to live up to it to the glory of God",
+        "prayer_focus": "Father, give me somebody who will show concern about my financial will-being and be willing to defend me against financial hardship."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday, 30th October, 2022",
+        "topic": "THE CRUCIAL QUESTION",
+        "text": "Matt 17:24 - “they that received tribute money came to Peter, and said doth not your master pay tribute?”",
+        "introduction": "Beloved, do have a wonderful Sunday!  A Crucial Question needs, most times, a consolidated wisdom to provide the answer.  Without wasting time:  He (Peter) said, Yes. (Verse 25)  Nothing brings quarrel like when a question is being asked, no one wants to answer.  Peter’s answer gave them the assurance that he (Peter) was the right person to talk to.  It paid off at the end because Peter settled the matter with them. There is nothing a child of God, a man in business or a Pastor in Church needs like an able assistant.  Peter was able to fit into it and that shoe fits him.  How do you assist people get things done? Do you back out? Or shy away from helping out?  This is another crucial question to you; child of God or man of God. It is good to assist others today, because tomorrow you’ll need someone to assist you.  It is very rare to see people assist someone whole-heartedly and selflessly.  Many assist others because of the gain they are going to make.  Not so with Peter, he assisted in the ministry of Jesus wholeheartedly.  What did he get? He got impartation that made him succeed in his endeavours after Jesus had handed to him (John 21:14-20) May this teach you to serve and assist a leader for the reason of impartation.",
+        "prayer_focus": "Lord, always prompt me to assist my boss so as to get more impartation from above."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday, 31st October, 2022",
+        "topic": "THE MAKE UP OF A CHAMPION",
+        "text": "1 Samuel 17:23 - “And as he talked with them, behold there came up the champion, the philistine of Gath, Goliah by name, out of the armies of the philistines, and spake according to the same words: and David heard him”.",
+        "introduction": "A champion is someone who emerges in the midst of others.  He towers above others in strength, performance and in winning battles or trophies.  Goliath was a champion who had won wars and been in the limelight as a renowned champion for many years.  These credentials gave him the guts to come out and challenge Israel to a fight for 40 days. What makes up a champion is not merely his skin colour, physical height and bodily shape.  It is the established set of attitudes held by him or her.  Two of it are thinking positively and having a growth mindset. For instance saying; I can improve my skills with much effort and practice.  His mindset or way of thinking is towards progress and future achievement. David hearing Goliath talked stirred the championship spirit in him.  He wondered why Goliath had to threaten his Elder brothers, King Saul and all other warriors in Israel for 40 days.  No one will succeed in quenching the championship light in you.  David decided to champion the cause of fighting Goliath on behalf of Israel.",
+        "prayer_focus": "Oh Lord, help me win battles over my opponent."
     },
     {
-        "date": "",
+        "date": "Tuesday, 1st November, 2022",
         "topic": "",
         "text": "",
         "introduction": "",
