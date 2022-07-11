@@ -865,73 +865,73 @@ export const devotional = [
     },
     {
         "date": "Tuesday, 1st November, 2022",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "topic": "A CHAMPION IS FEARLESS",
+        "text": "1 Samuel 17:11 - “When Saul and all Israel heard those words of the philistine, they were dismayed, and greatly afraid”.",
+        "introduction": "Thank God, King Saul and the entire Israel were greatly afraid of Goliath, but David was not.  Goliath was a reigning champion while David was a promising or budding champion yet David was not afraid.  He had a heart of steel; a heart of strong determination, this was a determination that knows no defeat.  Truly, David was not defeated; instead he defeated and killed Goliath in the end.  This day, God has anointed you with the unction of fearlessness.  All ears will fear you instead of you fearing them. David was fearless because he knew God has endowed him with winning skills.  What do you know God has endowed you with?  That should make you remain fearless in the face of adversity.  You are a champion by faith.  When you go into any battle in the name of Jesus, you’re going to emerge a winner.  You’re a champion through Christ which strengthens you.  Amen.",
+        "prayer_focus": "Father, strengthen my attributes to excellence and beyond champion."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday, 2nd November, 2022",
+        "topic": "A CHAMPION IS NOT LIMITED BY AGE - 1",
+        "text": "1 Samuel 17:14 - “And David was the youngest: and the three eldest followed Saul”.",
+        "introduction": "A champion constantly yearns for the topmost top and that does not depend on his years on earth.  He is always rated higher than the rest because of his agility, ability and dexterity never at all on seniority.   Championship ability is based on a mindset not on a man’s setting or status.  So, age cannot, will not and should not place a limit on you or him/her. David was the youngest, yet God ordained him above his three eldest brothers who were war veterans with King Saul.  That’s destiny for you.  “So then, it is not of him that willeth, not of him that runneth, but of God that showeth mercy”.  (Rom. 9:16).  Destiny most times answers to God’s mercy.  Don’t kill yourself if your junior does better than you in a particular field.  Watch out for yours, there’s an area destiny has also smiled on you for excellence and supremacy over your junior.  However, the junior should not forget to be humble if he doesn’t want to go down.  Read this: “A man’s pride shall bring him low, but honour shall uphold the humble in spirit”. (Prov. 29:23). In “Things fall apart” Okonkwo said those whose palm kernel are not cracked by them, but by excellent spirit should not forget to be humble.  Age is just a number and is not equal to wonder.  Junior and Senior, be guided.",
+        "prayer_focus": "Oh God, let not the consideration of my age (younger or elder) dwarf the spirit of championship in me."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday, 3rd November, 2022",
+        "topic": "A CHAMPION IS NOT LIMITED BY AGE -2",
+        "text": "Numbers 13:30 - “And Caleb stilled the people before Moses, and said, let us go up at once, and possess it; for we are well able to overcome it”.",
+        "introduction": "“Age is an issue of mind over matter, if you don’t mind, it doesn’t matter” according to Mark Twain.  Winning is first on the mind before it happens in the physical.  A mind of championship, be it on a young man or old man will surely manifest a champion.  Yesterday, we saw this mind on David, a youth.  Today, we are seeing it on Caleb, an old man.  Caleb silenced fear in the people of Israel, when he ordered that they should go and fight the sons of Anak (Giants) win and possess back their land. Henry Ford said: “Anyone who stops learning is old whether at twenty or eighty.  Anyone who keeps learning stays young.  The greatest thing in life is to keep your mind young”.  Caleb, though old was still young at heart.  He had the spirit of a young man, even at 85 years of age.  God Himself commended him.  “But my servant Caleb, because he had another spirit (spirit of a champion and being young at heart) with him, and had followed me fully, him will I bring into the land where into he went; and his seed shall possess it” (Num. 14:24).  The rest died in the wilderness because of fear and for lacking the spirit of a champion.  May you not be numbered among such; brave through for breakthrough.  Victor Hugo said “Forty is the old age of youth, fifty the youth of old age”.  You’re not too old to set a goal.",
+        "prayer_focus": "Oh God, help me to still bear fruit and be relevant in the scheme of things even at very good old age."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday, 4th November, 2022",
+        "topic": "A CHAMPION LOVES WORK",
+        "text": "“Proverbs 22:29 - “Seest thou a man diligent in his business? he shall stand before Kings; he shall not stand before mean men”.",
+        "introduction": "A champion is a work addict.  He exercises and trains himself regularly.  This takes serious and strenuous work.  He knows that this sort of work took him to the top and he must continue same to remain there – at the top.  Do you want to be a champion, work on your muscles; work on your mind. Diligent is the heart beat of champions. It helps them build up character to support their charisma.  Note: charisma will open doors, character keeps those doors open, in the process, their integrity is build up.  Integrity is who you are when nobody is watching. It is moral uprightness in secret and in the open.  This is the trait that keeps champions focused like David (1 Chron. 29:28) and ready to win tournaments, competitions or battle – physical and spiritual. Child of God, you’re a champion in faith, ensure these qualities are found in you, to enhance your growth spiritually, materially and intellectually. I, once saw a sticker with the inscription: “I hate poverty. I pray, I plan, I work”.  That means, there’s no room for laziness.  A lazy or sluggard man will die a poor man.  Learn to work with your hands and your mind.  Learn to sleep less and work more.  It will keep you upwardly mobile as an overcomer, consistent worker and a high-flyer.",
+        "prayer_focus": "Father, help me to work my way to the top and keep going up with a rising competence."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday, 5th November, 2022",
+        "topic": "A CHAMPION VALUES TIME",
+        "text": "John 11:9 - “Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world”.",
+        "introduction": "Man waits for time. Time waits for no man.  Time helps man catch up with destiny.  Destiny is the unit of time.  Do you want to fulfill your destiny? Place value on time.  Don’t waste but make maximum use of it.  Every champion upholds this as a key habit. Don’t joke with the twelve hours you have in a day. Don’t let anybody waste them for you with idle conversations and don’t waste yourself with petty gossips.  It is only a man that is performing and doing well that things are said of.  You know, ripe mangoes always attract stones.  Understand that those who backbite you will always remain at your back.  Don’t get distracted, focus on the assignment.  Hands that will clap for you tomorrow are more than the ones clapping against you today. Use your day effectively.  No one drives for and fast in the night; as they go in the day.  You will not stumble in the night if you use every available time to fight setbacks and pursue breakthroughs in the day.",
+        "prayer_focus": "Lord Jesus, let me not only see the light of this world, make me the light of the world."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday, 6th November, 2022",
+        "topic": "A CHAMPION IS DIVINELY WIRED FOR COMPLETENESS",
+        "text": "Philippians 1:6 - “Being confident of this very thing, that he which hath began a good work in you will perform it until the day of Jesus Christ”.",
+        "introduction": "Completeness is the fuel for accomplishments.  It is the divine drive for success in any endeavor.  It is also a sense of wholeness. Champions or Christian believers must refuse to stop their work and practice half-way.  This would amount to half-measure. Remind yourself of what made you start that project or engagement, and then be motivated to drive to your destination.  Review your vision daily and catch the inspiration to advance steadily.  Notice that, vision and achievement takes time.  Be willing to brave through to the end. David first killed the lion and the bear (1Sam 17:32-36) before he got motivated to kill Goliath.  Be confident to kill Goliath. Be confident in God that He will propel you to the finishing line.  He is doing a good work through you, so rely on Him to carry you through.",
+        "prayer_focus": "My father and my God, grant me the grace to finish well and finish strong."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday, 7th November, 2022",
+        "topic": "TITHE IS A COMMAND",
+        "text": " Mal. 3:10 - “Bring ye all the tithes into the storehouse that there may be meat in mine house and prove me now herewith, said the Lord of hosts, if I will not open you the window of heaven and pour you out a blessing that there shall not be room enough to receive it”.",
+        "introduction": "A command is a strong statement that depicts ‘a must do’ action. The commander expects the person commanded to comply or act immediately without an excuse. Tithe is a command from God to Christians the world over to obey.It is only 10% of our income or wages.The commander(Almighty God) is the source and provider of our finances and other resources.Without him, we can do nothing(Jn. 15: 5).He is the one that strengthens our hands at work and also blesses the works of our hands(Neh. 6: 9, Ps. 1: 3).As our creator and maker, we must obey His command by bringing into the store house of the Lord all our tithes.If we trust and love Him, paying of tithes should be a must do obligation.Pay your tithes so that things will not be tight with you.",
+        "prayer_focus": "Lord, help me to obey your command of tithing."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday, 8th November, 2022",
+        "topic": "TITHE BRINGS OPEN DOOR",
+        "text": "Mal. 3:10 - “and prove me now herewith, said the Lord of hosts, if I will not open you the windows of heaven and pour you out a blessing that there shall not be room enough to receive it”.",
+        "introduction": "Closed doors are signs of poverty, stagnation, failure, attack and sometimes curses or evil covenant.  Open doors on the other hand usher in blessings, upliftment, promotion celebration, breakthrough etc. Every kingdom tither has an assurance of open doors.  This is the word of the Lord.  He will open the windows of heaven and pour down blessing. When He speaks nobody and nothing opposes His words (Isa. 55:11).  Refusing to pay your tithe is another way of directly or indirectly inviting closed doors in certain areas of your life.  To pay our tithes and receive blessing or not to pay and see closed doors is a choice. Choose. Do you want God to open the windows nay ‘doors’ of heaven and pour out His blessings upon you? Pay your tithe. The window of Zarephath obeyed God’s command through the mouth of Prophet Elijah (1Kings 17:12-16) and received her miracle of open doors.  It is your turn to receive open doors.  Pay your tithe.",
+        "prayer_focus": "Gracious Lord, let me received open doors as I pay my tithe in Jesus name. Amen."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday, 9th November, 2022",
+        "topic": " TITHING STOPS THE DEVOURER",
+        "text": "Mal. 3:11 - “And I will rebuke the devourer for your sake and he shall not destroy the fruits of your ground; neither shall your vine cast her fruits before the time in the field, said the Lord of hosts”.",
+        "introduction": "A devourer can be a animate or inanimate creature.  It can be protracted illness abject poverty, affliction, barrenness, Life full of crises, untimely death etc.  See Job 1:9-20. Some major assignments and targets of the devil as a devourer includes:  to steal, rob, ruin, destroy and sometimes kill his victims.  The disaster or calamity may continue from generations to generations (Exo. 1:8-14) until there is a divine intervention. But despite the weight and effects of the work of the devourer, one thing – payment of tithe is the powerful key that can unlock closed doors and bring about restoration in every facet of life.  “And I will rebuke the devourer for your sake----- (vs11).  That is the LORD our God speaking.  What else? Reasonable action – Pay your tithe. Beloved tithing can stop that devourer in your life if you are serious about it.  Arise and recover your lost possession (Obadiah 1:17). If you are willing and obedient, you shall eat the good of the Lord – (Isa. 1:19).",
+        "prayer_focus": "Father please give me the strength and grace to pay my tithe so as to rebuke the devourer in my life, Amen."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday, 10th November, 2022",
+        "topic": "TITHING ESTABLISHES AND PROVES GOD’S SOVERIENTY",
+        "text": "Lev. 27:30 - “And all the tithes of the Lord whether of the seed of the land or of the fruit of the tree is the Lord’s, it is Holy unto the Lord”.",
+        "introduction": "The scriptures in proverbs 10:10 has it that: The fear of the Lord is the beginning of wisdom and knowledge.  It is wisdom to pay one’s tithes to avert misfortune. Beloved, if you have a list of 100 things to fear, God should be No.1.Why ? He is our heavenly father, creator and everything you are and have in this world(Jn. 15: 5).He has the whole world in His hand.He decides what will happen and has a fore- knowledge of everything that happens to you and others.He is our sovereign LORD.Tithing therefore is a deliberate act of establishing and proving God’s sovereignty as the author and finisher of our faith(Heb. 12: 2).Tithing teaches us to acknowledge the SOURCE of our provisions, wealth and prosperity(Ps. 95: 6).Child of God, 10 % of your income and proceeds is not enough but it is to prove your love, trust, and that you serve God with fear and trembling(Ps. 2: 11).Pay you tithes and receive more blessing from Him.",
+        "prayer_focus": "Lord, open my eyes to behold and acknowledge your sovereignty and power as I continue to serve you."
     },
     {
         "date": "",
