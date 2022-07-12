@@ -435,6 +435,7 @@ export const devotional = [
         "introduction": "The secret to bountiful blessing is giving cheerfully.  According to our text every service gives reward, how it is rendered determines the reward. It calls for caution that we have more forceful givers today than willingful givers.  It also calls for a stop to false prophecy in place of giving.  It is another opportunity to teach the believers how to render accountable service and not forcing them to give unacceptable service.  A man cannot give beyond his/her understanding as forcing brings grudging giving; the solution is to teach and give the people the liberty of giving as they are propose to have purpose. Moses while speaking to the Israelite admonished them, that God can only take the offering of a willing heart (Exo. 35:5).",
         "prayer_focus": "Lord, open my understanding to know more and more."
     },
+    //  September
     {
         "date": "Thursday 1st September, 2022",
         "topic": "SERVE WITH HOLINESS",
@@ -646,6 +647,7 @@ export const devotional = [
         "introduction": "Believers are very conservative and planning conscious. A believer can have some fund, all he plans for is himself, his family, his friends and loved ones, now this takes about 85% of his fund. The remaining 15% is miscellaneous, God inclusive. Yet this believer expects maximum blessings from God, what audacity. Saving for self is not a bad thing, but withholding more than meet is crashing to poverty.  The average believer cannot give 50% of his available resources or monthly fund to God, because self must be taken care of. Do we realise we are holding more than meet and trading the path of poverty? Beloved, even the necessary can be sown, especially when the consent of family is sort but make sure your necessities does not exceed that which you sow. ",
         "prayer_focus": "Father, help me give out amidst necessities."
     },
+    // October
     {
         "date": "Saturday 1st October, 2022",
         "topic": "BE CHEERFUL",
@@ -1145,450 +1147,156 @@ export const devotional = [
     },
     {
         "date": "Sunday 11th December, 2022",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "topic": "ONE WITH GOD – 7",
+        "text": "Luke 22:19 – “And he took bread, and gave thanks, and brake it, and gave unto them, saying. This is my body which is given for you: this do in remembrance of me”.",
+        "introduction": "“One with God” speaks of unity and harmony.  Breaking of bread requires total unity.  Passover was a time observed by all the Jews coming together into Jerusalem to celebrate.  The occasion narrated in our text was the last that Jesus had with His disciples before His death, which became the Lord’s Supper Ordinance. Breaking bread demands total unity for true fellowship among participants.  All those who took it with the Lord were saved, except Judas Iscariot, who betrayed Him and he ate to his own damnation. The early Christian also came together, broke bread and ate in unity and harmony, and this they did in remembrance of Christ’s death and resurrection.  All believers should follow their examples, for it is the Lord’s command.  To be a partaker, you must be born again, spotless and blameless. If you abstain because of sin, you may also miss Heaven.  Holiness is a daily requirement.  So, strive to be holy at all times.",
+        "prayer_focus": "Lord, help me to stay pure always."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 12th December, 2022",
+        "topic": "KEEP A BALANCE IN YOUR LIFE",
+        "text": "Isaiah 28:10 – “for precept must be upon precept, precept upon precept, line upon line; here a little, and there a little”.",
+        "introduction": "Life thrives by balance.  Meaning nothing should be done in excess.  A common saying says excess of anything is bad.  For example, if you put too much salt in a soup, you have spoil the soup and lost the cost. You need to discipline yourself to live a life that is well balanced.  A common saying goes “don’t bite more than you can chew”.  In other words, live your life in moderation.  In this life, you can be rated as a wise man or woman if you keep to an attitude of not being rigid but flexible. Isaiah 28:10 – instruct us on keeping a balance in our lives that we should pay attention to details in whatever we are doing so that when the situation or matter gets complex, it will be easier to retrace our steps and do the necessary corrections or adjustments.  That indeed, is the prime benefit of keeping a balance in your life and mine.",
+        "prayer_focus": "O God, help me to be committed to keeping a balance in my life and endeavours"
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 13th December, 2022",
+        "topic": "LIVING A BALANCED LIFE",
+        "text": "Proverb 15:13 – “A merry maketh a cheerful countenance; but by sorrow of the heart, the spirit is broken”.",
+        "introduction": "The state of the heart is often expressed on the face.  Joy in the heart depicts a smile on the face.  Reversely, a frown on the face is a pointer to the sorrow in the heart.  Solomon warns: “Keep your heart with all diligence for out of it are the issues of life” (Prov. 4:23). So, it takes diligence (or carefulness) to balance your heart from either tilting to cheerfulness or gloominess. Living a balanced life speaks of having a firm control of your heart disposition.  You tune it to joy, in moments of joy and sadness in moment of pains.  However, you have to be careful and dutiful to ensure that it’s not all sadness.  In moment of sadness, you can still introduce joy into your heart with a song in your mouth or praises on your lips.  Learn to rations sadness and joy in the ratio of 50:50.",
+        "prayer_focus": "O God, enable me to stay joyful even in adverse condition."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 14th December, 2022",
+        "topic": "BALANCE IS A SENSE OF HARMONY",
+        "text": "Proverb 15:3 – “…but by sorrow of the heart, the spirit is broken”.",
+        "introduction": "Yesterday, we saw how the heart connects with the face.  Today, we are reminded that the heart links with the spirit.  The Holy Spirit is the Spirit of joy.  When the heart is joyful, the flow of the Holy Spirit ensues.  On the other hand, when the heart is sorrowful, the flow is broken and the harmony is lost. Balance is a sense of harmony when the cheerfulness of the heart sponsors the flow of the Holy Spirit within a man.  You notice those in the Prophetic Ministry partner with songs to retain joy in the heart and sustain the flow of the Holy Spirit through them.  Without the two running paripasu (hand in hand) the prophetic grace becomes hampered.  The fruit of the Holy Spirit is joy.  So, the flow of joy in the heart guarantees the flow of the Holy Spirit inside out in a vessel God choses to use.",
+        "prayer_focus": "O God, let nothing cut short the flow of joy in my heart as and can manifest the flow of the Holy Spirit as you intend to use me."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 15th December, 2022",
+        "topic": "BALANCE REQUIRES A STEADY MIND",
+        "text": "Proverb 75:13 – “…by sorrow of the heart, the spirit is broken”.",
+        "introduction": "Sorrow of the heart is another word for heart break or broken heart.  Broken heart makes the spirit broken.  In a situation of both conditions, the mind cannot be steady. I come against any plot that is programmed to give unsteadiness of mine today in Jesus name. As seen yesterday, harmony thrives in an atmosphere where there’s no acrimony.  Acrimony comes through emotional hurts, fits of anger and unwanted humiliation.  These cause shifty instead of steady mind.  Balance requires a steady mind for that to ensue; you must do away with acrimony.  Peace of mind sponsors steady mind.  So free yourself from all trouble and turbulence in the mind, and then balance will be obtained. A steady mind achieves a steady progress and stable success.  So, endeavor always to ensure you operate your life on the basis of a steady mind.  It will do you good and give you speed.",
+        "prayer_focus": "O God, grant me the privilege to pitch my life on the realm of a steady mind."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 16th December, 2022",
+        "topic": "BALANCE HELPS YOU STAY ON COURSE",
+        "text": "O God, deliver every sig sag experience and keep my life going on a balance.",
+        "introduction": "When the heart is merry, many things can be achieved:  One of it is that it gives your life balance.  Secondly, it helps you stay on course of your assignment.  Staying on course means: you don’t get distracted and you don’t drift to the left or right.  You have a smooth sail.  These will surely make your countenance cheerful. A life of cheerful countenance is an experience where one does not have problems. In other words, challenges are reduced to the bearest minimum or within manageable disposition.  Everything is in control or nothing gets out of control. God is a God of balance.  He knows how to help you cushion the ill-effects of life and still stay on course to scale more height ahead.",
+        "prayer_focus": "O God, deliver every sig sag experience and keep my life going on a balance."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 17th December, 2022",
+        "topic": "BALANCE BETWEEN BUSYNESS AND LAZINESS",
+        "text": "Eccl. 3:1 – “To everything there is a season, and a time to every purpose under the heaven”.",
+        "introduction": "Time or timing is one tool that can help any man strike a balance between busyness and laziness. On the positive side: Busyness is a season of coming on strong in your activity.  At that period, your activity yields productivity whereas laziness season is when you call off on your activity.  It is a kind of time off, either to rest inorder to regain strength or check your health from deteriorating.  At his time no work is done. On the negative side, when the stop work period is too long, it is termed laziness; that is reluctance to go into work or unwillingness to do anything.  This is bad and unacceptable before God and man.  Reason is:  such behaviour is a pointer to laxity into inactivity.  On the other hand, busyness speaks of intensity of activity.  Meaning work is done and result or yield is seen but if the busyness results in activity without productivity, then such too, is not acceptable by God and man.  Reason is: more time and money have been spent attending social functions and ceremonies at the expense of going for evangelism and soul winning as a believer or a church. 	Balance calls for elimination of excesses; a little time to work and a little time to rest, a little time to attend social functions and a little time to focus on prayers and soul winning.  That again calls for moderation, meaning apportion time for this and for that properly without tilting too much to one side.",
+        "prayer_focus": " Lord, help me to apply moderation to my time of busyness and laziness and the wisdom to know the difference."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday 18th December, 2022",
+        "topic": "JUSTICE IS BALANCE",
+        "text": "Proverb 24:16 – “for a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief”.",
+        "introduction": "Injustice is a game people love to play in life and politics.  They ignorantly do so to their wounding and their lives often end in shambles.  This is a worldly trend.  That’s a social fad but the spiritual fashion points to things being done in moderation.  “Here a little and there a little” (Isaiah 28:10), that strikes a balance.  That speaks of justice and leaves room for no excesses. Justice is balance and balance speaks of justice.  The synonym of justice is fairness, balance and equality.  Justice signifies that fairness should be promoted in our dealings with God and people so that no side is cheated.  In other words, equality (or equal right) should be allowed to prevail. To strike a balance or maintain justice, caution must play a role.  A just man is a man of caution.  He does his things orderly, with care and prudence; so that if he makes mistakes he can retrace his steps and put things aright.  I pray you become a just man or woman from today. A just man follows the path of justice and plays his role with caution.  That’s why even if he falls seven times, he can still rise up.  The wicked man is full of injustice and has thrown caution to the winds.  So, he falls into his own mischief. Why? He does not know how to balance justice with caution.",
+        "prayer_focus": "Lord, help me to shun injustice and wickedness vehemently so that I can enjoy steady growth and progress in life and in my career."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 19th December, 2022",
+        "topic": "BRAVE THROUGH – 1",
+        "text": "1 Thess. 5:17 – “Pray without ceasing”.",
+        "introduction": "Prayer is a very hard work but we are asked to pray without ceasing (1Thess. 5:17).  Meaning, there’s no way you can skip, dodge or excuse yourself from this hard work.  But hard work takes away, hard life.  That means, if you duly engage in prayers, you’ll fully escape the pangs of hard life.  So, when the reluctance to pray comes, all you need to do is to brave through. Brave through is a language of determination.  A determination that knows no defeat is an experience that a healthy prayer life shields you from.  You cannot have a breakthrough without a determination to brave through the odds and toils in life.  When you brave through, you free yourself from humiliation and conquer frustration. People don’t brave through again, that’s why we have so many school drop-outs, cases of divorce in marriage and defections or decamping in politics.  I speak to you again: Brave through for a breakthrough.",
+        "prayer_focus": "Father, enable me to brave through any obstacle on my way."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 20th December, 2022",
+        "topic": "BRAVE THROUGH – 2",
+        "text": "1 Kings 18:43 – “And said to his servant, Go up now, look toward the sea.  And he went up, and looked, and said there is nothing.  And he said, Go again seven times”.",
+        "introduction": "The above text is about the story of Prophet Elijah, he spoke only once and rain did not fall for three years and six months; as he said “according to my word”- (1Kings 17:1.  When he came to praying to bring back the rain, it took him seven sessions of intensive prayers.  We are not told how long one session lasted.  Learn something here; it is easier to speak forth for an evil happening to emerge but far more difficult to pray forth or brave through prayer for a restoration or to reverse an evil experience.  So, watch your mouth and mind what you say or speak forth. “Go again seven times” indicates that when you’re involved in a brave through prayer, you don’t need to give up easily because, it is not a light duty but a heavy, concerted, consolidated and desperate duty.  It requires a determination that says no to a defeat.  It requires you to hold on until a change comes. 	Of all the prophets in the Bible, Elijah had the tenacity (staying power) in prayer till the right and desired result would emerge.  That is to say, impatience was not as his dairy or vocabulary.  Beloved, impatience is not a good virtue in the place of prayer.",
+        "prayer_focus": "O Lord, heal me of impatience."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 21st December, 2022",
+        "topic": "BRAVE THROUGH – 3",
+        "text": "1 Kings 18:43 – “…And he went up, and looked, and said, there is nothing…”",
+        "introduction": "Prayer is the greatest thing that anyone can do on earth to advance the interest of the kingdom of God and better your lot against the odds in life.  Yet, you need one thing to ensure your success or breakthrough; which is a good prayer partner; someone who will stand by and with you under thick and thin.  The servant of Elijah was such a person. Elisha was that servant of Elijah that knew how to fuel the zeal of his master to brave through situations to a desirable conclusion or pre-determined destination.  You need a partner in this life and walk with God that will not say anything to discourage you in your attempt to fulfill destiny.  He/she could be a husband or wife, a bosom friend, an acquaintant believer or a fellow Pastor.  May God help you collate one, at the right time, in the right place and for the right occasion. “Two are better than one” is a divine language and an arrangement that sponsors determinations and quenches the flame of discouragement.  These are back-ups in a scenario of brave through for a breakthrough.  Before this year ends, may God pair you with somebody who will stand by you to make next year better than this year.",
+        "prayer_focus": "Pray as led about your plans/calendar of events for next year."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 22nd December, 2022",
+        "topic": "BRAVE THROUGH – 4",
+        "text": "1 Kings 18:43 – “there is nothing; and he said, Go again seven times”.",
+        "introduction": "The word “impossible” has no place in the language and thought of a praying believer.  People who pray never accept “no” for an answer, they press until their requests are granted.  Brave through means don’t give up, your miracle is on the way.  It is a purpose driven advice to complete a task.  Indeed, the body language of Elijah’s servant pointed to an instruction for him to brave through and his prayer was answered by God and rain restored. What have you been praying or hoping for since the beginning of the year till now.  My advice is brave through.  God will make a way for you.  He has not abandoned you; rather He is still working out things for your good.  After this month, you shall go again and what did not work, will work. Notice one thing, when Prophet Elijah was praying, he didn’t go from place to place.  He stay put at one place.  Many people today, when they are faced with challenges, they go from place to place.  When you stay in one church, for instance, it is easy to brave through and breakthrough.  Going from place to place may make you break away and probably miss your time of breakthrough.  A nothing stone gathers no moss. Stay put and brave through ",
+        "prayer_focus": "O Lord, help me not to give up in the midst of challenges in Jesus dear name."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 23rd December, 2022",
+        "topic": "BRAVE THROUGH – 5",
+        "text": "Luke 18:2-7 – “Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me”. – Verse 5.",
+        "introduction": "Brave through speaks of persistence. Persistence pays.  The widow in the story proved that persistence pays; that you can breakthrough any stubborn situation if you can endeavor or even endure to brave through.  Men and women who know God give Him no rest night and day by their prayers.  As a matter of trust, God enjoys their disturbances and give them the best. God will give you the best of what you desire if you can brave through.  He gave to this widow; He also gave to Daniel, Shadrach, Meshach and Abednego as well as Nehemiah; all through their persistent prayers. Learn more, this widow and others mentioned succeeded because they had no alternative to God, those who have alternatives in juju, fetish practices and diabolical powers; cannot endure to brave through.  That’s why they lose out in the end.  The unrighteous judge lost out, King Nebuchadnezzar lost out, the Tobias, Sanballats and Gershem lost out but King Darius did not lose out because he braved through night fasting to get Daniel free.",
+        "prayer_focus": "O God, I have no alternative to you.  As I brave through, let my enemies lose out."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 24th December, 2022",
+        "topic": "BRAVE THROUGH – 6",
+        "text": "Luke 18:2-7 – “I will avenge her lest by her continual coming she weary me”. – Verse 5.",
+        "introduction": "As you pray today, God will weaken your enemies and make them withdraw from resisting or attacking you.  The Kingdom of God and the believers in Christ make the most rapid progress when the believers pray very early, pray very consistently and pray very long in the day or night. The weariness and withdrawal of the stubbornness of the unrighteous judge who said: “Though I fear not God, nor regard man” (Luke 18:4b) is a proof that character is easier changed by prayer than by preaching. Is there anything, anywhere you desire a change? Be on your knees and brave through for a possible desirable and purposeful change.  You must finish this year well.  You must finish strong in life and Ministry.  All you need is a desire to brave through unwanted experiences, occurrences and recurring influences and your joy will be full. Your continual going to His presence to demand for your due and what is due you which had been handed over to another person will received divine attention today.  Receive your joy and right.",
+        "prayer_focus": "My father, my maker, whatever was due to me that was withheld, let a release come forth now in Jesus name."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Sunday 25th December, 2022",
+        "topic": "BRAVE THROUGH – 7",
+        "text": "Luke 18:2-7 – “And the Lord said, Hear what the unjust judge saith” – Verse 5.",
+        "introduction": "God is interested in confessions, especially the confession of our enemies.  The unjust judge as we saw yesterday in verse 5 confessed: “lest by her continual coming she weary me”.  The most important pre-occupation of Satan is to stop believers from praying.  Remember, this parable of the unjust judge and the persistent widow was to emphasize the scriptural advice: Pray without ceasing (Luke 18:1, 1 Thess. 5:17).  Man and woman ought always to pray, and not to faint. Fainting spirit is an enemy against the ability to brave through.  We should exchange our fainting spirit with a brave through spirit. Let our enemies take the fainting spirit so that we can win them.  The widow persisted and the unjust judge could not resist her.  O God, don’t allow our enemies be able to resist us anymore. Our persistence pleases God.  That’s why when He sees us in that, He rises to turn things to work for our good.  The Kingdom of God is happy when the Kingdom of Hell is depopulated.  You must do something today to win the evil one to your side and to operate in your own terms. Pray!",
+        "prayer_focus": "Lord, enable me to will the unbelievers to your side today and always."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Monday 26th December, 2022",
+        "topic": "FINISH WELL – BECOME A POINT OF REFERENCE",
+        "text": "James 5:17-18 – “Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on earth by the space of three years and six months” – verse 17.",
+        "introduction": "Doing something never done before sets a precedence. Until you set precedence, you cannot qualify to become a point of reference.  Today’s scripture talks about Prophet Elijah who set a precedence with his consistent and persistent prayer life to his previous verbal verdict that it should not rain as he said “…according to my word” – (1 Kings 17:1).  Truly, it did not rain for three years and six months – (James 5:17). As a matter of fact, you cannot appreciate both scriptures very well if you do not read – 1 Kings 18:43-44.  How he had to pray and asked his servant to “Go again seven times” to check if rain had started to drizzle.  What does this mean to us today? You cannot finish strong and finish well this year; if you don’t pay attention to what has been happening or what has become the outcome of your prayer life in recent times.  If your prayers have been answered, good but you need to upgrade. If your prayers have been answered, you need to brave through for a breakthrough that will make your testimony become a point of reference in the year(s) ahead.  In case, you were soliciting for favour from somebody, follow  this instruction as Ruth followed Naomi’s advice in –Ruth 3:18 – “Then said she, sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the things this day”.  There’s something God has to finish for you before this year finishes; but sit still in persistent prayers and you will smile at last.",
+        "prayer_focus": "Lord, as I persist, let no devil resist my answers."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Tuesday 27th December, 2022",
+        "topic": "FINISH WELL – BECOME A TOPIC OF DISCUSSION",
+        "text": "Hebrews 12:1-2 – “Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God”. – 2",
+        "introduction": "Jesus is still the topic of discussion, since yesterday, today and forever because He was able to author and finish our faith.  He did this by braving through temptations, trial, crucifixion, burial, resurrection and later ascension to Heaven.  He paid the price for our redemption that is why Christians in the world over have constituted into a congregation for him.  The question is what price are you willing to pay for the prize that will be discussed in the year(s) to come?. Becoming a topic of discussion is a price in which there’s a price you need to pay to obtain it.  The prize for that of Jesus was the joy ahead and sitting at the right hand side of the throne of God, His heavenly father.  Nobody was ever there and nobody will ever be there; except Him.  A joy and topic of discussion indeed.  How do you fit in the present arrangement?.	You are to intensify your efforts in making it big in life and destiny.  You must plan taking your task or assignment to the next level.  My counsel is brave through and that will become a topic of discussion in the nearest future.  Like Azariah told King Asa the people of Israel to remove the idols from the land in – 2 Chron. 15:7- “Be ye strong therefore, and let not your hands be weak; for your work shall be rewarded”.  Man gives award, God gives reward. Cleanse yourself from all filthiness, iniquities and infirmities and get ready for your prize.  It could be a cash, position, provisions or possession reward.",
+        "prayer_focus": "Lord, deliver me from any set back that can stop me from getting to the peak of my career in the year(s) ahead in Jesus name."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Wednesday 28th December, 2022",
+        "topic": "FINISH WELL – QUALIFY FOR DOUBLE PORTION OF BLESSING",
+        "text": "Job 42:10-12 – “And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before”. – verse 10.",
+        "introduction": "Every time you pray for somebody, see it as an opportunity to redeem yourself from affliction and an occasion to turn away from yourself previous further or future experiences of derision or mockery.  Those are the double portion of blessing.  Prayer prevents regrets and paves way for later results in your life and for your household. It was the same three friends who mocked Job that God used to reverse ugly trends of death, loses and sicknesses from Job’s life and household.  Those you called your enemies are not there by mistake.  They are there for a purpose – for God to use them and re-write your story based on what God will ask you to do for them or them to you.  As upright as Job was, they found many faults in him.  But it was those faults that God used, and asked Job to forgive them, pray for them for a change of Job’s story.  As Job obeyed, his own miracle ensued.  Don’t ever give up doing good to your enemies because your miracle, through God using them, is on the way. I wish you pray for yourself as Jesus did in John 17:4 – “I have glorified thee on the earth: I have finished the work which thou giveth me to do”.  This year your acts and activities shall glorify God.  Your scheduled tasks divinely bestowed upon you shall be completed.  You will not have any carry-over.  You’ll cross over the year without any carry over (without things left undone) in Jesus name.",
+        "prayer_focus": "Lord Jesus, help me to finish well all that you have assigned to me to do this year."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Thursday 29th December, 2022",
+        "topic": "FINISH WELL – EXPERIENCE JOY UNSPEAKABLE",
+        "text": "Psalm 126:5-6 – “They that sow in tears shall reap in joy” – verse 5.",
+        "introduction": "Keep sowing your seeds in the soil of this earth, in the lives of human beings and into the coffers for God’s work and be ready to receive your harvest and get your pay back. Your joy shall be full as your harvest shall be plenty and very rewarding.  God has pitched your life and endeavours on the fourth ground and your labour shall surely be sweet and profitable.  Joy unspeakable is a product of tears uncountable.  Now, is the season of that harvest. 	Attitude of sacrifice is the access to your rising to the ultimate divinely programmed for you.  Sacrifices are seeds sown not as convenient but as commanded.  They are seeds sown in tears and deep pains.  That’s how the price is paid and felt.  At last, such sacrifices do bring joy that last long and that means finishing well.  Solomon did so in 1 Kings 3:3-4 with a sacrifice of “a thousand burnt offerings” and God made him become the richest and wisest King that ever lived.  ",
+        "prayer_focus": "O Lord, help me to sow seeds as you commanded me to do in order reap better fruits."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Friday 30th December, 2022",
+        "topic": "FINISH WELL-ENJOY ANGELIC MINISTRATION",
+        "text": "Matthew 4:8-11 – “And saith unto him, All these things will I give thee, if thou will fall down and worship me (10) Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve (11) Then the devil leaveth him, and, behold, angels came and ministered unto him”.",
+        "introduction": "Satanic manipulations are what give birth to temptations.  Temptations come to give trouble to any person targeted.  Trouble does not discriminate.  It troubles everybody. Job tells us that a man that is born of a woman is of few days and is full of trouble but when hurdle of trouble is broken by your deliberate refusal to yield  to satanic manipulations; angelic ministration gain access to your edification and fortification.  In this season of the year may Jesus enable you to overcome every temptation. Martin Luther King Junior Once said: “the ultimate measure of a man is not where he stands in moments of comfort and inconvenience, but where he stands at times of challenge and controversy”.  If Jesus did not overcome Satan’s temptation believers would have faced much more challenges than we have now and our confessions of faith would have been shrouded in outrageous controversy.  God is faithful that He used Jesus to give us a way to escape temptations - (1 Cor. 10:33). Every temptation targets to make us commit character flow where our faith shifts from God to the devil (Matt. 4:7-9).  So to finish strong and finish well, we must develop an attitude of believing that we can brave through with God on our side and Christ as our strengthener - (Phil. 4:13).  This is where angels are released to come to our aid.  You’ll not fail God in this year end",
+        "prayer_focus": "Lord Jesus, thank you for strengthening me through and through."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
+        "date": "Saturday 31st December, 2022",
+        "topic": "FINISH WELL – ENJOY CAPTIVITY-TURNING AROUND",
+        "text": "Psalm 126:1-3 – “When the LORD turned again the captivity of Zion, we were like them that dream” – verse 1.",
+        "introduction": "When God turns people’s stories around for the better; it is always like a dream.  It is often a twinkle of an eye experience.  It could come through one connection you have, kind gesture you give, new level you are or sacrifices you have made.  I see God turning your ugly situation for good and beauty for ashes (beauty in place of ashes). How? It takes courage to brave through to arrive at this level.  These days’ people need to work on their endurance quotient.  Their habits are fill with impatience and absence of major breakthroughs.  Job 14:14; Job determined and held on to an inspired decision to press on and pass the endurance test.  Hear him: “If a man die, shall he live again?  All the days of my appointed time will I wait, till my change come”.  This resolve gave birth to his captivity turning experience far into his story in chapter 42:10 which we quote last Wednesday. God is willing to turn-around the captivity of the church and our nations but it needs our courage to endure till it comes at the appropriate time.  The church too needs to push (pray until something happens).  As God did for the early church in the days of Peter - (Acts 12:5, 7-16).  It was like a dream and they were astonished that their prayers caused an angel to enter the prison and bring Peter back to them.  A new joy is breaking forth for the church before the year runs out.",
+        "prayer_focus": "O God, dry up any evil hand stretched forth against me."
     },
     {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
-    {
-        "date": "",
-        "topic": "",
-        "text": "",
-        "introduction": "",
-        "prayer_focus": ""
-    },
+        "date": "Sunday 1st January 2023",
+        "topic": "FINISH WELL – BECOME TEN TIMES BETTER",
+        "text": "Daniel 1:8, 20 – “And in all matters of wisdom and understanding, that the King enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm” – verse 20.",
+        "introduction": "Every time you take yourself up on the ladder of purity, God takes you higher on the hierarchy of authority – (Dan. 1:8, 20).  Daniel, Shadrach, Meshach and Abednego are proven examples.  You must hold on to the conviction that you can survive and still excel without recourse to immorality.  Immorality can fight your rising into Excellency.  Stop it before it stops you.  It stopped Sampson. The next thing that you must shun is idolatry, if you want to rise to the peak.  Practicing idolatry is indirectly fighting God.  Who has every fought with his maker and prosper? (Isa. 45:9).  Worshipping idols shows that God cannot meet your needs, which is wrong.  This is why the magicians and astrologers went down for Daniel and his three friends to go up ten times higher.  When you trust in the Excellency of God, God will entrust into your life the grace to be upwardly mobile. The magicians and astrologers started well along with Daniel and his three friends but they did not finish strong and finish well, (like Daniel and Co.) because they lost their intimacy with God in the course of their journey.  I don’t know how you started this year but my wish to you is:  You must finish well!",
+        "prayer_focus": "O God, wherever I have lost out in the course of my journey with you put me back on track and help me to finish well."
+    }
 ]
