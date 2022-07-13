@@ -253,123 +253,310 @@ export const manual = [
         introduction: "  Each time you render help to someone physically, there’s help you’ll receive spiritually; which is due to manifest someday.Help attracts a reciprocating gesture.This experience will continue as long as you keep helping others.So don’t be tired to help, because there’s a bigger reward ahead. Whatever you sow as a seed comes back to you in multiple fold(Lk. 6: 38); The power  of a seed is to produce after its kind in several dimensions.",
         main_point: [
             "Help often comes back to you in a good portion and in an overflowing dimension.",
- 	"The portion of help you give will determine the portion you receive in return."
+            "The portion of help you give will determine the portion you receive in return."
         ],
         discussion_question: [
             {
-                question: "",
-                answer: [],
+                question: "What is help?",
+                answer: [
+                    "Acts of service done to others in life or in church",
+                    "How the love of God which directly in you is expressed – 1 John 3: 17",
+                    "A way of showing kindness to others",
+                    "Showing mercy, so that you also will be shown mercy.",
+                    "Being generous "
+                ],
             },
+            {
+                question: "Why you should help",
+                answer: [
+                    "To encourage each other - 1 Thess. 5: 11",
+                    "To build up each other.",
+                    "To make for yourself wallets that don’t wear out. - Luke 12: 33",
+                    "To prevent yourself from lack",
+                    "Avenue to get happy – Prov. 22: 9",
+                    "To refresh others so that you yourself will be refreshed.",
+                    "To secure yourself from loses - Luke 12: 33"
+                ],
+            },
+            {
+                question: "What does God say about helping others?",
+                answer: ["Those who are generous to the poor, lend to the Lord and the Lord will fully repay them – Prov. 19: 17."],
+            },
+            {
+                question: "Avenues of Helping others",
+                answer: [
+                    "Intercessory prayer – Acts 12: 5",
+                    "Giving to the needy Rom. 12: 13",
+                    "Donations – Prov. 19: 17",
+                    "Lifting others up – Prov. 3: 17",
+                    "Connecting others to profit – Phil. 2: 4",
+                    "Sharing with one who has none – Luke 3: 10 - 11",
+                    "Mutual help – Heb. 6: 10",
+                    "Mutual exchange – 2 Corinthians 8: 13 - 14",
+                    "Opening your hand to others – Duet. 5: 11."
+                ],
+            },
+            {
+                question: "Benefits of helping",
+                answer: [
+                    "Cures lack Prov. 28: 27",
+                    "Breaks the curse  of helplessness and hopelessness.",
+                    "Secures for the one who helps a treasure in heaven that never runs out.",
+                    "Mutual exchange of gladness - Acts 20: 35",
+                    "Avenue of forgiveness - Eph. 4: 32",
+                    "Grants spiritual security over your wealth - Luke 12: 33",
+                    "God helps those who help others - 1 Kings 17: 13 - 14."
+                ],
+            }
         ],
-        conclusion: "",
+        conclusion: "Help is a seed.  You keep adding value  to your life as you sow help into the lives of others.  Someone said: “God help those who help themselves’ but He blesses those who help others”.  So helping others is a sure channel of ceaseless blessings.",
     },
     {
-        lesson: "Lesson 3",
-        date: "",
-        topic: "",
-        text: "",
-        memory_verse: "",
-        aim: "",
-        central_truth: "",
-        introduction: "",
+        lesson: "Lesson 7",
+        date: "Sunday 14th August, 2022",
+        topic: "BLESSINGS FOR FRUITFULNESS/PROFITABILITY",
+        text: "John 15:2 (NKJV), “Every branch in me that does not bear fruit He takes away; and every branch that bears fruit He prunes, that it may bear more fruit”.",
+        memory_verse: "Mk 11:12-25",
+        aim: "To let believers know the essence of being fruitful in the house of God",
+        central_truth: "Fruitfulness is the only sure way that believers can have access to and sustain their relevance in God’s kingdom.",
+        introduction: "Fruit and offspring are the main reasons a farmer plant trees and raise animals.  Everyone would love to spend his/her time, energy and resources to go into any business that brings profit.  Fruitfulness/profitability therefore is essential in everyone’s life. By this lesson, be encouraged to yield your life to fruitfulness and profitability.",
         main_point: [],
         discussion_question: [
             {
-                question: "",
-                answer: [],
+                question: "What are the blessings for fruitfulness?",
+                answer: [
+                    "Anyone that is fruitful shall be blessed(Pruned) to yield more, (John 15: 2).",
+                    "Only the fruitful can have their names written into the book of life – (Luke 18: 18 - 22).",
+                    "The fruitful can quickly receive healing on sick bed(Ps 41: 1 - 3)",
+                    "The fruitful shall be preserved(Ps. 41: 2)",
+                    "The food and water of the fruitful shall be blessed(Ex. 23: 25) No lack.",
+                    "The prayers of the fruitful will instantly be answered – (Jn. 15: 16)",
+                    "It is only the fruitful that receive more supply from God - (2Tim. 2: 6)"
+
+                ],
+            },
+            {
+                question: "What are the fruits God expects us to bear for him (Prov. 11:30)?",
+                answer: [
+                    "Winning lost souls for God as the highest point of fruitfulness.Failure to win a soul for Christ is the worst barrenness in life.",
+                    "Bearing the fruit of the Spirit – love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, and self- control – (Gal. 5: 12)",
+                    "Being righteous and Holy – (2 Pet. 1: 16)."
+                ],
             },
         ],
-        conclusion: "",
+        conclusion: "Prosperity matches with fruitfulness.  Those who lack are people who are not profitable to God and man.  Simply, being useful equates with being fruitful and profitable.  Question is: Are you useful.  Examine yourself from now, God bless you.",
     },
     {
-        lesson: "Lesson 3",
-        date: "",
-        topic: "",
-        text: "",
-        memory_verse: "",
-        aim: "",
-        central_truth: "",
-        introduction: "",
+        lesson: "Lesson 8",
+        date: "Sunday 21th August, 2022",
+        topic: "OBEDIENCE IS BETTER THAN SACRIFICE",
+        text: "Deut. 28:1",
+        memory_verse: "1 Sam. 15:22b, “Behold, to obey is better than sacrifice, and to heed than the fat of rams”.",
+        aim: "believers the need to obey rather than sacrifice.",
+        central_truth: "There is no other way to be happy in God than to trust and obey.",
+        introduction: "Most of the time, people prefer to disobey God, believing that God is the God of mercy and forgiveness, and that He will understand the situation that compelled them to disobey.  This is not true.  The truth is that to every disobedience, there is a corresponding punishment.  No evil man will be allowed to go completely unpunished (Prov. 11:21). David for instance, was a man after God’s heart, but he didn’t go completely unpunished for killing Uriah Hittite and taking Bathsheba his wife.  He was forgiven by God by not killing him but he lost 5 of his sons (the first Son that David impregnated Bathsheba (2Sam 12:13-19), Amnon (2 Sam 13:30), Absalom (2Sam. 18:5,14), Adonijah (1King 2:23-25), and finally Jesus Christ the Son of David (Matt. 1:1); Though Jesus came back to life to fulfill destiny.",
         main_point: [],
         discussion_question: [
             {
-                question: "",
-                answer: [],
+                question: "What is obedience?",
+                answer: [
+                    "Obedience is a requirement of carrying out orders that have been given to you."
+                ],
             },
+            {
+                question: "What is obedience to God?",
+                answer: [
+                    "Obedience to God is to do what the Lord has commanded you to do."
+                ],
+            },
+            {
+                question: "What is Sacrifice to God?",
+                answer: [
+                    "In this context, sacrifice is the price one pays to every act of disobedience to  God’s instruction.In the real life situation, when the Road Safety officials asks us to go with our spare tyre, if a driver fails to carry his spare tyre, he will be arrested to pay for his disobedience, but the obedient drivers will not be disturbed.Likewise, to every instruction of God we disobey, we have a price to pay to the “Kingdom Road Safety”."
+                ],
+            },
+            {
+                question: "The Benefits of Obedience to God",
+                answer: [
+                    "Blessed you will be in the city and the field – Deut. 28: 3",
+                    "Blessed shall be the fruit of your body, the produce of your ground -  Deut. 28: 4",
+                    "Blessed shall be your basket and your kneading bowl - Deut. 28: 5",
+                    "The Lord your God will set you high above all nations of the earth -  Deut. 28: 1"
+                ],
+            },
+
         ],
-        conclusion: "",
+        conclusion: "Obedience is the sure way to success and greatness(Jos. 1: 8).No amount of sacrifice can move God like being obedient to him.In truth, your obedience is a clear evidence of your love, faithfulness, sonship and worship to God.",
     },
     {
-        lesson: "Lesson 3",
-        date: "",
-        topic: "",
-        text: "",
-        memory_verse: "",
-        aim: "",
-        central_truth: "",
-        introduction: "",
+        lesson: "Lesson 9",
+        date: "Sunday 28th August, 2022",
+        topic: "HUMILITY: THE PATHWAY TO GREATNESS",
+        text: "Phil. 2:1-3",
+        memory_verse: "Psalm 138:6: “Though the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off”.",
+        aim: "To encourage people to humble themselves so as to be elevated.",
+        central_truth: "Humility is the character of God and pride the habit of Satan",
+        introduction: "Humility is variously seen as the act of lowering oneself in relation to others (Rom. 12:3).  It is the quality of being humble and not to think that you are better than other people.  It signifies lowliness or submissiveness.  The Bible describes humility as a quality of being courteously showing respect to others; It is the opposite of aggressiveness, arrogance and boastful.  Pathway is a tract that a person can go along or a road map to guide our destiny to greatness.",
+        main_point: [
+            "We must imitate Christ’s Humility – lowliness of mind",
+            "Who did not mind His glory in Heaven but took the form of a servant on earth.",
+            "He took the nature of being mean even as God to be able to save the fallen man vs 6",
+            "He brought down his reputation.As a result, God exalted him above all creatures vs 5."
+        ],
+        discussion_question: [
+            {
+                question: "How does the world regard humility?",
+                answer: [
+                    "Due to the innate (inborn/natural) self-centeredness of man, the world does not place high regard to humility.  The inevitable tendency of human nature and the world is towards pride, arrogance, a haughty spirit an exaggerated feeling of self-importance (1John 2:16, Isa. 14:13-14)."
+                ],
+            },
+            {
+                question: "How does God regard humility? ",
+                answer: [
+                    "The Bible present God’s view of humility and salvation places high premium on humility thus:  To be humble means we will be conscious of our weaknesses and quick to give credit to God and others for what we accomplish.  (John 3:27, 5:19, 14:10, James 4:6).",
+                    "We must be humble because we are single apart from Christ (Lk. 18:9-14) and can boast of nothing (Rom. 7:18, Gal 6:3) except in the Lord (2 Cor. 10:17).",
+                    "We are dependent on God for our fruitfulness and can accomplish nothing good without the help of God and the help of others (Ps. 8:4-5, Jn 15:1-16)",
+                    "God delight in those who walk humbly - Isa. 57:15, Micah 6:8 – He gives an increase of grace to the humble, but opposes the proud (Jos. 4:6, 1 Pet. 5:5).  As believers, we must live in humility towards one another considering others more important than ourselves (Rom 12:3)."
+                ],
+            },
+        ],
+        conclusion: "Humility is the character of God and pride is the symbol of Satan.  God of course is the most humble person in the universe,  He regards the lowly (Ps. 138:6).  Thus, He demonstrated right from the beginning of time when He left His exalted position to pick  the form of man – a nobody and made of him what he is today.",
+    },
+    {
+        lesson: "Lesson 10",
+        date: "Sunday 4th September, 2022",
+        topic: "A CALL TO SERVICE",
+        text: "Romans 14:18, “For he that in these things serveth Christ is acceptable to God, and approved of men”.",
+        memory_verse: "Romans 14:18, “For he that in these things serveth Christ is acceptable to God, and approved of men”.",
+        aim: "To show that many serve God but only few rendered it acceptably.",
+        central_truth: "To teach believers what activates acceptance in services",
+        introduction: "Dearly beloved, God, right from ages  has revealed through His word that He has a standard and principle of which if not followed renders a service unacceptable. Services to God starts and ends with your personal relationship with Him, the level of your understanding about His word and your knowledge about who He is determine the acceptance or rejection.",
+        main_point: [
+            "Personal relationship here means how sacrificial is the body, spirit and soul of the giver(Rom. 12: 1) because God is not a compromiser.",
+            "Understanding talks about the revelations and your perception about His word because it determines how far you can worship God(Heb. 11: 6)."
+        ],
+        discussion_question: [
+            {
+                question: "What is acceptable service?",
+                answer: [
+                    "Acceptable is capable, worthy, or sure of being accepted or received with pleasure, pleasing to a receiver, gratifying, agreeable, and welcomed, as an acceptable present acceptable to us.",
+                    "Service - A religious rite or ritual."
+                ],
+            },
+            {
+                question: "Serve in the spirit:",
+                answer: [
+                    "To serve God in the spirit is the ability to ignore your senses (John 4:23-24).  It equally means denying yourself of what the natural body demands to do and allow God to lead you (Romans 1:9, Prov. 15:3-6)."
+                ],
+            },
+            {
+                question: "Serve with Holiness:",
+                answer: [
+                    "God still demand that in other to possess your reward for service it must be rendered in holiness. The scripture says “Deliverance and Holiness” (Obadiah 1:17).  Deliverance here is not for sickness but from sin, then further by practicing holiness before your reward for service can come. (1Peter 1:15-16, Eph. 1:4).  Holiness is a command; it gives no room for default."
+                ],
+            },
+            {
+                question: "Sincerity in Service:",
+                answer: [
+                    "This is where even the church have fail.  People commend themselves about serving God but the big question is “How sincere is your service?  (Joshua 24:14-15, 1Cor. 14:1-2)."
+                ],
+            },
+            {
+                question: "God accept a willing service:",
+                answer: [
+                    "God loves a cheerful giver, a liberal giver, it comes from your heart when giving at ease.  Exo. 35:5, 2 Cor. 9:7, 8:1-5."
+                ],
+            },
+            {
+                question: "Be passionate:",
+                answer: [
+                    "Passion derives away forceful service.  The key to effective service is passion.  Jesus says “my meat is to do the will of my father” (John 4:34, 2:17).  You don’t run into anything without asking yourself if there’s a passion for it, service without passion equals failure."
+                ],
+            },
+            {
+                question: "Serve God wholeheartedly:",
+                answer: [
+                    "God does not share His glory with anything seen or unseen (Isaiah 42:8).  This brings about firmness in God and does not cause for doubt while in service. (Deut. 10:12, Jer. 29:13)."
+                ],
+            },
+            {
+                question: "Make your life acceptable:",
+                answer: [
+                    "It’s one of the most important aspects in the place of service.  For God to even consider your service, your body must be a living sacrifice, holy and acceptable (Roman 12:1).  It calls for questioning when you serve God and people doubt if you are truly serving God. Service is more of your life than anything else, because God is so interested in your life. (2 Cor.7:1, Gal. 5:24, 1 Cor. 6:20)."
+                ],
+            } 
+        ],
+        conclusion: "The quality of your service is not measured by human view though it is part of it, it’s deeper than that.  Forceful and carnal service should be put to a stop as it amount to waste of time. Give room for passion which is the driving force of every reaction.  It is a call to check our life. God bless you.  ",
+    },
+    {
+        lesson: "Lesson 11",
+        date: "Sunday 11th September, 2022",
+        topic: "A COMMAND TO SHUN FEAR.",
+        text: "Isaiah 41: 10-13.",
+        memory_verse: "Joel 2:21  Fear not, o land, be glad and rejoice: for the LORD will do great things.",
+        aim: "To encourage believers to chase fear out of their lives and endeavours.",
+        central_truth: "Fear shows that we have lost trust in God.",
+        introduction: "Fear is not really about lack of things but the concern with loss of things. This is the root causes of anxieties and worries. One of Satan's favourite tools is the question: `What if`. What if I fail? What if my sickness prolongs, what if the economy collapses etc. These simply shift our focus from God to the challenge at hand. Recall Psalm 34:5 - They looked unto him, and were lightened: and their faces were not ashamed Fear sponsors shame and spoil our anticipated joy when we fail to look unto God for things. According to John Maxwell (A Leadership Genius): Fear showcases an acronym: False Evidence Appearing Real. Fear is counterfeit of Faith. Counterfeit doesn't pay for anything. ",
         main_point: [],
         discussion_question: [
             {
-                question: "",
-                answer: [],
+                question: "A. WHAT'S VITAL TRUTH ABOUT FEAR?",
+                answer: [
+                    "Fear is the antithesis of trust; therefore, if we live in fear of man or the future, we suffer from the problem of not putting trust in God.",
+                    "That doesn't mean we shouldn't give respect to whom respect is due.",
+                    "That doesn’t mean we shouldn't plan for the future.",
+                    "But if we live in fear, it means that we have taken on a responsibility that belongs to God.",
+                 
+                ],
+            },
+            {
+                question: "WHY SHOULD WE SHUN FEAR?",
+                answer: [
+                    "Fear is a trap, don't set it for yourself.. Prov. 29:25",
+                    "Fear is the enemy of safety.. Prov. 29:25",
+                    "Fear attracts adversity.. Job 3:25",
+                    "Fear fights trust in God.. Prov. 14:27",
+                    "Fear demoralizes a believer.. Prov. 12:25." 
+                ],
             },
         ],
-        conclusion: "",
+        conclusion: "If others see us living lives of fear, we lose our witness. We sponsor betrayal of trust in God. God wants us to consider these things and even plan for them without reason, but a Christian must consciously reject the attitude of fear and dare situations and triumph over them knowing that God is able to see us through.",
     },
     {
-        lesson: "Lesson 3",
-        date: "",
-        topic: "",
-        text: "",
-        memory_verse: "",
-        aim: "",
-        central_truth: "",
-        introduction: "",
+        lesson: "Lesson 12",
+        date: "Sunday 18th September, 2022",
+        topic: "MIRACULOUS PROVISIONS",
+        text: "John 2:1-10",
+        memory_verse: "Phil. 4:19, “But my God shall supply all your needs according to His riches in glory by Christ Jesus”.",
+        aim: "To enlighten people about God’s amazing provisions for all our needs through Christ Jesus.",
+        central_truth: "Every good gift and lasting provision comes from God.",
+        introduction: "God often uses ridiculous situations to  bring forth miraculous provisions.  The story in John 2:1-10 confirms.  At the time, wine was finished which could have brought great shame to the marriage ceremony, Jesus was invited to reverse the situation. We want to examine how God makes provision for our needs through Christ Jesus.  God has put something into our hands, something that we can use to obtain whatever we need.  We have the name of Jesus.  He is our shepherd.  We have power to use the Name.",
         main_point: [],
         discussion_question: [
             {
-                question: "",
-                answer: [],
+                question: "Why did Mary go to tell Jesus they have no wine",
+                answer: [
+                    "see Jn. 15:24. Jesus is the source of miraculous provisions to fulfill our joy."
+                ],
             },
-        ],
-        conclusion: "",
-    },
-    {
-        lesson: "Lesson 3",
-        date: "",
-        topic: "",
-        text: "",
-        memory_verse: "",
-        aim: "",
-        central_truth: "",
-        introduction: "",
-        main_point: [],
-        discussion_question: [
             {
-                question: "",
-                answer: [],
+                question: "Why did Jesus tell his mother: “Woman what have I to do with thee?  Mine hours is not yet come?",
+                answer: [
+                    "He is the author and finisher of our faith - Heb. 12:2",
+                    "Jesus knew that God has bestowed the power of supernatural provision upon him - Matt. 11:28",
+                    "He was connecting with His father for the appointed time – Jn. 2:4; Eccl 3:11.",
+                ],
             },
-        ],
-        conclusion: "",
-    },
-    {
-        lesson: "Lesson 3",
-        date: "",
-        topic: "",
-        text: "",
-        memory_verse: "",
-        aim: "",
-        central_truth: "",
-        introduction: "",
-        main_point: [],
-        discussion_question: [
             {
-                question: "",
-                answer: [],
+                question: "What lessons can we draw from this study?",
+                answer: [
+                    "Jesus is the source and His commitment to our demands is the answer to our miraculous needs (Supplies) Jn. 2:5.",
+                    "We can only commit Him by approaching Him with the heart to receive His voice and obey.  Because our obedience is what commits Him to act on our behalf (Deut. 28:1-8, Isa. 1:19).",
+                    "This is the practical demonstration of obedience, faith and love to do whatever he tells us to do and obtain the desired result (Jn. 2:9-10)"
+                ],
             },
         ],
-        conclusion: "",
+        conclusion: "Any time we lack provisions or resources, it is for surprising supplies to be made to us.  The song writer says why worry when you can pray.  Take your request to Jesus and He will surely meet your needs.",
     },
     {
         lesson: "Lesson 3",
