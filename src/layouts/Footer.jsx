@@ -14,8 +14,9 @@ const useStyles = makeStyles({
     width: "100%",
     height: 50,
     background:"#F2F4F5",
-    paddingTop: "14px",
-        boxShadow: "inset 0px 2px 0px #E6E6E6",
+    paddingTop: "15px",
+    paddingBottom: "15px",
+    boxShadow: "inset 0px 2px 0px #E6E6E6",
     
   },
 });
@@ -28,7 +29,7 @@ const Footer = () => {
 
   const handleChange = (event, newValue) => {
       setValue(newValue);
-       navigate(newValue);
+      navigate(newValue);
   };
 
   return (
