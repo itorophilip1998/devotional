@@ -6,11 +6,11 @@ import { FavoriteBorder, Favorite } from "@material-ui/icons";
 function Introduction({ item }) {
   const [isFav, setIsFav] = useState(false);
   const addFav = () => {
-    setIsFav(false);
+    setIsFav(true);
     toast.info("Added from favourites!");
   };
   const removeFav = () => {
-    setIsFav(true);
+    setIsFav(false);
     toast.info("Removed from favourites!");
   };
 
@@ -21,15 +21,15 @@ function Introduction({ item }) {
         <div className="container p-2 py-4">
           <span className="text d-block text-primary my-3">Introduction:</span>
 
-          {isFav && (
-            <Favorite
+          {!isFav && (
+            <FavoriteBorder
               color="primary"
               className="addFav"
               onClick={(e) => addFav()}
             />
           )}
-          {!isFav && (
-            <FavoriteBorder
+          {isFav && (
+            <Favorite
               color="primary"
               className="removeFav"
               onClick={(e) => removeFav()}

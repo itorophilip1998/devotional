@@ -5,7 +5,8 @@ import PrayerFocus from "./components/PrayerFocus";
 import "./devotional.scss";
 import { devotional } from "../../Database/devotional";
 import { useLocation } from "react-router-dom";
-  /* eslint-disable */
+import Navbar from "../../layouts/Headers/Navbar";
+/* eslint-disable */
 
 function Devotional() {
   const [list, setList] = useState([]);
@@ -24,6 +25,7 @@ function Devotional() {
 
   return (
     <div>
+      <Navbar date={list.date} />
       <Header item={list} />
       <Introduction item={list} />
       <PrayerFocus item={list} />
