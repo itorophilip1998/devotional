@@ -3,13 +3,15 @@ import WeekListMenu from '../../components/WeekListMenu/WeekListMenu'
 import { devotional } from "../../Database/devotional";
 function DevotionalList() {
   const [list, setList] = useState([])
-  useEffect(()=>{
-    setList(devotional)
+  useEffect( ()=>{
+      setList(devotional)
   },[])
   return (
-    <div className="p-1 pb-5 mb-2"> 
+    <div className="p-1 pb-5 mb-2">
       {list &&
-        list.map((item, index) => <WeekListMenu item={item} key={index} />)}
+        list.map((item, index) => (
+          <WeekListMenu item={item} index={index} key={index} />
+        ))}
     </div>
   );
 }

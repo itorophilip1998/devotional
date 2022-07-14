@@ -1,7 +1,8 @@
 export const devotional = [
   //  july
   {
-    date: "Friday, 1st July, 2022",
+    img: "/images/bg/hero1.png"
+    , date: "Friday, 1st July, 2022",
     topic: "THE LORD IS YOUR STRENGTH",
     text: "Isaiah 40:24-31, “But they that wait upon the Lord shall renew their strength, they shall mount up with wings as eagles, they shall run, and not be weary, and they shall walk, and not faint” verse 31.",
     introduction:
@@ -10,6 +11,7 @@ export const devotional = [
       "Father, as I wait upon you, strengthen me against every odd in life.",
   },
   {
+    img: "/images/bg/hero2.png",
     date: "Saturday, 2nd July, 2022",
     topic: "WAITING EQUALS STRENGTHENING",
     text: "Isaiah 40:31, “But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run and not be wearing, and they shall walk, and not faint” Verse 31.",
@@ -19,6 +21,7 @@ export const devotional = [
       "Lord, as I wait on you, load me with divine strength that will last on me for the next one year.",
   },
   {
+    img: "/images/bg/hero3.png",
     date: "Sunday, 3rd July, 2022",
     topic: "ON WINGS OF STRENGTH",
     text: "Isaiah 40:31, “… they shall mount up with wings as eagles; they shall run, and not be weary, and they shall walk, and not faint” – verse 31.",
@@ -28,6 +31,7 @@ export const devotional = [
       "Father, in fill your sons and daughters in FULGA, this year, more than ever before in this journey of 40 – days.",
   },
   {
+    img: "/images/bg/hero4.png",
     date: "Monday 4th July, 2022",
     topic: "NO STRENGTH, NO SUCCESS",
     text: "Isaiah 40:31 - “They shall mount up with wings as eagles; they shall run, and not be weary, and they shall walk, and not faint” – verse 32.",
@@ -37,6 +41,7 @@ export const devotional = [
       "By this fasting and prayer, O God, pull down every barrier against my success in life.",
   },
   {
+    img: "/images/bg/hero5.png",
     date: "Tuesday 5th July, 2022",
     topic: "HE IS A CHANNEL OF STRENGTH",
     text: "Phil. 4:13, “I can do all things through Christ which strengtheneth me”.",
@@ -45,6 +50,7 @@ export const devotional = [
     prayer_focus: "Father, strengthen me to accomplish more this year.",
   },
   {
+    img: "/images/bg/hero6.png",
     date: "Wednesday 6th July, 2022",
     topic: "HE INCREASES STENGTH",
     text: "Isaiah 40:29, “He giveth power to the faint, and to them that have no might he increaseth strength” – verse 29.",
@@ -54,6 +60,7 @@ export const devotional = [
       "Lord Jesus, increase my strength beyond any spell of discouragement till I get to the finishing line and finish well",
   },
   {
+    img: "/images/bg/hero7.png",
     date: "Thursday 7th July, 2022",
     topic: "HE ENSURES STRENGTH RENEWAL",
     text: "Isaiah 40:31, “But they that wait upon the LORD shall renew their strength… and not faint”- verse 31",
@@ -63,7 +70,8 @@ export const devotional = [
       "Father, renew me daily for the journey ahead, Help me to wade through and survive the storms of life.",
   },
   {
-    date: "Friday 8th July, 2022",
+    img: "/images/bg/hero8.png"
+    , date: "Friday 8th July, 2022",
     topic: "YOUR STRENGHT IS NOT SMALL",
     text: "Prov. 24:10, “If thou faint in the day of adversity, thy strength is small.",
     introduction:
@@ -72,7 +80,8 @@ export const devotional = [
       "Oh God, don’t allow the devil to make me faint in strength. ",
   },
   {
-    date: "Saturday 9th July, 2022",
+    img: "/images/bg/hero9.png"
+    , date: "Saturday 9th July, 2022",
     topic: "KNOWLEDGE FOR STRENGTH",
     text: "Prov. 24:5, “A wise man is strong; yea, a man of knowledge increaseth strength”.",
     introduction:
@@ -81,6 +90,7 @@ export const devotional = [
       "Father, empower me afresh with knowledge and wisdom as I fast and pray.",
   },
   {
+    img: "/images/bg/hero1.png",
     date: "Sunday 10th July, 2022",
     topic: "STRENGTH TO RISE AFTER A FALL",
     text: "Prov. 24:16, “For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief”.",
@@ -90,7 +100,7 @@ export const devotional = [
       "Oh God, help me keep my heart pure and just before you, that I may recover from losses after this fast.",
   },
   {
-    date: "Monday 11th July, 2022",
+    img: "/images/bg/hero9.png", date: "Monday 11th July, 2022",
     topic: "PRAYER OF JABEZ – 1",
     text: "1Chron. 4:9-10, “And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, because I bare him with sorrow”.  And Jabez called on the God of Israel, saying, Oh that thou woudest bless me indeed, and enlarge my cost, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me?  And God granted him that which he requested”.",
     introduction:
@@ -99,7 +109,7 @@ export const devotional = [
       "Oh God, help me to decide to effect a change in my life and take action to pray as occasion demands.",
   },
   {
-    date: "Tuesday 12th July, 2022",
+    img: "/images/bg/hero6.png", date: "Tuesday 12th July, 2022",
     topic: "PRAYER OF JABEZ – 2",
     text: " I Chron. 4:9-10, “And Jabez was more honourable than his brethren”.",
     introduction:
@@ -108,6 +118,7 @@ export const devotional = [
       "Oh God, help me, I refuse to come or continue under the negative weight of my name. Pray repeatedly.",
   },
   {
+    img: "/images/bg/hero4.png",
     date: "Wednesday 13th July, 2022",
     topic: "PRAYER OF JABEZ – 3",
     text: "1 Chron. 4:9-10, “And Jabez called on the God of Israel…”",
@@ -117,6 +128,7 @@ export const devotional = [
       "Father in Heaven, I reject a life of sorrow, shame and misery.",
   },
   {
+    img: "/images/bg/hero5.png",
     date: "Thursday 14th July, 2022",
     topic: "PRAYER OF JABEZ – 4",
     text: "1 Chron. 4:-10, “Saying, Oh that thou wouldest bless me indeed, and enlarge my coast….”.",
@@ -126,6 +138,7 @@ export const devotional = [
       "Lord, as I open my mouth to pray – bless me indeed and enlarge my business to your glory.",
   },
   {
+    img: "/images/bg/hero6.png",
     date: "Friday 15th July, 2022",
     topic: " PRAYER OF JABEZ – 5",
     text: "I Chron. 4:9-10, “And that thine hand might be with me…”.",
@@ -134,6 +147,7 @@ export const devotional = [
     prayer_focus: "Lord, I thank you for fighting for me.",
   },
   {
+    img: "/images/bg/hero8.png",
     date: "Saturday 16th July, 2022",
     topic: "PRAYER OF JABEZ – 6",
     text: "1Chron. 4:9-10, “And that thou wouldest keep me from evil…”.",
@@ -142,6 +156,7 @@ export const devotional = [
     prayer_focus: "Oh God, deliver me from any negative stigma.",
   },
   {
+    img: "/images/bg/hero9.png",
     date: "Sunday 17th July, 2022",
     topic: "PRAYER OF JABEZ – 7",
     text: "1 Chron. 4:9-10, “That it may not grieve me! And God granted him that which he requested”.",
@@ -151,6 +166,7 @@ export const devotional = [
       "May all that God will do for you through your prayer life be permanent.",
   },
   {
+    img: "/images/bg/hero7.png",
     date: "Monday 18th July, 2022",
     topic: "THE FASTING OF ESTHER – 1",
     text: "Esther 4:10-11, 13-17, 5:1-3, “Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days night or day; I also and my maidens will fast likewise and so will I go unto the King, which is not according to the law: and if I perish, I perish” (4:16).",
@@ -159,6 +175,7 @@ export const devotional = [
     prayer_focus: " Lord, anoint me with people skill.",
   },
   {
+    img: "/images/bg/hero1.png",
     date: "Tuesday 19th July, 2022",
     topic: "THE FASTING OF ESTHER -2",
     text: "Esther 4:16, “Go, gather together……",
@@ -167,6 +184,7 @@ export const devotional = [
     prayer_focus: "Lord, input in me a sense of stability to stay focused",
   },
   {
+    img: "/images/bg/hero2.png",
     date: "Wednesday 20th July, 2022",
     topic: "THE FASTING OF ESTHER -3",
     text: "Esther 4:16, “… fast ye for me…”",
@@ -175,6 +193,7 @@ export const devotional = [
     prayer_focus: "Lord, I need your help to stay humble",
   },
   {
+    img: "/images/bg/hero3.png",
     date: "Thursday 21st July, 2022",
     topic: "THE FASTING OF ESTHER – 4",
     text: "Esther 4:16 - “Neither eat nor drink three days, night or day…”",
@@ -183,6 +202,7 @@ export const devotional = [
     prayer_focus: "O Lord, help me to be discipline and focus as I fast.",
   },
   {
+    img: "/images/bg/hero7.png",
     date: "Friday 22nd July, 2022",
     topic: "THE FASTING OF ESTHER – 5",
     text: "Esther 4:16, “… I also and my maidens will fast likewise…”",
@@ -192,6 +212,7 @@ export const devotional = [
       "In the name of Jesus, whatever it is you desire out of this year’s 40-day prayer and fasting, receive it in full. Amen.",
   },
   {
+    img: "/images/bg/hero8.png",
     date: "Saturday 23rd July, 2022",
     topic: "THE FASTING OF ESTHER – 6",
     text: " Esther 4:16, “… so will I go unto the King …”",
@@ -201,6 +222,7 @@ export const devotional = [
       "Oh God, that good thing I have in mind, let it become mine as I fast and pray.",
   },
   {
+    img: "/images/bg/hero6.png",
     date: "Sunday 24th July, 2022",
     topic: "THE FASTING OF ESTHER – 7",
     text: "Esther 4:16, “… which is not according to the law: and if I perish, I perish”.",
@@ -210,6 +232,7 @@ export const devotional = [
       "Lord, use this year’s fasting to baptize us with much courage to face the future and conquer.",
   },
   {
+    img: "/images/bg/hero1.png",
     date: "Monday 25th July, 2022",
     topic: "PRAYER AND FASTING FOR SPIRITUAL GROWTH – 1",
     text: "Acts 13:1-12, “As they ministered to the LORD and fasted, the Holy Ghost said, separate me Barnabas and Saul for the work where unto I have called them’ – 21.",
@@ -219,6 +242,7 @@ export const devotional = [
       "Lord, give me the enablement to grow spiritually continually in Jesus name.",
   },
   {
+    img: "/images/bg/hero6.png",
     date: "Tuesday 26th July, 2022",
     topic: "PRAYER AND FASTING FOR SPIRITUAL GROWTH – 2",
     text: "Acts 13:2, “As they ministered to the Lord and fasted”",
@@ -228,6 +252,7 @@ export const devotional = [
       "Father, use my fasting efforts to give me far reaching results in Jesus name.",
   },
   {
+    img: "/images/bg/hero4.png",
     date: "Wednesday, 27th July, 2022",
     topic: "PRAYER AND FASTING FOR SPIRITUAL GROWTH – 3",
     text: "Acts 13, “… the Holy Ghost said…” verse. 2",
@@ -237,6 +262,7 @@ export const devotional = [
       "Sweet Holy Spirit, always instruct when to hold on, and how to keep going in Jesus name.",
   },
   {
+    img: "/images/bg/hero4.png",
     date: "Thursday 28th July, 2022",
     topic: "PRAYER AND FASTING FOR SPIRITUAL GROWTH – 4",
     text: "Acts 13, “… the Holy Ghost said …” verse 2",
@@ -246,6 +272,7 @@ export const devotional = [
       "Lord, give me a vision so that I can get the Holy Ghost speak to me constantly.",
   },
   {
+    img: "/images/bg/hero3.png",
     date: "Friday 29th July, 2022",
     topic: "PRAYER AND FASTING FOR SPIRITUAL GROWTH – 5",
     text: "Acts 13:2 - “Separate me Barnabas and Saul for the work whereunto I have called them”.",
@@ -255,6 +282,7 @@ export const devotional = [
       " Oh God, use this 40-day corporate fasting to equip our student ministers currently, on apostolic work for a possible release into the mission field.",
   },
   {
+    img: "/images/bg/hero6.png",
     date: "Saturday 30th July, 2022",
     topic: "PRAYER AND FASTING FOR SPIRITUAL GROWTH – 6",
     text: "Acts 13, “And when they had fasted and prayed,…",
@@ -264,6 +292,7 @@ export const devotional = [
       "O God, Don’t ever allow me end my journey, even fasting, half way.",
   },
   {
+    img: "/images/bg/hero3.png",
     date: "Sunday, 31st July, 2022",
     topic: "PRAYER AND FASTING FOR SPIRITUAL GROWTH – 7",
     text: "Acts 13, “… and laid their hands on them, they sent them away” verse 3",
@@ -274,6 +303,7 @@ export const devotional = [
   },
   //  august
   {
+    img: "/images/bg/hero2.png",
     date: "Monday 1st August, 2022",
     topic: "TOPIC: HELP IS RECIPROCAL – 1",
     text: "1 King 17:8-14, “And Elijah said unto her, fear not; go and do as thou hast said but make me thereof a little cake first, and bring it unto me, and after make for thee and thy son”. – verse 13",
@@ -283,6 +313,7 @@ export const devotional = [
       " O God, help me to obey your promptings to help others, so that I too should be helped by others.",
   },
   {
+    img: "/images/bg/hero6.png",
     date: "Tuesday 2nd August, 2022",
     topic: "HELP IS RECIPROCAL – 2",
     text: "I Kings 17:8-14, “And Elijah said unto her, fear not; go and do as thou hast said but make me thereof a little cake first, and bring it unto me, and after make for thee and they son”. – verse 13",
@@ -292,6 +323,7 @@ export const devotional = [
       "Lord, remove fear from me when it’s time to be of help to somebody.",
   },
   {
+    img: "/images/bg/hero8.png",
     date: "Wednesday 3rd August, 2022",
     topic: "HELP IS RECIPROCAL – 3",
     text: "1 Kings 17:8-14, “…but make me thereof a little cake first, and bring it unto me and after make for thee and they son”. – verse 13",
@@ -301,7 +333,7 @@ export const devotional = [
       "O God, what I make happen to others for good, let it happen to me.",
   },
   {
-    date: "Thursday 4th August, 2022",
+    img: "/images/bg/hero1.png", date: "Thursday 4th August, 2022",
     topic: "HELP IS RECIPROCAL – 4",
     text: "1 Kings 17:8-14, “… but make me thereof a little….” Verse 13",
     introduction:
@@ -310,7 +342,7 @@ export const devotional = [
       "As I provide for others, let that provoke the covenant of multiplication upon my provisions from God.",
   },
   {
-    date: "Friday 5th August, 2022",
+    img: "/images/bg/hero5.png", date: "Friday 5th August, 2022",
     topic: "HELP IS RECIPROCAL – 5",
     text: "1 Kings 17:8-14, “but make me thereof a little”. – verse 13",
     introduction:
@@ -319,7 +351,7 @@ export const devotional = [
       "Lord, cause my multiplication to reset my life and destiny as I help others.  ",
   },
   {
-    date: "Saturday 6th August, 2022",
+    img: "/images/bg/hero7.png", date: "Saturday 6th August, 2022",
     topic: "HELP IS RECIPROCAL - 6",
     text: "Matt. 7:12 – “Therefore all things whatsoever ye would that men should do to you, do ye even so to them; for this is the law and the prophet”.",
     introduction:
@@ -327,7 +359,7 @@ export const devotional = [
     prayer_focus: "  Lord, help me to constantly be of help to others.",
   },
   {
-    date: "Sunday 7th August, 2022",
+    img: "/images/bg/hero6.png", date: "Sunday 7th August, 2022",
     topic: "HELP IS RECIPROCAL - 7",
     text: "Prov. 11:25 – “And he that watereth shall be watered also himself”.",
     introduction:
@@ -336,7 +368,7 @@ export const devotional = [
       "Thank you Jesus, for as I help someone today, help is waiting for me tomorrow. ",
   },
   {
-    date: "Monday 8th August, 2022",
+    img: "/images/bg/hero3.png", date: "Monday 8th August, 2022",
     topic: "BE PROFITABLE TO YOURSELF",
     text: "Job 22:2, “Can a man be profitable to God, though he who is wise may be profitable to himself”.",
     introduction:
@@ -344,7 +376,7 @@ export const devotional = [
     prayer_focus: "I pray God not to be a fool in this life.",
   },
   {
-    date: "Tuesday 9th August, 2022",
+    img: "/images/bg/hero1.png", date: "Tuesday 9th August, 2022",
     topic: "BE PROFITABLE TO YOUR NEIGHBOURS",
     text: "Romans 15:2, “Let everyone of us please his neighbour for his good to edification”.",
     introduction:
@@ -353,7 +385,7 @@ export const devotional = [
       " I pray that nothing should make us not to live up to our name as believers.",
   },
   {
-    date: "Wednesday 10th August, 2022",
+    img: "/images/bg/hero5.png", date: "Wednesday 10th August, 2022",
     topic: "PROFITABILITY VERSUS FRUITFULLNESS",
     text: " John 15:2. “Every branch in me that does not bear fruit He takes away; and every branch that bears fruit He prunes, that it may bear more fruit”.",
     introduction:
@@ -362,7 +394,7 @@ export const devotional = [
       "Oh Lord, may I receive the auction to be profitable/fruitful in my life.",
   },
   {
-    date: "Thursday 11th August, 2022",
+    img: "/images/bg/hero7.png", date: "Thursday 11th August, 2022",
     topic: "BE PROFITABLE TO YOUR GENERATION",
     text: "Genesis 26:4, “And I will make your descendants multiply as the stars of Heaven; I will give to your descendants all the lands:  And in your seed all the nations of the earth shall be blessed”.",
     introduction:
@@ -371,7 +403,7 @@ export const devotional = [
       "O Lord God, help me to leave behind a glaring legacy for my generation and generation yet unborn",
   },
   {
-    date: "Friday 12th August, 2022 ",
+    img: "/images/bg/hero1.png", date: "Friday 12th August, 2022 ",
     topic: "BE PROFITABLE TO YOUR ORGANIZATION (CHURCH)",
     text: "Luke 7:5, “For he loves our nation, and had built us a synagogue”.",
     introduction:
@@ -380,7 +412,7 @@ export const devotional = [
       " Lord, give me the grace to be spiritually fruitful and profitable to you.",
   },
   {
-    date: "Saturday 13th August, 2022",
+    img: "/images/bg/hero3.png", date: "Saturday 13th August, 2022",
     topic: "BE PROFITABLE TO YOUR SOCIETY",
     text: "Prov. 18:16, “A man’s gift makes room for Him…”",
     introduction:
@@ -389,7 +421,7 @@ export const devotional = [
       "Oh Lord, may I not just be but a blessing to a locality. Help me to impact lives globally.",
   },
   {
-    date: "Sunday 14th August, 2022",
+    img: "/images/bg/hero5.png", date: "Sunday 14th August, 2022",
     topic: "BE PROFITABLE TO YOUR FAMILY ",
     text: "1 Tim 5:8 “But if any provide not for his own and specially for those of his     own house, He hath denied the faith, and is worse than an infidel”.",
     introduction:
@@ -398,7 +430,7 @@ export const devotional = [
       "Oh Lord, may I not only be fruitful to myself and neglect the family.",
   },
   {
-    date: "Monday 15th August, 2022",
+    img: "/images/bg/hero7.png", date: "Monday 15th August, 2022",
     topic: "Test of Obedience 1",
     text: "Deut. 8:2, “You shall remember that the Lord your God led you all the way   these forty years in the wilderness, to humble you and test you, to know what was in your heart, whether you would keep His Commandments or Not”.",
     introduction:
@@ -406,7 +438,7 @@ export const devotional = [
     prayer_focus: "Oh Lord, may I obey you at all times.",
   },
   {
-    date: "Tuesday 16th August, 2022",
+    img: "/images/bg/hero9.png", date: "Tuesday 16th August, 2022",
     topic: "A TEST OF OBEDIENCE II",
     text: "Gen. 2:15-17, “Then the Lord God took the man and put him in the Garden of Eden to tend and keep it. And the Lord God commanded the man, saying, of every tree of the Garden you may freely eat.  But of the tree of knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die”.",
     introduction:
@@ -414,7 +446,7 @@ export const devotional = [
     prayer_focus: "Oh Lord, may I not disappoint you in my generation.",
   },
   {
-    date: "Wednesday 17th August, 2022",
+    img: "/images/bg/hero2.png", date: "Wednesday 17th August, 2022",
     topic: "A TEST OF OBEDIENCE III",
     text: "Judges 13:5, “For behold, you shall conceive and bear a Son.  And no razor shall come upon his head, for the child shall be a Nazarite to God from the womb; and he shall begin to deliver Israel out of the hand of the Philistines”",
     introduction:
@@ -423,7 +455,7 @@ export const devotional = [
       "Holy Spirit, please I need your help, deliver me from the spirit of flippancy.",
   },
   {
-    date: "Thursday 18th August 2022",
+    img: "/images/bg/hero4.png", date: "Thursday 18th August 2022",
     topic: "THE PLACE OF OBEDIENCE AND THE PROMISED LAND",
     text: " Duet. 8:1, “Every commandment which I command you today you must be careful to observe, that you may live and multiply, and go in and possess the land of which the Lord swore to your fathers”.",
     introduction:
@@ -432,7 +464,7 @@ export const devotional = [
       "Oh Lord, may I keep to your instructions till I enter the promise land.",
   },
   {
-    date: "Friday 19th August 2022",
+    img: "/images/bg/hero6.png", date: "Friday 19th August 2022",
     topic: "A TEST OF OBEDIENCE IV",
     text: "Dan. 11:32, “Those who do wickedly against the covenant he shall corrupt   flattery; But the people who know their God shall be strong and carry out great  exploit”",
     introduction:
@@ -441,7 +473,7 @@ export const devotional = [
       "Oh Lord, may I not deny you at any given time because of the threat of men.",
   },
   {
-    date: "Saturday 20th August 2022",
+    img: "/images/bg/hero8.png", date: "Saturday 20th August 2022",
     topic: "TEST OF OBEDIENCE V",
     text: "Deut. 28:13, “And the Lord will make you the head and not the tail; you shall be  above only, and not be beneath, if you heed the commandments of the Lord your God, which I command you today, and are careful to observe them”.",
     introduction:
@@ -449,7 +481,7 @@ export const devotional = [
     prayer_focus: "Oh Lord, may I not fail you in my generation.",
   },
   {
-    date: "Sunday 21th August, 2022",
+    img: "/images/bg/hero4.png", date: "Sunday 21th August, 2022",
     topic: "TEST OF OBEDIENCE VI",
     text: "John 15:22, “They would not be guilty if I had not come and spoken to them, but now they have no excuse for their sin”.",
     introduction:
@@ -457,7 +489,7 @@ export const devotional = [
     prayer_focus: "Lord Jesus, I pray to become your model here on earth.",
   },
   {
-    date: "MONDAY 22nd August, 2022",
+    img: "/images/bg/hero1.png", date: "MONDAY 22nd August, 2022",
     topic: "HUMILITY: A KEY TO A SUCCESSFUL WALKING WITH GOD.",
     text: "Micah 6:8 – “He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God”.",
     introduction:
@@ -466,7 +498,7 @@ export const devotional = [
       "Lord, grant unto me a humble heart to successfully walk with you Amen",
   },
   {
-    date: "Tuesday 23rd August, 2022",
+    img: "/images/bg/hero1.png", date: "Tuesday 23rd August, 2022",
     topic: "HUMILITY: A KEY TO HONOUR",
     text: "Proverbs 15:33 “The fear of the LORD is the instruction of wisdom; and before honour is humility”.",
     introduction:
@@ -475,7 +507,7 @@ export const devotional = [
       "Lord, open unto me the doors of honour as I practice humility today Amen.",
   },
   {
-    date: "Wednesday 24th August 2022",
+    img: "/images/bg/hero3.png", date: "Wednesday 24th August 2022",
     topic: "HUMILITY: A KEY TO ABUNDANCE GRACE ",
     text: "James 4:6 - “But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble”.",
     introduction:
@@ -484,7 +516,7 @@ export const devotional = [
       "Lord, help me to stay humble that i may enjoy abundant grace Amen",
   },
   {
-    date: "Thursday 25th August, 2022",
+    img: "/images/bg/hero5.png", date: "Thursday 25th August, 2022",
     topic: "HUMILITY: A KEY TO VICTORY:",
     text: "Romans 12:3 “For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith”.",
     introduction:
@@ -493,7 +525,7 @@ export const devotional = [
       "Lord, help me to be clothed with humility that I may be victorious in life Amen.",
   },
   {
-    date: "Friday 26th August, 2022",
+    img: "/images/bg/hero3.png", date: "Friday 26th August, 2022",
     topic: "HUMILITY: A KEY TO UPLIFTMENT",
     text: "Luke 18:14 - “I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted”.",
     introduction:
@@ -502,7 +534,7 @@ export const devotional = [
       "Lord, separate me from everything that will stir-up pride in me Amen.",
   },
   {
-    date: "Saturday 27th August 2022",
+    img: "/images/bg/hero1.png", date: "Saturday 27th August 2022",
     topic: "HUMILITY: A KEY TO CONTINUAL USEFULNESS",
     text: "James 4:10, “Humble yourselves in the sight of the Lord, and he shall lift you up”. ",
     introduction:
@@ -511,7 +543,7 @@ export const devotional = [
       "Lord, help me to be humble that I may be continually useful Amen.",
   },
   {
-    date: "Sunday 28th August, 2022",
+    img: "/images/bg/hero3.png", date: "Sunday 28th August, 2022",
     topic: "HUMILITY: A KEY TO A SUPERNATURAL POWER OF GOD ",
     text: "NUMBERS 12:3(NLT) “Now Moses was very humble—more humble than any other person on earth”.",
     introduction:
@@ -520,7 +552,7 @@ export const devotional = [
       "Lord, cause pride to die in me and help me to enjoy your supernatural power Amen.",
   },
   {
-    date: "Monday 29th August, 2022",
+    img: "/images/bg/hero5.png", date: "Monday 29th August, 2022",
     topic: "GOD IN THE SPIRIT",
     text: "John 4:23-24, “But the hour cometh, and now is, when the true worshipers shall Worship the father in spirit and in truth: for the father seeketh such to worship Him.God is Spirit and they that worship Him must worship Him in Spirit and in truth”.",
     introduction:
@@ -528,7 +560,7 @@ export const devotional = [
     prayer_focus: "Holy Spirit I surrender my will and thought take the lead.",
   },
   {
-    date: "Tuesday 30th August, 2022",
+    img: "/images/bg/hero7.png", date: "Tuesday 30th August, 2022",
     topic: "SERVICE DEMAND SINCERITY",
     text: "I Cor. 4:1, “Let a man so account of us, as of the ministers of Christ, and steward of the mysteries of God.  Moreover, it is required in stewards, that a man be found faithful”.",
     introduction:
@@ -537,7 +569,7 @@ export const devotional = [
       "Lord, help me to be sincere in rendering account of my service.",
   },
   {
-    date: "Wednesday 31st August, 2022",
+    img: "/images/bg/hero9.png", date: "Wednesday 31st August, 2022",
     topic: "GOD ACCEPTS A WILLING SERVICE",
     text: "2 Cor. 9:7, “Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver”.",
     introduction:
@@ -546,7 +578,7 @@ export const devotional = [
   },
   //  September
   {
-    date: "Thursday 1st September, 2022",
+    img: "/images/bg/hero6.png", date: "Thursday 1st September, 2022",
     topic: "SERVE WITH HOLINESS",
     text: "1 Peter 1:16, “Because it is written, be ye holy for I am holy”.",
     introduction:
@@ -554,7 +586,7 @@ export const devotional = [
     prayer_focus: "Lord, baptize me with hunger for holiness.",
   },
   {
-    date: "Friday 2nd September, 2022",
+    img: "/images/bg/hero3.png", date: "Friday 2nd September, 2022",
     topic: "NO SERVICE WITHOUT PASSION",
     text: "John 2:17, “And his disciples remembered that it was written, the zeal of thine house hath eaten me up”.",
     introduction:
@@ -562,7 +594,7 @@ export const devotional = [
     prayer_focus: "O Lord, set my heart on fire for you.",
   },
   {
-    date: "Saturday 3rd September, 2022",
+    img: "/images/bg/hero3.png", date: "Saturday 3rd September, 2022",
     topic: "COMPLETE SERVICE",
     text: "Deut. 10:12b, “And to serve the Lord thy God with all thy heart and with all thy soul”",
     introduction:
@@ -571,7 +603,7 @@ export const devotional = [
   },
 
   {
-    date: "Sunday 4th September, 2022",
+    img: "/images/bg/hero5.png", date: "Sunday 4th September, 2022",
     topic: "MAKE YOUR LIFE COUNT",
     text: "Romans 12:1, “I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service”.",
     introduction:
@@ -579,7 +611,7 @@ export const devotional = [
     prayer_focus: "Lord, I present my body before you to make it white again.",
   },
   {
-    date: "Monday 5th September, 2022",
+    img: "/images/bg/hero7.png", date: "Monday 5th September, 2022",
     topic: "FEAR IS A SNARE",
     text: "Prov. 29:25 KJV, “The fear of man is a snare: but whoso putteth his trust in the Lord shall be safe”.",
     introduction:
@@ -587,7 +619,7 @@ export const devotional = [
     prayer_focus: "Oh God, deliver us from any trace of fear of man or things.",
   },
   {
-    date: "Tuesday 6th September, 2022",
+    img: "/images/bg/hero9.png", date: "Tuesday 6th September, 2022",
     topic: "ATTITUDE OF FEAR",
     text: "Gen. 50:15 KJV, “And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him”.",
     introduction:
@@ -596,7 +628,7 @@ export const devotional = [
       "O Lord, let my faith in you drown every seeming fear around.",
   },
   {
-    date: "Wednesday 7th September, 2022",
+    img: "/images/bg/hero7.png", date: "Wednesday 7th September, 2022",
     topic: "A REASON NOT TO FEAR",
     text: "Psalm 33:18 KJV, “Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy”.",
     introduction:
@@ -604,7 +636,7 @@ export const devotional = [
     prayer_focus: "Thank you Lord for caring so much for me and my family.",
   },
   {
-    date: "Thursday 8th September, 2022",
+    img: "/images/bg/hero5.png", date: "Thursday 8th September, 2022",
     topic: "BOLDNESS THAT OVERCOMES FEAR",
     text: "Psalm 27:1 KJV, “The Lord is my light and my salvation; whom shall I fear? The LORD is the strength of my life; of whom shall I be afraid”.",
     introduction:
@@ -613,7 +645,7 @@ export const devotional = [
       "Lord, deliver us from every influence of fear as we serve you.",
   },
   {
-    date: "Friday 9th September, 2022",
+    img: "/images/bg/hero3.png", date: "Friday 9th September, 2022",
     topic: "FEAR OF THE LORD PAYS",
     text: "Prov. 14:27KJV, “The fear of the LORD is the fountain of life, to depart from snares of death”.",
     introduction:
@@ -621,7 +653,7 @@ export const devotional = [
     prayer_focus: "O Lord, strengthen me to fear you unconditionally.",
   },
   {
-    date: "Saturday 10th September, 2022",
+    img: "/images/bg/hero1.png", date: "Saturday 10th September, 2022",
     topic: "NO FEAR IN LOVE",
     text: "I John 4:18 KJV, “There is no fear in love.  But perfect love drives out fear, because fear has to do with punishment.  The one who fears is not made perfect in love”.",
     introduction:
@@ -630,7 +662,7 @@ export const devotional = [
       "Lord, place your Church in a love atmosphere which counts no error.",
   },
   {
-    date: "Sunday 11th September, 2022",
+    img: "/images/bg/hero2.png", date: "Sunday 11th September, 2022",
     topic: "YOU ARE BLESSED IF YOU FEAR GOD",
     text: "Psalm 112:1-2, “Praise ye the LORD.  Blessed is the man that feareth the LORD, that delighted greatly in his commandments.  His seed shall be mighty upon earth; the generation of the upright shall be blessed”.",
     introduction:
@@ -639,7 +671,7 @@ export const devotional = [
       "Thank you Father, for granting me generational blessing as I fear and serve you. ",
   },
   {
-    date: "Monday 12th September, 2022",
+    img: "/images/bg/hero4.png", date: "Monday 12th September, 2022",
     topic: "HOSPITALITY IN SERVICE",
     text: "Phil. 2:3-4, “Let nothing be done through strife or vain glory, but in lowliness of mind let each esteem other better than themselves.   Look not every man on his own things but every man also on the thing of others”.",
     introduction:
@@ -648,7 +680,7 @@ export const devotional = [
       "Father, create in us a desire to serve others in Jesus Name, Amen.",
   },
   {
-    date: "Tuesday 13th September, 2022",
+    img: "/images/bg/hero6.png", date: "Tuesday 13th September, 2022",
     topic: "HOSPITALITY IN SERVICE – 1",
     text: "Phil. 2:3, “Let nothing be done through strife or vain glory, but in lowliness of mind let each esteem other better than themselves”.",
     introduction:
@@ -657,7 +689,7 @@ export const devotional = [
       "Father, help me to maintain lowliness of mind so that I can render my service aright",
   },
   {
-    date: "Wednesday 14th September, 2022",
+    img: "/images/bg/hero8.png", date: "Wednesday 14th September, 2022",
     topic: "MIRACULOUS PROVISION -1",
     text: "Jos. 1:17, “Every good gift and every perfect gift is from above, and cometh down from the father of lights, with whom is no variableness, neither shadow of turning”.",
     introduction:
@@ -666,7 +698,7 @@ export const devotional = [
       "Father, include my name amongst those you are blessed, Amen.",
   },
   {
-    date: "Thursday 15th September, 2022",
+    img: "/images/bg/hero7.png", date: "Thursday 15th September, 2022",
     topic: "MIRACULOUS PROVISION - 2",
     text: "Isa. 1:19, “If ye be willing, and obedient, ye shall eat the good of the land”.",
     introduction:
@@ -674,7 +706,7 @@ export const devotional = [
     prayer_focus: "Lord, plant in my inside the spirit of obedience.",
   },
   {
-    date: "Friday 16th September, 2022",
+    img: "/images/bg/hero5.png", date: "Friday 16th September, 2022",
     topic: "CHRIST, THE CHANNEL OF MIRACULOUS PROVISION",
     text: "John 2:7-8, “Jesus said unto them, Fill this water pots with water. And  they filled them up to the brim.  And he said unto them, Draw out now, and bear unto the governor of the feast.  And they bare it”.",
     introduction:
@@ -682,7 +714,7 @@ export const devotional = [
     prayer_focus: "O Lord, provide my needs anytime I call upon you.",
   },
   {
-    date: "Saturday 17th September, 2022",
+    img: "/images/bg/hero4.png", date: "Saturday 17th September, 2022",
     topic: "MIRACULOUS PROVISIONS IS OUR HERITAGE",
     text: "John 1:12, “But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name”.",
     introduction:
@@ -691,7 +723,7 @@ export const devotional = [
       "Dear Lord,  let your miraculous provisions keep flowing to me when I am in need.",
   },
   {
-    date: "Sunday 18th September, 2022",
+    img: "/images/bg/hero3.png", date: "Sunday 18th September, 2022",
     topic: "CONDITIONS FOR RECEIVING GOD’S MIRACULOUS PROVISION",
     text: "John 15:7, “If ye abide in me, and my words abide in you, ye shall ask what ye will and it shall be done unto you” Prov.11:24.",
     introduction:
@@ -700,7 +732,7 @@ export const devotional = [
       "Lord Jesus, hold me tight unto thee and give me the grace to abide in you always. Amen.",
   },
   {
-    date: "Monday 19th September, 2022",
+    img: "/images/bg/hero1.png", date: "Monday 19th September, 2022",
     topic: "THE BLESSINGS OF GOD FOR MAN",
     text: "Psalm 1:1 – 2 (NIV) “Blessed is the man who does not walk in the counsel of the ungodly (wicked) or stand in the way of sinners or sit in the seat of mockers.  But his delight is in the law of the Lord”",
     introduction:
@@ -709,7 +741,7 @@ export const devotional = [
       "Lord, please help me to walk in your statue and to love you and obey you in totality.",
   },
   {
-    date: "Tuesday 20th September, 2022",
+    img: "/images/bg/hero3.png", date: "Tuesday 20th September, 2022",
     topic: "WHO AM I",
     text: "Gen. 1:26 (NIV) “Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the creatures that move along the ground”.",
     introduction:
@@ -718,7 +750,7 @@ export const devotional = [
       "Father, please restore me back to my place of authority, dominion and fellowship with you.",
   },
   {
-    date: "Wednesday 21st September, 2022",
+    img: "/images/bg/hero5.png", date: "Wednesday 21st September, 2022",
     topic: "THE ACT OF STAYING WITH GOD",
     text: "Job 14:14b “All the days of my appointed time will I wait, till my change come”.",
     introduction:
@@ -726,7 +758,7 @@ export const devotional = [
     prayer_focus: "Help me Jesus to practice the act of STAYING",
   },
   {
-    date: "Thursday 22nd September, 2022",
+    img: "/images/bg/hero7.png", date: "Thursday 22nd September, 2022",
     topic: "BUILDING MY WALLS 1",
     text: "Neh. 6:6, “In which was written; “It is reported among the nations and Geshon says it is true that you and the Jews are plotting to revolt, and therefore you are building the wall…”",
     introduction:
@@ -734,7 +766,7 @@ export const devotional = [
     prayer_focus: "Lord, help me to meet the demands you’ve set for me.",
   },
   {
-    date: "Friday 23rd September, 2022",
+    img: "/images/bg/hero9.png", date: "Friday 23rd September, 2022",
     topic: "BUILDING MY WALLS II",
     text: "Job 1:9, “Have you not put an hedge around him and his household and everything he has …”",
     introduction:
@@ -743,7 +775,7 @@ export const devotional = [
       "Father, please give me the grace to stay focus in my work with you.",
   },
   {
-    date: "Saturday 24th September, 2022",
+    img: "/images/bg/hero5.png", date: "Saturday 24th September, 2022",
     topic: "MY BODY A LIVING SACRIFICE",
     text: "Rom. 8:10, “And if Christ be in you, the body is dead because of sin; but the spirit is life because of righteousness”.",
     introduction:
@@ -752,7 +784,7 @@ export const devotional = [
       "Oh Lord, please kill my flesh and help me thirst after righteousness.",
   },
   {
-    date: "Sunday 25th September, 2022",
+    img: "/images/bg/hero3.png", date: "Sunday 25th September, 2022",
     topic: "GODLINESS",
     text: "Amos 3:3, “Can two walk together except they be agreed?",
     introduction:
@@ -761,7 +793,7 @@ export const devotional = [
       "Oh God, I am ready to give you my all, please give me the power to lay it down for the sake of thy kingdom.",
   },
   {
-    date: "Monday 26th September, 2022",
+    img: "/images/bg/hero2.png", date: "Monday 26th September, 2022",
     topic: "GIVE IT OUT",
     text: "Prov.11:24, “There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty”.",
     introduction:
@@ -770,7 +802,7 @@ export const devotional = [
       "Lord, I pray you to bestow grace to give out freely upon me.",
   },
   {
-    date: "Tuesday 27th September, 2022",
+    img: "/images/bg/hero7.png", date: "Tuesday 27th September, 2022",
     topic: "DON'T WITHHOLD ",
     text: "Prov.11:24,“There is that scattereth and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty ”.",
     introduction:
@@ -778,7 +810,7 @@ export const devotional = [
     prayer_focus: "Lord, I give, I sow, and therefore, I reap bountiful.",
   },
   {
-    date: "Wednesday 28th September, 2022",
+    img: "/images/bg/hero8.png", date: "Wednesday 28th September, 2022",
     topic: "RELEASE IT",
     text: "Prov.11:24, “There is that scattereth and yet increaseth: and there is that withholdeth more than is meet, but it tendeth to poverty”. ",
     introduction:
@@ -786,7 +818,7 @@ export const devotional = [
     prayer_focus: "Lord, help me to give that I may harvest bountifully.",
   },
   {
-    date: "Thursday 29th September, 2022",
+    img: "/images/bg/hero4.png", date: "Thursday 29th September, 2022",
     topic: "ALLOW IT PROCESS",
     text: "Prov.11:24,  “There is that scattereth and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty”.",
     introduction:
@@ -795,7 +827,7 @@ export const devotional = [
       "Lord, help me to wait till my seed is mature for harvesting. ",
   },
   {
-    date: "Friday 30th September, 2022",
+    img: "/images/bg/hero2.png", date: "Friday 30th September, 2022",
     topic: "DON'T SAVE THAT ONE!",
     text: "Prov.11:24,  “There is that scattereth and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty”.",
     introduction:
@@ -804,7 +836,7 @@ export const devotional = [
   },
   // October
   {
-    date: "Saturday 1st October, 2022",
+    img: "/images/bg/hero1.png", date: "Saturday 1st October, 2022",
     topic: "BE CHEERFUL",
     text: "2 Cor.9:7, Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity; for God loveth a cheerful giver .",
     introduction:
@@ -812,7 +844,7 @@ export const devotional = [
     prayer_focus: "Lord, I receive grace to give cheerfully. ",
   },
   {
-    date: "Sunday 2nd October, 2022",
+    img: "/images/bg/hero5.png", date: "Sunday 2nd October, 2022",
     topic: "Give upwards ",
     text: "Heb.7:7 - And without all contradiction, the less is blessed of the better .",
     introduction:
@@ -820,7 +852,7 @@ export const devotional = [
     prayer_focus: "Holy Spirit, lead me, teach my hands to release.",
   },
   {
-    date: "Monday 3rd October, 2022",
+    img: "/images/bg/hero7.png", date: "Monday 3rd October, 2022",
     topic: "WAIT ON!",
     text: "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
     introduction:
@@ -828,7 +860,7 @@ export const devotional = [
     prayer_focus: "Lord, help me to become a son.",
   },
   {
-    date: "Tuesday 4th October, 2022",
+    img: "/images/bg/hero9.png", date: "Tuesday 4th October, 2022",
     topic: "Who knows you -1",
     text: "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
     introduction:
@@ -837,7 +869,7 @@ export const devotional = [
       "Lord, help me maintain your fragrance within and outside the walls of the church. ",
   },
   {
-    date: "Wednesday 5th October, 2022",
+    img: "/images/bg/hero5.png", date: "Wednesday 5th October, 2022",
     topic: "WHO KNOWS YOU 2",
     text: "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
     introduction:
@@ -845,7 +877,7 @@ export const devotional = [
     prayer_focus: "Lord, help me, I want to be a son.",
   },
   {
-    date: "Thursday 6th October, 2022",
+    img: "/images/bg/hero6.png", date: "Thursday 6th October, 2022",
     topic: "BE EQUIPPED FIRST.",
     text: "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
     introduction:
@@ -854,7 +886,7 @@ export const devotional = [
       "Lord, I receive grace to wait, I receive power for manifestation.",
   },
   {
-    date: "Friday 7th October, 2022",
+    img: "/images/bg/hero1.png", date: "Friday 7th October, 2022",
     topic: "STOP THAT!",
     text: "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
     introduction:
@@ -863,7 +895,7 @@ export const devotional = [
       "Father, I receive grace to hunger for the reality of your glory upon my life.",
   },
   {
-    date: "Saturday 8th October, 2022",
+    img: "/images/bg/hero2.png", date: "Saturday 8th October, 2022",
     topic: "MANIFESTATION IS FOR SONS",
     text: "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
     introduction:
@@ -871,7 +903,7 @@ export const devotional = [
     prayer_focus: "Lord, I quit childish ness, I receive grace for sonship. ",
   },
   {
-    date: "Sunday 9th October, 2022",
+    img: "/images/bg/hero3.png", date: "Sunday 9th October, 2022",
     topic: "MANIFEST.",
     text: "Rom.8:19 - For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
     introduction:
@@ -879,7 +911,7 @@ export const devotional = [
     prayer_focus: "Lord, I receive grace to manifest.",
   },
   {
-    date: "Monday 10th October, 2022",
+    img: "/images/bg/hero4.png", date: "Monday 10th October, 2022",
     topic: "YOU ARE A GOD",
     text: "Psm.82:6 (NIV.) - I said, you are gods; you are all sons of the Most High.",
     introduction:
@@ -888,7 +920,7 @@ export const devotional = [
       "I grow in the knowledge of who I am as a god, help me Jesus. ",
   },
   {
-    date: "Tuesday 11th October 2022",
+    img: "/images/bg/hero5.png", date: "Tuesday 11th October 2022",
     topic: "BE CONSCIOUS OF IT",
     text: "Psm.82:6(NIV.) - I said you are gods; you are all sons of the Most High.",
     introduction:
@@ -897,7 +929,7 @@ export const devotional = [
       "Lord, I ask for grace to always be conscious of my status as a god.",
   },
   {
-    date: "Wednesday 12th October, 2022",
+    img: "/images/bg/hero6.png", date: "Wednesday 12th October, 2022",
     topic: "PROVE IT",
     text: "Psm.82:6 (NIV.) - I said, you are gods; you are all sons of the Most High.",
     introduction:
@@ -906,7 +938,7 @@ export const devotional = [
       "Though I be surrounded by evil, I conquer through Jesus for I am a god.",
   },
   {
-    date: "Thursday 13th October, 2022",
+    img: "/images/bg/hero7.png", date: "Thursday 13th October, 2022",
     topic: "LIVE IT",
     text: "Psm.82:6 (NIV.) - I said, you are all sons of the Most High.",
     introduction:
@@ -914,7 +946,7 @@ export const devotional = [
     prayer_focus: "Lord, I believe, I am a god! Help me live it.",
   },
   {
-    date: "Friday 14th October, 2022",
+    img: "/images/bg/hero8.png", date: "Friday 14th October, 2022",
     topic: "Sons of God",
     text: "Psm.82:6 (NIV) - I said, you are gods; you are all sons of the Most High.",
     introduction:
@@ -923,7 +955,7 @@ export const devotional = [
       "Lord, I stand as a son of God, I declare freedom upon earth.",
   },
   {
-    date: "Saturday 15th October, 2022",
+    img: "/images/bg/hero9.png", date: "Saturday 15th October, 2022",
     topic: "MAN OF GOD",
     text: "Psm.82:7(Esv) - 'Nevertheless, like men you shall die, and fall like any prince'.",
     introduction:
@@ -932,7 +964,7 @@ export const devotional = [
       "Lord, I am a man, possessor of the earth realm; I command things to work for me now!",
   },
   {
-    date: "Sunday 16th October, 2022",
+    img: "/images/bg/hero1.png", date: "Sunday 16th October, 2022",
     topic: "PRINCE OF PEACE",
     text: "Psm.82:7(ESV) - Nevertheless, like men you shall die, and fall like any prince.",
     introduction:
@@ -941,7 +973,7 @@ export const devotional = [
       "Lord, I establish your authority in my territory, Satan out!",
   },
   {
-    date: "Monday 17th October, 2022",
+    img: "/images/bg/hero2.png", date: "Monday 17th October, 2022",
     topic: "BE TRUTHFUL TO YOURSELF ABOUT YOUR INBORN NATURE",
     text: "1Peter 5:8 - “Be sober, be vigilant, because your adversary the devil as a roaring lion, walketh about, seeking whom he may devour”.",
     introduction:
@@ -949,7 +981,7 @@ export const devotional = [
     prayer_focus: "I shut the door against any devices of the devil",
   },
   {
-    date: "Tuesday 18th October, 2022",
+    img: "/images/bg/hero3.png", date: "Tuesday 18th October, 2022",
     topic: "SPONSORS OF ADULTERY 1",
     text: "2Sam11:1 -  “And it came to pass after the year was expired, at the time when kings go for battle, that David sent Joab with his servants with him, and all Israel....but David tarried still at Jerusalem”.",
     introduction:
@@ -958,7 +990,7 @@ export const devotional = [
       "Lord, help me to always be at my post and stay spirit-filled.",
   },
   {
-    date: "Wednesday 19th October, 2022",
+    img: "/images/bg/hero4.png", date: "Wednesday 19th October, 2022",
     topic: "SPONSORS OF ADULTERY 2",
     text: "Prov. 20:1 - 'Wine is a mocker, strong drink is raging and whoever is deceived thereby is not wise'.",
     introduction:
@@ -966,7 +998,7 @@ export const devotional = [
     prayer_focus: "Lord, help me to maintain the ways of wisdom",
   },
   {
-    date: "Thursday 20th October, 2022",
+    img: "/images/bg/hero5.png", date: "Thursday 20th October, 2022",
     topic: "SPONSORS OF ADULTERY 3",
     text: "1Cor 15:33 - 'Be not deceived, evil communications corrupt good manners '.",
     introduction:
@@ -975,7 +1007,7 @@ export const devotional = [
       "Lord, I live trusting the right people assigned for my life and destiny in Jesus name amen.",
   },
   {
-    date: "Friday 21st October, 2022",
+    img: "/images/bg/hero6.png", date: "Friday 21st October, 2022",
     topic: "SPONSORS OF ADULTERY 4",
     text: "1Cor 7:3 - 'Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband'.",
     introduction:
@@ -984,7 +1016,7 @@ export const devotional = [
       "Father, help me perform my marital rights at all times in Jesus name. Amen",
   },
   {
-    date: "Saturday 22nd October, 2022",
+    img: "/images/bg/hero7.png", date: "Saturday 22nd October, 2022",
     topic: "LET NONE PUT ASUNDER",
     text: "Matt 19:6 - 'Wherefore they are no more twain but one flesh.What therefore God hath joined together, let not man put asunder'.",
     introduction:
@@ -993,7 +1025,7 @@ export const devotional = [
       "Father, let nothing come in between me and you and my God given relations ",
   },
   {
-    date: "Sunday 23rd October, 2022",
+    img: "/images/bg/hero8.png", date: "Sunday 23rd October, 2022",
     topic: "OUR MUTUAL RESPONSIBILITY",
     text: "2Sam 11:2 - “And it came to pass in an even tide that David arose from off his bed, and walked upon the roof of the king's house; and from the roof, he saw a woman washing herself; and the woman was very beautiful to look upon”.",
     introduction:
@@ -1002,7 +1034,7 @@ export const devotional = [
       "Father, help me close doors against anything that would cause the fall of others",
   },
   {
-    date: "Monday 24th October, 2022",
+    img: "/images/bg/hero4.png", date: "Monday 24th October, 2022",
     topic: "A PLACE CALLED CAPERNAUM -1",
     text: "Matthew 27:24-27 - “And when they were come to Capernaum, they that received tribute money came to Peter and said doth not your master pay tribute?” – verse 24",
     introduction:
@@ -1011,7 +1043,7 @@ export const devotional = [
       "Oh God, let this city my place of residence not be a Capernaum.",
   },
   {
-    date: "Tuesday, 25th October, 2022",
+    img: "/images/bg/hero3.png", date: "Tuesday, 25th October, 2022",
     topic: "A PLACE CALLED CAPERNAUM -2",
     text: "Matthew 17:24-27 - “And when they were come to Capernaum, they that received tribute money came to Peter and said doth not your master pay tribute?” – verse 24",
     introduction:
@@ -1020,7 +1052,7 @@ export const devotional = [
       "Oh Lord, deliver me from any form of financial inadequacies.",
   },
   {
-    date: "Wednesday, 26th October, 2022",
+    img: "/images/bg/hero2.png", date: "Wednesday, 26th October, 2022",
     topic: "A TIME BEFORE CAPERNAUM ",
     text: "Matthew 17:24-27 - “And when they were come to Capernaum…” – verse 24",
     introduction:
@@ -1029,7 +1061,7 @@ export const devotional = [
       "Lord, restore me to the era of financial abundance via tithing and careful planning.",
   },
   {
-    date: "Thursday, 27th October, 2022",
+    img: "/images/bg/hero1.png", date: "Thursday, 27th October, 2022",
     topic: "A MAN CALLED PETER – 1",
     text: "Matt 17:24 - “They that received tribute money came to Peter.” – verse 24",
     introduction:
@@ -1037,7 +1069,7 @@ export const devotional = [
     prayer_focus: "Lord, give me a Peter in this Church/City.",
   },
   {
-    date: "Friday, 28th October, 2022",
+    img: "/images/bg/hero3.png", date: "Friday, 28th October, 2022",
     topic: "A MAN CALLED PETER – 2",
     text: "Matt 17:24 - “they that received tribute money came to Peter”.",
     introduction:
@@ -1046,7 +1078,7 @@ export const devotional = [
       "Lord Jesus, raise for me those who will speak for me and lift my financial burdens.",
   },
   {
-    date: "Saturday, 29th October, 2022",
+    img: "/images/bg/hero4.png", date: "Saturday, 29th October, 2022",
     topic: "A MAN CALLED PETER – 3",
     text: "Matt 17:24 – “they that received tribute money came to Peter”.",
     introduction:
@@ -1055,7 +1087,7 @@ export const devotional = [
       "Father, give me somebody who will show concern about my financial will-being and be willing to defend me against financial hardship.",
   },
   {
-    date: "Sunday, 30th October, 2022",
+    img: "/images/bg/hero6.png", date: "Sunday, 30th October, 2022",
     topic: "THE CRUCIAL QUESTION",
     text: "Matt 17:24 - “they that received tribute money came to Peter, and said doth not your master pay tribute?”",
     introduction:
@@ -1064,7 +1096,7 @@ export const devotional = [
       "Lord, always prompt me to assist my boss so as to get more impartation from above.",
   },
   {
-    date: "Monday, 31st October, 2022",
+    img: "/images/bg/hero7.png", date: "Monday, 31st October, 2022",
     topic: "THE MAKE UP OF A CHAMPION",
     text: "1 Samuel 17:23 - “And as he talked with them, behold there came up the champion, the philistine of Gath, Goliah by name, out of the armies of the philistines, and spake according to the same words: and David heard him”.",
     introduction:
@@ -1072,7 +1104,7 @@ export const devotional = [
     prayer_focus: "Oh Lord, help me win battles over my opponent.",
   },
   {
-    date: "Tuesday, 1st November, 2022",
+    img: "/images/bg/hero8.png", date: "Tuesday, 1st November, 2022",
     topic: "A CHAMPION IS FEARLESS",
     text: "1 Samuel 17:11 - “When Saul and all Israel heard those words of the philistine, they were dismayed, and greatly afraid”.",
     introduction:
@@ -1081,7 +1113,7 @@ export const devotional = [
       "Father, strengthen my attributes to excellence and beyond champion.",
   },
   {
-    date: "Wednesday, 2nd November, 2022",
+    img: "/images/bg/hero9.png", date: "Wednesday, 2nd November, 2022",
     topic: "A CHAMPION IS NOT LIMITED BY AGE - 1",
     text: "1 Samuel 17:14 - “And David was the youngest: and the three eldest followed Saul”.",
     introduction:
@@ -1090,7 +1122,7 @@ export const devotional = [
       "Oh God, let not the consideration of my age (younger or elder) dwarf the spirit of championship in me.",
   },
   {
-    date: "Thursday, 3rd November, 2022",
+    img: "/images/bg/hero4.png", date: "Thursday, 3rd November, 2022",
     topic: "A CHAMPION IS NOT LIMITED BY AGE -2",
     text: "Numbers 13:30 - “And Caleb stilled the people before Moses, and said, let us go up at once, and possess it; for we are well able to overcome it”.",
     introduction:
@@ -1099,7 +1131,7 @@ export const devotional = [
       "Oh God, help me to still bear fruit and be relevant in the scheme of things even at very good old age.",
   },
   {
-    date: "Friday, 4th November, 2022",
+    img: "/images/bg/hero3.png", date: "Friday, 4th November, 2022",
     topic: "A CHAMPION LOVES WORK",
     text: "“Proverbs 22:29 - “Seest thou a man diligent in his business? he shall stand before Kings; he shall not stand before mean men”.",
     introduction:
@@ -1108,7 +1140,7 @@ export const devotional = [
       "Father, help me to work my way to the top and keep going up with a rising competence.",
   },
   {
-    date: "Saturday, 5th November, 2022",
+    img: "/images/bg/hero5.png", date: "Saturday, 5th November, 2022",
     topic: "A CHAMPION VALUES TIME",
     text: "John 11:9 - “Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world”.",
     introduction:
@@ -1117,7 +1149,7 @@ export const devotional = [
       "Lord Jesus, let me not only see the light of this world, make me the light of the world.",
   },
   {
-    date: "Sunday, 6th November, 2022",
+    img: "/images/bg/hero7.png", date: "Sunday, 6th November, 2022",
     topic: "A CHAMPION IS DIVINELY WIRED FOR COMPLETENESS",
     text: "Philippians 1:6 - “Being confident of this very thing, that he which hath began a good work in you will perform it until the day of Jesus Christ”.",
     introduction:
@@ -1126,7 +1158,7 @@ export const devotional = [
       "My father and my God, grant me the grace to finish well and finish strong.",
   },
   {
-    date: "Monday, 7th November, 2022",
+    img: "/images/bg/hero8.png", date: "Monday, 7th November, 2022",
     topic: "TITHE IS A COMMAND",
     text: " Mal. 3:10 - “Bring ye all the tithes into the storehouse that there may be meat in mine house and prove me now herewith, said the Lord of hosts, if I will not open you the window of heaven and pour you out a blessing that there shall not be room enough to receive it”.",
     introduction:
@@ -1134,7 +1166,7 @@ export const devotional = [
     prayer_focus: "Lord, help me to obey your command of tithing.",
   },
   {
-    date: "Tuesday, 8th November, 2022",
+    img: "/images/bg/hero3.png", date: "Tuesday, 8th November, 2022",
     topic: "TITHE BRINGS OPEN DOOR",
     text: "Mal. 3:10 - “and prove me now herewith, said the Lord of hosts, if I will not open you the windows of heaven and pour you out a blessing that there shall not be room enough to receive it”.",
     introduction:
@@ -1143,7 +1175,7 @@ export const devotional = [
       "Gracious Lord, let me received open doors as I pay my tithe in Jesus name. Amen.",
   },
   {
-    date: "Wednesday, 9th November, 2022",
+    img: "/images/bg/hero9.png", date: "Wednesday, 9th November, 2022",
     topic: " TITHING STOPS THE DEVOURER",
     text: "Mal. 3:11 - “And I will rebuke the devourer for your sake and he shall not destroy the fruits of your ground; neither shall your vine cast her fruits before the time in the field, said the Lord of hosts”.",
     introduction:
@@ -1152,7 +1184,7 @@ export const devotional = [
       "Father please give me the strength and grace to pay my tithe so as to rebuke the devourer in my life, Amen.",
   },
   {
-    date: "Thursday, 10th November, 2022",
+    img: "/images/bg/hero2.png", date: "Thursday, 10th November, 2022",
     topic: "TITHING ESTABLISHES AND PROVES GOD’S SOVERIENTY",
     text: "Lev. 27:30 - “And all the tithes of the Lord whether of the seed of the land or of the fruit of the tree is the Lord’s, it is Holy unto the Lord”.",
     introduction:
@@ -1161,7 +1193,7 @@ export const devotional = [
       "Lord, open my eyes to behold and acknowledge your sovereignty and power as I continue to serve you.",
   },
   {
-    date: "Friday, 11th November, 2022",
+    img: "/images/bg/hero5.png", date: "Friday, 11th November, 2022",
     topic: "TITHE SERVES AS A DEFENCE",
     text: "Mal. 3:11 - “I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground neither shall your vine cast her fruits before the time in the field, saith the Lord of host”.",
     introduction:
@@ -1169,7 +1201,7 @@ export const devotional = [
     prayer_focus: "Fight my battles O Lord and let my enemies be scattered.",
   },
   {
-    date: "Saturday, 12th November, 2022",
+    img: "/images/bg/hero7.png", date: "Saturday, 12th November, 2022",
     topic: "TITHE IS SACROSANCT",
     text: "Lev. 27:30 - “And all the tithes of the Lord whether of the seed of the Land or of the fruit of the tree is the Lord’s, it is Holy unto the Lord”.",
     introduction:
@@ -1178,7 +1210,7 @@ export const devotional = [
       "Teach me thy ways O Lord, so as to serve you with fear and trembling.",
   },
   {
-    date: "Sunday, 13th November, 2022",
+    img: "/images/bg/hero1.png", date: "Sunday, 13th November, 2022",
     topic: "TITHING IS A POINTER TO OBEDIENCE",
     text: "Mal. 3:10 - “Bring ye all the tithes into the storehouse that there may be meat in mine house”.",
     introduction:
@@ -1187,7 +1219,7 @@ export const devotional = [
       "Father, help me to resist all the negative promptings ordering me not to pay me tithe",
   },
   {
-    date: "Monday, 14th November, 2022",
+    img: "/images/bg/hero3.png", date: "Monday, 14th November, 2022",
     topic: "REPENTANCE AND SALVATION IN CHRIST",
     text: "Luke 1:74-77 “That he would grant unto us that we, being delivered out of the hand of our enemies, might serve him without fear… vs 75 “In holiness and righteousness before him all the days of our life… Vs 77 “To give knowledge of salvation unto His people by the remission of our sins”.",
     introduction:
@@ -1196,7 +1228,7 @@ export const devotional = [
       "O God, as I repent of my sins, help me to stay connected to your watch.",
   },
   {
-    date: "Tuesday, 15th November, 2022",
+    img: "/images/bg/hero6.png", date: "Tuesday, 15th November, 2022",
     topic: "THE ORDER OF SALVATION",
     text: "Obadiah 1:17 - “But upon mount Zion shall be deliverance and there shall be holiness, and the house of Jacob shall possess their possessions”.",
     introduction:
@@ -1204,7 +1236,7 @@ export const devotional = [
     prayer_focus: "Oh God, help me to walk before you in holiness. ",
   },
   {
-    date: "Wednesday, 16th November, 2022",
+    img: "/images/bg/hero8.png", date: "Wednesday, 16th November, 2022",
     topic: "A NEW WINE NOT IN AN OLD JAR!",
     text: "James 3:12 - “Can the fig tree, my brethren, bear olive berries? Either a vine, fig? so can no fountain both yield salt water and fresh”.",
     introduction:
@@ -1213,7 +1245,7 @@ export const devotional = [
       "Lord Jesus, help me to live a life of transparency and not that of hypocrisy.",
   },
   {
-    date: "Thursday, 17th November, 2022",
+    img: "/images/bg/hero9.png", date: "Thursday, 17th November, 2022",
     topic: "THE WEIGHTIER MATTER OF SALVATION",
     text: "Matt. 6:33 - “But seek ye first the kingdom of God, and his righteousness, and all these things shall be added unto you”.",
     introduction:
@@ -1222,7 +1254,7 @@ export const devotional = [
       "O God, enable me to focus on your kingdom and take my eyes off the additions.",
   },
   {
-    date: "Friday, 18th November, 2022",
+    img: "/images/bg/hero7.png", date: "Friday, 18th November, 2022",
     topic: "HOLINESS A COMMAND AND COMPONENT OF SALVATION",
     text: "Levi. 19:2 - “Speak unto all the congregation of the children of Israel and say unto them, ye shall be holy for I the Lord your God am holy”.  1Peter 1:15 – “But as he which hath called you is holy, so be ye holy in all manner of conversation”.",
     introduction:
@@ -1231,7 +1263,7 @@ export const devotional = [
       "Father, as I obey the command to be holy, let me not stray from it along the way.",
   },
   {
-    date: "Saturday, 19th November, 2022",
+    img: "/images/bg/hero5.png", date: "Saturday, 19th November, 2022",
     topic: "RIGHTEOUSNESS A GIFT AND PART OF SALVATION",
     text: "Psalm 5:12 - “For thou, Lord, will bless the righteous; with favour wilt thou compass him with a shield”.",
     introduction:
@@ -1240,7 +1272,7 @@ export const devotional = [
       "Oh Lord, grant me the favour of being counted as righteous all the time.",
   },
   {
-    date: "Sunday, 20th November, 2022",
+    img: "/images/bg/hero3.png", date: "Sunday, 20th November, 2022",
     topic: "TRUE REPENTANCE SUSTAIN SALVATION",
     text: "Matt. 3:7-8 - “Then Peter said unto them, repent and be baptized every one of you in the name of Jesus Christ for the remission of sin and ye shall receive the gift of the Holy Ghost”.",
     introduction:
@@ -1249,7 +1281,7 @@ export const devotional = [
       "O Lord, help me to get rid of sin in my thoughts and actions.",
   },
   {
-    date: "Monday 21st November, 2022",
+    img: "/images/bg/hero1.png", date: "Monday 21st November, 2022",
     topic: "UNDERSTANDING GOD’S LOVE 1",
     text: "Rom. 5:8 - “But God commendeth his love toward us, in that while we were yet sinners, Christ died for us”.",
     introduction:
@@ -1257,7 +1289,7 @@ export const devotional = [
     prayer_focus: "Lord, I desire a deeper revelation of your love today.",
   },
   {
-    date: "Tuesday 22nd November, 2022",
+    img: "/images/bg/hero2.png", date: "Tuesday 22nd November, 2022",
     topic: "UNDERSTANDING GOD’S LOVE 11",
     text: "Rom. 5:8, “But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us”.",
     introduction:
@@ -1266,7 +1298,7 @@ export const devotional = [
       "Lord, by your spirit, shed your love abroad in my heart the more.",
   },
   {
-    date: "Wednesday 23rd November, 2022",
+    img: "/images/bg/hero4.png", date: "Wednesday 23rd November, 2022",
     topic: "SOW LOVE",
     text: "Heb. 13:1 - “Let brotherly love continue”.",
     introduction:
@@ -1274,7 +1306,7 @@ export const devotional = [
     prayer_focus: "Lord, today I receive grace to put love to work",
   },
   {
-    date: "Thursday 24th November, 2022",
+    img: "/images/bg/hero6.png", date: "Thursday 24th November, 2022",
     topic: "LOVE CAN BE REWARDED",
     text: "John 15:17 - “These things I command you, that ye love one another”.",
     introduction:
@@ -1282,7 +1314,7 @@ export const devotional = [
     prayer_focus: "Lord, forgive me for every practice that is not of love.",
   },
   {
-    date: "Friday 25th November, 2022",
+    img: "/images/bg/hero8.png", date: "Friday 25th November, 2022",
     topic: "THE POWER OF LOVE 1",
     text: "John 3:16 - “For God so loved the world, that he gave his only begotten son, that whoever believeth in him should not perish, but have everlasting life”.",
     introduction:
@@ -1291,7 +1323,7 @@ export const devotional = [
       "Lord, from today, I may I not only talk/preach about love, help me love as you do.",
   },
   {
-    date: "Saturday 26th November, 2022",
+    img: "/images/bg/hero9.png", date: "Saturday 26th November, 2022",
     topic: "UNDERSTANDING BROTHERLY LOVE",
     text: "1 John 3:16 - “Hereby perceive we the love of God, because he laid down his life for us, and we ought to lay down our lives for the brethren”.",
     introduction:
@@ -1300,7 +1332,7 @@ export const devotional = [
       "Lord, help me to manifest brotherly love the way you want henceforth.",
   },
   {
-    date: "Sunday 27th November, 2022",
+    img: "/images/bg/hero7.png", date: "Sunday 27th November, 2022",
     topic: "COMPASSION TOWARDS ANOTHER",
     text: "Luke 10:33 (KJV) - “But a certain Samaritan, as he journeyed, came where he was; and when he saw him, He had compassion on him”.",
     introduction:
@@ -1308,7 +1340,7 @@ export const devotional = [
     prayer_focus: "Oh Lord, baptize me with the spirit of compassion",
   },
   {
-    date: "Monday 28th, November, 2022",
+    img: "/images/bg/hero4.png", date: "Monday 28th, November, 2022",
     topic: "A VESSEL UNTO HONOUR – 1",
     text: "2 Timothy 2:21 – “If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use”.",
     introduction:
@@ -1316,7 +1348,7 @@ export const devotional = [
     prayer_focus: "Father, purge and cleanse me within and without.",
   },
   {
-    date: "Tuesday 29th November, 2022",
+    img: "/images/bg/hero3.png", date: "Tuesday 29th November, 2022",
     topic: "A VESSEL UNTO HONOUR – 2",
     text: " Isaiah 52:10-11 – “Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD” – verse 11.",
     introduction:
@@ -1325,7 +1357,7 @@ export const devotional = [
       "Lord, I strongly rely on you to enable me depart from all appearances of evil.",
   },
   {
-    date: "Wednesday 30th November, 2022",
+    img: "/images/bg/hero2.png", date: "Wednesday 30th November, 2022",
     topic: "A VESSEL UNTO HONOUR – 3",
     text: "Isaiah 52:1 – “go ye out of the midst of her, be ye clean, that bear the vessels of the LORD”.",
     introduction:
@@ -1334,7 +1366,7 @@ export const devotional = [
       "Lord, deliver me from the prevailing evils of fornication and adultery.",
   },
   {
-    date: "Thursday 1st December, 2022",
+    img: "/images/bg/hero5.png", date: "Thursday 1st December, 2022",
     topic: "A VESSEL UNTO HONOUR – 4",
     text: "Isaiah 52:11 – “go ye out of the midst of her, be ye clean, that beareth vessels of the LORD”.",
     introduction:
@@ -1343,7 +1375,7 @@ export const devotional = [
       "Father, I refuse to shift my focus from becoming a vessel unto honour.",
   },
   {
-    date: "Friday 2nd December, 2022",
+    img: "/images/bg/hero7.png", date: "Friday 2nd December, 2022",
     topic: "A VESSEL UNTO HONOUR – 5",
     text: "1 Corinthians 10:14 – “Wherefore, my dearly beloved, flee from idolatry”.",
     introduction:
@@ -1352,7 +1384,7 @@ export const devotional = [
       "Holy Spirit, make intercession for me to overcome and escape all the tricks of the fetish class.",
   },
   {
-    date: "Saturday 3rd December, 2022",
+    img: "/images/bg/hero9.png", date: "Saturday 3rd December, 2022",
     topic: "A VESSEL UNTO HONOUR – 6",
     text: "1 Cor. 10:14 – “…flee from idolatry”.",
     introduction:
@@ -1360,7 +1392,7 @@ export const devotional = [
     prayer_focus: "Oh God, deliver me from evil hands stronger than me.",
   },
   {
-    date: "Sunday 4th December, 2022",
+    img: "/images/bg/hero7.png", date: "Sunday 4th December, 2022",
     topic: "A VESSEL UNTO HONOUR – 7",
     text: "Cor. 10:14 – “Wherefore, my dearly beloved, flee from idolatry”.",
     introduction:
@@ -1369,7 +1401,7 @@ export const devotional = [
       "Oh God, though I mingle with unbelievers in the cause of my duty or career, let me not be equally yoked with them.  Rather let me win them over.  Thank you Jesus!",
   },
   {
-    date: "Monday 5th December, 2022",
+    img: "/images/bg/hero5.png", date: "Monday 5th December, 2022",
     topic: "ONE WITH GOD – 1",
     text: "2 Samuel 8:6 – “Then David put garrisons of Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the Lord preserved David withersoever he went”.",
     introduction:
@@ -1377,7 +1409,7 @@ export const devotional = [
     prayer_focus: "Lord, give me victories over all enemies and preserve me.",
   },
   {
-    date: "Tuesday 6th December, 2022",
+    img: "/images/bg/hero3.png", date: "Tuesday 6th December, 2022",
     topic: "ONE WITH GOD – 2",
     text: "Esther 2:20 – “Esther had not yet shewed her kindred nor her people: as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him”.",
     introduction:
@@ -1385,7 +1417,7 @@ export const devotional = [
     prayer_focus: "Lord, make me submissive to you counsels.",
   },
   {
-    date: "Wednesday 7th December, 2022",
+    img: "/images/bg/hero1.png", date: "Wednesday 7th December, 2022",
     topic: "ONE WITH GOD – 3",
     text: "Romans 8:11 – “But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you”.",
     introduction:
@@ -1393,7 +1425,7 @@ export const devotional = [
     prayer_focus: "Pray as led.",
   },
   {
-    date: "Thursday 8th December, 2022",
+    img: "/images/bg/hero2.png", date: "Thursday 8th December, 2022",
     topic: "ONE WITH GOD – 4",
     text: "Genesis 37:5 – “And Joseph dreamed a dream, and he told it to his brethren: and they hated him yet the more”.",
     introduction:
@@ -1401,7 +1433,7 @@ export const devotional = [
     prayer_focus: "Lord, help me to dream dreams and realize them. ",
   },
   {
-    date: "Friday 9th December, 2022",
+    img: "/images/bg/hero4.png", date: "Friday 9th December, 2022",
     topic: "ONE WITH GOD – 5",
     text: "Titus 2:13 – “Looking for that blessed hope and glorious appearing of the great God and our Saviour Jesus Christ”.",
     introduction:
@@ -1409,7 +1441,7 @@ export const devotional = [
     prayer_focus: "Help me, O Lord, to live a reputable life.",
   },
   {
-    date: "Saturday 10th December, 2022",
+    img: "/images/bg/hero6.png", date: "Saturday 10th December, 2022",
     topic: "ONE WITH GOD – 6",
     text: "Proverbs 3:3 – “Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart”.",
     introduction:
@@ -1417,7 +1449,7 @@ export const devotional = [
     prayer_focus: "Lord, as I hold to truth let me reap your mercy.",
   },
   {
-    date: "Sunday 11th December, 2022",
+    img: "/images/bg/hero8.png", date: "Sunday 11th December, 2022",
     topic: "ONE WITH GOD – 7",
     text: "Luke 22:19 – “And he took bread, and gave thanks, and brake it, and gave unto them, saying. This is my body which is given for you: this do in remembrance of me”.",
     introduction:
@@ -1425,7 +1457,7 @@ export const devotional = [
     prayer_focus: "Lord, help me to stay pure always.",
   },
   {
-    date: "Monday 12th December, 2022",
+    img: "/images/bg/hero9.png", date: "Monday 12th December, 2022",
     topic: "KEEP A BALANCE IN YOUR LIFE",
     text: "Isaiah 28:10 – “for precept must be upon precept, precept upon precept, line upon line; here a little, and there a little”.",
     introduction:
@@ -1434,7 +1466,7 @@ export const devotional = [
       "O God, help me to be committed to keeping a balance in my life and endeavours",
   },
   {
-    date: "Tuesday 13th December, 2022",
+    img: "/images/bg/hero7.png", date: "Tuesday 13th December, 2022",
     topic: "LIVING A BALANCED LIFE",
     text: "Proverb 15:13 – “A merry maketh a cheerful countenance; but by sorrow of the heart, the spirit is broken”.",
     introduction:
@@ -1442,7 +1474,7 @@ export const devotional = [
     prayer_focus: "O God, enable me to stay joyful even in adverse condition.",
   },
   {
-    date: "Wednesday 14th December, 2022",
+    img: "/images/bg/hero4.png", date: "Wednesday 14th December, 2022",
     topic: "BALANCE IS A SENSE OF HARMONY",
     text: "Proverb 15:3 – “…but by sorrow of the heart, the spirit is broken”.",
     introduction:
@@ -1451,7 +1483,7 @@ export const devotional = [
       "O God, let nothing cut short the flow of joy in my heart as and can manifest the flow of the Holy Spirit as you intend to use me.",
   },
   {
-    date: "Thursday 15th December, 2022",
+    img: "/images/bg/hero5.png", date: "Thursday 15th December, 2022",
     topic: "BALANCE REQUIRES A STEADY MIND",
     text: "Proverb 75:13 – “…by sorrow of the heart, the spirit is broken”.",
     introduction:
@@ -1460,7 +1492,7 @@ export const devotional = [
       "O God, grant me the privilege to pitch my life on the realm of a steady mind.",
   },
   {
-    date: "Friday 16th December, 2022",
+    img: "/images/bg/hero1.png", date: "Friday 16th December, 2022",
     topic: "BALANCE HELPS YOU STAY ON COURSE",
     text: "O God, deliver every sig sag experience and keep my life going on a balance.",
     introduction:
@@ -1469,7 +1501,7 @@ export const devotional = [
       "O God, deliver every sig sag experience and keep my life going on a balance.",
   },
   {
-    date: "Saturday 17th December, 2022",
+    img: "/images/bg/hero3.png", date: "Saturday 17th December, 2022",
     topic: "BALANCE BETWEEN BUSYNESS AND LAZINESS",
     text: "Eccl. 3:1 – “To everything there is a season, and a time to every purpose under the heaven”.",
     introduction:
@@ -1478,7 +1510,7 @@ export const devotional = [
       " Lord, help me to apply moderation to my time of busyness and laziness and the wisdom to know the difference.",
   },
   {
-    date: "Sunday 18th December, 2022",
+    img: "/images/bg/hero2.png", date: "Sunday 18th December, 2022",
     topic: "JUSTICE IS BALANCE",
     text: "Proverb 24:16 – “for a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief”.",
     introduction:
@@ -1487,7 +1519,7 @@ export const devotional = [
       "Lord, help me to shun injustice and wickedness vehemently so that I can enjoy steady growth and progress in life and in my career.",
   },
   {
-    date: "Monday 19th December, 2022",
+    img: "/images/bg/hero5.png", date: "Monday 19th December, 2022",
     topic: "BRAVE THROUGH – 1",
     text: "1 Thess. 5:17 – “Pray without ceasing”.",
     introduction:
@@ -1495,7 +1527,7 @@ export const devotional = [
     prayer_focus: "Father, enable me to brave through any obstacle on my way.",
   },
   {
-    date: "Tuesday 20th December, 2022",
+    img: "/images/bg/hero3.png", date: "Tuesday 20th December, 2022",
     topic: "BRAVE THROUGH – 2",
     text: "1 Kings 18:43 – “And said to his servant, Go up now, look toward the sea.  And he went up, and looked, and said there is nothing.  And he said, Go again seven times”.",
     introduction:
@@ -1503,7 +1535,7 @@ export const devotional = [
     prayer_focus: "O Lord, heal me of impatience.",
   },
   {
-    date: "Wednesday 21st December, 2022",
+    img: "/images/bg/hero7.png", date: "Wednesday 21st December, 2022",
     topic: "BRAVE THROUGH – 3",
     text: "1 Kings 18:43 – “…And he went up, and looked, and said, there is nothing…”",
     introduction:
@@ -1512,7 +1544,7 @@ export const devotional = [
       "Pray as led about your plans/calendar of events for next year.",
   },
   {
-    date: "Thursday 22nd December, 2022",
+    img: "/images/bg/hero9.png", date: "Thursday 22nd December, 2022",
     topic: "BRAVE THROUGH – 4",
     text: "1 Kings 18:43 – “there is nothing; and he said, Go again seven times”.",
     introduction:
@@ -1521,7 +1553,7 @@ export const devotional = [
       "O Lord, help me not to give up in the midst of challenges in Jesus dear name.",
   },
   {
-    date: "Friday 23rd December, 2022",
+    img: "/images/bg/hero2.png", date: "Friday 23rd December, 2022",
     topic: "BRAVE THROUGH – 5",
     text: "Luke 18:2-7 – “Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me”. – Verse 5.",
     introduction:
@@ -1530,7 +1562,7 @@ export const devotional = [
       "O God, I have no alternative to you.  As I brave through, let my enemies lose out.",
   },
   {
-    date: "Saturday 24th December, 2022",
+    img: "/images/bg/hero4.png", date: "Saturday 24th December, 2022",
     topic: "BRAVE THROUGH – 6",
     text: "Luke 18:2-7 – “I will avenge her lest by her continual coming she weary me”. – Verse 5.",
     introduction:
@@ -1539,7 +1571,7 @@ export const devotional = [
       "My father, my maker, whatever was due to me that was withheld, let a release come forth now in Jesus name.",
   },
   {
-    date: "Sunday 25th December, 2022",
+    img: "/images/bg/hero6.png", date: "Sunday 25th December, 2022",
     topic: "BRAVE THROUGH – 7",
     text: "Luke 18:2-7 – “And the Lord said, Hear what the unjust judge saith” – Verse 5.",
     introduction:
@@ -1548,7 +1580,7 @@ export const devotional = [
       "Lord, enable me to will the unbelievers to your side today and always.",
   },
   {
-    date: "Monday 26th December, 2022",
+    img: "/images/bg/hero3.png", date: "Monday 26th December, 2022",
     topic: "FINISH WELL – BECOME A POINT OF REFERENCE",
     text: "James 5:17-18 – “Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on earth by the space of three years and six months” – verse 17.",
     introduction:
@@ -1556,7 +1588,7 @@ export const devotional = [
     prayer_focus: "Lord, as I persist, let no devil resist my answers.",
   },
   {
-    date: "Tuesday 27th December, 2022",
+    img: "/images/bg/hero1.png", date: "Tuesday 27th December, 2022",
     topic: "FINISH WELL – BECOME A TOPIC OF DISCUSSION",
     text: "Hebrews 12:1-2 – “Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God”. – 2",
     introduction:
@@ -1565,7 +1597,7 @@ export const devotional = [
       "Lord, deliver me from any set back that can stop me from getting to the peak of my career in the year(s) ahead in Jesus name.",
   },
   {
-    date: "Wednesday 28th December, 2022",
+    img: "/images/bg/hero5.png", date: "Wednesday 28th December, 2022",
     topic: "FINISH WELL – QUALIFY FOR DOUBLE PORTION OF BLESSING",
     text: "Job 42:10-12 – “And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before”. – verse 10.",
     introduction:
@@ -1574,7 +1606,7 @@ export const devotional = [
       "Lord Jesus, help me to finish well all that you have assigned to me to do this year.",
   },
   {
-    date: "Thursday 29th December, 2022",
+    img: "/images/bg/hero7.png", date: "Thursday 29th December, 2022",
     topic: "FINISH WELL – EXPERIENCE JOY UNSPEAKABLE",
     text: "Psalm 126:5-6 – “They that sow in tears shall reap in joy” – verse 5.",
     introduction:
@@ -1583,7 +1615,7 @@ export const devotional = [
       "O Lord, help me to sow seeds as you commanded me to do in order reap better fruits.",
   },
   {
-    date: "Friday 30th December, 2022",
+    img: "/images/bg/hero8.png", date: "Friday 30th December, 2022",
     topic: "FINISH WELL-ENJOY ANGELIC MINISTRATION",
     text: "Matthew 4:8-11 – “And saith unto him, All these things will I give thee, if thou will fall down and worship me (10) Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve (11) Then the devil leaveth him, and, behold, angels came and ministered unto him”.",
     introduction:
@@ -1592,7 +1624,7 @@ export const devotional = [
       "Lord Jesus, thank you for strengthening me through and through.",
   },
   {
-    date: "Saturday 31st December, 2022",
+    img: "/images/bg/hero4.png", date: "Saturday 31st December, 2022",
     topic: "FINISH WELL – ENJOY CAPTIVITY-TURNING AROUND",
     text: "Psalm 126:1-3 – “When the LORD turned again the captivity of Zion, we were like them that dream” – verse 1.",
     introduction:
@@ -1600,7 +1632,7 @@ export const devotional = [
     prayer_focus: "O God, dry up any evil hand stretched forth against me.",
   },
   {
-    date: "Sunday 1st January 2023",
+    img: "/images/bg/hero3.png", date: "Sunday 1st January 2023",
     topic: "FINISH WELL – BECOME TEN TIMES BETTER",
     text: "Daniel 1:8, 20 – “And in all matters of wisdom and understanding, that the King enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm” – verse 20.",
     introduction:

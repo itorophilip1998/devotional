@@ -11,11 +11,10 @@ import {
 } from "@material-ui/icons";
 const useStyles = makeStyles({
   root: {
-    width: "100%",
-    height: 50,
+    width: "100%", 
     background:"#F2F4F5",
-    paddingTop: "15px",
-    paddingBottom: "15px",
+    paddingTop: "18px",
+    paddingBottom: "18px",
     boxShadow: "inset 0px 2px 0px #E6E6E6",
     
   },
@@ -34,6 +33,7 @@ const Footer = () => {
 
   return (
     <BottomNavigation
+      showLabels
       value={value}
       onChange={handleChange}
       className={classes.root + " fixed-bottom"}
@@ -41,7 +41,7 @@ const Footer = () => {
       <BottomNavigationAction
         label="Devotional"
         value="devotional"
-        icon={<MenuBookOutlined />} 
+        icon={<MenuBookOutlined />}
       />
       <BottomNavigationAction
         label="Manual"

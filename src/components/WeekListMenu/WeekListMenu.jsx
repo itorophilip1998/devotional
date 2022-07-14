@@ -35,25 +35,26 @@ const useStyles = makeStyles((theme) => ({
     paddingBottom: theme.spacing(1),
   },
 }));
-
-export default function WeekListMenu({ item }) {
+// const list=[1,2,3,4,5,6,7,8,9]
+export default function WeekListMenu({ item, index }) {
+ 
   const classes = useStyles();
   return (
     <Link className="cradLink" to={"/devotional"}>
       <Card className={classes.root}>
         <CardMedia
           className={classes.cover}
-          image={`/images/bg/hero2.png`}
+          image={item.img}
           title="bg"
         />
         <div className={classes.details}>
           <CardContent className={classes.content}>
-            <Typography variant="button" display="" gutterBottom>
+            <Typography variant="button" className="text-blue" display="inline" gutterBottom>
               {item.topic}
             </Typography>
             <Typography
               variant="caption"
-              className="float-right mt-4"
+              className="float-right mt-43 "
               display="block"
               gutterBottom
             >
