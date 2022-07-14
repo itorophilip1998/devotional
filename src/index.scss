@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background:#F2F4F5;
+  background: #F2F4F5;
 
 }
 
@@ -14,47 +14,66 @@ code {
     monospace;
 }
 
-a{
-  text-decoration:none !important;
+a {
+  text-decoration: none !important;
 }
 
-.circle{
-    width: 25px !important;
-    height: 25px !important
- 
+.circle {
+  width: 25px !important;
+  height: 25px !important
 }
+
 .MuiCardContent-root:last-child {
-     padding-bottom: 0 !important; 
+  padding-bottom: 0 !important;
 }
-.MuiCardContent-root { 
-    padding-right: 6px !important; 
-    padding-left: 6px  !important;
+
+.MuiCardContent-root {
+  padding-right: 6px !important;
+  padding-left: 6px !important;
 }
+
 .MuiTypography-caption {
-   
-    letter-spacing:0!important; 
+
+  letter-spacing: 0 !important;
 }
+
 .makeStyles-root-104 {
-    display: flex !important;
-    margin-top: 8px !important;
-    align-content: center !important;
-    justify-content: space-evenly !important;
+  display: flex !important;
+  margin-top: 8px !important;
+  align-content: center !important;
+  justify-content: space-evenly !important;
 }
-.cradLink:hover{
-  div{
-    background-color:rgb(243, 241, 241)  !important;
+
+.cradLink:hover {
+  div {
+    background-color: rgb(243, 241, 241) !important;
   }
 }
+
 .MuiTypography-button {
-  font-size: 0.75rem !important; 
-   line-height: 0.6px !important;  
-   letter-spacing: 0.02857em !important;
-   font-weight: 600 !important; 
+  font-size: 0.75rem !important;
+  line-height: 0.6px !important;
+  letter-spacing: 0.02857em !important;
+  font-weight: 600 !important;
 }
-.mt-43{
-padding-top: 20px !important; 
-  color: #000000CC ;
+
+.mt-43 {
+  padding-top: 20px !important;
+  color: #000000CC;
 }
-.text-blue{
-color: #1E5A85 !important;
+
+.text-blue {
+  color: #1E5A85 !important;
+}
+
+.text-primary {
+  color: #3f51b5 !important;
+}
+
+.addFav,
+.removeFav {
+  position: absolute;
+  right: 7px;
+  font-size: 35px !important;
+  margin-top: -55px;
 }
