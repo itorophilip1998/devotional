@@ -1,13 +1,13 @@
-import React  from "react"; 
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
-import IconButton from '@material-ui/core/IconButton'; 
+import React from "react";
+import AppBar from "@material-ui/core/AppBar";
+import Toolbar from "@material-ui/core/Toolbar";
+import Typography from "@material-ui/core/Typography";
+import IconButton from "@material-ui/core/IconButton";
 import SearchIcon from "@material-ui/icons/Search";
 import NotificationsIcon from "@material-ui/icons/Notifications";
-import Badge from "@material-ui/core/Badge"; 
-import {  makeStyles } from "@material-ui/core/styles"; 
-import Popover from "@material-ui/core/Popover"; 
+import Badge from "@material-ui/core/Badge";
+import { makeStyles } from "@material-ui/core/styles";
+import Popover from "@material-ui/core/Popover";
 import { TextField } from "@material-ui/core";
 import { useLocation } from "react-router-dom";
 
@@ -21,19 +21,18 @@ const useStyles = makeStyles((theme) => ({
   },
   title: {
     flexGrow: 1,
-    textTransform:"capitalize"
+    textTransform: "capitalize",
   },
-   
 }));
 
 export default function Header() {
-  const page = useLocation(); 
-  const classes = useStyles();  
+  const page = useLocation();
+  const classes = useStyles();
 
-  //   const handleMenu = (event) => { 
-      
+  //   const handleMenu = (event) => {
+
   // };
- 
+
   const [anchorEl, setAnchorEl] = React.useState(null);
 
   const handleClick = (event) => {
@@ -43,15 +42,19 @@ export default function Header() {
   const handleClose = () => {
     setAnchorEl(null);
   };
-
+  const list = ["manual", "devotional", "saved"];
+  const currentPage = page.pathname.slice(1);
   const open = Boolean(anchorEl);
-  const id = open ? "simple-popover" : undefined;
+  const id = open ? "simple-popover" : undefined; 
+  if (!list.includes(currentPage)) {
+    return false;
+  }
   return (
     <div className={classes.root}>
       <AppBar position="fixed">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            {page.pathname.slice(1)}
+            {currentPage}
           </Typography>
 
           <div>
@@ -98,6 +101,3 @@ export default function Header() {
     </div>
   );
 }
-
-
- 

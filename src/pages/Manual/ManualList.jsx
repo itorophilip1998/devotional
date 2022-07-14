@@ -10,7 +10,7 @@ function DevotionalList() {
     <div className="p-1 pb-5 mb-2">
       {list &&
         list.map((item, index) => (
-          <WeekListMenu item={item} index={index} key={index} />
+            <WeekListMenu item={item} index={index} key={index} route={`/manual/${item.topic}`} />
         ))}
     </div>
   );

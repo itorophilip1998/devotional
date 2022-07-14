@@ -106,8 +106,7 @@ export const manual = [
     },
 
     {
-        img: "/images/bg/hero2.png",
-
+        img: "/images/bg/hero2.png", 
         lesson: "Lesson 3",
         date: "Sunday 17th July, 2022",
         topic: "VITAL LESSONS FROM THE PRAYER OF JABEZ",

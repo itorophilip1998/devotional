@@ -9,21 +9,22 @@ import Devotional from "./pages/Devotional/Devotional";
 import Manual from "./pages/Manual/Manual";
 import Footer from "./layouts/Footer";
 import DevotionalList from "./pages/Devotional/DevotionalList";
-import Header from "./layouts/Header";
+import Header from "./layouts/Headers/Header";
 
 
 function App() {
   return (
     <BrowserRouter>
-      <Header />
+      <Header/>
       <Routes>
         {/* auth routes */}
+        
         <Route path="/" element={<DevotionalList />} />
         <Route path="/devotional" element={<DevotionalList />} />
-        <Route path="/manual" element={<ManualList />} />
+        <Route path="/manual" element={<ManualList />} /> 
+
         <Route path="/devotional/:topic" element={<Devotional />} />
         <Route path="/manual/:topic" element={<Manual />} /> 
-         
         {/* guest routes */}
         <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />

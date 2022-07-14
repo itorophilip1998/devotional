@@ -36,11 +36,11 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 // const list=[1,2,3,4,5,6,7,8,9]
-export default function WeekListMenu({ item, index }) {
+export default function WeekListMenu({ item, index,route }) {
  
   const classes = useStyles();
   return (
-    <Link className="cradLink" to={"/devotional"}>
+    <Link className="cradLink" to={route}>
       <Card className={classes.root}>
         <CardMedia
           className={classes.cover}
