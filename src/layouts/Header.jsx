@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"; 
+import React  from "react"; 
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
@@ -8,7 +8,9 @@ import NotificationsIcon from "@material-ui/icons/Notifications";
 import Badge from "@material-ui/core/Badge"; 
 import {  makeStyles } from "@material-ui/core/styles"; 
 import Popover from "@material-ui/core/Popover"; 
-import {TextField} from "@material-ui/core";
+import { TextField } from "@material-ui/core";
+import { useLocation } from "react-router-dom";
+
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -24,8 +26,8 @@ const useStyles = makeStyles((theme) => ({
    
 }));
 
-export default function Header({page}) {
-
+export default function Header() {
+  const page = useLocation(); 
   const classes = useStyles();  
 
   //   const handleMenu = (event) => { 
@@ -49,7 +51,7 @@ export default function Header({page}) {
       <AppBar position="fixed">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            {page}
+            {page.pathname.slice(1)}
           </Typography>
 
           <div>

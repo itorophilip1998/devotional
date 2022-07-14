@@ -1,5 +1,7 @@
 export const manual = [
     {
+        img: "/images/bg/hero9.png",
+
         lesson: "Lesson 1 ",
         date: "Sunday 3rd July, 2022",
         topic: "COME TO JESUS FOR STRENGTH",
@@ -54,6 +56,8 @@ export const manual = [
     },
 
     {
+        img: "/images/bg/hero8.png",
+
         lesson: "Lesson 2",
         date: "Sunday 10th July, 2022",
         topic: "STRENGTH TO KEEP EVIL AWAY",
@@ -102,6 +106,8 @@ export const manual = [
     },
 
     {
+        img: "/images/bg/hero2.png",
+
         lesson: "Lesson 3",
         date: "Sunday 17th July, 2022",
         topic: "VITAL LESSONS FROM THE PRAYER OF JABEZ",
@@ -147,6 +153,8 @@ export const manual = [
         conclusion: "We can see, apart from Jabez which we have studied:  - Jacob wrestled(prayed) to correct his destiny(Gen 32:24- 30) at penile, .- Even though Jesus was the son of God, it did not exempt Him from the task of prayer, praying and fasting.If He fasted and prayed to fulfill destiny then you and I have no option than to continue fasting and praying.The Lord is your strength.",
     },
     {
+        img: "/images/bg/hero5.png",
+
         lesson: "Lesson 4",
         date: "Sunday 24th July, 2022",
         topic: "VITAL LESSONS FROM THE FASTING OF ESTHER",
@@ -185,6 +193,8 @@ export const manual = [
         conclusion: "Fasting involve self-denial.  The door of success opens to those who fast and pray.  Fast for survival and favour will announce your arrival.",
     },
     {
+        img: "/images/bg/hero1.png",
+
         lesson: "Lesson 5",
         date: "Sunday 31st July, 2022",
         topic: " EVIDENCE OF SPIRITUAL GROWTH",
@@ -243,6 +253,8 @@ export const manual = [
 
 
     {
+        img: "/images/bg/hero3.png",
+
         lesson: "Lesson 6",
         date: "Sunday 7th August, 2022",
         topic: "HELP AS A SEED",
@@ -312,6 +324,8 @@ export const manual = [
         conclusion: "Help is a seed.  You keep adding value  to your life as you sow help into the lives of others.  Someone said: “God help those who help themselves’ but He blesses those who help others”.  So helping others is a sure channel of ceaseless blessings.",
     },
     {
+        img: "/images/bg/hero2.png",
+
         lesson: "Lesson 7",
         date: "Sunday 14th August, 2022",
         topic: "BLESSINGS FOR FRUITFULNESS/PROFITABILITY",
@@ -347,6 +361,8 @@ export const manual = [
         conclusion: "Prosperity matches with fruitfulness.  Those who lack are people who are not profitable to God and man.  Simply, being useful equates with being fruitful and profitable.  Question is: Are you useful.  Examine yourself from now, God bless you.",
     },
     {
+        img: "/images/bg/hero1.png",
+
         lesson: "Lesson 8",
         date: "Sunday 21th August, 2022",
         topic: "OBEDIENCE IS BETTER THAN SACRIFICE",
@@ -389,6 +405,8 @@ export const manual = [
         conclusion: "Obedience is the sure way to success and greatness(Jos. 1: 8).No amount of sacrifice can move God like being obedient to him.In truth, your obedience is a clear evidence of your love, faithfulness, sonship and worship to God.",
     },
     {
+        img: "/images/bg/hero4.png",
+
         lesson: "Lesson 9",
         date: "Sunday 28th August, 2022",
         topic: "HUMILITY: THE PATHWAY TO GREATNESS",
@@ -423,6 +441,8 @@ export const manual = [
         conclusion: "Humility is the character of God and pride is the symbol of Satan.  God of course is the most humble person in the universe,  He regards the lowly (Ps. 138:6).  Thus, He demonstrated right from the beginning of time when He left His exalted position to pick  the form of man – a nobody and made of him what he is today.",
     },
     {
+        img: "/images/bg/hero1.png",
+
         lesson: "Lesson 10",
         date: "Sunday 4th September, 2022",
         topic: "A CALL TO SERVICE",
@@ -489,6 +509,8 @@ export const manual = [
         conclusion: "The quality of your service is not measured by human view though it is part of it, it’s deeper than that.  Forceful and carnal service should be put to a stop as it amount to waste of time. Give room for passion which is the driving force of every reaction.  It is a call to check our life. God bless you.  ",
     },
     {
+        img: "/images/bg/hero9.png",
+
         lesson: "Lesson 11",
         date: "Sunday 11th September, 2022",
         topic: "A COMMAND TO SHUN FEAR.",
@@ -523,6 +545,8 @@ export const manual = [
         conclusion: "If others see us living lives of fear, we lose our witness. We sponsor betrayal of trust in God. God wants us to consider these things and even plan for them without reason, but a Christian must consciously reject the attitude of fear and dare situations and triumph over them knowing that God is able to see us through.",
     },
     {
+        img: "/images/bg/hero2.png",
+
         lesson: "Lesson 12",
         date: "Sunday 18th September, 2022",
         topic: "MIRACULOUS PROVISIONS",
@@ -559,6 +583,8 @@ export const manual = [
         conclusion: "Any time we lack provisions or resources, it is for surprising supplies to be made to us.  The song writer says why worry when you can pray.  Take your request to Jesus and He will surely meet your needs.",
     },
     {
+        img: "/images/bg/hero3.png",
+
         lesson: "Lesson 13",
         date: "Sunday 25th September, 2022",
         topic: "REPENTANCE",
@@ -603,6 +629,8 @@ export const manual = [
         conclusion: "A life without Christ is a life full of crisis, the scripture states that Christ came to redeem us from darkness into His marvelous light, He didn’t abolish darkness, and therefore darkness will still exist till Christ returns. That is why He’s still calling us to come out of darkness to enjoy the light of life.",
     },
     {
+        img: "/images/bg/hero6.png",
+
         lesson: "Lesson 14",
         date: "Sunday 2nd October, 2022",
         topic: "GIVERS DON'T LACK",
@@ -665,6 +693,8 @@ export const manual = [
         conclusion: "If we have believers who would practice 10% of what is revealed in this manual everything this week, I tell you the gates of hell will be on the run. If we can practice these codes of prosperity, poverty will be history in our lives and churches. My prayer is that God grants us the grace to practice everything we've been learning. Amen.",
     },
     {
+        img: "/images/bg/hero2.png",
+
         lesson: "Lesson 15",
         date: "Sunday 9th October, 2022",
         topic: "MANIFESTATION; PRIZE FOR THE SONS",
@@ -672,7 +702,7 @@ export const manual = [
         memory_verse: "Rom.8:19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
         aim: "To let believers understand that manifestation is strictly for sons, not children. ",
         central_truth: "As a child, I have my heritage, but as a son, I manifest in that heritage. ",
-        introduction: "Happy Sunday beloved, your week is blessed and fruitful. Keep studying you daily devotional, keep up the good work! From our text above, you'll agree with me that the prophet Elijah was a son of his father, you see, he called himself "man of God", this is the height of true sonship. He knew he'd come of age as a mature son to display some of his father's abilities, God responded immediately because the father knows the son's voice. To manifest, you must be a son!",
+        introduction: "Happy Sunday beloved, your week is blessed and fruitful. Keep studying you daily devotional, keep up the good work! From our text above, you'll agree with me that the prophet Elijah was a son of his father, you see, he called himself man of God, this is the height of true sonship. He knew he'd come of age as a mature son to display some of his father's abilities, God responded immediately because the father knows the son's voice. To manifest, you must be a son!",
         main_point: [],
         discussion_question: [
             {
@@ -697,6 +727,8 @@ export const manual = [
         conclusion: "Today's message may not be lengthy but striking, it is clear that manifestation is for sons not children. If you must be a son, you must upgrade and update your relationship status with your father-Jesus. You're not far from it, sonship is an inert potential in you, grow in it and you'll manifest at default.",
     },
     {
+        img: "/images/bg/hero1.png",
+
         lesson: "Lesson 16",
         date: "Sunday 16th October, 2022",
         topic: "CHOOSE TO BE A GOD",
@@ -740,6 +772,7 @@ export const manual = [
         conclusion: "You are a god! It's no longer a bible quotation; make it your daily confession and reality. Live as one, act as one, stop everything that God doesn't do and promote all that God does. As a commitment, from the Bible or internet sources, copy out the qualities of God and live by them daily. See you as a god! You're bless you",
     },
     {
+        img: "/images/bg/hero5.png", 
         lesson: "Lesson 17",
         date: "Sunday 23rd October, 2022",
         topic: "SAFEGUARDING YOUR MARRIAGE AGAINST ADULTERY",
@@ -809,6 +842,8 @@ export const manual = [
         conclusion: "Adultery is a grave sin, avoid it",
     },
     {
+        img: "/images/bg/hero2.png",
+
         lesson: "Lesson 18",
         date: "Sunday, 30th October, 2022",
         topic: "DELIVERANCE FROM FINANCIAL EMBARRASSMENT",
@@ -874,6 +909,8 @@ export const manual = [
         conclusion: "God’s children have free access to attract money, we must not just relax.  We must make efforts to attract more money.",
     },
     {
+        img: "/images/bg/hero1.png",
+
         lesson: "Lesson 19",
         date: "Sunday, 6th November, 2022",
         topic: "THE MINDSET OF A CHAMPION",
@@ -914,7 +951,7 @@ export const manual = [
                 answer: [
                     "David was trying to keep a date with destiny as:",
                     "As a future King of Israel, he was trying to defend Israel from reproach.",
-                    "He had been anointed secretly by Samuel(1 Sam. 16: 1 - 13).This was an Occasion to prove the oil".,
+                    "He had been anointed secretly by Samuel(1 Sam. 16: 1 - 13).This was an Occasion to prove the oil",
                     "The one Israel can trust if Saul was no more King.",
                     "Showcased to the enemy nation(Philistine) that they cannot just come and torment Israel for 40 days anymore.",
                     "That you have to kill a champion in battle, to become a champion.",
@@ -936,6 +973,8 @@ export const manual = [
         conclusion: "Anything conceivable, if believable is achievable.  Life is a battle.  You win with words before you win with action.",
     },
     {
+        img: "/images/bg/hero2.png",
+
         lesson: "Lesson 20",
         date: "Sunday, 13th November, 2022",
         topic: "PAYMENT OF TITHES",
@@ -998,6 +1037,8 @@ export const manual = [
         conclusion: "Tithe is 10% of our income.  It is God’s money.  We must pay it to appreciate His goodness towards us. Everybody pays tithes; only very few to the Lord, many to devourer.  Who takes your tithes?",
     },
     {
+        img: "/images/bg/hero5.png",
+
         lesson: "Lesson 21",
         date: "Sunday, 20th November, 2022",
         topic: "Principles of True Salvation",
@@ -1028,6 +1069,8 @@ export const manual = [
         conclusion: "New Testament salvation is all about grace.  Romans 6:1-2 is a New Testament ministration asking and forbidding the notion or practice of covering up sin with the preaching of grace. ",
     },
     {
+        img: "/images/bg/hero7.png",
+
         lesson: "Lesson 22",
         date: "Sunday, 27th November, 2022",
         topic: "THE SEED OF BROTHERLY LOVE",
@@ -1060,6 +1103,8 @@ export const manual = [
         conclusion: "We already know that brotherly love is a command from God. It is not an option we can choose not to follow.  Every Christian receives God’s love with the purpose of giving it to others.  The way you treat others is reflection of your perception of how God treats you.  The mark of true Christianity is love.",
     },
     {
+        img: "/images/bg/hero2.png",
+
         lesson: "Lesson 23",
         date: "Sunday 4th December, 2022",
         topic: "YOU CAN BE A VESSEL UNTO HONOUR",
@@ -1114,6 +1159,8 @@ export const manual = [
         conclusion: "Above all, maintain a status of purity in God’s service, not just in the body (flesh) but also in action (your functions).  You must avoid things and habits that would make you unfit for the master’s use.  Celebrate Jesus!",
     },
     {
+        img: "/images/bg/hero9.png",
+
         lesson: "Lesson 24",
         date: "Sunday 11th December, 2022",
         topic: "ONE WITH GOD IS MAJORITY",
@@ -1187,6 +1234,8 @@ export const manual = [
         conclusion: "Winning life’s battles and enjoying sustainable victories are based on God’s presence with you.  Keep hosting His presence.  If you lose it, you’ll lose out! May God help us in Jesus name. Amen!",
     },
     {
+        img: "/images/bg/hero3.png",
+
         lesson: "Lesson 25",
         date: "Sunday 18th December, 2022",
         topic: "BALANCE IS KEY",
@@ -1244,6 +1293,8 @@ export const manual = [
         conclusion: "Living a balanced Christian life helps someone to fulfill his destiny and grow in spiritual maturity to a good old age.",
     },
     {
+        img: "/images/bg/hero8.png",
+
         lesson: "Lesson 26",
         date: "Sunday 25th December, 2022",
         topic: "DON’T GIVE UP",
@@ -1306,6 +1357,8 @@ export const manual = [
         conclusion: "Brave through or don’t give up speaks of courage. You need to be courageous to stay victorious and prosperous – Joshua 1:5,8.",
     },
     {
+        img: "/images/bg/hero4.png",
+
         lesson: "Lesson 1",
         date: "Sunday 1st January 2023",
         topic: "BE DETERMINED TO FINISH WELL",
