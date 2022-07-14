@@ -1,9 +1,21 @@
 import React, { useState } from "react";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 import { FavoriteBorder, Favorite } from "@material-ui/icons";
 function Introduction({ item }) {
   const [isFav, setIsFav] = useState(false);
+  const addFav = () => {
+    setIsFav(false);
+    toast.info("Added from favourites!");
+  };
+  const removeFav = () => {
+    setIsFav(true);
+    toast.info("Removed from favourites!");
+  };
+
   return (
-    <div className="introduction">
+    <div>
       <div className="introText">
         {/* start text */}
         <div className="container p-2 py-4">
@@ -13,23 +25,34 @@ function Introduction({ item }) {
             <Favorite
               color="primary"
               className="addFav"
-              onClick={(e) => setIsFav(false)}
+              onClick={(e) => addFav()}
             />
           )}
           {!isFav && (
             <FavoriteBorder
               color="primary"
               className="removeFav"
-              onClick={(e) => setIsFav(true)}
+              onClick={(e) => removeFav()}
             />
           )}
 
-          <span className="text-content text-dark d-block  text-justify">
+          <span className="text-content introduction text-dark d-block  text-justify">
             {item.introduction}
           </span>
         </div>
         {/* end text */}
       </div>
+      <ToastContainer
+        position="bottom-right"
+        autoClose={1000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+      />
     </div>
   );
 }

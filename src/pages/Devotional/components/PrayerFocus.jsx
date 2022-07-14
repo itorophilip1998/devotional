@@ -1,9 +1,13 @@
 import React from 'react'
 
-function PrayerFocus() {
+function PrayerFocus({item}) {
   return (
-    <div>PrayerFocus</div>
-  )
+    <div className="prayer_focus mb-5 pb-5 text_prayer p-2 text-justify">
+      <span className="text d-block text-primary ">Prayer Focus:</span>
+
+      {item.prayer_focus}
+    </div>
+  );
 }
 
 export default PrayerFocus

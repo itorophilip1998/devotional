@@ -1,37 +1,40 @@
 .devotional_header {
     // background: #1a1a1a;
-background: #3f51b5 !important;
+    background: #3f51b5 !important;
 
     color: #e4e3e3;
     padding: 55px 4px 30px 4px;
 
     .topic {
-        font-family: "Jokerman"; 
+        font-family: "Jokerman";
     }
 
- border-bottom-left-radius: 30px;
- border-bottom-right-radius: 30px;
-  
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
 
 }
-  .text-content {
-      font-size: 18px;
-      line-height: 19px; 
+
+.text-content {
+    font-size: 18px;
+    line-height: 19px;
 }
 
-  .text {
-      font-style: bold;
-      font-weight: 700;
-      font-size: 16px;
-      line-height: 19px;
-      text-transform: uppercase;
-      color: #e4e3e3;
-      flex: none;
-      order: 0;
-      flex-grow: 0;
-      font-family: "Jokerman";
-      
-  }
+.text {
+    font-style: bold;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #e4e3e3;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    font-family: "Jokerman";
 
-.introduction { 
+}
+
+.introduction,.text_prayer {
+    line-height: 25px; 
+    font-style: bold;  
 }
