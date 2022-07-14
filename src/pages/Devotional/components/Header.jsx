@@ -4,7 +4,6 @@ import React from "react";
 function Header({ item }) {
   return (
     <div>
-       
       <div className="devotional_header">
         {/* start topic */}
         <Typography
@@ -19,8 +18,8 @@ function Header({ item }) {
 
         {/* start text */}
         <div className="container">
-          <span className="text">Text:</span>
-          <span className="text-content text-white font-italic">
+          <span className="text">Text: </span>
+          <span className="text-letter text-white font-italic ">
             {" "}
             {item.text}
           </span>

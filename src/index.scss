@@ -8,9 +8,10 @@ body {
   background: #F2F4F5;
 
 }
-.bg-nav{
-   background-color: #F2F4F5 !important;
-   color: rgb(63, 63, 63)!important;
+
+.bg-nav {
+  background-color: #F2F4F5 !important;
+  color: rgb(63, 63, 63) !important;
 }
 
 code {
@@ -80,4 +81,13 @@ a {
   right: 7px;
   font-size: 35px !important;
   margin-top: -55px;
+}
+
+.dateText {
+  font-family: 'Redressed', cursive !important;
+  font-size: x-small !important;
+}
+.topicText {
+  font-family: 'Redressed' !important; 
+  color:#171f50 !important
 }

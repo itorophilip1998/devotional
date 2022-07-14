@@ -7,7 +7,7 @@ function Introduction({ item }) {
   const [isFav, setIsFav] = useState(false);
   const addFav = () => {
     setIsFav(true);
-    toast.info("Added from favourites!");
+    toast.info("Added to favourites!");
   };
   const removeFav = () => {
     setIsFav(false);
@@ -43,7 +43,7 @@ function Introduction({ item }) {
         {/* end text */}
       </div>
       <ToastContainer
-        position="bottom-right"
+        position="top-right"
         autoClose={1000}
         hideProgressBar={false}
         newestOnTop={false}

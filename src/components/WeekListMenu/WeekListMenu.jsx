@@ -49,12 +49,12 @@ export default function WeekListMenu({ item, index,route }) {
         />
         <div className={classes.details}>
           <CardContent className={classes.content}>
-            <Typography variant="button" className="text-blue" display="inline" gutterBottom>
+            <Typography variant="button" className="text-blue topicText" display="inline" gutterBottom>
               {item.topic}
             </Typography>
             <Typography
               variant="caption"
-              className="float-right mt-43 "
+              className="float-right mt-43 dateText "
               display="block"
               gutterBottom
             >

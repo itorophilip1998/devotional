@@ -76,7 +76,7 @@ export default function Header() {
               <form noValidate autoComplete="off">
                 <TextField
                   id="filled-basic"
-                  label="Search by topic"
+                  label="Search by topic/date"
                   variant="filled"
                 />
               </form>

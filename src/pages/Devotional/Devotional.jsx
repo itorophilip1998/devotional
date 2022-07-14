@@ -25,8 +25,8 @@ function Devotional() {
 
   return (
     <div>
-      <Navbar date={list.date} />
       <Header item={list} />
+      <Navbar date={list.date} />
       <Introduction item={list} />
       <PrayerFocus item={list} />
     </div>
