@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Manual() {
-  return (
-    <div>manual</div>
-  )
+  return <div>Manual</div>;
 }
 
-export default Manual
+export default Manual;
