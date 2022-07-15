@@ -10,6 +10,7 @@ import Manual from "./pages/Manual/Manual";
 import Footer from "./layouts/Footer";
 import DevotionalList from "./pages/Devotional/DevotionalList";
 import Header from "./layouts/Headers/Header";
+import Profile from "./pages/Profile";
 
 
 function App() {
@@ -21,10 +22,11 @@ function App() {
         
         <Route path="/" element={<DevotionalList />} />
         <Route path="/devotional" element={<DevotionalList />} />
-        <Route path="/manual" element={<ManualList />} /> 
-
+        <Route path="/manual" element={<ManualList />} />  
         <Route path="/devotional/:topic" element={<Devotional />} />
         <Route path="/manual/:topic" element={<Manual />} /> 
+        <Route path="/profile" element={<Profile />} />
+
         {/* guest routes */}
         <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />

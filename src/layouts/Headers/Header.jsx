@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function Header() {
-  const page = useLocation();
+  const page = useLocation() ?? window.location;
   const classes = useStyles();
 
   //   const handleMenu = (event) => {

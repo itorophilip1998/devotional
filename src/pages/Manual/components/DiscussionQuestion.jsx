@@ -1,5 +1,5 @@
 import React from "react";
-
+import LayersIcon from "@material-ui/icons/Layers";
 function DiscussionQuestion({ item }) {
   return (
     <div className="introText">
@@ -10,15 +10,14 @@ function DiscussionQuestion({ item }) {
         </span>
 
         <span className="text-content introduction text-dark d-block  text-justify">
-          <div  clasName="p1">
-            {console.log(item.discussion_question)}
+          <div  clasName="p1"> 
             {item &&
               item?.discussion_question?.map((currentItem, index) => {
                 return (
                   <React.Fragment key={index}>
                     {/* questions */}
                     <div className="question text-primary">
-                      {currentItem?.question}
+                      <LayersIcon/> {currentItem?.question}
                     </div>
 
                     {/* answers */}
