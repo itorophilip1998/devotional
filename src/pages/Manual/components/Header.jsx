@@ -1,5 +1,8 @@
 import { Typography } from "@material-ui/core";
 import React from "react";
+import Aim from "./Aim";
+import CentralTruth from "./CentralTruth";
+import MainPoint from "./MainPoint";
 
 function Header({ item }) {
   return (
@@ -25,6 +28,9 @@ function Header({ item }) {
           </span>
         </div>
         {/* end text */}
+        {item?.aim && <Aim item={item} />}
+        {item?.central_truth && <CentralTruth item={item} />}
+        <MainPoint item={item} />
       </div>
     </div>
   );
