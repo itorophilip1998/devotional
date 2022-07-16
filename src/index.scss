@@ -91,3 +91,24 @@ a {
   font-family: 'Redressed' !important; 
   color:#171f50 !important
 }
+.notfound{
+      width:200px;
+      border-radius:50%;
+      -webkit-border-radius:50%;
+      -moz-border-radius:50%;
+      -ms-border-radius:50%;
+      -o-border-radius:50%;
+      filter: drop-shadow(2px 4px 8px #b3b2b2f5);
+      -webkit-filter: drop-shadow(2px 4px 8px #b3b2b2f5);
+      margin-bottom: 5px;
+}
+.notfoundDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  height: 85vh;
+}

@@ -1,17 +1,39 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
+import { useSelector } from "react-redux";
 import WeekListMenu from "../../components/WeekListMenu/WeekListMenu";
-import { manual } from "../../Database/manual";
+
 function DevotionalList() {
-  const [list, setList] = useState([]);
-  useEffect(() => {
-    setList(manual);
-  }, []);
+  const search = useSelector((state) => state.data.search);
+  const list = useSelector((state) =>
+    state.data.manual.filter((item) => {
+      if (item.topic.toLowerCase().match(search.toLowerCase())) {
+        return item;
+      } else if (item.date.toLowerCase().match(search.toLowerCase())) {
+        return item;
+      }
+    })
+  );
   return (
     <div className="p-1 pb-5 mb-2">
       {list &&
         list.map((item, index) => (
-            <WeekListMenu item={item} index={index} key={index} route={`/manual/${item.date}`} />
+          <WeekListMenu
+            item={item}
+            index={index}
+            key={index}
+            route={`/manual/${item.date}`}
+          />
         ))}
+      {list.length <= 0 && (
+        <div className="text-center notfoundDiv ">
+          <img
+            src="/images/notfound.webp"
+            className="notfound "
+            alt="not found"
+          />
+          <div className="d-block">Not found</div>
+        </div>
+      )}
     </div>
   );
 }

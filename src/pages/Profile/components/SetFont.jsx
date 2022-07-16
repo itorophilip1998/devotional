@@ -25,7 +25,7 @@ export default function SetFont() {
       </Typography>
       <Grid container spacing={2}>
         <Grid item>
-          Abc
+          small
         </Grid>
         <Grid item xs>
           <Slider
@@ -35,7 +35,7 @@ export default function SetFont() {
           />
         </Grid>
         <Grid item>
-        Abc
+        Large
         </Grid>
       </Grid>
        </div>

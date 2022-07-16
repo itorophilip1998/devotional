@@ -34,8 +34,7 @@ const useStyles = makeStyles((theme) => ({
     paddingLeft: theme.spacing(1),
     paddingBottom: theme.spacing(1),
   },
-}));
-// const list=[1,2,3,4,5,6,7,8,9]
+})); 
 export default function WeekListMenu({ item, index,route }) {
  
   const classes = useStyles();

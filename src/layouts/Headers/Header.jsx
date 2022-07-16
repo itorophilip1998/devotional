@@ -10,7 +10,8 @@ import { makeStyles } from "@material-ui/core/styles";
 import Popover from "@material-ui/core/Popover";
 import { TextField } from "@material-ui/core";
 import { useLocation } from "react-router-dom";
-
+import { useDispatch } from "react-redux";
+import { getSearch } from "../../store/data";
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -28,10 +29,7 @@ const useStyles = makeStyles((theme) => ({
 export default function Header() {
   const page = useLocation() ?? window.location;
   const classes = useStyles();
-
-  //   const handleMenu = (event) => {
-
-  // };
+  const dispatch = useDispatch();
 
   const [anchorEl, setAnchorEl] = React.useState(null);
 
@@ -42,13 +40,16 @@ export default function Header() {
   const handleClose = () => {
     setAnchorEl(null);
   };
-  const list = ["manual", "devotional", "saved"];
+  const list = ["manual", "devotional", "saved", ""];
   const currentPage = page.pathname.slice(1);
   const open = Boolean(anchorEl);
-  const id = open ? "simple-popover" : undefined; 
+  const id = open ? "simple-popover" : undefined;
   if (!list.includes(currentPage)) {
     return false;
   }
+  const handleSearch = (e) => {
+    dispatch(getSearch(e.target.value));
+  };
   return (
     <div className={classes.root}>
       <AppBar position="fixed">
@@ -73,13 +74,12 @@ export default function Header() {
                 horizontal: "left",
               }}
             >
-              <form noValidate autoComplete="off">
-                <TextField
-                  id="filled-basic"
-                  label="Search by topic/date"
-                  variant="filled"
-                />
-              </form>
+              <TextField
+                id="filled-basic"
+                label="Search by topic/date"
+                variant="filled"
+                onChange={handleSearch}
+              />
             </Popover>
             <IconButton
               aria-label="account of current user"
