@@ -42,7 +42,7 @@ export default function Header() {
     setAnchorEl(null);
   };
   const list = ["manual", "devotional", "saved", ""];
-  const currentPage = page.pathname.slice(1);
+  const currentPage = page.pathname !== "/" ? page.pathname.slice(1) : "devotional"; 
   const open = Boolean(anchorEl);
   const id = open ? "simple-popover" : undefined;
   if (!list.includes(currentPage)) {

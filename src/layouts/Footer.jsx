@@ -12,7 +12,7 @@ import {
 const useStyles = makeStyles({
   root: {
     width: "100%", 
-    background:"#F2F4F5",
+    background:"#fff",
     paddingTop: "18px",
     paddingBottom: "18px",
     boxShadow: "inset 0px 2px 0px #E6E6E6",
