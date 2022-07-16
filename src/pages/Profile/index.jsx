@@ -57,7 +57,7 @@ function Profile() {
         <span>Settings</span>
         <div className="setting_items signout shadow-sm p-3 text-dark">
           <CreditCardIcon /> Subscription
-          <span class="badge badge-danger float-right">expired</span>
+          <span className="badge badge-danger float-right">expired</span>
         </div>
         <div className="setting_items signout shadow-sm p-3 text-dark">
           <VpnKeyIcon /> Change Password

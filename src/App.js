@@ -11,12 +11,10 @@ import Footer from "./layouts/Footer";
 import DevotionalList from "./pages/Devotional/DevotionalList";
 import Header from "./layouts/Headers/Header";
 import Profile from "./pages/Profile";
-import { getSearch } from "./store/data"
-import {useDispatch} from "react-redux"
-function App() {
-  let dispatch=useDispatch()
-  dispatch(getSearch(null));
 
+
+function App() {
+  
   return (
     <BrowserRouter>
       <Header/>

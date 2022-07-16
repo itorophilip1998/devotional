@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
@@ -11,7 +11,7 @@ import Popover from "@material-ui/core/Popover";
 import { TextField } from "@material-ui/core";
 import { useLocation } from "react-router-dom";
 import { useDispatch } from "react-redux";
-import { getSearch } from "../../store/data";
+import { getSearch, getSearch2 } from "../../store/data";
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -31,7 +31,8 @@ export default function Header() {
   const classes = useStyles();
   const dispatch = useDispatch();
 
-  const [anchorEl, setAnchorEl] = React.useState(null);
+  const [anchorEl, setAnchorEl] = useState(null);
+  const [search, setSearch] = useState(null);
 
   const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
@@ -48,7 +49,11 @@ export default function Header() {
     return false;
   }
   const handleSearch = (e) => {
-    dispatch(getSearch(e.target.value));
+    setSearch(e.target.value);
+    if (currentPage === "devotional")
+      dispatch(getSearch( e.target.value ));
+    else if (currentPage === "manual")
+      dispatch(getSearch2( e.target.value ));
   };
   return (
     <div className={classes.root}>
@@ -78,6 +83,7 @@ export default function Header() {
                 id="filled-basic"
                 label="Search by topic/date"
                 variant="filled"
+                value={search}
                 onChange={handleSearch}
               />
             </Popover>

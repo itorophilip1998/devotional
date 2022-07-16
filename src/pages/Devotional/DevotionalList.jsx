@@ -1,7 +1,7 @@
 import React from "react";
 import WeekListMenu from "../../components/WeekListMenu/WeekListMenu";
 import { useSelector } from "react-redux";
-
+/* eslint-disable*/
 function DevotionalList() {
   const search = useSelector((state) => state.data.search);
   const list = useSelector((state) =>

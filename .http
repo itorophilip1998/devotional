@@ -1,0 +1,33 @@
+@baseUrl=https://shielded-savannah-41389.herokuapp.com/api
+@accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjUzNjA1MzcyLCJleHAiOjE2NTg3ODkzNzJ9.KqdM0ceWLVSn93MotPwYOK17sR39KAs1fwrnorUlWHA
+
+### Create task
+POST {{ baseUrl }}/admin/tasks   
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json 
+
+{
+    "points":308,
+    "url":"https://expectoo.de/",
+    "start":"2022-07-15",
+    "task_type":"google_search",
+   "google_search":{ 
+     "title": "Entwickler- IT Experten - Nearshore | Expectoo GmbH",
+    "search_phrase": "Entwickler- IT Experten - Nearshore | Expectoo GmbH"
+  },
+   "journey": [
+      {
+        "link": "https://www.figma.com/file/Ee4SurHLxAqhib7Ox4D55Q/Clisha-Working-Document?node-id=15%3A29120",
+        "link_type": "form",
+        "description": "Chrome Developer"
+      }
+   ]
+}
+
+### Login
+POST {{ baseUrl }}/admin/authenticate 
+Content-Type: application/json 
+{
+    "email":"admin@expectoo.dev",
+    "password":"clisha_@dmin"
+}
