@@ -4,15 +4,19 @@ import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import TextField from "@material-ui/core/TextField";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
-import Checkbox from "@material-ui/core/Checkbox"; 
-import Grid from "@material-ui/core/Grid"; 
+import Checkbox from "@material-ui/core/Checkbox";
+import Grid from "@material-ui/core/Grid";
 import ExitToAppOutlinedIcon from "@material-ui/icons/ExitToAppOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import { signIn } from "../../../utils/request";
-import {Link} from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
+import { getUser } from "../../../store/data";
+import { useDispatch } from "react-redux";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -30,32 +34,38 @@ const useStyles = makeStyles((theme) => ({
     marginTop: theme.spacing(1),
   },
   submit: {
-    margin: theme.spacing(3, 0, 1,0),
-  } 
+    margin: theme.spacing(3, 0, 1, 0),
+  },
 }));
 
 export default function SignIn() {
-     const classes = useStyles(); 
-    const [state, setState] = useState();
-    const [loading, setLoading] = useState(false);
-    const handleInput = (evt) => {
-      const value = evt.target.value;
-      setState({
-        ...state,
-        [evt.target.name]: value,
-      }); 
-    };
-      const handleSubmit = async (e) => {
-          e.preventDefault(); 
-            setLoading(true);  
-            const req =  await signIn(state)  
-            if (req || req === undefined) {
-            console.log(state);
-            setLoading(false);
-            }
-            setLoading(false);
-            console.log(state);  
-      };
+  const classes = useStyles();
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
+  const [state, setState] = useState();
+  const [loading, setLoading] = useState(false);
+  const handleInput = (evt) => {
+    const value = evt.target.value;
+    setState({
+      ...state,
+      [evt.target.name]: value,
+    });
+  };
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setLoading(true);
+    const req = await signIn(state);  
+    if (req && req.data) {
+      dispatch(getUser(req.data));
+      setLoading(false);  
+      navigate("/devotional")
+    } else {
+      setLoading(false);  
+       toast.error("Opps invalid details!"); 
+    }
+    
+    
+  };
   return (
     <Container component="main" maxWidth="xs">
       <CssBaseline />
@@ -103,7 +113,7 @@ export default function SignIn() {
             className={classes.submit}
             disabled={loading !== true ? false : true}
           >
-            {loading !== true ? "Sign In" : <Loader/>}
+            {loading !== true ? "Sign In" : <Loader />}
           </Button>
           <Grid container>
             <Grid item xs={12} className="text-right">
@@ -119,6 +129,17 @@ export default function SignIn() {
           </Grid>
         </form>
       </div>
+      <ToastContainer
+        position="top-right"
+        autoClose={1000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+      />
     </Container>
   );
 }

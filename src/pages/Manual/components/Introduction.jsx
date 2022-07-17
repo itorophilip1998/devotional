@@ -5,13 +5,13 @@ import "react-toastify/dist/ReactToastify.css";
 import { FavoriteBorder, Favorite } from "@material-ui/icons";
 function Introduction({ item }) {
   const [isFav, setIsFav] = useState(false);
-  const addFav = () => {
+  const addFav = async (e) => {
     setIsFav(true);
     toast.info("Added to favourites!");
   };
-  const removeFav = () => {
+  const removeFav = async (e) => {
+    e.preventDefault();
     setIsFav(false);
-    toast.info("Removed from favourites!");
   };
 
   return (

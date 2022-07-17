@@ -9,8 +9,10 @@ import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import { signUp } from "../../../utils/request";
-import { Link } from "react-router-dom"; 
-import Loader from "../../../components/Loader/Loader";
+import { Link, useNavigate } from "react-router-dom"; 
+import Loader from "../../../components/Loader/Loader"; 
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -33,7 +35,8 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function SignUp() {
-  const classes = useStyles();
+  const classes = useStyles(); 
+   const navigate = useNavigate();
   const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
   const handleInput = (evt) => {
@@ -46,13 +49,14 @@ export default function SignUp() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    const req = await signUp(state);
-    if (req || req === undefined) {
-      console.log(state);
-      setLoading(false);
-    }
-    setLoading(false);
-    console.log(state);
+    const req = await signUp(state); 
+     if (req && req.data) { 
+       setLoading(false);
+       navigate("/devotional");
+     } else {
+       setLoading(false);
+       toast.error("Opps invalid details!");
+     }
   };
   return (
     <Container component="main" maxWidth="xs">
@@ -71,7 +75,7 @@ export default function SignUp() {
             required
             fullWidth
             id="username"
-            label="User Name"
+            label="Username"
             name="username"
             autoComplete="username"
             autoFocus
@@ -125,6 +129,17 @@ export default function SignUp() {
           </Grid>
         </form>
       </div>
+      <ToastContainer
+        position="top-right"
+        autoClose={1000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+      />
     </Container>
   );
 }

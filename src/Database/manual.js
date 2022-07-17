@@ -1041,7 +1041,7 @@ export const manual = [
         lesson: "Lesson 21",
         date: "Sunday, 20th November, 2022",
         topic: "Principles of True Salvation",
-        text: "", //empty
+        text: "Jer. 3:1-23", //empty
         memory_verse: "Jer. 3:23 - “Truly in vain is salvation hoped for from the hills, and from the multitude of mountains.  Truly in the Lord our God is the salvation of Israel”.",
         aim: "To reveal to believers that false teachers have introduce popular doctrine that cannot practically lead people to salvation in Christ and help people trace back to the truth.",
         central_truth: "Until there is disillusion from Christians false believe and practice many shall realize it too late that they are too far from salvation.",
@@ -1298,7 +1298,7 @@ export const manual = [
         date: "Sunday 25th December, 2022",
         topic: "DON’T GIVE UP",
         text: "Luke 18:2-7.",
-        memory_verse: "Don’t get discouraged, go ahead and you will win.",
+        memory_verse: "1kings 18:43 “Go and look toward the sea,” he said to his servant. So the servant went and looked, and he said, “There is nothing there.” Seven times Elijah said, “Go back.”",
         aim: "To spur believers’ enthusiasm to go above life’s entanglements",
         central_truth: "Don’t get discouraged, go ahead and you will win.",
         introduction: "Endeavour to read the past week’s devotional to gain more and be more equipped for coming week. Brave through also known as don’t give up is a timely counseling to keep you from missing your breakthrough.  Those who don’t brave through ugly situations end up living their lives in regrets and lack nothing ahead to hope on.  The phrase: Don’t give up will speak personally to you based on your vision, aspiration and revelations as life is.  Better yield to this divine instruction for a better tomorrow.  God has you in mind.",

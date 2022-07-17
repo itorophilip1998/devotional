@@ -5,17 +5,21 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
+    "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0", 
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "axios": "^0.27.2",
+    "cra-template-pwa": "^2.0.0",
     "moment": "^2.29.3",
-    "axios": "^0.27.2", 
-    "react-toastify": "^9.0.1",
-    "sass": "^1.51.0", 
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.1",
     "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.0.1",
+    "redux": "^4.2.0",
+    "sass": "^1.51.0",
     "web-vitals": "^2.1.4",
     "workbox-background-sync": "^6.5.3",
     "workbox-broadcast-update": "^6.5.3",
@@ -28,18 +32,14 @@
     "workbox-range-requests": "^6.5.3",
     "workbox-routing": "^6.5.3",
     "workbox-strategies": "^6.5.3",
-    "workbox-streams": "^6.5.3",
-    "@reduxjs/toolkit": "^1.8.1",
-    "react-redux": "^8.0.1",
-    "redux": "^4.2.0"
-
+    "workbox-streams": "^6.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build cp netlify.toml ./build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "cp":"cp netlify.toml ./build"
+    "cp": "cp netlify.toml ./build"
   },
   "eslintConfig": {
     "extends": [
