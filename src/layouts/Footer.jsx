@@ -2,12 +2,12 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { makeStyles } from "@material-ui/core/styles";
 import BottomNavigation from "@material-ui/core/BottomNavigation";
-import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
+import BottomNavigationAction from "@material-ui/core/BottomNavigationAction"; 
 import {
   LibraryBooksOutlined,
-  MenuBookOutlined,
-  FavoriteBorderOutlined,
+  MenuBookOutlined, 
   PermIdentityOutlined,
+  EventNote
 } from "@material-ui/icons";
 const useStyles = makeStyles({
   root: {
@@ -48,11 +48,7 @@ const Footer = () => {
         value="manual"
         icon={<LibraryBooksOutlined />}
       />
-      <BottomNavigationAction
-        label="saved"
-        value="saved"
-        icon={<FavoriteBorderOutlined />}
-      />
+      <BottomNavigationAction label="Tips" value="tips" icon={<EventNote />} />
       <BottomNavigationAction
         label="Profile"
         value="profile"

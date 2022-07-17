@@ -1,19 +1,21 @@
 import { authHeader, baseApi } from "../config/index"
 import axios from "axios"
 export const signIn = async (data) => {
-       try {
-          let res= await axios.post(`${baseApi}/auth/signin`, data)
-           return res; 
-       } catch (error) {
-           return error
-       }
+    try {
+        let res = await axios.post(`${baseApi}/auth/signin`, data)
+        return res;
+    } catch (error) {
+        return error
+    }
 }
 export const signUp = async (data) => {
-   await axios.post(`${baseApi}/auth/signup`, data).then((result) => {
-        return result;
-    }).catch((err) => {
-        return err
-    });
+
+    try {
+        let res = await axios.post(`${baseApi}/auth/signup`, data)
+        return res;
+    } catch (error) {
+        return error
+    }
 }
 export const fogotPassword = async (data) => {
     try {
@@ -22,7 +24,7 @@ export const fogotPassword = async (data) => {
     } catch (error) {
         return error
     }
- 
+
 }
 export const resetPassword = async (data) => {
     try {
@@ -31,7 +33,7 @@ export const resetPassword = async (data) => {
     } catch (error) {
         return error
     }
-   
+
 }
 export const verify = async (data) => {
     try {
@@ -40,7 +42,7 @@ export const verify = async (data) => {
     } catch (error) {
         return error
     }
-   
+
 }
 export const saved = async (data) => {
     try {
@@ -48,7 +50,7 @@ export const saved = async (data) => {
         return res;
     } catch (error) {
         return error
-    } 
+    }
 }
 export const subscribe = async (data) => {
     try {
@@ -56,5 +58,5 @@ export const subscribe = async (data) => {
         return res;
     } catch (error) {
         return error
-    } 
+    }
 }

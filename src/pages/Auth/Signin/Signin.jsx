@@ -110,6 +110,7 @@ export default function SignIn() {
             fullWidth
             variant="contained"
             color="primary"
+            size="medium"
             className={classes.submit}
             disabled={loading !== true ? false : true}
           >

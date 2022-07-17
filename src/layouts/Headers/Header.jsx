@@ -41,7 +41,7 @@ export default function Header() {
   const handleClose = () => {
     setAnchorEl(null);
   };
-  const list = ["manual", "devotional", "saved", ""];
+  const list = ["manual", "devotional", "tips", ""];
   const currentPage = page.pathname !== "/" ? page.pathname.slice(1) : "devotional"; 
   const open = Boolean(anchorEl);
   const id = open ? "simple-popover" : undefined;
@@ -97,7 +97,7 @@ export default function Header() {
               <SearchIcon />
             </IconButton>
             <IconButton aria-label="show 11 new notifications" color="inherit">
-              <Badge badgeContent={2} color="secondary">
+              <Badge badgeContent={1} color="secondary">
                 <NotificationsIcon />
               </Badge>
             </IconButton>
