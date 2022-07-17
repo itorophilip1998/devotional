@@ -1,18 +1,18 @@
-import React, { useState } from "react";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import React from "react";
+// import { ToastContainer, toast } from "react-toastify";
+// import "react-toastify/dist/ReactToastify.css";
 
-import { FavoriteBorder, Favorite } from "@material-ui/icons";
+// import { FavoriteBorder, Favorite } from "@material-ui/icons";
 function Introduction({ item }) {
-  const [isFav, setIsFav] = useState(false);
-  const addFav = async (e) => {
-    setIsFav(true);
-    toast.info("Added to favourites!");
-  };
-  const removeFav = async (e) => {
-    e.preventDefault();
-    setIsFav(false);
-  };
+  // const [isFav, setIsFav] = useState(false);
+  // const addFav = async (e) => {
+  //   setIsFav(true);
+  //   toast.info("Added to favourites!");
+  // };
+  // const removeFav = async (e) => {
+  //   e.preventDefault();
+  //   setIsFav(false);
+  // };
 
   return (
     <div>
@@ -21,7 +21,7 @@ function Introduction({ item }) {
         <div className="container p-2 py-4">
           <span className="text d-block text-primary my-3">Introduction:</span>
 
-          {!isFav && (
+          {/* {!isFav && (
             <FavoriteBorder
               color="primary"
               className="addFav"
@@ -34,7 +34,7 @@ function Introduction({ item }) {
               className="removeFav"
               onClick={(e) => removeFav()}
             />
-          )}
+          )} */}
 
           <span className="text-content introduction text-dark d-block  text-justify">
             {item.introduction}
@@ -42,7 +42,7 @@ function Introduction({ item }) {
         </div>
         {/* end text */}
       </div>
-      <ToastContainer
+      {/* <ToastContainer
         position="top-right"
         autoClose={1000}
         hideProgressBar={false}
@@ -52,7 +52,7 @@ function Introduction({ item }) {
         pauseOnFocusLoss
         draggable
         pauseOnHover
-      />
+      /> */}
     </div>
   );
 }
