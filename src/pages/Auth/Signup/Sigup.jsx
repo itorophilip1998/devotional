@@ -57,10 +57,12 @@ export default function SignUp() {
   const handleSearchClose = (e) => {
     dispatch(offKeys(true));
   };
-  const handleSubmit = async (e) => {
+  
+  const handleSubmit = async (e) => { 
     e.preventDefault();
     setLoading(true);
-    setError({});
+    setError({});  
+
     const req = await signUp(state);
     if (req && req.data) {
       setLoading(false);
@@ -73,7 +75,9 @@ export default function SignUp() {
       toast.error("Opps invalid details!");
     }
   };
-
+ const handleSearchOpen = (e) => {
+   dispatch(offKeys(false));
+ };
   return (
     <Container component="main" maxWidth="xs">
       <CssBaseline />
@@ -94,12 +98,12 @@ export default function SignUp() {
             id="username"
             label="Username"
             name="username"
-            autoComplete="username"
-            autoFocus
             onChange={handleInput}
             type="text"
             onMouseLeave={handleSearchClose}
             helperText={error?.username && error?.username[0]}
+             
+            onFocus={handleSearchOpen}
           />
           <TextField
             variant="outlined"
@@ -110,12 +114,12 @@ export default function SignUp() {
             id="email"
             label="Email Address "
             name="email"
-            autoComplete="email"
-            autoFocus
             onChange={handleInput}
             type="email"
             onMouseLeave={handleSearchClose}
             helperText={error?.email && error?.email[0]}
+             
+            onFocus={handleSearchOpen}
           />
           <TextField
             error={error?.password ? true : false}
@@ -126,11 +130,12 @@ export default function SignUp() {
             name="password"
             label="Password"
             id="password"
-            autoComplete="current-password"
             onChange={handleInput}
             onMouseLeave={handleSearchClose}
             helperText={error?.password && error?.password[0]}
             type={passwordType}
+ 
+            onFocus={handleSearchOpen}
           />
           {passwordType === "password" ? (
             <VisibilityOff

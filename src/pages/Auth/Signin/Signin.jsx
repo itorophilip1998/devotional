@@ -54,8 +54,11 @@ export default function SignIn() {
       [evt.target.name]: value,
     });
   };
-   const handleSearchClose = (e) => {
+   const handleSearchClose = () => {
      dispatch(offKeys(true));
+   };
+   const handleSearchOpen = () => {
+   dispatch(offKeys(false)); 
    };
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -89,10 +92,9 @@ export default function SignIn() {
             id="email"
             label="Email Address"
             name="email"
-            autoComplete="email"
-            autoFocus
             onChange={handleInput}
             onMouseLeave={handleSearchClose}
+            onFocus={handleSearchOpen}
           />
           <TextField
             variant="outlined"
@@ -103,9 +105,9 @@ export default function SignIn() {
             label="Password"
             type={passwordType}
             id="password"
-            autoComplete="current-password"
             onChange={handleInput}
             onMouseLeave={handleSearchClose}
+            onFocus={handleSearchOpen}
           />
 
           {passwordType === "password" ? (

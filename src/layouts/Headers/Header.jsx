@@ -51,6 +51,9 @@ export default function Header() {
   const handleSearchClose = (e) => {
     dispatch(offKeys(true));  
   }
+     const handleSearchOpen = () => {
+       dispatch(offKeys(false));
+     };
   const handleSearch = (e) => {
     dispatch(offKeys(false));
 
@@ -91,6 +94,7 @@ export default function Header() {
                 value={search}
                 onChange={handleSearch}
                 onMouseLeave={handleSearchClose}
+                onFocus={handleSearchOpen}
               />
             </Popover>
             <IconButton

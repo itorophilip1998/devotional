@@ -31,7 +31,7 @@ const Footer = () => {
     setValue(newValue);
     navigate(newValue);
   };
-  if (isOffKeys)
+  if (isOffKeys===true)
     return (
       <BottomNavigation
         showLabels
