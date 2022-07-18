@@ -13,7 +13,7 @@ import { Link, useNavigate } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { getUser } from "../../../store/data";
+import { getUser, offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
 
@@ -40,17 +40,22 @@ const useStyles = makeStyles((theme) => ({
 export default function SignUp() {
   const classes = useStyles();
   const navigate = useNavigate();
-  const dispatch = useDispatch(); 
+  const dispatch = useDispatch();
   const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
-  const [passwordType, setPType] = useState("password"); 
+  const [passwordType, setPType] = useState("password");
   const [error, setError] = useState({});
   const handleInput = (evt) => {
+    dispatch(offKeys(false));
+
     const value = evt.target.value;
     setState({
       ...state,
       [evt.target.name]: value,
     });
+  };
+  const handleSearchClose = (e) => {
+    dispatch(offKeys(true));
   };
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -59,7 +64,7 @@ export default function SignUp() {
     const req = await signUp(state);
     if (req && req.data) {
       setLoading(false);
-      dispatch(getUser(req.data)); 
+      dispatch(getUser(req.data));
       navigate("/devotional");
     } else {
       setLoading(false);
@@ -93,6 +98,7 @@ export default function SignUp() {
             autoFocus
             onChange={handleInput}
             type="text"
+            onMouseLeave={handleSearchClose}
             helperText={error?.username && error?.username[0]}
           />
           <TextField
@@ -108,6 +114,7 @@ export default function SignUp() {
             autoFocus
             onChange={handleInput}
             type="email"
+            onMouseLeave={handleSearchClose}
             helperText={error?.email && error?.email[0]}
           />
           <TextField
@@ -117,10 +124,11 @@ export default function SignUp() {
             required
             fullWidth
             name="password"
-            label="Password" 
+            label="Password"
             id="password"
             autoComplete="current-password"
             onChange={handleInput}
+            onMouseLeave={handleSearchClose}
             helperText={error?.password && error?.password[0]}
             type={passwordType}
           />

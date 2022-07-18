@@ -13,7 +13,7 @@ import Container from "@material-ui/core/Container";
 import { signIn } from "../../../utils/request";
 import { Link, useNavigate } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
-import { getUser } from "../../../store/data";
+import { getUser, offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -47,12 +47,16 @@ export default function SignIn() {
   const [loading, setLoading] = useState(false);
   const [passwordType, setPType] = useState("password");
   const handleInput = (evt) => {
+    dispatch(offKeys(false));
     const value = evt.target.value;
     setState({
       ...state,
       [evt.target.name]: value,
     });
   };
+   const handleSearchClose = (e) => {
+     dispatch(offKeys(true));
+   };
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
@@ -88,6 +92,7 @@ export default function SignIn() {
             autoComplete="email"
             autoFocus
             onChange={handleInput}
+            onMouseLeave={handleSearchClose}
           />
           <TextField
             variant="outlined"
@@ -100,6 +105,7 @@ export default function SignIn() {
             id="password"
             autoComplete="current-password"
             onChange={handleInput}
+            onMouseLeave={handleSearchClose}
           />
 
           {passwordType === "password" ? (

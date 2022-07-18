@@ -20,7 +20,8 @@ export const data = createSlice(
                 email,
                 userId,
                 token
-            }
+            },
+            isOffKeys:true
         },
         reducers: {
             getSearch: (state, action) => {
@@ -28,6 +29,9 @@ export const data = createSlice(
             },
             getSearch2: (state, action) => {
                 state.search2 = action.payload
+            },
+            offKeys: (state, action) => {
+                state.isOffKeys = action.payload
             },
             getUser: (state, action) => { 
                 state.user = action.payload
@@ -46,6 +50,6 @@ export const data = createSlice(
     });
 
 
-export const { getSearch, getSearch2, getUser } = data.actions;
+export const { getSearch, getSearch2, getUser, offKeys } = data.actions;
 
 export default data.reducer;

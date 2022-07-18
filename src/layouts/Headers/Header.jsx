@@ -11,7 +11,7 @@ import Popover from "@material-ui/core/Popover";
 import { TextField } from "@material-ui/core";
 import { useLocation } from "react-router-dom";
 import { useDispatch } from "react-redux";
-import { getSearch, getSearch2 } from "../../store/data";
+import { getSearch, getSearch2, offKeys } from "../../store/data";
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -48,8 +48,13 @@ export default function Header() {
   if (!list.includes(currentPage)) {
     return false;
   }
+  const handleSearchClose = (e) => {
+    dispatch(offKeys(true));  
+  }
   const handleSearch = (e) => {
-    setSearch(e.target.value);
+    dispatch(offKeys(false));
+
+    setSearch(e.target.value);  
     if (currentPage === "devotional")
       dispatch(getSearch( e.target.value ));
     else if (currentPage === "manual")
@@ -85,6 +90,7 @@ export default function Header() {
                 variant="filled"
                 value={search}
                 onChange={handleSearch}
+                onMouseLeave={handleSearchClose}
               />
             </Popover>
             <IconButton
