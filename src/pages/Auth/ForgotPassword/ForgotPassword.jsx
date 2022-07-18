@@ -2,14 +2,14 @@ import React, { useState } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import TextField from "@material-ui/core/TextField"; 
-import Grid from "@material-ui/core/Grid";  
+import TextField from "@material-ui/core/TextField";
+import Grid from "@material-ui/core/Grid";
 import LockOpenOutlinedIcon from "@material-ui/icons/LockOpenOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import { signIn } from "../../../utils/request";
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 
 const useStyles = makeStyles((theme) => ({
@@ -85,6 +85,7 @@ export default function ForgotPassword() {
             color="primary"
             className={classes.submit}
             disabled={loading !== true ? false : true}
+            size="large"
           >
             {loading !== true ? "Verify" : <Loader />}
           </Button>
@@ -100,4 +101,3 @@ export default function ForgotPassword() {
     </Container>
   );
 }
- 

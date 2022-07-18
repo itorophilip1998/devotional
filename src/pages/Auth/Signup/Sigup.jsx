@@ -15,6 +15,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { getUser } from "../../../store/data";
 import { useDispatch } from "react-redux";
+import { Visibility, VisibilityOff } from "@material-ui/icons";
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -39,10 +40,10 @@ const useStyles = makeStyles((theme) => ({
 export default function SignUp() {
   const classes = useStyles();
   const navigate = useNavigate();
-  const dispatch = useDispatch();
-
+  const dispatch = useDispatch(); 
   const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
+  const [passwordType, setPType] = useState("password"); 
   const [error, setError] = useState({});
   const handleInput = (evt) => {
     const value = evt.target.value;
@@ -58,8 +59,7 @@ export default function SignUp() {
     const req = await signUp(state);
     if (req && req.data) {
       setLoading(false);
-      dispatch(getUser(req.data));
-
+      dispatch(getUser(req.data)); 
       navigate("/devotional");
     } else {
       setLoading(false);
@@ -68,6 +68,7 @@ export default function SignUp() {
       toast.error("Opps invalid details!");
     }
   };
+
   return (
     <Container component="main" maxWidth="xs">
       <CssBaseline />
@@ -116,18 +117,24 @@ export default function SignUp() {
             required
             fullWidth
             name="password"
-            label="Password"
-            type="password"
+            label="Password" 
             id="password"
             autoComplete="current-password"
             onChange={handleInput}
             helperText={error?.password && error?.password[0]}
+            type={passwordType}
           />
-          {/* <FormControlLabel
-            control={<Checkbox value="remember" color="primary" />}
-            label="I accept the terms and condition"
-          /> */}
-
+          {passwordType === "password" ? (
+            <VisibilityOff
+              className=" passwordItem"
+              onClick={(e) => setPType("text")}
+            />
+          ) : (
+            <Visibility
+              className=" passwordItem"
+              onClick={(e) => setPType("password")}
+            />
+          )}
           <Button
             type="submit"
             fullWidth
@@ -135,7 +142,7 @@ export default function SignUp() {
             color="primary"
             className={classes.submit}
             disabled={loading !== true ? false : true}
-            size="medium"
+            size="large"
           >
             {loading !== true ? "Sign Up" : <Loader />}
           </Button>

@@ -17,7 +17,8 @@ import { getUser } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-
+import { Visibility, VisibilityOff } from "@material-ui/icons";
+import "../auth.scss";
 const useStyles = makeStyles((theme) => ({
   paper: {
     marginTop: theme.spacing(8),
@@ -44,6 +45,7 @@ export default function SignIn() {
   const navigate = useNavigate();
   const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
+  const [passwordType, setPType] = useState("password");
   const handleInput = (evt) => {
     const value = evt.target.value;
     setState({
@@ -54,17 +56,15 @@ export default function SignIn() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    const req = await signIn(state);  
+    const req = await signIn(state);
     if (req && req.data) {
       dispatch(getUser(req.data));
-      setLoading(false);  
-      navigate("/devotional")
+      setLoading(false);
+      navigate("/devotional");
     } else {
-      setLoading(false);  
-       toast.error("Opps invalid details!"); 
+      setLoading(false);
+      toast.error("Opps invalid details!");
     }
-    
-    
   };
   return (
     <Container component="main" maxWidth="xs">
@@ -96,11 +96,24 @@ export default function SignIn() {
             fullWidth
             name="password"
             label="Password"
-            type="password"
+            type={passwordType}
             id="password"
             autoComplete="current-password"
             onChange={handleInput}
           />
+
+          {passwordType === "password" ? (
+            <VisibilityOff
+              className=" passwordItem"
+              onClick={(e) => setPType("text")}
+            />
+          ) : (
+            <Visibility
+              className=" passwordItem"
+              onClick={(e) => setPType("password")}
+            />
+          )}
+
           <FormControlLabel
             control={<Checkbox value="remember" color="primary" />}
             label="Remember me"
@@ -110,7 +123,7 @@ export default function SignIn() {
             fullWidth
             variant="contained"
             color="primary"
-            size="medium"
+            size="large"
             className={classes.submit}
             disabled={loading !== true ? false : true}
           >

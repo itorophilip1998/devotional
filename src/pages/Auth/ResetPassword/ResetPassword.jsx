@@ -84,6 +84,7 @@ export default function ResetPassword() {
             color="primary"
             className={classes.submit}
             disabled={loading !== true ? false : true}
+            size="large"
           >
             {loading !== true ? "Verify" : "please wait.."}
           </Button>

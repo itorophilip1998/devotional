@@ -12,6 +12,7 @@ import Header from "./layouts/Headers/Header";
 import Profile from "./pages/Profile"; 
 import Tip from "./pages/Tip/Tip";
 import Subscribe from "./pages/Subscribe/Subscribe";
+import ProtectedRoutes from "./Middleware/ProtectedRoutes";
 
 
 function App() {
@@ -21,7 +22,7 @@ function App() {
       <Header/>
       <Routes>
         {/* auth routes */}
-        
+        <Route path="/" element={<ProtectedRoutes />} > 
         <Route path="/" element={<DevotionalList />} />
         <Route path="/devotional" element={<DevotionalList />} />
         <Route path="/manual" element={<ManualList />} />  
@@ -30,6 +31,7 @@ function App() {
         <Route path="/profile" element={<Profile />} />
         <Route path="/tips" element={<Tip />} />
         <Route path="/subscribe" element={<Subscribe />} />
+        </Route>
 
         {/* guest routes */}
         <Route path="/signin" element={<SignIn />} />
