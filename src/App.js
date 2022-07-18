@@ -11,6 +11,7 @@ import DevotionalList from "./pages/Devotional/DevotionalList";
 import Header from "./layouts/Headers/Header";
 import Profile from "./pages/Profile"; 
 import Tip from "./pages/Tip/Tip";
+import Subscribe from "./pages/Subscribe/Subscribe";
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
         <Route path="/manual/:topic" element={<Manual />} /> 
         <Route path="/profile" element={<Profile />} />
         <Route path="/tips" element={<Tip />} />
+        <Route path="/subscribe" element={<Subscribe />} />
 
         {/* guest routes */}
         <Route path="/signin" element={<SignIn />} />

@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
 function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
-  
+
 
   return (
     <div className="container py-4 ">
@@ -55,11 +55,17 @@ function Profile() {
 
       <div className="settings py-4">
         <span>Settings</span>
-        <div className="setting_items signout shadow-sm p-3 text-dark">
+        <div
+          className="setting_items signout shadow-sm p-3 text-dark"
+          onClick={(e) => navigate("/subscribe")}
+        >
           <CreditCardIcon /> Subscription
           <span className="badge badge-danger float-right">expired</span>
         </div>
-        <div className="setting_items signout shadow-sm p-3 text-dark">
+        <div
+          className="setting_items signout shadow-sm p-3 text-dark"
+          onClick={(e) => navigate("/forgot-password")}
+        >
           <VpnKeyIcon /> Change Password
         </div>
 

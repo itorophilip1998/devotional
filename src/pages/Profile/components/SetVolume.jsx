@@ -15,9 +15,18 @@ const useStyles = makeStyles({
 export default function SetVolume() {
   const classes = useStyles();
   const [value, setValue] = React.useState(30);
-
   const handleChange = (event, newValue) => {
-    setValue(newValue);
+    setValue(newValue); 
+    // var msg = new SpeechSynthesisUtterance()
+    //   var voices = window.speechSynthesis.getVoices()
+    //   msg.voice = voices[6]
+    //   msg.volume = 1 // From 0 to 1
+    //   msg.rate = 1 // From 0.1 to 10
+    //   msg.pitch = 0 // From 0 to 2
+    //   msg.lang = 'en-US'
+    //   msg.text = data.alphabet
+    //   speechSynthesis.speak(msg)
+
   };
 
   return (
@@ -40,7 +49,6 @@ export default function SetVolume() {
           <VolumeUp />
         </Grid>
       </Grid>
-      
-  </div>
+    </div>
   );
 }
