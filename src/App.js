@@ -4,14 +4,14 @@ import SignUp from "./pages/Auth/Signup/Sigup";
 import ForgotPassword from "./pages/Auth/ForgotPassword/ForgotPassword";
 import ResetPassword from "./pages/Auth/ResetPassword/ResetPassword";
 import ManualList from "./pages/Manual/ManualList";
-import Devotional from "./pages/Devotional/Devotional";
-import Manual from "./pages/Manual/Manual";
+import Devotional from "./pages/Devotional";
+import Manual from "./pages/Manual";
 import Footer from "./layouts/Footer";
 import DevotionalList from "./pages/Devotional/DevotionalList";
 import Header from "./layouts/Headers/Header";
 import Profile from "./pages/Profile";
 import Tip from "./pages/Tip/Tip";
-import Subscribe from "./pages/Subscribe/Subscribe";
+import Subscribe from "./pages/Subscribe";
 import ProtectedRoutes from "./Middleware/ProtectedRoutes";
 import IsOffline from "./components/IsOffline";
 
