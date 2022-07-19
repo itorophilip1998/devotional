@@ -18,10 +18,10 @@ export const data = createSlice(
             user: {
                 username,
                 email,
-                userId,
-                token
+                userId 
             },
-            isOffKeys:true
+            token,
+            isOffKeys: true
         },
         reducers: {
             getSearch: (state, action) => {
@@ -33,23 +33,34 @@ export const data = createSlice(
             offKeys: (state, action) => {
                 state.isOffKeys = action.payload
             },
-            getUser: (state, action) => { 
-                state.user = action.payload
+            getUser: (state, action) => {
+
                 let {
                     username,
                     email,
-                    id 
+                    id
                 } = action.payload.user
+
+                state.user = {
+                    username,
+                    email,
+                    id
+                }
+                state.token = action.payload.access_token 
                 window.localStorage.setItem("username", username)
                 window.localStorage.setItem("email", email)
                 window.localStorage.setItem("userId", id)
                 window.localStorage.setItem("token", action.payload.access_token)
+            },
+            logout: (state, action) => {
+                state.token = false
+                window.localStorage.clear()
             }
         },
 
     });
 
 
-export const { getSearch, getSearch2, getUser, offKeys } = data.actions;
+export const { getSearch, getSearch2, getUser, offKeys, logout } = data.actions;
 
 export default data.reducer;

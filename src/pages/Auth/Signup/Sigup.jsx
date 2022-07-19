@@ -16,6 +16,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { getUser, offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
+/* eslint-disable */
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -67,7 +68,9 @@ export default function SignUp() {
     if (req && req.data) {
       setLoading(false);
       dispatch(getUser(req.data));
-      navigate("/devotional");
+      // navigate("/auth/devotional");
+    window.location.href = "/devotional";
+
     } else {
       setLoading(false);
       let err = JSON.parse(req.response.data);

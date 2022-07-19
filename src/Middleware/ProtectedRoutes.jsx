@@ -1,8 +1,10 @@
-import React from "react";
+import React from "react"; 
 import { Navigate, Outlet } from "react-router-dom";
 
+/* eslint-disable */
 const useAuth = () => {
   const isAuth = localStorage.getItem("token");
+
   if (!isAuth || isAuth === null) {
     return false;
   }
@@ -10,7 +12,7 @@ const useAuth = () => {
 };
 function ProtectedRoutes() {
   const auth = useAuth();
-  return auth ? <Outlet /> : <Navigate to={"/signin"} />;
+  return auth ? <Outlet /> : <Navigate to={"/auth/signin"} />;
 }
 
 export default ProtectedRoutes;

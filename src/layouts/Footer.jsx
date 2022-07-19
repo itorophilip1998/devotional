@@ -22,44 +22,46 @@ const useStyles = makeStyles({
 
 const Footer = () => {
   const classes = useStyles();
-  const isOffKeys = useSelector((state) => state.data.isOffKeys);
-
+  const { isOffKeys, token } = useSelector((state) => state.data);
   const [value, setValue] = useState("devotional");
   let navigate = useNavigate();
-
   const handleChange = (event, newValue) => {
     setValue(newValue);
-    navigate(newValue);
+    navigate(`${newValue}`);
   };
-  if (isOffKeys===true)
+  if (isOffKeys)
     return (
-      <BottomNavigation
-        showLabels
-        value={value}
-        onChange={handleChange}
-        className={classes.root + " fixed-bottom"}
-      >
-        <BottomNavigationAction
-          label="Devotional"
-          value="devotional"
-          icon={<MenuBookOutlined />}
-        />
-        <BottomNavigationAction
-          label="Manual"
-          value="manual"
-          icon={<LibraryBooksOutlined />}
-        />
-        <BottomNavigationAction
-          label="Tips"
-          value="tips"
-          icon={<EventNote />}
-        />
-        <BottomNavigationAction
-          label="Profile"
-          value="profile"
-          icon={<PermIdentityOutlined />}
-        />
-      </BottomNavigation>
+      <div className="div">
+        {token && (
+          <BottomNavigation
+            showLabels
+            value={value}
+            onChange={handleChange}
+            className={classes.root + " fixed-bottom"}
+          >
+            <BottomNavigationAction
+              label="Devotional"
+              value="devotional"
+              icon={<MenuBookOutlined />}
+            />
+            <BottomNavigationAction
+              label="Manual"
+              value="manual"
+              icon={<LibraryBooksOutlined />}
+            />
+            <BottomNavigationAction
+              label="Tips"
+              value="tips"
+              icon={<EventNote />}
+            />
+            <BottomNavigationAction
+              label="Profile"
+              value="profile"
+              icon={<PermIdentityOutlined />}
+            />
+          </BottomNavigation>
+        )}
+      </div>
     );
 };
 export default Footer;

@@ -14,6 +14,7 @@ import Tip from "./pages/Tip/Tip";
 import Subscribe from "./pages/Subscribe";
 import ProtectedRoutes from "./Middleware/ProtectedRoutes";
 import IsOffline from "./components/IsOffline";
+import PublicRoutes from "./Middleware/PublicRoutes";
 
 
 function App() {
@@ -36,10 +37,12 @@ function App() {
         </Route>
 
         {/* guest routes */}
-        <Route path="/signin" element={<SignIn />} />
-        <Route path="/signup" element={<SignUp />} />
-        <Route path="/forgot-password" element={<ForgotPassword />} />
-        <Route path="/reset-password" element={<ResetPassword />} />
+        <Route path="/auth" element={<PublicRoutes />} >
+          <Route path="/auth/signin" element={<SignIn />} />
+          <Route path="/auth/signup" element={<SignUp />} />
+          <Route path="/auth/forgot-password" element={<ForgotPassword />} />
+          <Route path="/auth/reset-password" element={<ResetPassword />} />
+        </Route>
 
       </Routes>
       <Footer />

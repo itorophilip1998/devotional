@@ -9,6 +9,8 @@ import VpnKeyIcon from "@material-ui/icons/VpnKey";
 import SetVolume from "./components/SetVolume";
 import SetFont from "./components/SetFont";
 import { useNavigate } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { logout } from "../../store/data";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -29,7 +31,13 @@ function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
 
+  const { token } = useSelector((state) => state.data);
+  const dispatch = useDispatch();
 
+  const signOut = () => {
+    dispatch(logout());
+    navigate("/auth/signin");
+  };
   return (
     <div className="container py-4 ">
       <div className="header_profile my-2">
@@ -46,12 +54,18 @@ function Profile() {
           Itoro Philip
         </Typography>
       </div>
-      <div
-        className="signout shadow-sm p-3 text-dark"
-        onClick={(e) => navigate("/signin")}
-      >
-        <ExitToAppIcon /> signin
-      </div>
+      {!token ? (
+        <div
+          className="signout shadow-sm p-3 text-dark"
+          onClick={(e) => navigate("/auth/signin")}
+        >
+          <ExitToAppIcon /> Signin
+        </div>
+      ) : (
+        <div className="signout shadow-sm p-3 text-dark" onClick={signOut}>
+          <ExitToAppIcon /> Signout
+        </div>
+      )}
 
       <div className="settings py-4">
         <span>Settings</span>
@@ -64,7 +78,7 @@ function Profile() {
         </div>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"
-          onClick={(e) => navigate("/forgot-password")}
+          onClick={(e) => navigate("/auth/forgot-password")}
         >
           <VpnKeyIcon /> Change Password
         </div>

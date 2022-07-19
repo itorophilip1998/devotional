@@ -19,6 +19,8 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
 import "../auth.scss";
+/* eslint-disable */
+
 const useStyles = makeStyles((theme) => ({
   paper: {
     marginTop: theme.spacing(8),
@@ -67,7 +69,7 @@ export default function SignIn() {
     if (req && req.data) {
       dispatch(getUser(req.data));
       setLoading(false);
-      navigate("/devotional");
+    window.location.href="/devotional";
     } else {
       setLoading(false);
       toast.error("Opps invalid details!");

@@ -7,7 +7,6 @@ import { devotional } from "../../Database/devotional";
 import { useLocation } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";
 /* eslint-disable */
-
 function Devotional() {
   const [list, setList] = useState([]);
   const page = useLocation();
