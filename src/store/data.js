@@ -61,14 +61,14 @@ export const data = createSlice(
                 state.token = false
                 window.localStorage.clear()
             },
-            getSetup: () => {
-                
+            getSetup: (state,action) => {
+                state.speed = action.payload 
             }
         },
 
     });
 
 
-export const { getSearch, getSearch2, getUser, offKeys, logout } = data.actions;
+export const { getSearch, getSearch2, getUser, offKeys, logout, getSetup } = data.actions;
 
 export default data.reducer;

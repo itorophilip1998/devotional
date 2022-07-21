@@ -6,6 +6,7 @@ import { Grid } from "@material-ui/core";
 import { VolumeDown, VolumeUp } from "@material-ui/icons";
 import { Settings } from "../../../utils/Settings";
 import { useDispatch } from "react-redux";
+import { getSetup } from "../../../store/data";
 
 const useStyles = makeStyles({
   root: {
@@ -17,12 +18,13 @@ function valuetext(value) {
   return `${value}`;
 }
 
-export default function SetVolume(data) {
+export default function SetVolume({data}) {
   const dispatch = useDispatch();
 
   const classes = useStyles();
-const setUp = (e, value) => {
-  dispatch();
+   
+const setUp = (e, volume) => {
+  dispatch(getSetup({ ...data ,volume}));
   Settings();
 };
   return (
