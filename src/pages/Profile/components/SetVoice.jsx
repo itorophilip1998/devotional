@@ -3,7 +3,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
 import { Grid } from "@material-ui/core";
-import { VolumeDown, VolumeUp } from "@material-ui/icons";
+import SentimentVerySatisfiedOutlinedIcon from "@material-ui/icons/SentimentVerySatisfiedOutlined";
 
 const useStyles = makeStyles({
   root: {
@@ -15,32 +15,32 @@ function valuetext(value) {
   return `${value}`;
 }
 
-export default function SetVolume({ volume }) {
+export default function SetVoice({ voice }) {
   const classes = useStyles();
 
   return (
     <div className={classes.root}>
       <Typography id="discrete-slider-small-steps" gutterBottom>
-        Set Volume
+        Set Voice
       </Typography>
       <Grid container spacing={2}>
         <Grid item>
-          <VolumeDown />
+          <MicOffSharpIcon />
         </Grid>
         <Grid item xs>
           <Slider
-            defaultValue={volume}
+            defaultValue={voice}
             getAriaValueText={valuetext}
             aria-labelledby="discrete-slider-small-steps"
             step={1}
             marks
             min={0}
-            max={1}
+            max={2}
             valueLabelDisplay="auto"
           />
         </Grid>
         <Grid item>
-          <VolumeUp />
+          <MicNoneSharpIcon />
         </Grid>
       </Grid>
     </div>

@@ -18,7 +18,23 @@ export const data = createSlice(
             user: {
                 username,
                 email,
-                userId 
+                userId
+            },
+            speech: {
+                lang :"en-US", 
+                volume: 1,
+                rate : 1,
+                pitch: 0,
+                voice:6
+                    // var msg = new SpeechSynthesisUtterance()
+    //   var voices = window.speechSynthesis.getVoices()
+    //   msg.voice = voices[6]
+    //   msg.volume = 1 // From 0 to 1
+    //   msg.rate = 1 // From 0.1 to 10
+    //   msg.pitch = 0 // From 0 to 2
+    //   msg.lang = 'en-US'
+    //   msg.text = data.alphabet
+    //   speechSynthesis.speak(msg)
             },
             token,
             isOffKeys: true
@@ -46,7 +62,7 @@ export const data = createSlice(
                     email,
                     id
                 }
-                state.token = action.payload.access_token 
+                state.token = action.payload.access_token
                 window.localStorage.setItem("username", username)
                 window.localStorage.setItem("email", email)
                 window.localStorage.setItem("userId", id)

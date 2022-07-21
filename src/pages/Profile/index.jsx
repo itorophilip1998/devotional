@@ -6,11 +6,12 @@ import "./profile.scss";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import CreditCardIcon from "@material-ui/icons/CreditCard";
 import VpnKeyIcon from "@material-ui/icons/VpnKey";
-import SetVolume from "./components/SetVolume";
-import SetFont from "./components/SetFont";
+import SetVolume from "./components/SetVolume"; 
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../../store/data";
+import SetRate from "./components/SetRate";
+import SetVoice from "./components/SetVoice";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -31,15 +32,18 @@ function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
 
-  const { token } = useSelector((state) => state.data);
+  const { token, user,speech } = useSelector((state) => state.data);
   const dispatch = useDispatch();
-
+  const changePassword = () => {
+    dispatch(logout());
+    navigate("/auth/forgot-password");
+  }
   const signOut = () => {
     dispatch(logout());
     navigate("/auth/signin");
   };
   return (
-    <div className="container py-4 ">
+    <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
         <Avatar
           src="/broken-image.jpg"
@@ -49,9 +53,9 @@ function Profile() {
           variant="h6"
           display="inline"
           gutterBottom
-          className="userName"
+          className="userName text-capitalize"
         >
-          Itoro Philip
+          {user.username}
         </Typography>
       </div>
       {!token ? (
@@ -78,17 +82,20 @@ function Profile() {
         </div>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"
-          onClick={(e) => navigate("/auth/forgot-password")}
+          onClick={changePassword}
         >
           <VpnKeyIcon /> Change Password
         </div>
 
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetVolume />
+          <SetVolume olume={speech.volume} />
         </div>
 
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetFont />
+          <SetRate rate={speech.rate} />
+        </div>
+        <div className="setting_items signout shadow-sm p-3 text-dark">
+          <SetVoice voice={speech.voice} />
         </div>
       </div>
       <small className="version text-muted float-right">v0.1</small>
