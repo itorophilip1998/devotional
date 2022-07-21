@@ -2,7 +2,7 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
-import { Grid } from "@material-ui/core"; 
+import { Grid } from "@material-ui/core";
 import MicOffSharpIcon from "@material-ui/icons/MicOffSharp";
 import MicNoneSharpIcon from "@material-ui/icons/MicNoneSharp";
 import { Settings } from "../../../utils/Settings";
@@ -18,13 +18,13 @@ function valuetext(value) {
   return `${value}`;
 }
 
-export default function SetRate({data}) {
+export default function SetRate({ data }) {
   const classes = useStyles();
   const dispatch = useDispatch();
-const setUp = (e, rate) => {
-  dispatch(getSetup({ ...data, rate }));
-  Settings({ ...data, rate });
-};
+  const setUp = (e, rate) => {
+    dispatch(getSetup({ ...data, rate }));
+    return Settings({ ...data, rate });
+  };
   return (
     <div className={classes.root}>
       <Typography id="discrete-slider-small-steps" gutterBottom>

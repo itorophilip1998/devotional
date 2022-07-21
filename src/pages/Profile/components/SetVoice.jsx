@@ -19,13 +19,13 @@ function valuetext(value) {
 }
 
 export default function SetVoice({ data }) {
-    const classes = useStyles();
+  const classes = useStyles();
   const dispatch = useDispatch();
-    
-const setUp = (e, voice) => {
-  dispatch(getSetup({ ...data, voice }));
-  Settings({ ...data, voice });
-};
+
+  const setUp = (e, voice) => {
+    dispatch(getSetup({ ...data, voice }));
+    return Settings({ ...data, voice });
+  };
   return (
     <div className={classes.root}>
       <Typography id="discrete-slider-small-steps" gutterBottom>
