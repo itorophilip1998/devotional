@@ -6,6 +6,8 @@ import { Grid } from "@material-ui/core";
 import MicOffSharpIcon from "@material-ui/icons/MicOffSharp";
 import MicNoneSharpIcon from "@material-ui/icons/MicNoneSharp";
 import { Settings } from "../../../utils/Settings";
+import { useDispatch } from "react-redux";
+import { getSetup } from "../../../store/data";
 const useStyles = makeStyles({
   root: {
     width: "100%",
@@ -15,12 +17,14 @@ const useStyles = makeStyles({
 function valuetext(value) {
   return `${value}`;
 }
-const setUp = (rate, volume, voice) => {
-  Settings(rate, volume, voice);
-};
-export default function SetRate({ rate, volume, voice }) {
-  const classes = useStyles();
 
+export default function SetRate({data}) {
+  const classes = useStyles();
+  const dispatch = useDispatch();
+const setUp = (e, volume) => {
+  dispatch(getSetup({ ...data, volume }));
+  Settings();
+};
   return (
     <div className={classes.root}>
       <Typography id="discrete-slider-small-steps" gutterBottom>
@@ -32,7 +36,7 @@ export default function SetRate({ rate, volume, voice }) {
         </Grid>
         <Grid item xs>
           <Slider
-            defaultValue={rate}
+            defaultValue={data.rate}
             getAriaValueText={valuetext}
             aria-labelledby="discrete-slider-small-steps"
             step={1}
@@ -40,7 +44,7 @@ export default function SetRate({ rate, volume, voice }) {
             min={0.1}
             max={10}
             valueLabelDisplay="auto"
-            onClick={(e) => setUp(rate, volume, voice)}
+            onChange={setUp}
           />
         </Grid>
         <Grid item>
