@@ -5,6 +5,7 @@ import Slider from "@material-ui/core/Slider";
 import { Grid } from "@material-ui/core"; 
 import MicOffSharpIcon from "@material-ui/icons/MicOffSharp";
 import MicNoneSharpIcon from "@material-ui/icons/MicNoneSharp";
+import { Settings } from "../../../utils/Settings";
 const useStyles = makeStyles({
   root: {
     width: "100%",
@@ -14,8 +15,10 @@ const useStyles = makeStyles({
 function valuetext(value) {
   return `${value}`;
 }
-
-export default function SetRate({rate}) {
+const setUp = (rate, volume, voice) => {
+  Settings(rate, volume, voice);
+};
+export default function SetRate({ rate, volume, voice }) {
   const classes = useStyles();
 
   return (
@@ -37,6 +40,7 @@ export default function SetRate({rate}) {
             min={0.1}
             max={10}
             valueLabelDisplay="auto"
+            onClick={(e) => setUp(rate, volume, voice)}
           />
         </Grid>
         <Grid item>

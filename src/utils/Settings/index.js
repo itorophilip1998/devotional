@@ -1,6 +1,7 @@
+import { useSelector } from "react-redux";
 
-export const Settings = (rate, volume, voice) => {
-
+export const Settings = () => {
+    const { rate, volume, voice } = useSelector((state) => state.data.speech);
     var msg = new SpeechSynthesisUtterance()
     var voices = window.speechSynthesis.getVoices()
     msg.voice = voices[voice] //[6]

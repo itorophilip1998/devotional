@@ -88,14 +88,14 @@ function Profile() {
         </div>
         
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetVolume volume={speech.volume} />
+          <SetVolume data={speech} />
         </div>
 
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetRate rate={speech.rate} />
+          <SetRate data={speech} />
         </div>
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetVoice voice={speech.voice} />
+          <SetVoice data={speech} />
         </div>
       </div>
       <small className="version text-muted float-right">v0.1</small>

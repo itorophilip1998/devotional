@@ -5,6 +5,7 @@ import Slider from "@material-ui/core/Slider";
 import { Grid } from "@material-ui/core";
 import { VolumeDown, VolumeUp } from "@material-ui/icons";
 import { Settings } from "../../../utils/Settings";
+import { useDispatch } from "react-redux";
 
 const useStyles = makeStyles({
   root: {
@@ -13,15 +14,17 @@ const useStyles = makeStyles({
 });
 
 function valuetext(value) {
-  Settings(1,1,6)
   return `${value}`;
 }
-const setUp = () => {
-  console.log("hello world")
-}
-export default function SetVolume({ volume }) {
-  const classes = useStyles();
 
+export default function SetVolume(data) {
+  const dispatch = useDispatch();
+
+  const classes = useStyles();
+const setUp = (e, value) => {
+  dispatch();
+  Settings();
+};
   return (
     <div className={classes.root}>
       <Typography id="discrete-slider-small-steps" gutterBottom>
@@ -33,7 +36,7 @@ export default function SetVolume({ volume }) {
         </Grid>
         <Grid item xs>
           <Slider
-            defaultValue={volume}
+            defaultValue={data.volume}
             getAriaValueText={valuetext}
             aria-labelledby="discrete-slider-small-steps"
             step={1}
@@ -41,7 +44,7 @@ export default function SetVolume({ volume }) {
             min={0}
             max={1}
             valueLabelDisplay="auto"
-            onClick={e=>setUp}
+            onChange={setUp}
           />
         </Grid>
         <Grid item>

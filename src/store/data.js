@@ -60,6 +60,9 @@ export const data = createSlice(
             logout: (state, action) => {
                 state.token = false
                 window.localStorage.clear()
+            },
+            getSetup: () => {
+                
             }
         },
 
