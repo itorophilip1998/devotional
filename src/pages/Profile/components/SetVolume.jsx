@@ -25,7 +25,7 @@ export default function SetVolume({data}) {
    
 const setUp = (e, volume) => {
   dispatch(getSetup({ ...data ,volume}));
- return  Settings({ ...data, volume });
+ return Settings({ ...data, volume, text: "Testing" });
 };
   return (
     <div className={classes.root}>

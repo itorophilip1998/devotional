@@ -24,7 +24,7 @@ export default function SetVoice({ data }) {
 
   const setUp = (e, voice) => {
     dispatch(getSetup({ ...data, voice }));
-    return Settings({ ...data, voice });
+    return Settings({ ...data, voice , text: "Testing" });
   };
   return (
     <div className={classes.root}>

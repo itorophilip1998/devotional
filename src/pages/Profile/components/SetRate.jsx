@@ -23,7 +23,7 @@ export default function SetRate({ data }) {
   const dispatch = useDispatch();
   const setUp = (e, rate) => {
     dispatch(getSetup({ ...data, rate }));
-    return Settings({ ...data, rate });
+    return Settings({ ...data, rate, text: "Testing" });
   };
   return (
     <div className={classes.root}>
