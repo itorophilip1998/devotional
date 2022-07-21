@@ -24,7 +24,7 @@ export default function SetVoice({ data }) {
     
 const setUp = (e, volume) => {
   dispatch(getSetup({ ...data, volume }));
-  Settings();
+  Settings({ ...data, volume });
 };
   return (
     <div className={classes.root}>

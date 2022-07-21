@@ -1,7 +1,5 @@
-import { useSelector } from "react-redux";
 
-export const Settings = () => {
-    const { rate, volume, voice } = useSelector((state) => state.data.speech);
+export const Settings = ({ rate, volume, voice }) => {
     var msg = new SpeechSynthesisUtterance()
     var voices = window.speechSynthesis.getVoices()
     msg.voice = voices[voice] //[6]
@@ -10,5 +8,5 @@ export const Settings = () => {
     msg.pitch = 0 // From 0 to 2
     msg.lang = 'en-US'
     msg.text = "Hello Hi"
-  return  speechSynthesis.speak(msg)
+    return speechSynthesis.speak(msg)
 }

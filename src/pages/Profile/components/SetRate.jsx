@@ -23,7 +23,7 @@ export default function SetRate({data}) {
   const dispatch = useDispatch();
 const setUp = (e, volume) => {
   dispatch(getSetup({ ...data, volume }));
-  Settings();
+  Settings({ ...data, volume });
 };
   return (
     <div className={classes.root}>
