@@ -21,9 +21,9 @@ function valuetext(value) {
 export default function SetRate({data}) {
   const classes = useStyles();
   const dispatch = useDispatch();
-const setUp = (e, volume) => {
-  dispatch(getSetup({ ...data, volume }));
-  Settings({ ...data, volume });
+const setUp = (e, rate) => {
+  dispatch(getSetup({ ...data, rate }));
+  Settings({ ...data, rate });
 };
   return (
     <div className={classes.root}>

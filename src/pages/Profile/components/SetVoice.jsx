@@ -22,9 +22,9 @@ export default function SetVoice({ data }) {
     const classes = useStyles();
   const dispatch = useDispatch();
     
-const setUp = (e, volume) => {
-  dispatch(getSetup({ ...data, volume }));
-  Settings({ ...data, volume });
+const setUp = (e, voice) => {
+  dispatch(getSetup({ ...data, voice }));
+  Settings({ ...data, voice });
 };
   return (
     <div className={classes.root}>
