@@ -20,21 +20,10 @@ export const data = createSlice(
                 email,
                 userId
             },
-            speech: {
-                lang :"en-US", 
+            speech: { 
                 volume: 1,
-                rate : 1,
-                pitch: 0,
-                voice:6
-                    // var msg = new SpeechSynthesisUtterance()
-    //   var voices = window.speechSynthesis.getVoices()
-    //   msg.voice = voices[6]
-    //   msg.volume = 1 // From 0 to 1
-    //   msg.rate = 1 // From 0.1 to 10
-    //   msg.pitch = 0 // From 0 to 2
-    //   msg.lang = 'en-US'
-    //   msg.text = data.alphabet
-    //   speechSynthesis.speak(msg)
+                rate: 1, 
+                voice: 6 
             },
             token,
             isOffKeys: true

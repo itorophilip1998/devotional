@@ -35,7 +35,7 @@ export default function SetVoice({ voice }) {
             step={1}
             marks
             min={0}
-            max={2}
+            max={6}
             valueLabelDisplay="auto"
           />
         </Grid>

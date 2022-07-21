@@ -34,8 +34,8 @@ export default function SetRate({rate}) {
             aria-labelledby="discrete-slider-small-steps"
             step={1}
             marks
-            min={0}
-            max={2}
+            min={0.1}
+            max={10}
             valueLabelDisplay="auto"
           />
         </Grid>

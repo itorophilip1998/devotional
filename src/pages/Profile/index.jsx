@@ -86,9 +86,9 @@ function Profile() {
         >
           <VpnKeyIcon /> Change Password
         </div>
-
+        
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetVolume olume={speech.volume} />
+          <SetVolume volume={speech.volume} />
         </div>
 
         <div className="setting_items signout shadow-sm p-3 text-dark">
