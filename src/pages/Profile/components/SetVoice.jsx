@@ -4,7 +4,7 @@ import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
 import { Grid } from "@material-ui/core";
 import SentimentVerySatisfiedOutlinedIcon from "@material-ui/icons/SentimentVerySatisfiedOutlined";
-
+import SentimentSatisfiedOutlinedIcon from "@material-ui/icons/SentimentSatisfiedOutlined";
 const useStyles = makeStyles({
   root: {
     width: "100%",
@@ -25,7 +25,7 @@ export default function SetVoice({ voice }) {
       </Typography>
       <Grid container spacing={2}>
         <Grid item>
-          <MicOffSharpIcon />
+          <SentimentVerySatisfiedOutlinedIcon />
         </Grid>
         <Grid item xs>
           <Slider
@@ -40,7 +40,7 @@ export default function SetVoice({ voice }) {
           />
         </Grid>
         <Grid item>
-          <MicNoneSharpIcon />
+          <SentimentSatisfiedOutlinedIcon />
         </Grid>
       </Grid>
     </div>
