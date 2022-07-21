@@ -5,6 +5,9 @@ import Slider from "@material-ui/core/Slider";
 import { Grid } from "@material-ui/core";
 import SentimentVerySatisfiedOutlinedIcon from "@material-ui/icons/SentimentVerySatisfiedOutlined";
 import SentimentSatisfiedOutlinedIcon from "@material-ui/icons/SentimentSatisfiedOutlined";
+import { useDispatch } from "react-redux";
+import { getSetup } from "../../../store/data";
+import { Settings } from "../../../utils/Settings";
 const useStyles = makeStyles({
   root: {
     width: "100%",
@@ -15,9 +18,14 @@ function valuetext(value) {
   return `${value}`;
 }
 
-export default function SetVoice({ voice }) {
-  const classes = useStyles();
-
+export default function SetVoice({ data }) {
+    const classes = useStyles();
+  const dispatch = useDispatch();
+    
+const setUp = (e, volume) => {
+  dispatch(getSetup({ ...data, volume }));
+  Settings();
+};
   return (
     <div className={classes.root}>
       <Typography id="discrete-slider-small-steps" gutterBottom>
@@ -29,7 +37,7 @@ export default function SetVoice({ voice }) {
         </Grid>
         <Grid item xs>
           <Slider
-            defaultValue={voice}
+            defaultValue={data.voice}
             getAriaValueText={valuetext}
             aria-labelledby="discrete-slider-small-steps"
             step={1}
@@ -37,6 +45,7 @@ export default function SetVoice({ voice }) {
             min={0}
             max={6}
             valueLabelDisplay="auto"
+            onChange={setUp}
           />
         </Grid>
         <Grid item>
