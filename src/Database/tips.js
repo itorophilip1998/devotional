@@ -1,7 +1,7 @@
 export const tips = [
     {
-        head: "Fulga Introit",
-        body: "I know the blood was shed (3times), For my sake(2times),For a long time I was lost,  But Jesus found me out"
+        head: "FULGA INTROIT",
+        body: "I Know the blood was shed (3times), For my sake(2times), For a long time I was lost, but Jesus found me out, I know the blood was shed for my sake"
     },
     {
         head: "Our Vision",
@@ -21,10 +21,10 @@ export const tips = [
     },
     {
         head: "Doxology",
-        body: "Glory be to the Father and to the Son and to the Holy Spirit.  As it was in the beginning is now and forever.  World without end Amen."
+        body: "Glory be to the Father and to the Son and to the Holy Spirit. As it was in the beginning is now and forever shall be World without end, Amen"
     },
     {
         head: "Closing Hymn",
-        body: "I am thine O Lord, I have heard Thy voice and it told thy love to me, i have heard thy voice in thee arms of faith and it told thy loove to thee, draw me nearer, nearer to thy side which thy blood was flowing out(2x), Amen.. Amen, Ameen....."
+        body: "I am thine O Lord, I have heard Thy voice and it told thy love to me. But I long to rise in the arms of faith and be closer drawn to thee, Refrain, Draw me nearer, nearer blessed Lord,To the cross where thou hast died. Draw me nearer, nearer blessed Lord, To thy precious, bleeding side."
     },
 ]

@@ -7,7 +7,9 @@ function Tip() {
       {tips &&
         tips.map((item, index) => (
           <div key={index} className="py-2">
-            <h4 className="text-head text text-primary">{item.head}</h4>
+            <h4 className="text-head text-uppercase text text-primary">
+              {item.head}
+            </h4>
             <p>{item.body}</p>
           </div>
         ))}
