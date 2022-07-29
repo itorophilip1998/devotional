@@ -1,11 +1,11 @@
 .devotional_header {
     // background: #1a1a1a;
-    background: #3f51b5 !important; 
+    background: #3f51b5 !important;
     color: #e4e3e3;
     padding: 55px 4px 30px 4px;
 
     .topic {
-    font-family: 'Bungee Shade', cursive;
+        font-family: 'Bungee Shade', cursive;
     }
 
     border-bottom-left-radius: 30px;
@@ -13,11 +13,11 @@
 
 
 }
- 
-.text-letter{
+
+.text-letter {
     font-family: 'Redressed', cursive;
 }
- 
+
 .text {
     font-style: bold;
     font-weight: 700;
@@ -28,20 +28,23 @@
     flex: none;
     order: 0;
     flex-grow: 0;
-   font-family: 'Rubik Moonrocks', cursive;
-   word-spacing: 10px;
+    font-family: 'Rubik Moonrocks', cursive;
+    word-spacing: 10px;
 
 }
 
-.introduction,.text_prayer {
-    line-height: 25px; 
-    font-style: bold;  
-    font-size:16px;
+.introduction,
+.text_prayer {
+    line-height: 28px;
+    font-style: bold;
+    font-size: 16px;
+    font-family: "poppins";
 }
-.date-box{
+
+.date-box {
     font-family: 'Rubik Moonrocks', cursive;
     width: 200px;
-    background:white;
+    background: white;
     text-align: center;
     border-radius: 5px;
     padding: 3px;
@@ -50,6 +53,5 @@
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
     font-size: x-small;
-     
+
 }
- 
