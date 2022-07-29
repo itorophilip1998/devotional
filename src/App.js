@@ -18,6 +18,7 @@ import PublicRoutes from "./Middleware/PublicRoutes";
 
 
 function App() {
+  // console.log(navigator)
 
   return (
     <BrowserRouter>
