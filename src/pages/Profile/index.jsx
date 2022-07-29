@@ -6,12 +6,11 @@ import "./profile.scss";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import CreditCardIcon from "@material-ui/icons/CreditCard";
 import VpnKeyIcon from "@material-ui/icons/VpnKey";
-import SetVolume from "./components/SetVolume"; 
+// import SetVolume from "./components/SetVolume";
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../../store/data";
-import SetRate from "./components/SetRate";
-import SetVoice from "./components/SetVoice";
+// import SetVoice from "./components/SetVoice";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -32,12 +31,12 @@ function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
 
-  const { token, user,speech } = useSelector((state) => state.data);
+  const { token, user } = useSelector((state) => state.data);
   const dispatch = useDispatch();
   const changePassword = () => {
     dispatch(logout());
     navigate("/auth/forgot-password");
-  }
+  };
   const signOut = () => {
     dispatch(logout());
     navigate("/auth/signin");
@@ -86,17 +85,14 @@ function Profile() {
         >
           <VpnKeyIcon /> Change Password
         </div>
-        
-        <div className="setting_items signout shadow-sm p-3 text-dark">
+
+        {/* <div className="setting_items signout shadow-sm p-3 text-dark">
           <SetVolume data={speech} />
         </div>
 
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetRate data={speech} />
-        </div>
-        <div className="setting_items signout shadow-sm p-3 text-dark">
           <SetVoice data={speech} />
-        </div>
+        </div> */}
       </div>
       <small className="version text-muted float-right">v0.1</small>
     </div>
