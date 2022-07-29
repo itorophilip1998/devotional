@@ -56,12 +56,12 @@ export default function SignIn() {
       [evt.target.name]: value,
     });
   };
-   const handleSearchClose = () => {
-     dispatch(offKeys(true));
-   };
-   const handleSearchOpen = () => {
-   dispatch(offKeys(false)); 
-   };
+  const handleSearchClose = () => {
+    dispatch(offKeys(true));
+  };
+  const handleSearchOpen = () => {
+    dispatch(offKeys(false));
+  };
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
@@ -69,7 +69,7 @@ export default function SignIn() {
     if (req && req.data) {
       dispatch(getUser(req.data));
       setLoading(false);
-    window.location.href="/devotional";
+      window.location.href = "/devotional";
     } else {
       setLoading(false);
       toast.error("Opps invalid details!");
@@ -141,12 +141,12 @@ export default function SignIn() {
           </Button>
           <Grid container>
             <Grid item xs={12} className="text-right">
-              <Link to="/forgot-password" variant="body2">
+              <Link to="/auth/forgot-password" variant="body2">
                 Forgot password?
               </Link>
             </Grid>
             <Grid item xs={12} className={"mt-2"}>
-              <Link to="/signup" variant="body2">
+              <Link to="/auth/signup" variant="body2">
                 {"Don't have an account? Sign Up"}
               </Link>
             </Grid>

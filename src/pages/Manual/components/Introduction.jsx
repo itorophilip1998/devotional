@@ -18,7 +18,7 @@ function Introduction({ item }) {
         <div className="container p-2 py-4">
           <span className="text d-block text-primary my-3">Introduction:</span>
 
-          {!isFav && (
+          {/* {!isFav && (
             <VolumeOffIcon
               color="primary"
               className="addFav"
@@ -31,7 +31,7 @@ function Introduction({ item }) {
               className="removeFav"
               onClick={(e) => removeFav()}
             />
-          )}
+          )} */}
 
           <span className="text-content introduction text-dark d-block  text-justify">
             {item.introduction}
