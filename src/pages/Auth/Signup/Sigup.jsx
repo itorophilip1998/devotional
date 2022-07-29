@@ -16,6 +16,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { getUser, offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
+import { Checkbox, FormControlLabel } from "@material-ui/core";
 /* eslint-disable */
 
 const useStyles = makeStyles((theme) => ({
@@ -45,7 +46,9 @@ export default function SignUp() {
   const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
   const [passwordType, setPType] = useState("password");
-  const [error, setError] = useState({});
+  const [error, setError] = useState({
+    device: navigator.appVersion,
+  });
   const handleInput = (evt) => {
     dispatch(offKeys(false));
 
@@ -58,19 +61,18 @@ export default function SignUp() {
   const handleSearchClose = (e) => {
     dispatch(offKeys(true));
   };
-  
-  const handleSubmit = async (e) => { 
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    setError({});  
+    setError({});
 
     const req = await signUp(state);
     if (req && req.data) {
       setLoading(false);
       dispatch(getUser(req.data));
       // navigate("/auth/devotional");
-    window.location.href = "/devotional";
-
+      window.location.href = "/devotional";
     } else {
       setLoading(false);
       let err = JSON.parse(req.response.data);
@@ -78,9 +80,9 @@ export default function SignUp() {
       toast.error("Opps invalid details!");
     }
   };
- const handleSearchOpen = (e) => {
-   dispatch(offKeys(false));
- };
+  const handleSearchOpen = (e) => {
+    dispatch(offKeys(false));
+  };
   return (
     <Container component="main" maxWidth="xs">
       <CssBaseline />
@@ -105,7 +107,6 @@ export default function SignUp() {
             type="text"
             onMouseLeave={handleSearchClose}
             helperText={error?.username && error?.username[0]}
-             
             onFocus={handleSearchOpen}
           />
           <TextField
@@ -121,7 +122,6 @@ export default function SignUp() {
             type="email"
             onMouseLeave={handleSearchClose}
             helperText={error?.email && error?.email[0]}
-             
             onFocus={handleSearchOpen}
           />
           <TextField
@@ -137,7 +137,6 @@ export default function SignUp() {
             onMouseLeave={handleSearchClose}
             helperText={error?.password && error?.password[0]}
             type={passwordType}
- 
             onFocus={handleSearchOpen}
           />
           {passwordType === "password" ? (
@@ -151,6 +150,10 @@ export default function SignUp() {
               onClick={(e) => setPType("password")}
             />
           )}
+          <FormControlLabel
+            control={<Checkbox value="remember" color="primary" required />}
+            label="I shall Not Share any content of this application to any third party!"
+          />
           <Button
             type="submit"
             fullWidth
