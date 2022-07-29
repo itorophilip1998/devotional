@@ -30,7 +30,7 @@ function Subscribe() {
   const initializePayment = usePaystackPayment(config);
 
   return (
-    <div className="Subscribtion ">
+    <div className="Subscribtion pb-4">
       <div className="headingText">Subscribe to FULGA Devotionals Today</div>
       <div className="priceTag my-5">
         ₦ <h1 className="d-inline font-weight-bold">500</h1> only
@@ -40,7 +40,7 @@ function Subscribe() {
         dayspring devotional full gospel assembly [fulga] for 6 months
       </div>
       <button
-        className="subButn btn shadow"
+        className="subButn btn shadow mb-5"
         onClick={() => {
           initializePayment(onSuccess, onClose);
         }}
