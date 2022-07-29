@@ -27,4 +27,16 @@ export const tips = [
         head: "Closing Hymn",
         body: "I am thine O Lord, I have heard Thy voice and it told thy love to me. But I long to rise in the arms of faith and be closer drawn to thee, Refrain, Draw me nearer, nearer blessed Lord,To the cross where thou hast died. Draw me nearer, nearer blessed Lord, To thy precious, bleeding side."
     },
+    {
+        head: "PRAYER FOR DELIVERANCE",
+        body: "Deliver me O Lord from my enemies. I flee unto thee to hide, teach me to do thy will for thou art my God, Amen. Lord all my desires are before thee and my groaning is not hidden from thee"
+    },
+    {
+        head: "PRAYER FOR HEALING",
+        body: "Heal me O Lord and I shall be healed, save me with thy blood, for thou art righteous, Amen"
+    },
+    {
+        head: "VICTORY CREED",
+        body: "Victory in the name of the Father and of the Son and of the Holy Spirit"
+    }
 ]
