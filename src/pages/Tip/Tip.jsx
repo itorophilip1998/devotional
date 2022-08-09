@@ -10,7 +10,10 @@ function Tip() {
             <h4 className="text-head text-uppercase text text-primary">
               {item.head}
             </h4>
-            <p>{item.body}</p>
+            <p>{!Array.isArray(item.body) && item.body}</p>
+            <p className="">
+              {Array.isArray(item?.body) && item?.body.map((i,k) => (<div key={k}>{i}</div>))}
+            </p>
           </div>
         ))}
     </div>

@@ -8,4 +8,5 @@ export const authHeader = () => {
     }
     return header;
 }
-export const baseApi="https://devotional-api.herokuapp.com/api"
+// export const baseApi="https://devotional-api.herokuapp.com/api"
+export const baseApi="http://localhost:8000/api"

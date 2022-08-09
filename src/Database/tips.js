@@ -25,7 +25,19 @@ export const tips = [
     },
     {
         head: "Closing Hymn",
-        body: "I am thine O Lord, I have heard Thy voice and it told thy love to me. But I long to rise in the arms of faith and be closer drawn to thee, Refrain, Draw me nearer, nearer blessed Lord,To the cross where thou hast died. Draw me nearer, nearer blessed Lord, To thy precious, bleeding side."
+        body: [
+            'I am thine O Lord, I have heard Thy voice and it told thy love to me.',
+            'But I long to rise in the arms of faith and be closer drawn to thee',
+            '....................................',
+            'Refrain',
+            '....................................',
+            'Draw me nearer, nearer blessed Lord',
+            'To the cross where thou hast died.',
+            'Draw me nearer, nearer blessed Lord',
+            'To thy precious, bleeding side.'
+        ]
+
+
     },
     {
         head: "PRAYER FOR DELIVERANCE",

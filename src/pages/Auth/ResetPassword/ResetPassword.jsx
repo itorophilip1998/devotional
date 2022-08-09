@@ -8,7 +8,7 @@ import LockOpenOutlinedIcon from "@material-ui/icons/LockOpenOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { signIn } from "../../../utils/request";
+import { resetPassword, signIn } from "../../../utils/request";
 import {Link} from "react-router-dom"
 
 const useStyles = makeStyles((theme) => ({
@@ -33,7 +33,9 @@ const useStyles = makeStyles((theme) => ({
 
 export default function ResetPassword() {
   const classes = useStyles();
-  const [state, setState] = useState();
+  const [state, setState] = useState({
+    device: navigator.appVersion,
+  });
   const [loading, setLoading] = useState(false);
   const handleInput = (evt) => {
     const value = evt.target.value;
@@ -45,7 +47,7 @@ export default function ResetPassword() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    const req = await signIn(state);
+    const req = await resetPassword(state);
     if (req || req === undefined) {
       console.log(state);
       setLoading(false);

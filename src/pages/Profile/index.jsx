@@ -93,9 +93,9 @@ function Profile() {
         <div className="setting_items signout shadow-sm p-3 text-dark">
           <SetVoice data={speech} />
         </div> */}
-        <div className="setting_items signout shadow-sm p-3 text-dark">
+        <div className="setting_items signout shadow-sm d-none p-3 text-dark">
           {navigator.appVersion}
-        </div> 
+        </div>
       </div>
       <small className="version text-muted float-right">v0.1</small>
     </div>

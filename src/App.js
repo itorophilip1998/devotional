@@ -13,7 +13,7 @@ import Profile from "./pages/Profile";
 import Tip from "./pages/Tip/Tip";
 import Subscribe from "./pages/Subscribe";
 import ProtectedRoutes from "./Middleware/ProtectedRoutes";
-import IsOffline from "./components/IsOffline";
+// import IsOffline from "./components/IsOffline";
 import PublicRoutes from "./Middleware/PublicRoutes";
 
 
@@ -23,7 +23,7 @@ function App() {
   return (
     <BrowserRouter>
       <Header />
-      <IsOffline />
+      {/* <IsOffline /> */}
       <Routes>
         {/* auth routes */}
         <Route path="/" element={<ProtectedRoutes />} >

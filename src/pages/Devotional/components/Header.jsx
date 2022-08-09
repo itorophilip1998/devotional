@@ -20,7 +20,7 @@ function Header({ item }) {
         <div className="container">
           <span className="text">Text: </span>
           <span className="text-letter text-white font-italic ">
-            {" "}
+            
             {item.text}
           </span>
         </div>

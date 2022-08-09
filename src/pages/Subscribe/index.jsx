@@ -23,7 +23,7 @@ function Subscribe() {
   const config = {
     reference: new Date().getTime().toString(),
     email,
-    amount: 500 * 100,
+    amount: 700 * 100,
     // publicKey: "pk_live_3f3b5aebbf467d9c030ed9c76ee332eaa9ab9ddf",
     publicKey: "pk_test_cd99366d3f03586b34de50fd34d28ff578c7e9e2",
   };
@@ -33,7 +33,7 @@ function Subscribe() {
     <div className="Subscribtion pb-4">
       <div className="headingText">Subscribe to FULGA Devotionals Today</div>
       <div className="priceTag my-5">
-        ₦ <h1 className="d-inline font-weight-bold">500</h1> only
+        ₦ <h1 className="d-inline font-weight-bold">{700  }</h1> only
       </div>
       <div className="breifInfo">
         Subscribe your double impact edition sunday school manual & the

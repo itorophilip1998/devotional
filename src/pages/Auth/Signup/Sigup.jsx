@@ -150,10 +150,7 @@ export default function SignUp() {
               onClick={(e) => setPType("password")}
             />
           )}
-          <FormControlLabel
-            control={<Checkbox value="remember" color="primary" required />}
-            label="I shall Not Share any content of this application to any third party!"
-          />
+        
           <Button
             type="submit"
             fullWidth

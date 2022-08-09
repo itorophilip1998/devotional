@@ -106,7 +106,7 @@ export default function Header() {
             >
               <SearchIcon />
             </IconButton>
-            <IconButton aria-label="show 11 new notifications" color="inherit">
+            <IconButton aria-label="show 11 new notifications" color="inherit" className="d-none">
               <Badge badgeContent={1} color="secondary">
                 <NotificationsIcon />
               </Badge>

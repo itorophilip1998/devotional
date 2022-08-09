@@ -45,7 +45,9 @@ export default function SignIn() {
   const classes = useStyles();
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const [state, setState] = useState();
+  const [state, setState] = useState({
+    device: navigator.appVersion,
+  });
   const [loading, setLoading] = useState(false);
   const [passwordType, setPType] = useState("password");
   const handleInput = (evt) => {
