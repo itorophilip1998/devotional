@@ -42,26 +42,25 @@ export default function Header() {
     setAnchorEl(null);
   };
   const list = ["manual", "devotional", "tips", ""];
-  const currentPage = page.pathname !== "/" ? page.pathname.slice(1) : "devotional"; 
+  const currentPage =
+    page.pathname !== "/" ? page.pathname.slice(1) : "devotional";
   const open = Boolean(anchorEl);
   const id = open ? "simple-popover" : undefined;
   if (!list.includes(currentPage)) {
     return false;
   }
   const handleSearchClose = (e) => {
-    dispatch(offKeys(true));  
-  }
-     const handleSearchOpen = () => {
-       dispatch(offKeys(false));
-     };
+    dispatch(offKeys(true));
+  };
+  const handleSearchOpen = () => {
+    dispatch(offKeys(false));
+  };
   const handleSearch = (e) => {
     dispatch(offKeys(false));
 
-    setSearch(e.target.value);  
-    if (currentPage === "devotional")
-      dispatch(getSearch( e.target.value ));
-    else if (currentPage === "manual")
-      dispatch(getSearch2( e.target.value ));
+    setSearch(e.target.value);
+    if (currentPage === "devotional") dispatch(getSearch(e.target.value));
+    else if (currentPage === "manual") dispatch(getSearch2(e.target.value));
   };
   return (
     <div className={classes.root}>
@@ -106,7 +105,11 @@ export default function Header() {
             >
               <SearchIcon />
             </IconButton>
-            <IconButton aria-label="show 11 new notifications" color="inherit" className="d-none">
+            <IconButton
+              aria-label="show 11 new notifications"
+              color="inherit"
+              className="d-none"
+            >
               <Badge badgeContent={1} color="secondary">
                 <NotificationsIcon />
               </Badge>

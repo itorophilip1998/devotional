@@ -9,14 +9,14 @@ import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import { signUp } from "../../../utils/request";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { getUser, offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
-import { Checkbox, FormControlLabel } from "@material-ui/core";
+// import { Checkbox, FormControlLabel } from "@material-ui/core";
 /* eslint-disable */
 
 const useStyles = makeStyles((theme) => ({
@@ -41,7 +41,7 @@ const useStyles = makeStyles((theme) => ({
 
 export default function SignUp() {
   const classes = useStyles();
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   const dispatch = useDispatch();
   const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
