@@ -12,43 +12,53 @@ import Header from "./layouts/Headers/Header";
 import Profile from "./pages/Profile";
 import Tip from "./pages/Tip/Tip";
 import Subscribe from "./pages/Subscribe";
+import SplashScreen from "./pages/SplashScreen";
 import ProtectedRoutes from "./Middleware/ProtectedRoutes";
 // import IsOffline from "./components/IsOffline";
 import PublicRoutes from "./Middleware/PublicRoutes";
+import React, { useEffect, useState } from "react";
 
 
 function App() {
-  // console.log(navigator)
+  const [isLoaded, setLoading] = useState(false);
 
-  return (
-    <BrowserRouter>
-      <Header />
-      {/* <IsOffline /> */}
-      <Routes>
-        {/* auth routes */}
-        <Route path="/" element={<ProtectedRoutes />} >
-          <Route path="/" element={<DevotionalList />} />
-          <Route path="/devotional" element={<DevotionalList />} />
-          <Route path="/manual" element={<ManualList />} />
-          <Route path="/devotional/:topic" element={<Devotional />} />
-          <Route path="/manual/:topic" element={<Manual />} />
-          <Route path="/profile" element={<Profile />} />
-          <Route path="/tips" element={<Tip />} />
-          <Route path="/subscribe" element={<Subscribe />} />
-        </Route>
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(true)
+    }, 60000000);
+  })
+  if (!isLoaded)
+    return <SplashScreen />
+  else
+    return (
+      <BrowserRouter>
+        <Header />
+        {/* <IsOffline /> */}
+        <Routes>
+          {/* auth routes */}
+          <Route path="/" element={<ProtectedRoutes />} >
+            <Route path="/" element={<DevotionalList />} />
+            <Route path="/devotional" element={<DevotionalList />} />
+            <Route path="/manual" element={<ManualList />} />
+            <Route path="/devotional/:topic" element={<Devotional />} />
+            <Route path="/manual/:topic" element={<Manual />} />
+            <Route path="/profile" element={<Profile />} />
+            <Route path="/tips" element={<Tip />} />
+            <Route path="/subscribe" element={<Subscribe />} />
+          </Route>
 
-        {/* guest routes */}
-        <Route path="/auth" element={<PublicRoutes />} >
-          <Route path="/auth/signin" element={<SignIn />} />
-          <Route path="/auth/signup" element={<SignUp />} />
-          <Route path="/auth/forgot-password" element={<ForgotPassword />} />
-          <Route path="/auth/reset-password" element={<ResetPassword />} />
-        </Route>
+          {/* guest routes */}
+          <Route path="/auth" element={<PublicRoutes />} >
+            <Route path="/auth/signin" element={<SignIn />} />
+            <Route path="/auth/signup" element={<SignUp />} />
+            <Route path="/auth/forgot-password" element={<ForgotPassword />} />
+            <Route path="/auth/reset-password" element={<ResetPassword />} />
+          </Route>
 
-      </Routes>
-      <Footer />
-    </BrowserRouter >
-  );
+        </Routes>
+        <Footer />
+      </BrowserRouter >
+    );
 }
 
 export default App;

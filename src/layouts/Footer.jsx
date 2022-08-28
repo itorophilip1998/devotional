@@ -13,9 +13,7 @@ import { useSelector } from "react-redux";
 const useStyles = makeStyles({
   root: {
     width: "100%",
-    background: "#fff",
-    // paddingTop: 6,
-    // paddingBottom: "18px",
+    background: "#fff", 
     boxShadow: "inset 0px 1px 0px #E6E6E6",
   },
 });
