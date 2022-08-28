@@ -15,6 +15,8 @@ const useStyles = makeStyles({
     width: "100%",
     background: "#fff", 
     boxShadow: "inset 0px 1px 0px #E6E6E6",
+    position: "fixed",
+    bottom:0,
   },
 });
 
@@ -35,7 +37,7 @@ const Footer = () => {
             showLabels
             value={value}
             onChange={handleChange}
-            className={classes.root + " fixed-bottom"}
+            className={classes.root}
           >
             <BottomNavigationAction
               label="Devotional"

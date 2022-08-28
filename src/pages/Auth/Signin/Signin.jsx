@@ -116,13 +116,15 @@ export default function SignIn() {
 
           {passwordType === "password" ? (
             <VisibilityOff
-              className=" passwordItem"
+              className="d-md-none passwordItem"
               onClick={(e) => setPType("text")}
+              
             />
           ) : (
             <Visibility
-              className=" passwordItem"
+              className="d-md-none passwordItem"
               onClick={(e) => setPType("password")}
+              
             />
           )}
 

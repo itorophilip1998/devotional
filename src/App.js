@@ -17,19 +17,20 @@ import ProtectedRoutes from "./Middleware/ProtectedRoutes";
 // import IsOffline from "./components/IsOffline";
 import PublicRoutes from "./Middleware/PublicRoutes";
 import React, { useEffect, useState } from "react";
+import ContactUs from "./components/ContactUs";
 
 
 function App() {
   const [isLoaded, setLoading] = useState(false);
-
+  
   useEffect(() => {
     setTimeout(() => {
       setLoading(true)
-    }, 60000000);
+    }, 6000);
   })
   if (!isLoaded)
     return <SplashScreen />
-  else
+else
     return (
       <BrowserRouter>
         <Header />
@@ -56,6 +57,7 @@ function App() {
           </Route>
 
         </Routes>
+        <ContactUs/>
         <Footer />
       </BrowserRouter >
     );

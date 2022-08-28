@@ -8,7 +8,7 @@ function SplashScreen() {
           <div className="SplashHeadText">
               <h3 >double impact edition</h3>
               <h2>sunday school manual</h2>
-              <span>&</span>
+              <span className="shadow  ">&</span>
               <h3 className="devText">the dayspring devotional</h3>
               <h6>vol 8</h6> 
           </div>

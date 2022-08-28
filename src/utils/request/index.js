@@ -44,9 +44,9 @@ export const verify = async (data) => {
     }
 
 }
-export const saved = async (data) => {
+export const user = async (data) => {
     try {
-        let res = await axios.post(`${baseApi}/saved`, data, authHeader)
+        let res = await axios.post(`${baseApi}/user`, data, authHeader)
         return res;
     } catch (error) {
         return error

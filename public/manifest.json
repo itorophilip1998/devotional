@@ -23,5 +23,10 @@
   "display": "standalone",
   "theme_color": "#3f51b5",
   "theme": "#3f51b5",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "url_handlers":[
+    {
+      "origin":"https://devotional-beta.netlify.app/"
+    }
+  ]
 }

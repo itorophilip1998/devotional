@@ -6,6 +6,7 @@ import "./profile.scss";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import CreditCardIcon from "@material-ui/icons/CreditCard";
 import VpnKeyIcon from "@material-ui/icons/VpnKey";
+import Phone from "@material-ui/icons/Email";
 // import SetVolume from "./components/SetVolume";
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
@@ -31,7 +32,7 @@ function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
 
-  const { token, user } = useSelector((state) => state.data);
+  const { token, user,isSub } = useSelector((state) => state.data);
   const dispatch = useDispatch();
   const changePassword = () => {
     dispatch(logout());
@@ -40,6 +41,9 @@ function Profile() {
   const signOut = () => {
     dispatch(logout());
     navigate("/auth/signin");
+  };
+  const contactUs = () => {
+    window.location.href="/"
   };
   return (
     <div className="container py-4 mb-4 ">
@@ -77,13 +81,19 @@ function Profile() {
           onClick={(e) => navigate("/subscribe")}
         >
           <CreditCardIcon /> Subscription
-          <span className="badge badge-danger float-right">expired</span>
+          {!isSub && <span className="badge badge-danger float-right">expired</span>}
         </div>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"
           onClick={changePassword}
         >
           <VpnKeyIcon /> Change Password
+        </div>
+        <div
+          className="setting_items signout shadow-sm p-3 text-dark"
+          onClick={contactUs}
+        >
+          <Phone /> Contact Us
         </div>
 
         {/* <div className="setting_items signout shadow-sm p-3 text-dark">
@@ -97,7 +107,7 @@ function Profile() {
           {navigator.appVersion}
         </div>
       </div>
-      <small className="version text-muted float-right">v0.1</small>
+      <small className="version text-muted float-right">v1.0</small>
     </div>
   );
 }

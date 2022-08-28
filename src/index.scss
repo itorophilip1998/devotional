@@ -1,3 +1,7 @@
+ :root {
+   --primary: #3f51b5
+ }
+
  body {
    margin: 0;
    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -140,33 +144,64 @@
    text-align: center;
    text-transform: uppercase;
    color: #3f51b5;
-.SplashHeadText{
-  margin: 20px 0;
-}
+
+   .SplashHeadText {
+     margin: 28px 0;
+   }
+
    img {
      width: 80px;
-     
-   }
-
-   h2{
-    font-size: 22px;
-  font-weight: bold;
-   }
-   h3{
-    font-size: 14px;
-  font-weight: bold;
-   }
-   h6{
-    font-size: 10px;
-  font-weight: bold;
-   }
-   span{
-      display: none;
-   }
-   .finalText{
 
    }
-   .devText{
-  font-weight: 800;
+
+   h2 {
+     font-size: 22px;
+     font-weight: bold;
+     color: #e06512;
+     font-family: 'Redressed', cursive !important;
    }
+
+   h3 {
+     font-size: 14px;
+     font-weight: bold;
+   }
+
+   h6 {
+     font-size: 10px;
+     font-weight: bold;
+     font-style: italic;
+      font-family: consolas ;
+   }
+
+   span {  
+     background: var(--primary);
+     color: #fff;
+     padding: 4px 8px;
+     border-radius: 50%;
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     -ms-border-radius: 50%;
+     -o-border-radius: 50%;  
+   }
+
+   .finalText {
+     color: #9f5a2d;
+    font-weight: 800;
+   }
+
+   .devText {
+     font-weight: 800;
+   }
+ }
+ .contactUs{ 
+  margin-top:24px;
+  text-align: center; 
+    a {
+        color: rgb(53, 52, 52) !important;
+        margin: 0 10px ;
+        text-decoration: underline;
+      }
+ }
+ .MuiAvatar-colorDefault{
+  background:var(--primary) !important;
  }

@@ -6,6 +6,7 @@ let username = window.localStorage.getItem("username")
 let email = window.localStorage.getItem("email")
 let userId = window.localStorage.getItem("userId")
 let token = window.localStorage.getItem("token")
+let isSub = window.localStorage.getItem("isSub")
 
 export const data = createSlice(
     {
@@ -15,6 +16,7 @@ export const data = createSlice(
             search2: "",
             devotional,
             manual,
+            isSub,
             user: {
                 username,
                 email,
