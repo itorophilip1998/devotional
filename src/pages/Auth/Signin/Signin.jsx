@@ -18,7 +18,7 @@ import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
-import "../auth.scss";
+ 
 /* eslint-disable */
 
 const useStyles = makeStyles((theme) => ({

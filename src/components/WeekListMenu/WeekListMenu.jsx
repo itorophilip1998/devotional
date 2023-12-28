@@ -36,19 +36,25 @@ const useStyles = makeStyles((theme) => ({
   },
 })); 
 export default function WeekListMenu({ item, index,route }) {
- 
+ const imageIndex = Math.floor(Math.random() * 9) + 1;
+
   const classes = useStyles();
   return (
     <Link className="cradLink" to={route}>
       <Card className={classes.root}>
         <CardMedia
           className={classes.cover}
-          image={item.img}
+          image={`/images/bg/hero${imageIndex}.png`}
           title="bg"
         />
         <div className={classes.details}>
           <CardContent className={classes.content}>
-            <Typography variant="button" className="text-blue topicText" display="inline" gutterBottom>
+            <Typography
+              variant="button"
+              className="text-blue topicText"
+              display="inline"
+              gutterBottom
+            >
               {item.topic}
             </Typography>
             <Typography

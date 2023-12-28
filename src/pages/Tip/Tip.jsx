@@ -1,5 +1,4 @@
-import React from "react";
-import "./tip.scss";
+import React from "react"; 
 import { tips } from "../../Database/tips";
 function Tip() {
   return (

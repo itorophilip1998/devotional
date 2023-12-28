@@ -10,7 +10,7 @@ function SplashScreen() {
               <h2>sunday school manual</h2>
               <span className="shadow  ">&</span>
               <h3 className="devText">the dayspring devotional</h3>
-              <h6>vol 8</h6> 
+              {/* <h6>vol 8</h6>  */}
           </div>
           <div className="finalText">
               full gospel assembly [fulga]

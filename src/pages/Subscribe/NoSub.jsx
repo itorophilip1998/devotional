@@ -1,7 +1,6 @@
 import React from "react";
 import { usePaystackPayment } from "react-paystack";
-
-import "./subscribe.scss";
+ 
 import { useSelector } from "react-redux";
 
 // you can call this function anything

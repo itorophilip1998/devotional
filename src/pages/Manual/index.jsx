@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Header from "./components/Header";
 import Introduction from "./components/Introduction";
-import PrayerFocus from "./components/PrayerFocus";
-import "./manual.scss";
+import PrayerFocus from "./components/PrayerFocus"; 
 import { manual } from "../../Database/manual";
 import { useLocation } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";

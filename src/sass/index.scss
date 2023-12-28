@@ -1,6 +1,17 @@
+ 
+ 
+ 
  :root {
    --primary: #3f51b5
  }
+
+
+@import './devotional.scss';
+@import './manual.scss';
+@import './auth.scss';
+@import './profile.scss';
+@import './subscribe.scss';
+@import './tip.scss';
 
  body {
    margin: 0;

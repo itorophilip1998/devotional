@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { devotional } from "../Database/devotional";
+import { devotional } from "../Database/v2/devotional";
 import { manual } from "../Database/manual";
 
 let username = window.localStorage.getItem("username")

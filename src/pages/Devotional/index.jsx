@@ -2,8 +2,8 @@ import React, { useEffect, useState } from "react";
 import Header from "./components/Header";
 import Introduction from "./components/Introduction";
 import PrayerFocus from "./components/PrayerFocus";
-import "./devotional.scss";
-import { devotional } from "../../Database/devotional";
+ 
+import { devotional } from "../../Database/v2/devotional";
 import { useLocation } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";
 /* eslint-disable */

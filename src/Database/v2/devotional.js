@@ -503,7 +503,7 @@ export const devotional = [
         Any time you call, mention and declare in the name of the Holy Ghost, you are inviting the God that is able to deliver you to come and help you out.\n`,
         prayer_focus: 'In the name of the Holy Ghost, I shall enjoy divine help all through this year and beyond.\n Amen.\n',
         reading_plan: 'Deuteronomy 27:1-3:20'
-    }
+    },
     {
         date: 'MONDAY, 12TH FEBRUARY 2024',
         topic: 'PRAISE GOD FOR MERCY',
@@ -1580,7 +1580,7 @@ Have you seen a helpless sick fellow or grossly wretched family, and though you 
         reading_plan: 'Proverbs 6:1-35',
     },
     {
-        img: '/images/bg/hero1.\npng',
+        img: '/images/bg/hero1.png',
         date: 'FRIDAY 14TH JUNE, 2024',
         topic: 'SOURCE OF FAITH',
         text: 'Luke 8:15 “But that on the good ground are they which in an honest and good heart; having heard the word, accept it, and bring forth fruit with patience”.\n',

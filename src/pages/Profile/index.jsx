@@ -1,8 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Avatar from "@material-ui/core/Avatar";
-import { Typography } from "@material-ui/core";
-import "./profile.scss";
+import { Typography } from "@material-ui/core"; 
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import CreditCardIcon from "@material-ui/icons/CreditCard";
 import VpnKeyIcon from "@material-ui/icons/VpnKey";
