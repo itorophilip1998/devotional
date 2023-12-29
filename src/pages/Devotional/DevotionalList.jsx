@@ -5,6 +5,7 @@ import { useSelector } from "react-redux";
 function DevotionalList() {
   
   const search = useSelector((state) => state.data.search);
+
   const list = useSelector((state) =>
     state.data.devotional.filter((item) => { 
         if (item.topic.toLowerCase().match(search.toLowerCase())) {
@@ -18,6 +19,7 @@ function DevotionalList() {
 
   return (
     <div className="p-1 pb-5 mb-2">
+      
       {list &&
         list.map((item, index) => (
           <WeekListMenu

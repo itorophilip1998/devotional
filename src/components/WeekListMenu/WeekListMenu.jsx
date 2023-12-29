@@ -36,7 +36,7 @@ const useStyles = makeStyles((theme) => ({
   },
 })); 
 export default function WeekListMenu({ item, index,route }) {
- const imageIndex = Math.floor(Math.random() * 9) + 1;
+ const imageIndex =10;
 
   const classes = useStyles();
   return (
@@ -47,6 +47,7 @@ export default function WeekListMenu({ item, index,route }) {
           image={`/images/bg/hero${imageIndex}.png`}
           title="bg"
         />
+        <div className="daysText"> {`Day ${index + 1}`}</div>
         <div className={classes.details}>
           <CardContent className={classes.content}>
             <Typography

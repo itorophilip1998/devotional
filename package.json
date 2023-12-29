@@ -13,7 +13,7 @@
     "bootstrap": "^5.2.0",
     "cra-template-pwa": "^2.0.0",
     "faker": "^6.6.6",
-    "moment": "^2.29.3",
+    "moment": "^2.30.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-paystack": "^3.0.5",

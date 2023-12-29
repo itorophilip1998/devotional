@@ -1,17 +1,18 @@
- 
- 
- 
  :root {
    --primary: #3f51b5
  }
 
+ //  components
+ @import './components/weekLists.scss';
+ // pages
+ @import './devotional.scss';
+ @import './manual.scss';
+ @import './auth.scss';
+ @import './profile.scss';
+ @import './subscribe.scss';
+ @import './tip.scss';
 
-@import './devotional.scss';
-@import './manual.scss';
-@import './auth.scss';
-@import './profile.scss';
-@import './subscribe.scss';
-@import './tip.scss';
+
 
  body {
    margin: 0;
@@ -181,10 +182,10 @@
      font-size: 10px;
      font-weight: bold;
      font-style: italic;
-      font-family: consolas ;
+     font-family: consolas;
    }
 
-   span {  
+   span {
      background: var(--primary);
      color: #fff;
      padding: 4px 8px;
@@ -192,27 +193,30 @@
      -webkit-border-radius: 50%;
      -moz-border-radius: 50%;
      -ms-border-radius: 50%;
-     -o-border-radius: 50%;  
+     -o-border-radius: 50%;
    }
 
    .finalText {
      color: #9f5a2d;
-    font-weight: 800;
+     font-weight: 800;
    }
 
    .devText {
      font-weight: 800;
    }
  }
- .contactUs{ 
-  margin-top:24px;
-  text-align: center; 
-    a {
-        color: rgb(53, 52, 52) !important;
-        margin: 0 10px ;
-        text-decoration: underline;
-      }
+
+ .contactUs {
+   margin-top: 24px;
+   text-align: center;
+
+   a {
+     color: rgb(53, 52, 52) !important;
+     margin: 0 10px;
+     text-decoration: underline;
+   }
  }
- .MuiAvatar-colorDefault{
-  background:var(--primary) !important;
+
+ .MuiAvatar-colorDefault {
+   background: var(--primary) !important;
  }
