@@ -94,6 +94,7 @@ export default function Header() {
                 onChange={handleSearch}
                 onMouseLeave={handleSearchClose}
                 onFocus={handleSearchOpen}
+                autoFocus={true}
               />
             </Popover>
             <IconButton

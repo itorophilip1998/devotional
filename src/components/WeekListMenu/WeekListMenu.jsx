@@ -5,6 +5,7 @@ import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 import { Link } from "react-router-dom";
+import moment from "moment";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -34,37 +35,44 @@ const useStyles = makeStyles((theme) => ({
     paddingLeft: theme.spacing(1),
     paddingBottom: theme.spacing(1),
   },
-})); 
-export default function WeekListMenu({ item, index,route }) {
- const imageIndex =10;
-
+}));
+export default function WeekListMenu({ item, index, route }) {
+  const imageIndex = 10;
+  const fDate = () => {
+    let originalText = item.date;
+    return originalText
+      .replace("TH ", " ")
+      .replace("ST ", " ")
+      .replace("ND ", " ")
+      .replace("RD ", " ");
+  };
   const classes = useStyles();
   return (
-    <Link className="cradLink" to={route}>
+    <Link className="cardLink " to={route}>
       <Card className={classes.root}>
         <CardMedia
           className={classes.cover}
           image={`/images/bg/hero${imageIndex}.png`}
           title="bg"
         />
-        <div className="daysText"> {`Day ${index + 1}`}</div>
-        <div className={classes.details}>
+        <div className="daysText"> {moment(fDate()).format("dddd")}</div>
+        <div className={"details"}>
           <CardContent className={classes.content}>
             <Typography
               variant="button"
               className="text-blue topicText"
-              display="inline"
-              gutterBottom
-            >
-              {item.topic}
-            </Typography>
-            <Typography
-              variant="caption"
-              className="float-right mt-43 dateText "
               display="block"
               gutterBottom
             >
-              {item.date}
+              {item.topic.slice(0,20)}
+            </Typography>
+            <Typography
+              variant="caption"
+              className="text-right dateText "
+              display="block"
+              gutterBottom
+            >
+              {moment(fDate()).format("Do MMM, y")}
             </Typography>
           </CardContent>
         </div>

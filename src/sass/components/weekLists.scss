@@ -1,5 +1,54 @@
 .daysText {
     position: absolute;
     color: white;
-    margin: 4rem;
+    margin: 2.5rem 3.1rem;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.makeStyles-cover-7 {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+    object-fit: contain !important;
+    background-blend-mode: hue;
+
+}
+
+.topicText {
+    // font-family: 'Redressed' !important;
+    color: #171f50 !important;
+    font-size: 16px !important;
+}
+
+.dateText {
+    font-family: Roboto !important;
+    font-size: 13px !important;
+}
+
+.cardLink {
+    .MuiTypography-button {
+        font-size: 15px !important;
+        line-height: 1.4rem !important;
+        letter-spacing: 0.02857em !important;
+        font-weight: 600 !important;
+        text-align: left;
+        margin-bottom: 1.5rem;
+    }
+
+    .details {
+        display: flex;
+        flex-direction: column;
+        // align-items: center;
+        width: 60%;
+    }
+
+    .MuiCardContent-root {
+        padding-bottom: 24px;
+        display: flex;
+        align-content: stretch;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
 }

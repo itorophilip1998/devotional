@@ -2,7 +2,10 @@
    --primary: #3f51b5
  }
 
- //  components
+ //  utils 
+//  @import './utils/fonts.scss';
+
+ //  components 
  @import './components/weekLists.scss';
  // pages
  @import './devotional.scss';
@@ -100,15 +103,8 @@
    margin-top: -55px;
  }
 
- .dateText {
-   font-family: 'Redressed', cursive !important;
-   font-size: x-small !important;
- }
 
- .topicText {
-   font-family: 'Redressed' !important;
-   color: #171f50 !important
- }
+
 
  .notfound {
    width: 200px;
