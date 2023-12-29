@@ -1,23 +1,27 @@
 .daysText {
     position: absolute;
     color: white;
-    margin: 2.5rem 3.1rem;
-    font-family: 'Rubik Moonrocks', cursive;
-    font-weight: bold;
-    font-size: 16px;
+    margin: 2.5rem 1.6rem;
+    font-family: 'Rubik Moonrocks';
+    // font-weight: bold;
+    font-size: 14px;
+    font-style: oblique;
 }
 
-.makeStyles-cover-7 {
+.MuiCardMedia-root {
     background-color: rgba(0, 0, 0, 0.4) !important;
     object-fit: contain !important;
-    background-blend-mode: hue;
+    background-blend-mode: hue !important;
 
 }
 
 .topicText {
-    // font-family: 'Redressed' !important;
+    font-family: 'Redressed' !important;
     color: #171f50 !important;
-    font-size: 16px !important;
+    font-family: 'Rubik Moonrocks';
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
 }
 
 .dateText {
@@ -38,17 +42,21 @@
     .details {
         display: flex;
         flex-direction: column;
-        // align-items: center;
+        // align-items: center; 
         width: 60%;
+        justify-content: space-between;
+        align-items: stretch;
+        align-content: stretch;
+        flex-wrap: nowrap;
     }
 
     .MuiCardContent-root {
-        padding-bottom: 24px;
+                padding: 0;
         display: flex;
         align-content: stretch;
         flex-wrap: nowrap;
         flex-direction: column;
-        justify-content: space-evenly;
+        justify-content: space-between;
     }
 
 }

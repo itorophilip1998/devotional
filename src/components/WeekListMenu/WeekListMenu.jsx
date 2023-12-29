@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
     width: "60%",
   },
   content: {
-    flex: "1 0 auto",
+    // flex: "1 auto 1",
   },
   cover: {
     width: "40%",
@@ -54,25 +54,22 @@ export default function WeekListMenu({ item, index, route }) {
           className={classes.cover}
           image={`/images/bg/hero${imageIndex}.png`}
           title="bg"
+        
         />
-        <div className="daysText"> {moment(fDate()).format("dddd")}</div>
+        <div className="daysText">{moment(fDate()).format("Do MMM, y")}</div>
         <div className={"details"}>
           <CardContent className={classes.content}>
-            <Typography
-              variant="button"
-              className="text-blue topicText"
-              display="block"
-              gutterBottom
-            >
-              {item.topic.slice(0,20)}
-            </Typography>
+            <div className="topicText d-block ">
+              {item.topic}
+              {/* {item.topic.length > 20 ? "..." : ""} */}
+            </div>
             <Typography
               variant="caption"
               className="text-right dateText "
               display="block"
               gutterBottom
             >
-              {moment(fDate()).format("Do MMM, y")}
+              {moment(fDate()).format("ddd")}
             </Typography>
           </CardContent>
         </div>
