@@ -1,6 +1,6 @@
 export const manual = [
     {
-        lesson: "Lesson 26",
+        lesson: "Last Lesson in Dec",
         date: "SUNDAY 31ST DECEMBER, 2023",
         topic: "ZEAL TO START AND FINISH WELL",
         text: "Eccl 9:10; Rom. 12:11",
@@ -552,7 +552,7 @@ export const manual = [
         aim: "To encourage believers to yearn to become an epitome of God’s mercy.",
         introduction: "Life’s activity hinges on planning and implementation but what sustains both and brings forth desired results is God’s mercy. Without God’s mercy, many people plan and execute well yet fail or lack good results because the mercy of God was not there to prevent the unseen or hidden hand of the devil bent on thwarting such plans and executions; Lord, show us mercy. Read the week’s devotional.",
         main_point: [
-            "Prayers focused on one’s expertise and personal achievements don’t attract God’s prompt answers.",
+            "Prayers focused on one’s expertise and personal achievements don’t attract God’s prompt answer.",
             "Prayers focused on God’s mercy and showcases humility which God cannot ignore."
         ],
         discussion_question: [
@@ -746,23 +746,23 @@ export const manual = [
 },
 {
     date: "SUNDAY 31ST MARCH, 2024",
-    lesson: "13",
+    lesson: "Lesson 13",
     topic: "VICTORY AT LAST, HE IS RISEN",
     text: "Mark 16:1-8",
     memory_verse: "Mark 16:6",
     central_truth: "For the Christian, the central event in history is the resurrection of Jesus",
     aim: "To encourage believers that as enemies didn’t succeed over Jesus, they will not succeed over our lives.",
     introduction: "Learn the seven statements of Jesus on the cross and what they stand for, in the weekly devotional. Out of the blackener and despair of the crucifixion, when all hope seemed lost, Jesus arose! Let the user of this devotional and student/teacher of today Sunday school know for sure that every shame, pain, stain, contradiction, and confusion in his or her life will turn to congratulation and jubilation this year and beyond, Amen. You are no longer a victim of circumstance because Jesus has made you a victor from today. It’s victory at last!",
-    main_points: [
+    main_point: [
         "The women went to anoint Jesus with spices very early in the morning only to be told; He is risen – pleasant surprises!",
         "An angel was handy to deliver the information - Divine guidance.",
         "They were thinking who will help them roll away the stone – provision of destiny helper for you this year.",
         "Sorrow turns to joy"
     ],
-    discussion_questions: [
+    discussion_question: [
         {
             question: "What were the lessons at Calvary?",
-            answers: [
+            answer: [
                 "Jesus changed defeat into victory",
                 "His shout at His death was triumphant (Mark 15:34, 37)",
                 "The centurion heard the shout and recognized Jesus as the truly victorious son of God (Mark 13:39). Let someone know that Jesus is the victor in his/her life.",
@@ -772,7 +772,7 @@ export const manual = [
         },
         {
             question: "What were the seven words of Jesus on the cross about?",
-            answers: [
+            answer: [
                 "Forgiveness (Luke 23:34).",
                 "Salvation (Luke 23:43).",
                 "Relationship (John 19:26-27).",
@@ -784,7 +784,7 @@ export const manual = [
         },
         {
             question: "What does Jesus’ resurrection guarantee us?",
-            answers: [
+            answer: [
                 "Whoever is incited against you will turn around to take side with you.",
                 "Those that put their trust in Jesus will have abundant life now and forever.",
                 "Because Jesus conquered death, we who believe have the promise that we will conquer death attempts in this life.",
@@ -794,7 +794,7 @@ export const manual = [
             ]
         }
     ],
-    summary: "All our sins and sickness are nailed to the cross and Jesus’ resurrection has turned all evil verdicts and expectations upside down."
+    conclusion: "All our sins and sickness are nailed to the cross and Jesus’ resurrection has turned all evil verdicts and expectations upside down."
 },
 {
     date: "SUNDAY 7TH APRIL, 2024",
@@ -805,16 +805,16 @@ export const manual = [
     central_truth: "A man that fears God and walks in His ways shall unfailingly be blessed.",
     aim: "To encourage believers to keep fearing God and walking in His ways, so as not to miss out on His blessings now and in the future.",
     introduction: "Read the week’s devotional. Your life is empty and will soon expire if you don’t fear God, walk in his way and do things that please Him. God loves to get those who fear Him well positioned so that they keep thriving and excelling, now and in the future. Don’t be left out.",
-    main_points: [
+    main_point: [
         "The Fear of God and obedience to His commands fetches us blessings - v1",
         "Satisfaction, happiness, and genuine success are rewards for those who fear God - v2",
         "Personal, family success, and fruitfulness guaranteed – v3",
         "The content of the blessing includes: success in endeavors, enjoying goodness in the city you live in, grace for endless joy; peaceful living to good old age and seeing your children’s children - v4, v5, and v6"
     ],
-    discussion_questions: [
+    discussion_question: [
         {
             question: "How can you show that you fear God?",
-            answers: [
+            answer: [
                 "Forsaking sin and immoral practices – Prov. 28:13",
                 "Having strong faith in Him - Heb. 11:6",
                 "Refusing to yield to intimidation by the devil - Matt. 4",
@@ -826,14 +826,14 @@ export const manual = [
         },
         {
             question: "What are the key conditions to become a man blessed?",
-            answers: [
+            answer: [
                 "Fear God in its entire entirety - Psalm 112:1",
                 "Delighting to walk in His ways - Psalm 119:16, 47, 92."
             ]
         },
         {
             question: "What does it mean; “A tree planted by the rivers of water”?",
-            answers: [
+            answer: [
                 "Continuous flourishing",
                 "Absence of lack",
                 "Abundance of favor",
@@ -848,7 +848,7 @@ export const manual = [
         },
         {
             question: "Example of people planted by rivers of water",
-            answers: [
+            answer: [
                 "Abraham – Gen 21:22",
                 "Isaac – Gen. 26:12-13, 27 – 29",
                 "Joseph – Gen. 39:3 etc",
@@ -860,14 +860,14 @@ export const manual = [
 }, 
 {
     date: "SUNDAY 14TH APRIL, 2024",
-    lesson: "15",
+    lesson: "Lesson 15",
     topic: "BENEFITS IN TRUSTING GOD",
     text: "Psalm 28:7; 40:1-4",
     memory_verse: "Psalm 37:5",
     central_truth: "They that trust in the Lord shall be like mount zion, which cannot be removed, but abideth forever.",
     aim: "To encourage people to keep trusting in the Lord till they reap the rewards.",
     introduction: "Follow the week’s devotional. It is good to put one’s trust in God. He will release His protective and providing powers upon the person or people that trust in Him. Those who trust in the Lord come under His cover continually; stopping to trust in God, is signing in to be afflicted by the devil. Remember Paul’s declaration in Rom. 8:31 – “What shall we then say to these things? If God be for us, who can be against us?” That means, trusting in God sponsors divine defence, terminate evil pursuit, intimidate the devil and nullifies nefarious attempts on our lives like the story of Dan, Shadrach, Meshach and Abednego. It also sponsors grace for all round break through.",
-    main_points: [
+    main_point: [
         {
             text: "Psalm 28:7",
             points: [
@@ -885,10 +885,10 @@ export const manual = [
             ]
         }
     ],
-    discussion_questions: [
+    discussion_question: [
         {
             question: "What does trusting God signify?",
-            answers: [
+            answer: [
                 "Absolute reliance on the character, ability, and strength of God to bring us good.",
                 "Placing confidence in God that He is too faithful to fail or disappoint us.",
                 "Depending on God for new and future victories, favor, and provisions.",
@@ -897,7 +897,7 @@ export const manual = [
         },
         {
             question: "When we trust in God, what benefits do we receive?",
-            answers: [
+            answer: [
                 "He will not allow us to see shame - Psalm 25:2",
                 "He will not let our enemies triumph over us - Ps 25:2",
                 "He will not deliver us into the will of our enemies - Ps. 27:12",
@@ -909,7 +909,7 @@ export const manual = [
         },
         {
             question: "What must we do to sustain our trust in Him?",
-            answers: [
+            answer: [
                 "Keep seeking forgiveness from Him.",
                 "Seek help from Him constantly.",
                 "Ask for His leading always - Ps. 25.",
@@ -920,7 +920,7 @@ export const manual = [
         },
         {
             question: "Why should we trust in God?",
-            answers: [
+            answer: [
                 "Read: Psalm 125:3. Read, this is a great assurance of safety and security."
             ]
         }
@@ -929,14 +929,14 @@ export const manual = [
 },
 {
     date: "SUNDAY 21ST APRIL, 2024",
-    lesson: "16",
+    lesson: "Lesson 16",
     topic: "BENEFITS OF CONNECTIVITY WITH GOD",
     text: "Acts 10:38, 1 Cor. 15:10",
     memory_verse: "Romans 8:31 - “What shall we then say to these things? If God be for us, who can be against us?”",
     central_truth: "His presence makes the difference.",
     aim: "To show the people how to effectively connect with God and earn blessings.",
     introduction: "Read this week’s devotional. Certain tasks may not be possible to carry out if not for our connectivity with God. Connectivity with God simply speaks of God being in contact with a man and the man working tightly to Him. It’s a serious bonding affair. It is a linkage that has advantages, which we will see in the course of this lesson. Connectivity with God is not restricted to man and God; Jesus and his father are also connected to achieve the expected and the unexpected result.",
-    main_points: [
+    main_point: [
         "Jesus got anointed with the Holy Ghost and power by reason of connecting the Father.",
         "The connection empowers him to go around doing good and healing the oppressed.",
         "His presence with Him achieved the essence.",
@@ -945,10 +945,10 @@ export const manual = [
         "The grace propels somebody to diligence.",
         "The grace of God upon a man or woman makes him/her a different person compared to his/her human capability."
     ],
-    discussion_questions: [
+    discussion_question: [
         {
             question: "What is the implication of connectivity with God?",
-            answers: [
+            answer: [
                 "It is an arrangement where God is with a person to improve the person’s effectiveness and capacity.",
                 "It is a link that strengthens his input to bring forth an outstanding output.",
                 "It is a channel for granting a man favour, victory, and success on all sides."
@@ -956,14 +956,14 @@ export const manual = [
         },
         {
             question: "What do we mean by benefits of connectivity with God?",
-            answers: [
+            answer: [
                 "These refer to positive attributes or qualities that arise as a result of someone connecting or linking up with God.",
                 "They constitute life enhancers and story changers."
             ]
         },
         {
             question: "Mention the benefits",
-            answers: [
+            answer: [
                 "Sponsors rapid progress, gracious growth, and favourable greatness as showcased in the life of David – 2 Samuel 5:10.",
                 "Strengthens our hands as a task and exceedingly magnifies our competence and capacity to a new dimension. E.g., Solomon - 2 Chron. 1:1.",
                 "Keeps us courageous and does not allow us to cave into the promptings of idolatry, e.g., King Asa – 2 Chron. 15:9.",
@@ -974,7 +974,7 @@ export const manual = [
         },
         {
             question: "How can the benefits be sustained?",
-            answers: [
+            answer: [
                 "By a strong spirit/attitude of diligence – 1 Cor. 15:10.",
                 "Steady prayer life (Psalm 55:17) and stable praise/worship attitude – Psalm 119:164.",
                 "Purity – driven lifestyle – Dan. 1:8."
@@ -985,14 +985,14 @@ export const manual = [
 },
 {
     date: "SUNDAY 28TH APRIL, 2024",
-    lesson: "17",
+    lesson: "Lesson 17",
     topic: "Live a Sin-free Life",
     text: "2 Corinthians 6:17-18",
     memory_verse: "Daniel 1:8 - “But Daniel purposed in his heart that he would not defile himself with the portion of the kings meat, nor with the wine which he drank; therefore requested of the prince of the Eunuchs that he might not defile himself”.",
     central_truth: "The primary criterion for a fulfilled life is a sin-free life.",
     aim: "To maintain a sin-free life in our Christian walk",
     introduction: "Read the week’s devotional. A sin-free life is a life where somebody is free from promptings and happening of sin. It is also a decision to restrain oneself from habits and behaviour that are annoying and not glorifying to Jesus Christ. Thus, as a child of God, you are to maintain a sin-free life.",
-    main_points: [
+    main_point: [
         "We are God's temple, not idols.",
         "God desires to dwell in us, walk in us.",
         "He wants to be our God, and we his people.",
@@ -1000,10 +1000,10 @@ export const manual = [
         "We are not to touch unclean things.",
         "We are to keep ourselves clean so that God can embrace us, receive us, and fellowship with us and we with Him."
     ],
-    discussion_questions: [
+    discussion_question: [
         {
             question: "WHY SIN-FREE LIFE?",
-            answers: [
+            answer: [
                 "Gives us encouragement in our Christian walk.",
                 "Is a faith-building quality that increases the love of God towards us.",
                 "Is a soul-winning lifestyle.",
@@ -1013,7 +1013,7 @@ export const manual = [
         },
         {
             question: "HOW TO SUSTAIN A SIN-FREE LIFE",
-            answers: [
+            answer: [
                 "Is simply to evict enticing and sinful motives and thoughts from our hearts.",
                 "By a clean heart – “for as he thinketh in his heart, so is he” - Prov. 23:7 what you think determines where you end.",
                 "Sustained by a sense of purpose. We do know that the habit you don’t promote is the habit that will not multiply."
@@ -1021,7 +1021,7 @@ export const manual = [
         },
         {
             question: "WHAT DOES IT MEAN: 'DANIEL PURPOSED IN HIS HEART'?",
-            answers: [
+            answer: [
                 "What you purpose is what you permit.",
                 "He purposed in his heart not in an agreement with his friends but by himself and God alone. God dwells in the heart.",
                 "Purpose confesses you with the power to become what you want to be.",
@@ -1031,13 +1031,458 @@ export const manual = [
         },
         {
             question: "WHAT IS A LIFE OF PURPOSE?",
-            answers: [
+            answer: [
                 "Is a life of being or staying sin-free.",
                 "Is an error-free life.",
                 "A life without error is a life that attracts favour. Where there’s favour, there’s success in endeavours."
             ]
         }
     ],
-    summary: "As you stay sin-free, so will your life be sickness-free and sorrow-free. Such life gives you grace to walk in revelations; keeps you from being a wanderer and gives you vision to do wonders."
+    conclusion: "As you stay sin-free, so will your life be sickness-free and sorrow-free. Such life gives you grace to walk in revelations; keeps you from being a wanderer and gives you vision to do wonders."
+},{
+    date: "SUNDAY 5TH MAY, 2024",
+    lesson: "Lesson 18",
+    topic: "Benefits of Praise",
+    text: "Psalm 103:1-6",
+    memory_verse: "Psalm 150:2 - “Praise him for his mighty acts: Praise him according to his excellent greatness”.",
+    central_truth: "Everything that hath breath must praise the Lord.",
+    aim: "To encourage believers to live a life of praise in order to enjoy its benefits.",
+    introduction: "Beloved, one of the reasons God created man is for man to worship, praise, and thank God for who He is and what He has done for us. The anchor scripture has confirmed this fact in verse 2 “Bless the Lord, O my soul and forget not all his benefits”. Praise is appreciating God for His person. It is related to God’s greatness. Simply put: Praise is expressing admiration towards God’s work. There are numerous benefits we derive from praising God as outlined in the anchored scripture. They include long life, forgiveness, health, healing, provisions, etc. This lesson will open your eyes to see the need to continually praise God and enjoy the benefits thereof.",
+    main_point: [
+        "Bless the Lord and forget not His benefits (vs 1-2).",
+        "Appreciate Him for forgiveness, healing, and love (vs 3-4).",
+        "Praise Him for provision, strength, and righteous judgment (vs 5-6)."
+    ],
+    discussion_question: [
+        {
+            question: "Why should we praise God?",
+            answer: [
+                "So that He continues to provide us with benefits.",
+                "To appreciate His lovingkindness.",
+                "To extol Him for His love towards mankind.",
+                "To join force with other creatures to celebrate His faithfulness."
+            ]
+        },
+        {
+            question: "What are the foremost benefits of praise according to our anchored scriptures?",
+            answer: [
+                "Forgiveness of sins and healing (vs 3).",
+                "Redeeming our lives from destruction (vs 4).",
+                "Crowning us with loving kindness/mercy (vs 4).",
+                "His steadfast love never ceased (Lam. 3:22-23)."
+            ]
+        },
+        {
+            question: "What else should we praise Him for?",
+            answer: [
+                "Provisions: Food, clothing, money, etc (vs 5), Matt. 6:31-32.",
+                "Strength, salvation, and righteous judgment (vs 6) Rom. 8:1.",
+                "His defenses for us against adversity and calamity."
+            ]
+        },
+        {
+            question: "Mention 6 benefits of praise",
+            answer: [
+                "Praise lifts you (Ps 92:1-5).",
+                "Praise is for anointing (Ps 92:10).",
+                "Praise releases power and guidance (2 Kings 3:15).",
+                "Praise is for freedom (Acts 16:25-26).",
+                "Praise is a weapon of spiritual warfare (2 Chron. 20:20-22).",
+                "Praise adds value to our lives and raises us from bottom to top."
+            ]
+        }
+    ],
+    conclusion: "Praise has its origin from heaven (Ps. 148:2). It is the purpose for which God created and blesses us. Let all the living praise God. Bless the Lord, O my soul."
 },
+{
+    date: "SUNDAY 12TH MAY, 2024",
+    lesson: "Lesson 19",
+    topic: "Repentance",
+    text: "Luke 15:20-24",
+    memory_verse: "Isaiah 55:7 - “Let the wicked forsake his ways and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon”.",
+    central_truth: "A repented sinner is a heavenly celebrant.",
+    aim: "To let believers understand that genuine repentance comes from the heart and attracts God’s mercy.",
+    introduction: "Repentance is a necessary and important requirement in the Kingdom of God. It is an indispensable prerequisite for heavenly candidates. Repentance is turning from sin unto God. It requires and calls for forsaking the unrighteous and wicked ways and turning unto God with the assurance of mercy. Repentance always results in confession of sin (I Jn. 1:9). Genuine repentance is a requisite for salvation.",
+    main_point: [
+        "And He came to Himself (vs 17)",
+        "And made a decision to Arise (vs 18)",
+        "He arose and went to the father (vs 19-20)",
+        "Confession is made (vs 21)",
+        "Father forgives and celebrates a repented sinner (vs 24)"
+    ],
+    discussion_question: [
+        {
+            question: "What is repentance?",
+            answer: [
+                "Consciously turning away from all known sins to obtain mercy and forgiveness (vs 17).",
+                "A radical turnaround from a life of unrighteousness to a godly way of life (Ps 21:3-4).",
+                "Is the deep inward experience which makes a sinner come back to God (Isa 55:7)."
+            ]
+        },
+        {
+            question: "What decision did the Prodigal son make when he became helpless?",
+            answer: [
+                "Decision to arise (vs 18, Isa. 60:1)",
+                "Decision to return home (vs 19)",
+                "Decision to shun and hate sin (I Thess. 5:22)."
+            ]
+        },
+        {
+            question: "Why should a sinner arise and refrain from sin?",
+            answer: [
+                "To meet and be reconciled back to the father (vs 20, 2 Cor. 5:18)",
+                "To obtain mercy and pardon (Isa 55:7)",
+                "To reclaim his rightful place (2 Cor. 5:17)"
+            ]
+        },
+        {
+            question: "Is confession a prerequisite for repentance?",
+            answer: [
+                "Yes, genuine repentance results in confession of sins (v 21, I Jn 1:9)."
+            ]
+        },
+        {
+            question: "Give 3 examples of genuine repentance discussed here:",
+            answer: [
+                "David (2 Sam 12:13)",
+                "Nebuchadnezzar (Dan. 4:37)",
+                "Zacchaeus (Lk. 19:5)"
+            ]
+        }
+    ],
+    conclusion: "Repentance is an act where a sinner willingly turns away from all known sins with all his heart. Confession of sins always follows repentance. Repentance attracts God’s mercy, forgiveness, and salvation. Repentance is the keynote of Christ's teachings. Genuine repentance is rewarding."
+},
+{
+    date: "SUNDAY 19TH MAY, 2024",
+    lesson: "Lesson 20",
+    topic: "Redemption",
+    text: "Galatians 3:13-14",
+    memory_verse: "Titus 2:14 - “Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a people for his own zealous of good works”.",
+    central_truth: "Christ paid the price with his own blood for our redemption.",
+    aim: "To acquaint believers with the knowledge of redemption and salvation of man.",
+    introduction: "Redemption is one of the vital subjects of Christian faith. Literally, redemption is a state of recovering something that had been sold with a price. Restitution, which means the act of compensation for loss or injury, is an important requirement for redemption. Our Anchor text reveals that Christ was made a curse for us to become free or gain freedom in a total way. Jesus gave himself to us that he might redeem us from iniquity and purify us unto himself for good works (Titus 2:14). We are saved by grace through faith and not by ourselves. It is a free gift from God.",
+    main_point: [
+        "Christ has redeemed us from the curse of the law (v 13a).",
+        "He was made a curse on our behalf (v 13b)",
+        "The death on the cross was to afford us redemption (vs 13c).",
+        "By grace, we obtain redemption (Rom. 3:24).",
+        "Redemption is absolutely benefiting."
+    ],
+    discussion_question: [
+        {
+            question: "What is redemption?",
+            answer: [
+                "To buy back – vs 13a, Titus 2:14",
+                "Ransome or deliver - vs 13b, John 3:16",
+                "Total rescue or to bring out from satanic bondage – Exo. 6:6, 1 Pet. 3:18."
+            ]
+        },
+        {
+            question: "Who became a curse?",
+            answer: [
+                "Jesus Christ (13b, Isa. 53:8)"
+            ]
+        },
+        {
+            question: "How did our redeemer pay the price of our sins?",
+            answer: [
+                "1 Pet. 2:24."
+            ]
+        },
+        {
+            question: "What cardinal virtue guarantees our redemption?",
+            answer: [
+                "Grace - Rom. 3:24, Eph. 2:8, Rom. 10:9-10."
+            ]
+        },
+        {
+            question: "What are the benefits of redemption?",
+            answer: [
+                "Freedom from sin’s slavery - Gal. 3:13, 5:1",
+                "Forgiveness of sin - Eph. 1:7",
+                "Justification before God - Rom. 5:1, 8:1",
+                "Peace with God - Col. 1:20",
+                "Heaven with God for eternity - Rev. 5:9"
+            ]
+        }
+    ],
+    conclusion: "The ultimate desire of every Christian is to be redeemed from sin, Satan, and his works. Our redeemer, Jesus Christ, has the will and power to redeem us as proved by his coming (Lk. 4:18). He accepted to pay the price with His own blood. Every believer is redeemed to reign into Christ. Are you redeemed?"
+},
+{
+    date: "SUNDAY 26TH MAY, 2024",
+    lesson: "Lesson 21",
+    topic: "Humility: The Pathway to Greatness",
+    text: "Philippians 2:1-3",
+    memory_verse: "Psalm 138:6: 'Though the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off'.",
+    central_truth: "Humility is the character of God, and pride is the habit of Satan.",
+    aim: "To encourage people to humble themselves so as to be elevated.",
+    introduction: "Humility is variously seen as the act of lowering oneself in relation to others (Rom. 12:3). It is the quality of being humble and not to think that you are better than other people. It signifies lowliness or submissiveness. The Bible describes humility as a quality of being courteously showing respect to others; It is the opposite of aggressiveness, arrogance, and boastful. Pathway is a tract that a person can go along or a road map to guide our destiny to greatness.",
+    main_point: [
+        "We must imitate Christ’s Humility – lowliness of mind Who did not mind His glory in Heaven but took the form of a servant on earth.",
+        "He took the nature of being mean even as God to be able to save the fallen man vs 6",
+        "He brought down his reputation. As a result, God exalted him above all creatures vs 5."
+    ],
+    discussion_question: [
+        {
+            question: "How does the world regard humility?",
+            answer: "Due to the innate (inborn/natural) self-centeredness of man, the world does not place high regard on humility. The inevitable tendency of human nature and the world is towards pride, arrogance, a haughty spirit an exaggerated feeling of self-importance (1John 2:16, Isa. 14:13-14)."
+        },
+        {
+            question: "How does God regard humility?",
+            answer: "The Bible presents God’s view of humility and salvation places high premium on humility. To be humble means we will be conscious of our weaknesses and quick to give credit to God and others for what we accomplish. (John 3:27, 5:19, 14:10, James 4:6). We must be humble because we are single apart from Christ (Lk. 18:9-14) and can boast of nothing (Rom. 7:18, Gal 6:3) except in the Lord (2 Cor. 10:17). We are dependent on God for our fruitfulness and can accomplish nothing good without the help of God and the help of others (Ps. 8:4-5, Jn 15:1-16) God delights in those who walk humbly - Isa. 57:15, Micah 6:8 – He gives an increase of grace to the humble but opposes the proud (Jos. 4:6, 1 Pet. 5:5). As believers, we must live in humility towards one another considering others more important than ourselves (Rom 12:3)."
+        }
+    ],
+    conclusion: "Humility is the character of God and pride is the symbol of Satan. God, of course, is the most humble person in the universe; He regards the lowly (Ps. 138:6). Thus, He demonstrated it right from the beginning of time when He left His exalted position to pick the form of man – a nobody and made of him what he is today."
+},
+{
+    date: "SUNDAY 2ND JUNE 2024",
+    lesson: "Lesson 22",
+    topic: "Manifestation; Prize for the Sons",
+    text: "2 Kings 1:1-18",
+    memory_verse: "Rom. 8:19 - 'For the earnest expectation of the creature waiteth for the manifestation of the sons of God'.",
+    aim: "To let believers understand that manifestation is strictly for sons, not children.",
+    central_truth: "As a child, I have my heritage, but as a son, I manifest in that heritage.",
+    introduction: "Happy Sunday beloved, your week is blessed and fruitful. Keep studying your daily devotional, keep up the good work! From our text above, you'll agree with me that the prophet Elijah was a son of his father, you see, he called himself 'man of God', this is the height of true sonship. He knew he'd come of age as a mature son to display some of his father's abilities, God responded immediately because the father knows the son's voice, deep calls to deep! To manifest, you must be a son!",
+    discussion_question: [
+        {
+            question: "Who are these creatures waiting for my manifestation?",
+            answer: [
+                "The believer - Matt. 5:16",
+                "The unbelievers - Jn. 11:41-45",
+                "The oppressed, sick, and maimed."
+            ]
+        },
+        {
+            question: "What distinguishes a child from a son?",
+            answer: [
+                "Spiritual authority - Lk. 10:17-22",
+                "Willingness to accept spiritual responsibilities - Psm. 110:3a",
+                "Holiness and perfection - Matt. 5:48",
+                "Knowledge of spiritual things - 1Cor 2:14-16, 1:18.",
+                "Manifestation - Rom. 8:19"
+            ]
+        }
+    ],
+    conclusion: "Today's message may not be lengthy but striking, it is clear that manifestation is for sons not children. If you must be a son, you must upgrade and update your relationship status with your father-Jesus. You're not far from it, sonship is an inert potential in you, grow in it and you'll manifest at default."
+},
+{
+    date: "SUNDAY 9TH JUNE, 2024",
+    lesson: "Lesson 23",
+    topic: "PROSPERING WITH PSALMS 23",
+    text: "Psalms 23:1-6",
+    memory_verse: "Psalms 68:19 - 'Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation, selah'.",
+    central_truth: "Eternal commitment to serving God sponsor incremental consignment benefits coming to you.",
+    aim: "To encourage believers not to shrink in serving God.",
+    introduction: "Read the week’s devotional. For centuries, Psalms 23 has been read, quoted and declared prayerfully in homes, schools, and churches. It’s been used in devotional arena again and again more than any chapter of the Old Testament scriptures. This Psalms 23 is the most popular chapter of the 150 chapters of the book of Psalms. Indeed, it is a prayer of daily confession. Interestingly, Psalms 23 is absolutely prophetic and inspirational. Today, this lesson leads us into how we can be prospering with Psalms 23. What a startling insight!",
+    main_point: [
+        "Divine Provision - Verse 1",
+        "Divine Guidance - Verse 2",
+        "Divine Restoration - Verse 3a",
+        "Divine Leading - Verse 3b",
+        "Victory over temptation - Verse 4",
+        "Victory over enemies - Verse 5",
+        "Eternal Commitment unto God - Verse 6"
+    ],
+    discussion_question: [
+        {
+            question: "What is Prospering?",
+            answer: [
+                "To succeed in an enterprise or activity and grow in a career",
+                "To achieve economic success",
+                "To become strong and flourishing",
+                "To arrive and thrive at the optimum level in one’s profession",
+                "To reach a desired level of accomplishment"
+            ]
+        },
+        {
+            question: "Why is Psalms 23 tagged a Prospering Psalms?",
+            answer: [
+                "Because it answer the question of: divine provision, guidance, leading, restoration, victory over temptations, victory over enemies and eternal commitment unto God"
+            ]
+        },
+        {
+            question: "How is the prospering role of the Psalm played out verse by verse?",
+            answer: [
+                "Vs 1 (a) “The Lord is my Shepherd” - That’s Relationship. Right relationship with God fosters a prosperous life",
+                "(b) “I shall not want” - That’s supply. A prosperous life witnesses steady supply or provisions",
+                "Vs 2 (a) “He maketh me to lie down in green pastures” – That’s Rest. Rest from struggling is itself a prosperous life",
+                "(b) “He leadeth me beside the still waters” – That’s Refreshment. Prosperity speaks of refreshing and flourishing.",
+                "Vs 3 (a) “He restoreth my soul” – That’s healing. We do hear, Health is wealth – Paul also prayed in 3 John 2 – 'that Him may prosper and be in health….'",
+                "(b) “He leadeth me in the path of righteousness” – That’s guidance. It is God that leads us into prosperity.",
+                "(c) “For His name sake” – That’s Purpose. God delights in the prosperity of his servant Psalm 35:27.",
+                "Vs 4 (a) “Yea, though I walk through the valley of the shadow of death – That’s testing. After testing/trial comes prosperity E.G Job.",
+                "(b) “I will fear no evil” – That’s Protection. Protection is a content of prosperity.",
+                "(c) “For thou art with me” – That’s Faithfulness. God’s faithfulness guarantees our prosperity.",
+                "(d) “Thy rod and thy staff they comfort me” – That’s Discipline. It takes discipline to be prosperous. Daniel 1:8, 20.",
+                "Vs 5 (a) “Thou preparest a table before me in the presence of mine enemies – That’s Hope. Prosperity offers hope",
+                "(b) “Thou anointed my head with oil – That’s consecration. Consecration attracts prosperity. Daniel 1:8, 20.",
+                "(c) “My cup runneth over” – Abundance (i.e Prosperity)",
+                "Vs 6 (a) “Surely goodness and mercy shall follow me all the days of my life” – That’s Blessing (i.e Prosperity)",
+                "(b) “And I will dwell in the house of the Lord – That’s security. Prosperity secures",
+                "Vs 7 (c) “Forever and ever” – That’s Eternity. Eternal commitment sponsors prosperity."
+            ]
+        }
+    ],
+    conclusion: "As you connect with God through Psalm 23, you will be prosperous."
+},
+{
+    date: "SUNDAY 16TH JUNE, 2024",
+    lesson: "Lesson 24",
+    topic: "GREAT FAITH",
+    text: "Mk 5:25-34",
+    memory_verse: "Rom. 10:9 - “That if thou shall confirm with thy mouth the Lord Jesus and shall believe in thine heart that God hath raised him from death, thou shall be saved”.",
+    aim: "To assure believers that just one touch of Jesus garment can bring the expected miracle.",
+    central_truth: "Believer should have unwavering faith in the name of Jesus.",
+    introduction: "Faith is one of the most powerful spiritual weapons in Christendom. It is a force in the world of the spirit that can be expressed in the realm of the physical for manifestations. It is the substance of things hope for, the evidence of things not seen (Heb. 11:1). When the substance of faith increases and turns supernatural with determination and zeal, it becomes great faith. The woman with the issue of blood in today's lesson was a woman of great faith. Firstly, despite her predicament, she took a bold step of faith to meet Jesus. Secondly, she ignored the insults and embarrassment from people because of her stinking condition and thirdly, her convincing conviction that if only she could touch the garment of Jesus she would be made whole. Beloved, you can receive your miracle today if you believed that, that same Jesus that did for the woman in this lesson can also touch you at the point of your need. Look up unto Him and your problems will expire.",
+    main_point: [
+        "And a certain woman with the issue of blood - vs. 25.",
+        "Suffered many things and spent all that she had - vs. 26.",
+        "When she heard of Jesus, came and press behind - vs. 27.",
+        "If I may touch but his clothes, I shall be made whole - vs. 28.",
+        "And the fountain of blood was dried up - vs. 29."
+    ],
+    discussion_question: [
+        {
+            question: "How could that certain woman be identified?",
+            answer: [
+                "As a woman with an issue of blood - vs. 25",
+                "And the issue prevailed for 12 good years - vs. 25"
+            ]
+        },
+        {
+            question: "What financial or economical set back did that ailment inflict on her?",
+            answer: [
+                "She suffered many things from the physicians.",
+                "She spent all that she had but the issue worsened."
+            ]
+        },
+        {
+            question: "Cite two similar hopeless issues in the scripture:",
+            answer: [
+                "(a) The man with 38 years of infirmity - John 5:3-8.",
+                "(b) Naaman's leprosy - 2 Kings 5:1-3)",
+                "(c) All that labour and are heavy laden - Rom 10:13, Matt. 11:28"
+            ]
+        },
+        {
+            question: "What prompted the woman to press behind the crowd?",
+            answer: [
+                "She heard of Jesus and took a step of faith - vs. 27, Rom. 10:14."
+            ]
+        },
+        {
+            question: "Quote the statement of great faith that guaranteed her healing.",
+            answer: [
+                "\"If I may touch but his clothes, I shall be made whole\" - Mk 5:28."
+            ]
+        },
+        {
+            question: "Did her faith made her whole?",
+            answer: [
+                "Yes; and the fountain of blood was dried up - Mk. 5:29"
+            ]
+        },
+         {
+            question:"Lessons to learn",
+         answer:[
+        "Faith operates in the now - Heb. 11:1",
+        "Evidence of faith includes believe, confession, and reasonable action.",
+        "No matter how serious is your problem, through faith Jesus will provide the answer and solutions - Heb. 13:8"
+    ],}
+    ],
+   
+    conclusion: "The woman in our lesson demonstrated great faith. She had the knowledge of the scriptures and Jesus as our Saviour and redeemer. Not minding her predicament, she took a bold step of faith to have a supernatural encounter with Jesus, after making a confession or declaration of what she expected there. Beloved, if you have faith like a mustard seed your mountain will melt as you take the right step of faith in the name of Jesus. Believe in Jesus as your Lord and Saviour. Remember, without faith, it is impossible to please God - Heb. 11:6"
+},
+{
+    date: "SUNDAY 23RD JUNE, 2024",
+    lesson: "Lesson 25",
+    topic: "GROW IN GRACE",
+    text: "1 KINGS 3:3-5.",
+    memory_verse: "2 PETER 3:18 - “But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be the glory both now and forever. Amen.",
+    central_truth: "Our growth in grace responds to our depth in the word of God.",
+    aim: "To show believers how to grow in grace.",
+    introduction: "Grace is a subject of experience and a dispensation which adds value to our Christian life. Grace is a gift of God, not your works, lest any man can boast. Grace is God going ahead of us in the race of life. We need to grow in grace, as we grow in age.",
+    main_point: [
+        "Affinity with God sponsors grace from Him.",
+        "David enjoyed grace as he walked with God.",
+        "Solomon learnt sacrificial giving and consistent prayer are channels of grace.",
+        "Solomon demonstrated his intension to grow in grace that is why he offered a thousand burnt offerings.",
+        "God visitation to him was an indication he should growth in grace.",
+        "He requested for more wisdom as a proof that he desires to grow in grace.",
+        "To confirm his growth in grace, God added long life, honour and riches to the wisdom Solomon demanded."
+    ],
+    discussion_question: [
+        {
+            question: "Why is grace important to a believer?",
+            answer: [
+                "A tool for advancement.",
+                "Content for other blessings in life.",
+                "A resource that carries commands and confers God’s presence.",
+                "A gift and privilege upon God’s people.",
+                "A catalyst, the speed favour and other blessings for God’s people.",
+                "An enabler for accomplishment of tasks or assignment.",
+                "An arrester of any ugly trend of events.",
+                "A sponsor of positive change."
+            ]
+        },
+        {
+            question: "What are the human attitudes that attract grace and can make it to grow?",
+            answer: [
+                "Humility – The higher the humility, the higher the grace.",
+                "Dependence on God’s ability – The more dependence, the more grace.",
+                "Clinging to God in our helplessness provokes and provides grace upon us – The more we cling, the more flow of grace to us.",
+                "Prayerfulness triggers grace upon us. The more prayerful, the more grace.",
+                "Generosity grows our capacity in grace. Do you want to grow in grace? Keep being generous in an ascending order."
+            ]
+        },
+        {
+            question: "Enemies of Grace – growth.",
+            answer: [
+                "Pride – James 4:6",
+                "Prayerlessness – Heb. 4:16",
+                "Stinginess",
+                "Disobedience – 1 Kings 3:1",
+                "Lack of fear of God – Acts 10:2"
+            ]
+        },
+        {
+            question: "How to grow in grace.",
+            answer: [
+                "Grow in knowledge – 2 Peters 3:16",
+                "Grow in the fear of God – Gen. 42:18",
+                "Render consistent selfless service – 1 Cor. 15:10",
+                "Indulging more in sacrificial giving – 1 Kings 3:4",
+                "Stay fervently prayerful.",
+                "Show unconditional kindness to the less priviledge – Acts 9:36-41.",
+                "Sustain a thankful heart – 1 Thess. 5:18"
+            ]
+        }
+    ],
+    conclusion: "The secret of growing in grace is knowing how to relate with God with divine intention to please Him. You need to know that God deals with us individually. The more you hunger for his help, the more you will grow in grace. To enjoy more grace, you need to come to the throne of grace in prayers ceaselessly."
+},
+{
+    date: "SUNDAY 30TH JUNE, 2024",
+    lesson: "Lesson 26",
+    topic: "THE POWER OF GRATITUDE",
+    memory_verse: "Psalms 67:5-6 - “Let the people praise thee, O God, let all the people praise thee ….Then shall earth yield her increase, and God, even our own God shall bless us”.",
+    text: "1 Thess. 5:18",
+    aim: "To encourage believers to focus more on showing gratitude to God than their problems",
+    central_truth: "Thanksgiving is a vital part of living out worship.",
+    introduction: "So often we find ourselves wandering around, wondering what God’s will for our lives is when so much of it is clearly revealed in our anchor scripture – 1 Thess. 5:18. It is God’s will for us to be grateful in all circumstances. Living a life of gratitude requires time, effort and faithful practice. Apostle Paul in Phil. 4:6 saw the need to encourage other believers to be grateful to God as he did always. Because of the grateful disposition he cultivated and his relationship with Christ, Paul could find reasons to be thankful even in the midst of his suffering. Through his writing, we learn that being truly grateful extends beyond convenience.",
+    discussion_question: [
+       {question: "What do we stand to gain in living grateful to God?",
+       answer:[ "Gratitude glorifies God: Gratitude to God is an expression that helps us realize that all we have comes from God – 2 Cor. 4:15.",
+        "Gratitude puts us in God’s will part of God’s will for the believer is to be thankful to Him not only when all is well but always (Thess. 5:18).",
+        "Gratitude draws us closer to God. Thanking God genuinely draws you nearer to God than before – Luke 17:7-19. You can’t be drawn nearer to God and don’t enjoy more of God.",
+        "Gratitude brings us peace: Gratitude helps us to see the hand of God in all we go through Phil. 4:6-7.",
+        "Gratitude brings contentment: Every time you thank God for what He has done for you. He makes what you have enough. It you are not grateful for what God has given you now, getting more won’t satisfy you either – 1 Tim. 6:6-8.",
+        "Gratitude deepens our faith keeping records of God’s past faithfulness in your life boost your faith when you face new challengers.",
+        "Gratitude brings joy – Psalms 126:1-3. Realizing God’s abundant goodness even in hard times is a gateway for joy.",
+        "Gratitude defies Satan’s lies: True gratitude to God and the abundance. He gives protects us from giving in to Satan’ lies Psalms 84:11.",
+        "Gratitude guard against envy: Envy makes us want what someone else has but gratitude makes us realize God has given us far more than we deserve. A heart that wholly grateful has not room left for envy – Psalms 138:1.",
+        "Gratitude puts our eyes on God instead of others."
+    ]}
+    ],
+    conclusion: "Gratitude to God does not need a specific or set aside time for it every day can be a day of thanksgiving. Eph. 5:20. When you maintain a thankful heart, you bring pleasure to God’s heart and breakthrough becomes cheaply harvested. Satan is defeated when we maintain a thankful heart because thanksgiving during difficulty is a pleasing sacrifice to God"
+}
 ]
