@@ -5,7 +5,7 @@ function MainPoint({item}) {
     <div>
       {item?.main_point?.length !== 0 && (
         <div className="container">
-          <span className="text">Main point: </span>
+          <span className="text text-warning">Main point: </span>
           <span className="text-letter d-block text-white font-italic ">
             <ul>
               {item &&

@@ -1,4 +1,4 @@
-import React from "react";
+import React,{useState} from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Avatar from "@material-ui/core/Avatar";
 import { Typography } from "@material-ui/core"; 
@@ -10,7 +10,7 @@ import Phone from "@material-ui/icons/Email";
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../../store/data";
-// import SetVoice from "./components/SetVoice";
+import SetFont from "./components/SetFont";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -23,8 +23,8 @@ const useStyles = makeStyles((theme) => ({
     height: theme.spacing(3),
   },
   large: {
-    width: theme.spacing(7),
-    height: theme.spacing(7),
+    width: theme.spacing(6),
+    height: theme.spacing(6),
   },
 }));
 function Profile() {
@@ -44,13 +44,11 @@ function Profile() {
   const contactUs = () => {
     window.location.href="/"
   };
+  const [speech]=useState(16)
   return (
     <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
-        <Avatar
-          src="/broken-image.jpg"
-          className={[classes.large, "shadow "]}
-        />
+        <Avatar className={[classes.large, "shadow "]}> {user.username.char(0)}</Avatar>
         <Typography
           variant="h6"
           display="inline"
@@ -80,7 +78,9 @@ function Profile() {
           onClick={(e) => navigate("/subscribe")}
         >
           <CreditCardIcon /> Subscription
-          {!isSub && <span className="badge badge-danger float-right">expired</span>}
+          {!isSub && (
+            <span className="badge badge-danger float-right">expired</span>
+          )}
         </div>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"
@@ -97,11 +97,11 @@ function Profile() {
 
         {/* <div className="setting_items signout shadow-sm p-3 text-dark">
           <SetVolume data={speech} />
-        </div>
+        </div> */}
 
         <div className="setting_items signout shadow-sm p-3 text-dark">
-          <SetVoice data={speech} />
-        </div> */}
+          <SetFont data={speech} />
+        </div>
         <div className="setting_items signout shadow-sm d-none p-3 text-dark">
           {navigator.appVersion}
         </div>

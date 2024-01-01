@@ -14,26 +14,28 @@
 
 }
 
-.bg-back{
+.bg-back {
     background: #3f51b5 !important;
-        color: #e4e3e3;
+    color: #e4e3e3;
 }
+
 // .text-letter {
 //     // font-family: 'Redressed', cursive;
 // }
 
 .text {
-    font-style: bold;
+    font-style: bold !important;
     font-weight: 700;
     font-size: 16px;
     line-height: 19px;
     text-transform: uppercase;
-    color: #e4e3e3;
+    color: #ede6c9d4 !important;
     flex: none;
     order: 0;
     flex-grow: 0;
-    font-family: 'Rubik Moonrocks', cursive;
-    word-spacing: 10px;
+    font-family: sans-serif;
+    word-spacing: 1px;
+    text-shadow: 0 0 black;
 
 }
 
@@ -41,7 +43,7 @@
 .text_prayer {
     line-height: 29px;
     font-style: bold;
-    font-size: 16px;
+    font-size: 17px;
     font-family: "poppins";
 }
 
