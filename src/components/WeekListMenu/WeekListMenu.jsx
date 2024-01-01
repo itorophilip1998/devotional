@@ -54,7 +54,6 @@ export default function WeekListMenu({ item, index, route }) {
           className={classes.cover}
           image={`/images/bg/hero${imageIndex}.png`}
           title="bg"
-        
         />
         <div className="daysText">{moment(fDate()).format("Do MMM, y")}</div>
         <div className={"details"}>
@@ -69,7 +68,7 @@ export default function WeekListMenu({ item, index, route }) {
               display="block"
               gutterBottom
             >
-              {moment(fDate()).format("ddd")}
+              {item.lesson ? item.lesson : moment(fDate()).format("ddd")}
             </Typography>
           </CardContent>
         </div>
