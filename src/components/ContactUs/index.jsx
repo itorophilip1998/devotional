@@ -11,7 +11,7 @@ const [isContact,setisContact]=useState(false)
   if (isContact)
     return (
       <div className="contactUs">
-        <a href="*">Contact Us</a>|<a href="*">Terms & Condition</a>
+        {/* <a href="*">Contact Us</a>|<a href="*">Terms & Condition</a> */}
       </div>
     );
 }
