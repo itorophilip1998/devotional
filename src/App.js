@@ -17,7 +17,8 @@ import ProtectedRoutes from "./Middleware/ProtectedRoutes";
 // import IsOffline from "./components/IsOffline";
 import PublicRoutes from "./Middleware/PublicRoutes";
 import React, { useEffect, useState } from "react";
-import ContactUs from "./components/ContactUs";
+// import ContactUs from "./components/ContactUs";
+import ContactUs from './pages/ContactUs';
 
 
 function App() {
@@ -46,6 +47,7 @@ else
             <Route path="/profile" element={<Profile />} />
             <Route path="/tips" element={<Tip />} />
             <Route path="/subscribe" element={<Subscribe />} />
+            <Route path="/contact-us" element={<ContactUs />} />
           </Route>
 
           {/* guest routes */}
@@ -57,7 +59,7 @@ else
           </Route>
 
         </Routes>
-        <ContactUs/>
+        {/* <ContactUs/> */}
         <Footer />
       </BrowserRouter >
     );

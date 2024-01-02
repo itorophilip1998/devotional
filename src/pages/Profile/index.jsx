@@ -1,7 +1,7 @@
-import React,{useState} from "react";
+import React, { useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Avatar from "@material-ui/core/Avatar";
-import { Typography } from "@material-ui/core"; 
+import { Typography } from "@material-ui/core";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import CreditCardIcon from "@material-ui/icons/CreditCard";
 import VpnKeyIcon from "@material-ui/icons/VpnKey";
@@ -31,7 +31,7 @@ function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
 
-  const { token, user,isSub } = useSelector((state) => state.data);
+  const { token, user, isSub } = useSelector((state) => state.data);
   const dispatch = useDispatch();
   const changePassword = () => {
     dispatch(logout());
@@ -42,13 +42,16 @@ function Profile() {
     navigate("/auth/signin");
   };
   const contactUs = () => {
-    window.location.href="/"
+    navigate("/contact-us");
   };
-  const [speech]=useState(16)
+  const [speech] = useState(16);
   return (
     <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
-        <Avatar className={[classes.large, "shadow "]}> {user.username.char(0)}</Avatar>
+        <Avatar className={[classes.large, "shadow "]}>
+          {" "}
+          {user?.username?.charAt(0)?.toUpperCase()}
+        </Avatar>
         <Typography
           variant="h6"
           display="inline"
