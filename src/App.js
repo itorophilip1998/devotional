@@ -12,7 +12,7 @@ import Header from "./layouts/Headers/Header";
 import Profile from "./pages/Profile";
 import Tip from "./pages/Tip/Tip";
 import Subscribe from "./pages/Subscribe";
-import SplashScreen from "./pages/SplashScreen";
+import Loader from "./pages/Loader";
 import ProtectedRoutes from "./Middleware/ProtectedRoutes";
 // import IsOffline from "./components/IsOffline";
 import PublicRoutes from "./Middleware/PublicRoutes";
@@ -27,10 +27,10 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setLoading(true)
-    }, 6000);
+    }, 1000);
   })
   if (!isLoaded)
-    return <SplashScreen />
+    return <Loader />
 else
     return (
       <BrowserRouter>

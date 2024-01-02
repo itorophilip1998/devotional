@@ -32,7 +32,7 @@ const Footer = () => {
   if (isOffKeys)
     return (
       <div className="div">
-        {token && (
+        {!token && (
           <BottomNavigation
             showLabels
             value={value}
