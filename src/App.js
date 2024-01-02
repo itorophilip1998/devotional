@@ -47,7 +47,6 @@ else
             <Route path="/profile" element={<Profile />} />
             <Route path="/tips" element={<Tip />} />
             <Route path="/subscribe" element={<Subscribe />} />
-            <Route path="/contact-us" element={<ContactUs />} />
           </Route>
 
           {/* guest routes */}
@@ -56,7 +55,9 @@ else
             <Route path="/auth/signup" element={<SignUp />} />
             <Route path="/auth/forgot-password" element={<ForgotPassword />} />
             <Route path="/auth/reset-password" element={<ResetPassword />} />
+
           </Route>
+            <Route path="/contact-us" element={<ContactUs />} />
 
         </Routes>
         {/* <ContactUs/> */}

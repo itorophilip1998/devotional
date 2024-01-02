@@ -3,10 +3,10 @@ import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import TextField from "@material-ui/core/TextField";
-import FormControlLabel from "@material-ui/core/FormControlLabel";
-import Checkbox from "@material-ui/core/Checkbox";
-import Grid from "@material-ui/core/Grid";
-import ExitToAppOutlinedIcon from "@material-ui/icons/ExitToAppOutlined";
+// import FormControlLabel from "@material-ui/core/FormControlLabel";
+// import Checkbox from "@material-ui/core/Checkbox";
+// import Grid from "@material-ui/core/Grid";
+import Phone from "@material-ui/icons/Phone";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
@@ -93,7 +93,7 @@ export default function contact() {
       <CssBaseline />
       <div className={classes.paper}>
         <Avatar className={classes.avatar}>
-          <ExitToAppOutlinedIcon />
+          <Phone />
         </Avatar>
         <Typography component="h1" variant="h5">
           Contact Us
