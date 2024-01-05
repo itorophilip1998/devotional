@@ -16,12 +16,13 @@
 }
 
 .topicText {
-    font-family: 'Redressed' !important;
     color: #171f50 !important;
-    font-family: 'Rubik Moonrocks';
-    font-weight: bold;
     font-size: 16px;
     display: block;
+    // font-family: 'Oswald' !important;
+    font-family: 'Rubik Doodle Shadow' !important;
+    font-weight: bold;
+    // letter-spacing: 1px;
 }
 
 .dateText {
@@ -51,7 +52,7 @@
     }
 
     .MuiCardContent-root {
-                padding: 0;
+        padding: 0;
         display: flex;
         align-content: stretch;
         flex-wrap: nowrap;

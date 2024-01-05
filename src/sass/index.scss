@@ -1,9 +1,20 @@
  :root {
    --primary: #3f51b5
  }
+body {
+  margin: 0;
+  font-family: sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #fff !important;
 
+}
+
+* {
+  font-family: Arial !important;
+}
  //  utils 
-//  @import './utils/fonts.scss';
+ @import './utils/fonts.scss';
 
  //  components 
  @import './components/loader.scss';
@@ -18,16 +29,6 @@
 
 
 
- body {
-   margin: 0;
-   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-     sans-serif;
-   -webkit-font-smoothing: antialiased;
-   -moz-osx-font-smoothing: grayscale;
-   background: #fff !important;
-
- }
 
  .bg-nav {
    background-color: #fff !important;
