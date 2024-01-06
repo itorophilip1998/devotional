@@ -1,33 +1,39 @@
  :root {
    --primary: #3f51b5
  }
-body {
-  margin: 0;
-  font-family: sans-serif !important;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background: #fff !important;
 
-}
+ body {
+   margin: 0;
+   font-family: sans-serif !important;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   background: #fff !important;
+ }
 
-* {
-  font-family: Arial !important;
-}
+ * {
+   font-family: Arial !important;
+ }
+
+ //  header 
+ @import './layouts/header.scss';
+
  //  utils 
  @import './utils/fonts.scss';
 
  //  components 
+ @import './components/splashScreen.scss';
+ @import './components/inputs.scss';
  @import './components/loader.scss';
  @import './components/weekLists.scss';
+
  // pages
- @import './devotional.scss';
- @import './manual.scss';
- @import './auth.scss';
- @import './profile.scss';
- @import './subscribe.scss';
- @import './tip.scss';
-
-
+ @import './pages/devotional.scss';
+ @import './pages/contactUs.scss';
+ @import './pages/manual.scss';
+ @import './pages/auth.scss';
+ @import './pages/profile.scss';
+ @import './pages/subscribe.scss';
+ @import './pages/tip.scss';
 
 
  .bg-nav {
@@ -60,7 +66,6 @@ body {
  }
 
  .MuiTypography-caption {
-
    letter-spacing: 0 !important;
  }
 
@@ -145,76 +150,22 @@ body {
  //   font-family: monospace
  //  }
 
- .splashScreen {
-   display: flex;
-   flex-direction: column;
-   align-items: center;
-   justify-content: center;
-   height: 100vh;
-   text-align: center;
-   text-transform: uppercase;
-   color: #3f51b5;
 
-   .SplashHeadText {
-     margin: 28px 0;
-   }
 
-   img {
-     width: 80px;
 
-   }
-
-   h2 {
-     font-size: 22px;
-     font-weight: bold;
-     color: #e06512;
-     font-family: 'Redressed', cursive !important;
-   }
-
-   h3 {
-     font-size: 14px;
-     font-weight: bold;
-   }
-
-   h6 {
-     font-size: 10px;
-     font-weight: bold;
-     font-style: italic;
-     font-family: consolas;
-   }
-
-   span {
-     background: var(--primary);
-     color: #fff;
-     padding: 4px 8px;
-     border-radius: 50%;
-     -webkit-border-radius: 50%;
-     -moz-border-radius: 50%;
-     -ms-border-radius: 50%;
-     -o-border-radius: 50%;
-   }
-
-   .finalText {
-     color: #9f5a2d;
-     font-weight: 800;
-   }
-
-   .devText {
-     font-weight: 800;
-   }
- }
-
- .contactUs {
-   margin-top: 24px;
-   text-align: center;
-
-   a {
-     color: rgb(53, 52, 52) !important;
-     margin: 0 10px;
-     text-decoration: underline;
-   }
- }
 
  .MuiAvatar-colorDefault {
    background: var(--primary) !important;
+ }
+
+ /* Remove text selection styles */
+ ::selection {
+   background-color: transparent;
+   color: inherit;
+ }
+
+ /* Remove selection styles for Firefox */
+ ::-moz-selection {
+   background-color: transparent;
+   color: inherit;
  }

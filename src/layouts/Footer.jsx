@@ -13,26 +13,27 @@ import { useSelector } from "react-redux";
 const useStyles = makeStyles({
   root: {
     width: "100%",
-    background: "#fff", 
+    background: "#fff",
     boxShadow: "inset 0px 1px 0px #E6E6E6",
     position: "fixed",
-    bottom:0,
+    bottom: 0,
   },
 });
 
 const Footer = () => {
   const classes = useStyles();
-  const { isOffKeys, token } = useSelector((state) => state.data);
+  const { isOffKeys } = useSelector((state) => state.data);
   const [value, setValue] = useState("devotional");
   let navigate = useNavigate();
   const handleChange = (event, newValue) => {
     setValue(newValue);
     navigate(`${newValue}`);
   };
-  if (isOffKeys)
+  // console.debug(isOffKeys);
+  if (isOffKeys && !window.location.pathname.includes('/auth') )
     return (
       <div className="div">
-        {!token && (
+      
           <BottomNavigation
             showLabels
             value={value}
@@ -60,7 +61,7 @@ const Footer = () => {
               icon={<PermIdentityOutlined />}
             />
           </BottomNavigation>
-        )}
+        
       </div>
     );
 };

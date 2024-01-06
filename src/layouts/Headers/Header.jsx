@@ -4,25 +4,33 @@ import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
 import IconButton from "@material-ui/core/IconButton";
 import SearchIcon from "@material-ui/icons/Search";
+import Close from "@material-ui/icons/Close";
 import NotificationsIcon from "@material-ui/icons/Notifications";
 import Badge from "@material-ui/core/Badge";
 import { makeStyles } from "@material-ui/core/styles";
-import Popover from "@material-ui/core/Popover";
+import FilterList from "@material-ui/icons/FilterListRounded";
 import { TextField } from "@material-ui/core";
 import { useLocation } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { getSearch, getSearch2, offKeys } from "../../store/data";
+import Menu from "@material-ui/core/Menu";
+import MenuItem from "@material-ui/core/MenuItem";
+import Fade from "@material-ui/core/Fade";
+import moment from "moment";
+
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
     marginBottom: 54,
+    padding: 0,
   },
   menuButton: {
-    marginRight: theme.spacing(2),
+    marginRight: theme.spacing(0),
   },
   title: {
     flexGrow: 1,
     textTransform: "capitalize",
+    marginLeft: theme.spacing(1),
   },
 }));
 
@@ -33,13 +41,12 @@ export default function Header() {
 
   const [anchorEl, setAnchorEl] = useState(null);
   const [search, setSearch] = useState(null);
+  const [issearch, setisSearch] = useState(false);
 
-  const handleClick = (event) => {
-    setAnchorEl(event.currentTarget);
-  };
-
-  const handleClose = () => {
+  const handleClose = (e) => {
+    handleSearch(e);
     setAnchorEl(null);
+    dispatch(offKeys(true));
   };
   const list = ["manual", "devotional", "tips", ""];
   const currentPage =
@@ -57,65 +64,166 @@ export default function Header() {
   };
   const handleSearch = (e) => {
     dispatch(offKeys(false));
-
-    setSearch(e.target.value);
-    if (currentPage === "devotional") dispatch(getSearch(e.target.value));
-    else if (currentPage === "manual") dispatch(getSearch2(e.target.value));
+    setSearch(e);
+    if (currentPage === "devotional") dispatch(getSearch(e));
+    else if (currentPage === "manual") dispatch(getSearch2(e));
   };
+  // Calculate the last Sunday
+  const nextSunday = moment().clone().day(14);
+
+  // Calculate this Sunday
+  const lastSunday = moment().clone().day(0);
+
+  // Calculate next Sunday
+  const thisSunday = moment().clone().day(7);
   return (
     <div className={classes.root}>
       <AppBar position="fixed">
         <Toolbar>
-          <Typography variant="h6" className={classes.title}>
-            {currentPage}
-          </Typography>
+          {!issearch && (
+            <Typography variant="h6" className={classes.title}>
+              {currentPage}
+            </Typography>
+          )}
+          {issearch ? (
+            <>
+              <button
+                onClick={(e) => setAnchorEl(e.currentTarget)}
+                aria-controls="fade-menu"
+                aria-haspopup="true"
+                className="btn text-white shadow-none p-2"
+              >
+                <FilterList />
+              </button>
+              <Menu
+                id="fade-menu"
+                anchorEl={anchorEl}
+                keepMounted
+                open={open}
+                onClose={handleClose}
+                TransitionComponent={Fade}
+              >
+                {page.pathname !== "/manual" ? (
+                  <>
+                    <MenuItem
+                      onClick={() =>
+                        handleClose(moment().format("dddd Do MMMM, YYYY"))
+                      }
+                    >
+                      Today's Lesson
+                      <Badge
+                        color="secondary"
+                        overlap="circular"
+                        badgeContent=" "
+                        variant="dot"
+                        className="ml-2"
+                      ></Badge>
+                    </MenuItem>
+                    <MenuItem
+                      onClick={() =>
+                        handleClose(
+                          moment()
+                            .subtract(1, "day")
+                            .format("dddd Do MMMM, YYYY")
+                        )
+                      }
+                    >
+                      Yesterday's Lesson
+                    </MenuItem>
+                    <MenuItem
+                      onClick={() =>
+                        handleClose(
+                          moment().add(1, "day").format("dddd Do MMMM, YYYY")
+                        )
+                      }
+                    >
+                      Tomorrow's Lesson
+                    </MenuItem>
+                  </>
+                ) : (
+                  <>
+                    <MenuItem
+                      onClick={() =>
+                        handleClose(thisSunday.format("dddd Do MMMM, YYYY"))
+                      }
+                    >
+                      This Week Lesson
+                      <Badge
+                        color="secondary"
+                        overlap="circular"
+                        badgeContent=" "
+                        variant="dot"
+                        className="ml-2"
+                      ></Badge>
+                    </MenuItem>
+                    <MenuItem
+                      onClick={() =>
+                        handleClose(lastSunday.format("dddd Do MMMM, YYYY"))
+                      }
+                    >
+                      Last Week Lesson
+                    </MenuItem>
+                    <MenuItem
+                      onClick={() =>
+                        handleClose(nextSunday.format("dddd Do MMMM, YYYY"))
+                      }
+                    >
+                      Next Week Lesson
+                    </MenuItem>
+                  </>
+                )}
+              </Menu>
 
-          <div>
-            <Popover
-              id={id}
-              open={open}
-              anchorEl={anchorEl}
-              onClose={handleClose}
-              color="primary"
-              anchorOrigin={{
-                vertical: "center",
-                horizontal: "left",
-              }}
-              transformOrigin={{
-                vertical: "top",
-                horizontal: "left",
-              }}
-            >
               <TextField
                 id="filled-basic"
                 label="Search by topic/date"
                 variant="filled"
                 value={search}
-                onChange={handleSearch}
+                onChange={(e) => handleSearch(e.target.value)}
                 onMouseLeave={handleSearchClose}
+                onBlur={handleSearchClose}
                 onFocus={handleSearchOpen}
                 autoFocus={true}
+                className="bg-white w-100 globalSearch shadow"
+                placeholder="Search by topic/date"
+                type="search"
               />
-            </Popover>
-            <IconButton
-              aria-label="account of current user"
-              aria-describedby={id}
-              variant="contained"
-              onClick={handleClick}
-              color="inherit"
-            >
-              <SearchIcon />
-            </IconButton>
-            <IconButton
-              aria-label="show 11 new notifications"
-              color="inherit"
-              className="d-none"
-            >
-              <Badge badgeContent={1} color="secondary">
-                <NotificationsIcon />
-              </Badge>
-            </IconButton>
-          </div>
+              <button
+                onClick={() => {
+                  handleSearch("");
+                  setisSearch(false);
+                }}
+                className="btn text-white shadow-none "
+              >
+                <Close />
+              </button>
+            </>
+          ) : (
+            <div>
+              <IconButton
+                aria-label="account of current user"
+                aria-describedby={id}
+                variant="contained"
+                onClick={() => {
+                  handleSearch("");
+                  setisSearch(true);
+                }}
+                color="inherit"
+              >
+                <SearchIcon />
+              </IconButton>
+
+              <IconButton
+                aria-label="show 11 new notifications"
+                color="inherit"
+                className="d-none"
+              >
+                <Badge badgeContent={1} color="secondary">
+                  <NotificationsIcon />
+                </Badge>
+              </IconButton>
+            </div>
+          )}
         </Toolbar>
       </AppBar>
     </div>

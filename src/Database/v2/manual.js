@@ -66,7 +66,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 1",
-        date: "SUNDAY 7TH  JANUARY, 2024",
+        date: "SUNDAY 7TH JANUARY, 2024",
         topic: "ATTITUDE OF GRATITUDE",
         text: "Ephesians 5:20, 1 Thess. 5:18; Psalm 34:1",
         memory_verse: `Psalm 100:2 “Serve the LORD with gladness: come before his presence with singing”.`,
