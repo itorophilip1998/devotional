@@ -189,9 +189,10 @@ export default function Header() {
                 type="search"
               />
               <button
-                onClick={() => {
+                onClick={() => { 
                   handleSearch("");
                   setisSearch(false);
+                   dispatch(offKeys(true));
                 }}
                 className="btn text-white shadow-none "
               >
@@ -204,10 +205,7 @@ export default function Header() {
                 aria-label="account of current user"
                 aria-describedby={id}
                 variant="contained"
-                onClick={() => {
-                  handleSearch("");
-                  setisSearch(true);
-                }}
+                onClick={() => setisSearch(true)}
                 color="inherit"
               >
                 <SearchIcon />
