@@ -34,7 +34,7 @@ function NoSub() {
       </div>
       <div className="breifInfo">
         Subscribe your double impact edition sunday school manual & the
-        dayspring devotional for <b>6 Months </b>
+        dayspring devotional for <b>6 Months</b>
       </div>
       <button
         className="subButn btn shadow mb-5"

@@ -45,19 +45,22 @@ export const data = createSlice(
                 let {
                     username,
                     email,
-                    id
+                    id,
+                    isSub 
                 } = action.payload.user
 
                 state.user = {
                     username,
                     email,
-                    id
+                    id,
+                    isSub
                 }
-                state.token = action.payload.access_token
+                state.token = action.payload?.access_token
                 window.localStorage.setItem("username", username)
                 window.localStorage.setItem("email", email)
                 window.localStorage.setItem("userId", id)
-                window.localStorage.setItem("token", action.payload.access_token)
+                window.localStorage.setItem("isSub", isSub)
+                window.localStorage.setItem("token", action.payload?.access_token) 
             },
             logout: (state, action) => {
                 state.token = false

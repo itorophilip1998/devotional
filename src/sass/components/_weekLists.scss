@@ -19,9 +19,9 @@
     color: #171f50 !important;
     font-size: 14px;
     display: block;
-    font-family: 'DM Sans' !important; 
+    font-family: 'DM Sans' !important;
     font-weight: 600;
-     text-shadow: 3px 3px 5px #908a8aec;
+    text-shadow: 3px 3px 5px #908a8aec;
     // letter-spacing: 1px;
 }
 
@@ -49,8 +49,7 @@
         align-items: stretch;
         align-content: stretch;
         flex-wrap: nowrap;
-    }
-
+    } 
     .MuiCardContent-root {
         padding: 0;
         display: flex;
@@ -58,6 +57,10 @@
         flex-wrap: nowrap;
         flex-direction: column;
         justify-content: space-between;
-    }
+    } 
+}
 
+.MuiPaper-elevation1 {
+    box-shadow: unset !important;
+    border: 1px solid rgb(231, 226, 226);
 }

@@ -19,11 +19,28 @@ import PublicRoutes from "./Middleware/PublicRoutes";
 import React, { useEffect, useState } from "react";
 // import ContactUs from "./components/ContactUs";
 import ContactUs from './pages/ContactUs';
+import { user } from './utils/request/index';
 
 
 function App() {
   const [isLoaded, setLoading] = useState(false);
-  
+  useEffect(() => {
+     
+
+    // Set up an interval to check the subscription every day at 6 pm
+    const intervalId = setInterval(() => {
+      const now = new Date();
+      if (now.getHours() === 18 && now.getMinutes() === 0) {
+         user();
+      }
+    }, 60000); // Check every minute (adjust as needed)
+
+    // Cleanup the interval on component unmount
+    return () => clearInterval(intervalId);
+  }, []);
+
+
+
   useEffect(() => {
     setTimeout(() => {
       setLoading(true)

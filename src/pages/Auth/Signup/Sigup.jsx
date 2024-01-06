@@ -108,6 +108,7 @@ export default function SignUp() {
             onMouseLeave={handleSearchClose}
             helperText={error?.username && error?.username[0]}
             onFocus={handleSearchOpen}
+            className="d-none"
           />
           <TextField
             variant="outlined"

@@ -6,7 +6,7 @@ import Sub from "./Sub";
 function Subscribe() {
   const { isSub } = useSelector((state) => state.data);
 
-  return <div>{isSub ? <Sub /> : <NoSub />}</div>;
+  return <div>{isSub===false ? <Sub /> : <NoSub />}</div>;
 }
 
 export default Subscribe;
