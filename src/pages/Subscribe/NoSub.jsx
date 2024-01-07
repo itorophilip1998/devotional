@@ -1,12 +1,30 @@
 import React from "react";
 import { usePaystackPayment } from "react-paystack";
- 
-import { useSelector } from "react-redux";
+
+// import { useSelector } from "react-redux";
+import { subscribe } from "../../utils/request/index";
 
 // you can call this function anything
-const onSuccess = (reference) => {
+const onSuccess = (data) => {
   // Implementation for whatever you want to do with reference and after success call.
-  console.log(reference);
+  const currentDate = new Date();
+  const startDate = currentDate.toISOString().split("T")[0];
+  const endDate = new Date(
+    currentDate.getFullYear(),
+    currentDate.getMonth() + 6,
+    currentDate.getDate()
+  )
+    .toISOString()
+    .split("T")[0];
+
+  const payload = {
+    start_date: startDate,
+    end_date: endDate,
+    reference: data.reference,
+    status: data.status,
+  };
+
+  subscribe(payload);
 };
 
 // you can call this function anything
@@ -16,13 +34,14 @@ const onClose = () => {
 };
 
 function NoSub() {
-  const email = useSelector((state) => state.data.user.email);
+  const email = window.localStorage.getItem("email");
+
   const config = {
     reference: new Date().getTime().toString(),
     email,
     amount: 700 * 100,
     // publicKey: "pk_live_3f3b5aebbf467d9c030ed9c76ee332eaa9ab9ddf",
-    publicKey: "pk_test_cd99366d3f03586b34de50fd34d28ff578c7e9e2",
+    publicKey: "pk_test_b9ac9968f82485184ceaa9a31ab524bdc9efb58c",
   };
   const initializePayment = usePaystackPayment(config);
 
@@ -38,7 +57,7 @@ function NoSub() {
       </div>
       <button
         className="subButn btn shadow mb-5"
-        onClick={() => {
+        onClick={async () => {
           initializePayment(onSuccess, onClose);
         }}
       >
