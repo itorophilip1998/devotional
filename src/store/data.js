@@ -22,10 +22,10 @@ export const data = createSlice(
                 email,
                 userId
             },
-            speech: { 
+            speech: {
                 volume: 1,
-                rate: 1, 
-                voice: 6 
+                rate: 1,
+                voice: 6
             },
             token,
             isOffKeys: true
@@ -42,32 +42,34 @@ export const data = createSlice(
             },
             getUser: (state, action) => {
 
+           
                 let {
                     username,
                     email,
-                    id,
-                    isSub 
+                    id
                 } = action.payload.user
 
                 state.user = {
                     username,
                     email,
-                    id,
-                    isSub
+                    id
                 }
+
                 state.token = action.payload?.access_token
+                const isSub = (action.payload.user?.is_sub) ? action.payload.user?.is_sub?.is_active : 0
+                state.isSub = isSub;
                 window.localStorage.setItem("username", username)
                 window.localStorage.setItem("email", email)
                 window.localStorage.setItem("userId", id)
                 window.localStorage.setItem("isSub", isSub)
-                window.localStorage.setItem("token", action.payload?.access_token) 
+                window.localStorage.setItem("token", action.payload?.access_token)
             },
             logout: (state, action) => {
                 state.token = false
                 window.localStorage.clear()
             },
-            getSetup: (state,action) => {
-                state.speed = action.payload 
+            getSetup: (state, action) => {
+                state.speed = action.payload
             }
         },
 

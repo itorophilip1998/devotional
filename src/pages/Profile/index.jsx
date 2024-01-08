@@ -48,7 +48,7 @@ function Profile() {
   return (
     <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
-        <Avatar className={[classes.large, "shadow "]}> 
+        <Avatar className={[classes.large, "shadow "]}>
           {user?.username?.charAt(0)?.toUpperCase()}
         </Avatar>
         <Typography
@@ -80,7 +80,7 @@ function Profile() {
           onClick={(e) => navigate("/subscribe")}
         >
           <CreditCardIcon /> Subscription
-          {!isSub && (
+          {isSub === "0" && (
             <span className="badge badge-danger float-right">expired</span>
           )}
         </div>

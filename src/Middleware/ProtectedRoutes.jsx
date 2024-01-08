@@ -1,13 +1,14 @@
-import React from "react"; 
-import { Navigate, Outlet } from "react-router-dom";
+import React from "react";
+import { Navigate, Outlet } from "react-router-dom"; 
+import { token } from "../utils/config";
 
 /* eslint-disable */
 const useAuth = () => {
-  const isAuth = localStorage.getItem("token") ?? '1936816313j1g3t815t3f13u';
+  const isAuth = token;
 
-  if (!isAuth || isAuth === null) {
+  if (!isAuth || isAuth === null || isAuth==='') {
     return false;
-  }
+  } 
   return true;
 };
 function ProtectedRoutes() {

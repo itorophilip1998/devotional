@@ -26,6 +26,15 @@ export const fogotPassword = async (data) => {
     }
 
 }
+export const refreshToken = async (data) => {
+    try {
+        let res = await axios.post(`${baseApi}/auth/refresh`, null, authHeader)
+        return res;
+    } catch (error) {
+        return error
+    }
+
+}
 export const resetPassword = async (data) => {
     try {
         let res = await axios.post(`${baseApi}/auth/reset-password`, data)
@@ -54,7 +63,15 @@ export const user = async (data) => {
 }
 export const subscribe = async (data) => {
     try {
+
         let res = await axios.post(`${baseApi}/subscribe`, data, authHeader)
+
+        if (res.data) {
+            window.localStorage.setItem(
+                "isSub",
+                res?.data?.data?.is_active || 0
+            );
+        }
         return res;
     } catch (error) {
         return error
