@@ -5,6 +5,7 @@ import { useSelector } from "react-redux";
 function DevotionalList() {
   const search = useSelector((state) => state.data.search);
 
+
   const list = useSelector((state) =>
     state.data.devotional.filter((item) => {
       if (item.topic.toLowerCase().match(search.toLowerCase())) {

@@ -3,9 +3,10 @@ import Header from "./components/Header";
 import Introduction from "./components/Introduction";
 import PrayerFocus from "./components/PrayerFocus"; 
 import { manual } from "../../Database/v2/manual";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";
 import DiscussionQuestion from "./components/DiscussionQuestion";
+import { useSelector } from "react-redux";
 /* eslint-disable */
 
 function Manual() {
@@ -22,7 +23,9 @@ function Manual() {
     const newList = newItem[0]; 
     setList({ ...newList });
   }, []); 
-
+  const navigate = useNavigate();
+  const isSub = useSelector((state) => state.data.isSub);
+  if (isSub !== "1") return navigate("/subscribe");
   return (
     <div>
       <Header item={list} />

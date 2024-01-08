@@ -4,8 +4,9 @@ import Introduction from "./components/Introduction";
 import PrayerFocus from "./components/PrayerFocus";
  
 import { devotional } from "../../Database/v2/devotional";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";
+import { useSelector } from "react-redux";
 /* eslint-disable */
 function Devotional() {
   const [list, setList] = useState([]);
@@ -21,7 +22,10 @@ function Devotional() {
     const newList = newItem[0];
     setList({ ...newList });
   }, []);
-
+  const navigate=useNavigate();
+  const isSub = useSelector((state) => state.data.isSub);
+  console.debug(isSub);
+  if (isSub !== "1") return navigate("/subscribe");
   return (
     <div>
       <Header item={list} />

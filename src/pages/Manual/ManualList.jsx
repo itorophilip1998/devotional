@@ -1,6 +1,7 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import WeekListMenu from "../../components/WeekListMenu/WeekListMenu";
+ 
 // import { getSearch } from "../../store/data";
 /* eslint-disable */
 function DevotionalList() {
@@ -13,12 +14,12 @@ function DevotionalList() {
         return item;
       } else if (item.date.toLowerCase().match(search.toLowerCase())) {
         return item;
-      
       } else if (item.lesson.toLowerCase().match(search.toLowerCase())) {
         return item;
       }
     })
   );
+
   return (
     <div className="p-1 pb-5 mb-2">
       {list &&
