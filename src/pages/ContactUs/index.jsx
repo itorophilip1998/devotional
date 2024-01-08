@@ -10,10 +10,10 @@ import Phone from "@material-ui/icons/Phone";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { signIn } from "../../utils/request";
+import { contactUs } from "../../utils/request";
 import { useNavigate } from "react-router-dom";
 import Loader from "../../components/Loader/Loader";
-import { getUser, offKeys } from "../../store/data";
+import { offKeys } from "../../store/data";
 import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -44,11 +44,8 @@ export default function contact() {
   const classes = useStyles();
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const [state, setState] = useState({
-    device: navigator.appVersion,
-  });
+  const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
-  const [passwordType, setPType] = useState("password");
   const handleInput = (evt) => {
     dispatch(offKeys(false));
     const value = evt.target.value;
@@ -66,11 +63,10 @@ export default function contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    const req = await signIn(state);
+    const req = await contactUs(state);
     if (req && req.data) {
-      dispatch(getUser(req.data));
       setLoading(false);
-      window.location.href = "/devotional";
+      toast.success("We will Get back to you within an hour!");
     } else {
       setLoading(false);
       toast.error("Opps invalid details!");
@@ -104,9 +100,9 @@ export default function contact() {
             margin="normal"
             required
             fullWidth
-            id="email"
+            id="subject"
             label="Subject"
-            name="email"
+            name="subject"
             onChange={handleInput}
             onMouseLeave={handleSearchClose}
             onFocus={handleSearchOpen}
@@ -126,10 +122,9 @@ export default function contact() {
             margin="normal"
             required
             fullWidth
-            name="password"
+            name="message"
             label="Message"
-            type={"text"}
-            rows={5}
+            minRows={5}
             multiline
             onChange={handleInput}
             onMouseLeave={handleSearchClose}

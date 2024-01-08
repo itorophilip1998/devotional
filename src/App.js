@@ -19,9 +19,7 @@ import PublicRoutes from "./Middleware/PublicRoutes";
 import React, { useEffect, useState } from "react";
 // import ContactUs from "./components/ContactUs";
 import ContactUs from './pages/ContactUs';
-import { refreshToken } from './utils/request/index';
-import { getUser } from "./store/data";
-import { useDispatch } from "react-redux";
+ 
 
 
 function App() {

@@ -61,6 +61,15 @@ export const user = async (data) => {
         return error
     }
 }
+
+export const contactUs = async (data) => {
+    try {
+        let res = await axios.post(`${baseApi}/contact-us`, data)
+        return res;
+    } catch (error) {
+        return error
+    }
+}
 export const subscribe = async (data) => {
     try {
 
