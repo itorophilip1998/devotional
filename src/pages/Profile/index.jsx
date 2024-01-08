@@ -44,12 +44,13 @@ function Profile() {
   const contactUs = () => {
     navigate("/contact-us");
   };
+  const username = user.username || "Anonymous";
   const [speech] = useState(16);
   return (
     <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
         <Avatar className={[classes.large, "shadow "]}>
-          {user?.username?.charAt(0)?.toUpperCase()}
+          {username?.charAt(0)?.toUpperCase()}
         </Avatar>
         <Typography
           variant="h6"
@@ -57,7 +58,7 @@ function Profile() {
           gutterBottom
           className="userName text-capitalize"
         >
-          {user.username}
+          {username}
         </Typography>
       </div>
       {!token ? (

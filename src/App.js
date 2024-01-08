@@ -26,7 +26,7 @@ import { useDispatch } from "react-redux";
 
 function App() {
   const [isLoaded, setLoading] = useState(false);
- 
+
 
   useEffect(() => {
     setTimeout(() => {
@@ -48,7 +48,7 @@ function App() {
             <Route path="/manual" element={<ManualList />} />
             <Route path="/devotional/:topic" element={<Devotional />} />
             <Route path="/manual/:topic" element={<Manual />} />
-            <Route path="/profile" element={<Profile />} />
+
             <Route path="/tips" element={<Tip />} />
             <Route path="/subscribe" element={<Subscribe />} />
           </Route>
@@ -62,7 +62,7 @@ function App() {
 
           </Route>
           <Route path="/contact-us" element={<ContactUs />} />
-
+          <Route path="/profile" element={<Profile />} />
         </Routes>
         {/* <ContactUs/> */}
         <Footer />

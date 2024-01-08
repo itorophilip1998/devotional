@@ -30,7 +30,7 @@ const Footer = () => {
     navigate(`${newValue}`);
   };
   // console.debug(isOffKeys);
-  if (isOffKeys && !window.location.pathname.includes('/auth') )
+  if (isOffKeys )
     return (
       <div className="div">
       
