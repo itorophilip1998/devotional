@@ -25,7 +25,6 @@ import ContactUs from './pages/ContactUs';
 function App() {
   const [isLoaded, setLoading] = useState(false);
 
-
   useEffect(() => {
     setTimeout(() => {
       setLoading(true)

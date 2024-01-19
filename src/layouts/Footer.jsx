@@ -17,6 +17,8 @@ const useStyles = makeStyles({
     boxShadow: "inset 0px 1px 0px #E6E6E6",
     position: "fixed",
     bottom: 0,
+
+    height: 70,
   },
 });
 
@@ -30,38 +32,36 @@ const Footer = () => {
     navigate(`${newValue}`);
   };
   // console.debug(isOffKeys);
-  if (isOffKeys )
+  if (isOffKeys)
     return (
-      <div className="div">
-      
-          <BottomNavigation
-            showLabels
-            value={value}
-            onChange={handleChange}
-            className={classes.root}
-          >
-            <BottomNavigationAction
-              label="Devotional"
-              value="devotional"
-              icon={<MenuBookOutlined />}
-            />
-            <BottomNavigationAction
-              label="Manual"
-              value="manual"
-              icon={<LibraryBooksOutlined />}
-            />
-            <BottomNavigationAction
-              label="Tips"
-              value="tips"
-              icon={<EventNote />}
-            />
-            <BottomNavigationAction
-              label="Profile"
-              value="profile"
-              icon={<PermIdentityOutlined />}
-            />
-          </BottomNavigation>
-        
+      <div className="div ">
+        <BottomNavigation
+          showLabels
+          value={value}
+          onChange={handleChange}
+          className={classes.root}
+        >
+          <BottomNavigationAction
+            label="Devotional"
+            value="devotional"
+            icon={<MenuBookOutlined />}
+          />
+          <BottomNavigationAction
+            label="Manual"
+            value="manual"
+            icon={<LibraryBooksOutlined />}
+          />
+          <BottomNavigationAction
+            label="Tips"
+            value="tips"
+            icon={<EventNote />}
+          />
+          <BottomNavigationAction
+            label="Profile"
+            value="profile"
+            icon={<PermIdentityOutlined />}
+          />
+        </BottomNavigation>
       </div>
     );
 };

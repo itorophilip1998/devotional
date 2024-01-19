@@ -14,8 +14,9 @@
    font-family: Arial !important;
  }
 
- //  header 
+ //  Layouts 
  @import './layouts/header.scss';
+ @import './layouts/footer.scss';
 
  //  utils 
  @import './utils/fonts.scss';
