@@ -79,11 +79,14 @@ export default function Header() {
   return (
     <div className={classes.root}>
       <AppBar position="fixed">
+        {issearch}
         <Toolbar>
-          {!issearch && (
+          {!issearch ? (
             <Typography variant="h6" className={classes.title}>
               {currentPage}
             </Typography>
+          ) : (
+            ""
           )}
           {issearch ? (
             <>
@@ -189,10 +192,10 @@ export default function Header() {
                 type="search"
               />
               <button
-                onClick={() => { 
+                onClick={() => {
                   handleSearch("");
                   setisSearch(false);
-                   dispatch(offKeys(true));
+                  dispatch(offKeys(true));
                 }}
                 className="btn text-white shadow-none "
               >
