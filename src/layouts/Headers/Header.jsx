@@ -62,12 +62,14 @@ export default function Header() {
   const handleSearchOpen = () => {
     dispatch(offKeys(false));
   };
+  
   const handleSearch = (e) => {
     dispatch(offKeys(false));
     setSearch(e);
     if (currentPage === "devotional") dispatch(getSearch(e));
     else if (currentPage === "manual") dispatch(getSearch2(e));
   };
+
   // Calculate the last Sunday
   const nextSunday = moment().clone().day(14);
 
