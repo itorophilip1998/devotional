@@ -18,7 +18,7 @@ import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
- 
+
 /* eslint-disable */
 
 const useStyles = makeStyles((theme) => ({
@@ -74,7 +74,7 @@ export default function SignIn() {
       window.location.href = "/devotional";
     } else {
       setLoading(false);
-      toast.error("Opps invalid details!");
+      toast.error(req.response.data.message);
     }
   };
   return (
@@ -118,13 +118,11 @@ export default function SignIn() {
             <VisibilityOff
               className="d-md-none passwordItem"
               onClick={(e) => setPType("text")}
-              
             />
           ) : (
             <Visibility
               className="d-md-none passwordItem"
               onClick={(e) => setPType("password")}
-              
             />
           )}
 
@@ -159,7 +157,7 @@ export default function SignIn() {
       </div>
       <ToastContainer
         position="top-right"
-        autoClose={1000}
+        autoClose={5000}
         hideProgressBar={false}
         newestOnTop={false}
         closeOnClick

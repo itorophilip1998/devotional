@@ -2,7 +2,7 @@ import { authHeader, baseApi } from "../config/index"
 import axios from "axios"
 export const signIn = async (data) => {
     try {
-        let res = await axios.post(`${baseApi}/auth/signin`, data)
+        let res = await axios.post(`${baseApi}/auth/signin`, data, authHeader)
         return res;
     } catch (error) {
         return error
@@ -11,7 +11,7 @@ export const signIn = async (data) => {
 export const signUp = async (data) => {
 
     try {
-        let res = await axios.post(`${baseApi}/auth/signup`, data)
+        let res = await axios.post(`${baseApi}/auth/signup`, data, authHeader)
         return res;
     } catch (error) {
         return error
