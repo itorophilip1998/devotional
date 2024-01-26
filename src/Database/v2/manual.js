@@ -172,7 +172,7 @@ export const manual = [
         conclusion: "Exceeding grace can be all ours, when we allow God work out His prophecy and promises through us as we engage in worship, service and working with our hands. Thank you, Jesus!"
     },
     {
-        date: "SUNDAY, 21ST JANUARY, 2024",
+        date: "SUNDAY 21ST JANUARY, 2024",
         lesson: "Lesson 3",
         topic: "BE AN EXAMPLE IN SERVICE TO HUMANITY",
         text: "ACTS 20:19-21",
@@ -428,7 +428,7 @@ export const manual = [
         conclusion: "As we serve God, God is ready to defend us, and Jesus is there to intercede for us. But if we choose to die, God respects our choice like the story of Stephen."
     },
     {
-        date: "SUNDAY, 18TH FEBRUARY, 2024",
+        date: "SUNDAY 18TH FEBRUARY, 2024",
         lesson: "Lesson 7",
         topic: "THE PRAISE KEY",
         text: "PSALM 67:3, 5-7",
