@@ -128,7 +128,7 @@ export default function SignIn() {
 
           <FormControlLabel
             control={<Checkbox value="remember" color="primary" />}
-            label="Remember me"
+            label="Keep me loggedIn"
           />
           <Button
             type="submit"
@@ -136,22 +136,34 @@ export default function SignIn() {
             variant="contained"
             color="primary"
             size="large"
-            className={classes.submit}
+            className={"shadow-sm my-3 text-unset"}
             disabled={loading !== true ? false : true}
           >
-            {loading !== true ? "Sign In" : <Loader />}
+            {loading !== true ? <b>Login</b> : <Loader />}
+          </Button>
+          <Button
+            type="button"
+            fullWidth
+            variant="contained"
+            color="dark"
+            size="large"
+            className={"mt-0 shadow-sm text-unset"}
+            disabled={loading !== true ? false : true}
+            onClick={(e) => navigate("/auth/signup")}
+          >
+            {"I don't have account, "} <b> Register</b>
           </Button>
           <Grid container>
-            <Grid item xs={12} className="text-right">
+            <Grid item xs={12} className="text-right   p-3 px-1">
               <Link to="/auth/forgot-password" variant="body2">
                 Forgot password?
               </Link>
             </Grid>
-            <Grid item xs={12} className={"mt-2"}>
+            {/* <Grid item xs={12} className={"mt-2"}>
               <Link to="/auth/signup" variant="body2">
                 {"Don't have an account? Sign Up"}
               </Link>
-            </Grid>
+            </Grid> */}
           </Grid>
         </form>
       </div>

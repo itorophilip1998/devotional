@@ -170,3 +170,16 @@
    background-color: transparent;
    color: inherit;
  }
+
+ .MuiContainer-root {
+   display: flex !important;
+   margin-top: 64px !important;
+   align-items: center !important;
+   flex-direction: column !important;
+   justify-content: center !important;
+   height: 70vh !important;
+ }
+
+ .text-unset {
+   text-transform: unset !important;
+ }

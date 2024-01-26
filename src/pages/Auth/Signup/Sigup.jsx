@@ -3,19 +3,20 @@ import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import TextField from "@material-ui/core/TextField";
-import Grid from "@material-ui/core/Grid";
+// import Grid from "@material-ui/core/Grid";
 import LockOutlinedIcon from "@material-ui/icons/LockOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import { signUp } from "../../../utils/request";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { getUser, offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
+import { useNavigate } from "react-router-dom";
 // import { Checkbox, FormControlLabel } from "@material-ui/core";
 /* eslint-disable */
 
@@ -41,7 +42,7 @@ const useStyles = makeStyles((theme) => ({
 
 export default function SignUp() {
   const classes = useStyles();
-  // const navigate = useNavigate();
+  const navigate = useNavigate();
   const dispatch = useDispatch();
   const [state, setState] = useState();
   const [loading, setLoading] = useState(false);
@@ -151,25 +152,30 @@ export default function SignUp() {
               onClick={(e) => setPType("password")}
             />
           )}
-        
+
           <Button
             type="submit"
             fullWidth
             variant="contained"
             color="primary"
-            className={classes.submit}
-            disabled={loading !== true ? false : true}
             size="large"
+            className={"shadow-sm my-3 text-unset"}
+            disabled={loading !== true ? false : true}
           >
-            {loading !== true ? "Sign Up" : <Loader />}
+            {loading !== true ? <b>Register</b> : <Loader />}
           </Button>
-          <Grid container>
-            <Grid item xs={12}>
-              <Link to="/auth/signin" variant="body2">
-                {"I have an account? Sign In"}
-              </Link>
-            </Grid>
-          </Grid>
+          <Button
+            type="button"
+            fullWidth
+            variant="contained"
+            color="dark"
+            size="large"
+            className={"mt-0 shadow-sm text-unset"}
+            disabled={loading !== true ? false : true}
+            onClick={(e) => navigate("/auth/signin")}
+          >
+            {"I have an account already, "} <b> Login</b>
+          </Button>
         </form>
       </div>
       <ToastContainer
