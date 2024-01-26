@@ -171,7 +171,6 @@ export default function SignUp() {
             color="dark"
             size="large"
             className={"mt-0 shadow-sm text-unset"}
-            disabled={loading !== true ? false : true}
             onClick={(e) => navigate("/auth/signin")}
           >
             {"I have an account already, "} <b> Login</b>
