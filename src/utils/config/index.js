@@ -9,4 +9,4 @@ export const authHeader = {
     }
 }
 // export const baseApi="https://devotional-api.herokuapp.com/api"
-export const baseApi = "http://ec2-44-207-0-223.compute-1.amazonaws.com/api"
+export const baseApi = "https://fulgadevotional.store/api"
