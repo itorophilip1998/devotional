@@ -74,7 +74,7 @@ export default function SignIn() {
       window.location.href = "/devotional";
     } else {
       setLoading(false);
-      toast.error(req.response.data.message);
+      toast.error(req.response.data.message || "Oops cant access right now!!");
     }
   };
   return (
