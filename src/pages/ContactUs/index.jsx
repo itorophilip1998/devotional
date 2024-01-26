@@ -71,6 +71,7 @@ export default function contact() {
       setLoading(false);
       toast.success("We will Get back to you within an hour!");
     }
+    navigate("/profile");
   };
   const [subjects] = useState([
     "Subscription Issues",
