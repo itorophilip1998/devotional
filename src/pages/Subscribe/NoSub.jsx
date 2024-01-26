@@ -53,7 +53,7 @@ function NoSub() {
   const config = {
     public_key: "FLWPUBK-f3d08435d1916da22fe81a0c0d94b9b5-X",
     tx_ref: Date.now(),
-    amount: 700,
+    amount: 1000,
     currency: "NGN",
     payment_options: "card,mobilemoney,ussd",
     customer: {
