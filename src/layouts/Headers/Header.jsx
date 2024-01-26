@@ -62,7 +62,7 @@ export default function Header() {
   const handleSearchOpen = () => {
     dispatch(offKeys(false));
   };
-  
+
   const handleSearch = (e) => {
     dispatch(offKeys(false));
     setSearch(e);
@@ -206,15 +206,19 @@ export default function Header() {
             </>
           ) : (
             <div>
-              <IconButton
-                aria-label="account of current user"
-                aria-describedby={id}
-                variant="contained"
-                onClick={() => setisSearch(true)}
-                color="inherit"
-              >
-                <SearchIcon />
-              </IconButton>
+              {["/manual", "/devotional"].includes(page.pathname) ? (
+                <IconButton
+                  aria-label="account of current user"
+                  aria-describedby={id}
+                  variant="contained"
+                  onClick={() => setisSearch(true)}
+                  color="inherit"
+                >
+                  <SearchIcon />
+                </IconButton>
+              ) : (
+                ""
+              )}
 
               <IconButton
                 aria-label="show 11 new notifications"
