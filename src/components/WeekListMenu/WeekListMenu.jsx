@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 export default function WeekListMenu({ item, index, route }) {
-  const imageIndex = 10;
+  // const imageIndex = 10;
   const fDate = () => {
     let originalText = item.date;
     return originalText
@@ -52,7 +52,7 @@ export default function WeekListMenu({ item, index, route }) {
       <Card className={classes.root}>
         <CardMedia
           className={classes.cover}
-          image={`/images/bg/hero${imageIndex}.png`}
+          image={`/images/bg/hero${moment(fDate()).format("M")}.png`}
           title="bg"
         />
         <div className="daysText">{moment(fDate()).format("Do MMM, y")}</div>
