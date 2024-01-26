@@ -112,7 +112,7 @@ export const devotional = [
         reading_plan: 'Genesis 18:1-20:18'
     },
     {
-        date: 'MONDAY, 8TH JANUARY, 2024',
+        date: 'MONDAY 8TH JANUARY, 2024',
         topic: 'THE PROPHECY OF INCREASE',
         text: 'PSALM 115:14 - “The LORD shall increase you more and more, you and your children”.',
         introduction: `Happy new year! You will see the end of this year and beyond. This year shall not see your end. Amen. I pray for you that the prophecy of increase upon your life and endeavor shall find fulfillment in your affairs this year 2024 in Jesus name, Amen.
@@ -122,7 +122,7 @@ export const devotional = [
         reading_plan: 'Gen. 21:1-23:30'
     },
     {
-        date: 'TUESDAY, 9TH JANUARY, 2024',
+        date: 'TUESDAY 9TH JANUARY, 2024',
         topic: 'INCREASE IN POWER',
         text: 'DEUTERONOMY 8:18 - “But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day”.',
         introduction: `May God increase you in power and majesty this year in the name of Jesus. In the prophecy of increase, power is one of the components. We all need to be told that we get wealthy by reason of the power God has activated in us; we should not ignore Him. We do hear power corrupts and absolute power corrupts absolutely. May whatever power status you attain not corrupt you, Amen.
@@ -131,7 +131,7 @@ export const devotional = [
         reading_plan: 'Gen. 24:1-29:9'
     },
     {
-        date: 'WEDNESDAY, 10TH JANUARY 2024',
+        date: 'WEDNESDAY 10TH JANUARY 2024',
         topic: 'INCREASE IN RICHES',
         text: '1 KINGS 10:23 - “So King Solomon exceeded all the Kings of the earth for riches and for wisdom”.',
         introduction: `May your riches keep increasing as your years on earth keep increasing, Amen.
@@ -142,7 +142,7 @@ export const devotional = [
         reading_plan: 'Gen. 28:10-30:43'
     },
     {
-        date: 'THURSDAY, 11TH JANUARY, 2024',
+        date: 'THURSDAY 11TH JANUARY, 2024',
         topic: 'INCREASE IN WISDOM',
         text: '1 KINGS 4:30 - “And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt”.',
         introduction: `This year, may the increase in your wisdom be recognized and known abroad.
@@ -153,7 +153,7 @@ export const devotional = [
         reading_plan: 'Gen. 31:1-36:43'
     },
     {
-        date: 'FRIDAY, 12TH JANUARY, 2024',
+        date: 'FRIDAY 12TH JANUARY, 2024',
         topic: 'INCREASE IN STRENGTH',
         text: 'PROVERBS 24:10 - “If thou faint in the day of adversity, thy strength is small.”',
         introduction: `May you keep increasing in strength as you progress into the year in the name of Jesus, Amen.
@@ -165,7 +165,7 @@ export const devotional = [
         reading_plan: 'Gen. 37:1-41:57'
     },
     {
-        date: 'SATURDAY, 13TH JANUARY, 2024',
+        date: 'SATURDAY 13TH JANUARY, 2024',
         topic: 'INCREASE IN HONOUR',
         text: '1 CHRONICLES 29:12 - “Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thy hand it is to make great, and to give strength unto all”.',
         introduction: `May you rise daily in honor throughout this year and beyond in Jesus name, Amen.
@@ -176,7 +176,7 @@ export const devotional = [
         reading_plan: 'Gen. 42:1-45:28'
     },
     {
-        date: 'SUNDAY, 14TH JANUARY, 2024',
+        date: 'SUNDAY 14TH JANUARY, 2024',
         topic: 'INCREASE IN GLORY',
         text: 'PSALM 8:5 - “For thou hast made him a little lower than the angels, and hast crowned him with glory and honour”.',
         introduction: `Happy Sunday! May God crown your life and efforts with glory and honor this year in Jesus name, Amen.
@@ -187,7 +187,7 @@ export const devotional = [
         reading_plan: 'Gen. 46:1-50:26'
     },
     {
-        date: 'MONDAY, 15TH JANUARY, 2024',
+        date: 'MONDAY 15TH JANUARY, 2024',
         topic: 'BE AN EXAMPLE IN WORD',
         text: '1 Timothy 4:12 - “Let no man despise thy youth; but be thou an example believers, in word, in conversation, in charity, in spirit, in faith, in purity”.',
         introduction: `I pray God helps you be an example of a Christ believer in good mannered speeches and soft not harsh answers to questions put across to you this year in Jesus name, Amen.
@@ -198,7 +198,7 @@ export const devotional = [
         reading_plan: 'Exodus 1:1-4:31'
     },
     {
-        date: 'TUESDAY, 16TH JANUARY, 2024',
+        date: 'TUESDAY 16TH JANUARY, 2024',
         topic: 'BE AN EXAMPLE IN CONVERSATION',
         text: '1 Tim. 4:12 - “Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in truth, in purity”.',
         introduction: `May God ensure that the words in your conversation with people come with smoothing and inspiring influences that will help you be a blessing to people whom you come in contact with this year. Amen.
@@ -208,7 +208,7 @@ export const devotional = [
         reading_plan: 'Exodus 5:1-7:13'
     },
     {
-        date: 'WEDNESDAY, 17TH JANUARY, 2024',
+        date: 'WEDNESDAY 17TH JANUARY, 2024',
         topic: 'BE AN EXAMPLE IN CHARITY',
         text: '1 Corinthians 13:1- “Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal”.',
         introduction: `I pray God makes you an example of charity – caring for the needs of others and helping them rise above hopelessness this year in Jesus name, Amen.
@@ -219,7 +219,7 @@ export const devotional = [
         reading_plan: 'Exodus 7:14-12:30'
     },
     {
-        date: 'THURSDAY, 18TH JANUARY, 2024',
+        date: 'THURSDAY 18TH JANUARY, 2024',
         topic: 'BE AN EXAMPLE IN SPIRIT',
         text: 'Romans 8:26 - “Likewise the Spirit also helpeth, our infirmities: for we know not what we should pray for as we ought: but the spirit itself maketh intercession for us with groaning’s which cannot be uttered”.',
         introduction: `I pray you allow the Holy Spirit to have His way in your life so that He can use you to fulfill His purpose on earth.
@@ -229,7 +229,7 @@ export const devotional = [
         reading_plan: 'Exodus 12:31-18:27'
     },
     {
-        date: 'FRIDAY, 19TH JANUARY, 2024',
+        date: 'FRIDAY 19TH JANUARY, 2024',
         topic: 'BE AN EXAMPLE IN TRUTH',
         text: 'John 8:32, 36 - “And ye shall know the truth, and the truth shall make you free (36) if the son therefore shall make you free, ye shall be free indeed”.',
         introduction: `May the truth that launches people to triumph be your portion this year in the name of Jesus, Amen.
@@ -239,7 +239,7 @@ export const devotional = [
         reading_plan: 'Exodus 19:1-24:18'
     },
     {
-        date: 'SATURDAY, 20TH JANUARY, 2024',
+        date: 'SATURDAY 20TH JANUARY, 2024',
         topic: 'BE AN EXAMPLE IN PURITY',
         text: 'Daniel 1:8 - “But Daniel purposed in his heart that he would not defile himself with the portion of the King’s meat, nor with the wine which he drank; therefore, he requested of the prince of the eunuchs that he might not defile himself”.',
         introduction: `May you be an example of a believer that lives a purity-driven life. May your hunger for righteousness by pursuing purity be on the increase this year.
@@ -251,7 +251,7 @@ export const devotional = [
         reading_plan: 'Exodus 25:1-31:18'
     },
     {
-        date: 'SUNDAY, 21ST JANUARY, 2024',
+        date: 'SUNDAY 21ST JANUARY, 2024',
         topic: 'BE AN EXAMPLE IN HUMILITY',
         text: 'Psalm 68:19 - “The fear of the LORD is the instruction of wisdom; and before honour is humility”.',
         introduction: `May God help you to stay in humility this year, so that you can be propelled to your due realm of honour.
@@ -261,7 +261,7 @@ export const devotional = [
         reading_plan: 'Exodus 32:1-34:35'
     },
     {
-        date: 'MONDAY, 22ND JANUARY 2024',
+        date: 'MONDAY 22ND JANUARY 2024',
         topic: 'VISION AND GOOD OUTCOME',
         text: 'Proverbs 16:20 - “He that handeth a matter wisely shall find good”.',
         introduction: `I pray God gives you a vision that will bring you good outcome this year in Jesus name. Amen
@@ -297,7 +297,7 @@ export const devotional = [
         reading_plan: 'Leviticus 11:1-17:16'
     },
     {
-        date: 'FRIDAY, 26TH JANUARY, 2024',
+        date: 'FRIDAY 26TH JANUARY, 2024',
         topic: 'THE TIME-FRAME GOAL',
         text: 'Habakkuk 2:2 - “..For the vision is yet for an appointed time”.',
         introduction: `May God grant you the grace to pray, wish and work towards the time due for your vision fulfillment, Amen.
@@ -315,7 +315,7 @@ export const devotional = [
         reading_plan: 'Leviticus 23:1-25:55'
     },
     {
-        date: 'SUNDAY, 28TH JANUARY, 2024',
+        date: 'SUNDAY 28TH JANUARY, 2024',
         topic: 'THE ATTAINMENT GOAL',
         text: 'Habakkuk 2:3 - “… but at the end it shall speak… it will surely come”.',
         introduction: `I pray God gives every visioner, this year, the ability to persevere until the vision speaks success and attainment.
@@ -324,7 +324,7 @@ export const devotional = [
         reading_plan: 'Leviticus 26:1-27:34'
     },
     {
-        date: 'MONDAY, 29TH JANUARY, 2024',
+        date: 'MONDAY 29TH JANUARY, 2024',
         topic: 'DIVINE INSTRUCTION',
         text: 'Genesis 26:2-3 - “And the LORD appeared unto him, and said, Go not down to Egypt; dwell in the land which I shall tell thee of (3) sojourn in this land…”',
         introduction: `May you not miss out on God giving you instruction that will benefit and better your life this year in Jesus name, Amen.
@@ -335,7 +335,7 @@ export const devotional = [
         reading_plan: 'Numbers 1:1-4:49'
     },
     {
-        date: 'TUESDAY, 30TH JANUARY, 2024',
+        date: 'TUESDAY 30TH JANUARY, 2024',
         topic: 'DIVINE PRESENCE (As component of Favour)',
         text: 'Genesis 26:3a - “Sojourn in this land, and I will be with thee…”',
         introduction: `I pray for you that God’s presence be and go with you this year in all the months, your travels and in your endeavours in Jesus Name.
@@ -345,7 +345,7 @@ export const devotional = [
         reading_plan: 'Numbers 5:1-10:10'
     },
     {
-        date: 'WEDNESDAY, 31ST JANUARY, 2024',
+        date: 'WEDNESDAY 31ST JANUARY, 2024',
         topic: 'DIVINE BLESSING (as component of favour)',
         text: 'Genesis 26:3b - “Sojourn in this land, and I will be with thee, and will bless thee:',
         introduction: `I pray and welcome you into the realm of divine blessings this year.  You will not see loses, you will enjoy pluses in Jesus name, Amen.
@@ -355,7 +355,7 @@ export const devotional = [
         reading_plan: 'Numbers 10:11-14:45'
     },
     {
-        date: 'THURSDAY, 1ST FEBRUARY, 2024',
+        date: 'THURSDAY 1ST FEBRUARY, 2024',
         topic: 'TRANS-GENERATIONAL GIFT (as component of Favour)',
         text: 'Genesis 26:3c - “…for unto thee; and unto thy seed, I will give all these country…”',
         introduction: `May God give you gifts that your children and even your children’s children will still come to enjoy in Jesus name, Amen.
@@ -367,7 +367,7 @@ export const devotional = [
         reading_plan: 'Numbers 15:1-21:35'
     },
     {
-        date: 'FRIDAY, 2ND FEBRUARY, 2024',
+        date: 'FRIDAY 2ND FEBRUARY, 2024',
         topic: 'SWORN BLESSING (as component of favour)',
         text: 'Genesis 26:3d - “…and I will perform the oath which I sware unto Abraham thy father”.',
         introduction: `May God exempt you from oaths that carry negative tendencies and launch you and your family members into His oath that will supply you with positive results this year, in Jesus name, Amen.
@@ -383,7 +383,7 @@ export const devotional = [
         reading_plan: 'Numbers 22:1-25:18'
     },
     {
-        date: 'SATURDAY, 3RD FEBRUARY, 2024',
+        date: 'SATURDAY 3RD FEBRUARY, 2024',
         topic: 'DIVINE MULTIPLICATION (as component of favour)',
         text: 'Genesis 26:4a - “And I will make thy seed to multiply as the stars of heaven,…”.',
         introduction: `May the favour of divine multiplication come upon your resources this year and beyond in Jesus name, Amen.
@@ -398,7 +398,7 @@ export const devotional = [
         reading_plan: 'Numbers 26:1:31:54'
     },
     {
-        date: 'SUNDAY, 4TH FEBRUARY, 2024',
+        date: 'SUNDAY 4TH FEBRUARY, 2024',
         topic: 'BESTOWED BLESSING (as component of favour)',
         text: 'Genesis 26:4b - “… and will give unto thy seed all these countries; and in thy seed shall the nations of the earth be blessed”.',
         introduction: `May God bestow to you blessings that will outlast you. Amen.
@@ -411,7 +411,7 @@ export const devotional = [
         reading_plan: 'Numbers 32:1-34:29'
     },
     {
-        date: 'MONDAY, 5TH FEBRUARY, 2024',
+        date: 'MONDAY 5TH FEBRUARY, 2024',
         topic: 'WIN A SOUL TODAY',
         text: 'Matthew 28:19 – “Go ye therefore, and teach all nations, baptizing them in the name of the father, and of the son, and of the Holy Ghost”.\n',
         introduction: `May the spirit of witnessing showcased in the book of Mathew inspire you to win a soul today in Jesus name.\n
@@ -425,7 +425,7 @@ export const devotional = [
         reading_plan: 'Numbers 35:1-36:13'
     },
     {
-        date: 'TUESDAY, 6TH FEBRUARY, 2024',
+        date: 'TUESDAY 6TH FEBRUARY, 2024',
         topic: 'TEACH THE WORD WITH JOY',
         text: 'Matthew 28:19 – “Go ye therefore, and teach all nations, baptizing them in the name of the father, and of the son, and of the Holy Ghost”.\n',
         introduction: `I pray Jesus baptizes you with the anointing to teach His word today to those you meet today, Amen.\n
@@ -436,7 +436,7 @@ export const devotional = [
         reading_plan: 'Deuteronomy 1:1-5:33'
     },
     {
-        date: 'WEDNESDAY, 7TH FEBRUARY, 2024',
+        date: 'WEDNESDAY 7TH FEBRUARY, 2024',
         topic: 'AROUSE A NEED FOR WATER BAPTISM',
         text: 'Acts 8:37 – “And as they went on their way, they came unto a certain water: and the eunuch said, see, here is water, what doth hinder me to be baptized?”',
         introduction: `I pray for you that the gospel you preach to somebody today will get that person excited and ready to go for water baptism in Jesus name, Amen.\n
@@ -449,7 +449,7 @@ export const devotional = [
         reading_plan: 'Deuteronomy 6:1-11:32'
     },
     {
-        date: 'THURSDAY, 8TH FEBRUARY, 2024',
+        date: 'THURSDAY 8TH FEBRUARY, 2024',
         topic: 'IN THE NAME OF THE FATHER',
         text: 'Proverb 18:10 – “The name of the LORD is a strong tower: the righteous runneth into it, and is safe”.\n',
         introduction: `May you enjoy divine covering from this month and in the years ahead, Amen.\n
@@ -463,7 +463,7 @@ export const devotional = [
         reading_plan: 'Deuteronomy 12:1-16:17'
     },
     {
-        date: 'FRIDAY, 9TH FEBRUARY, 2024',
+        date: 'FRIDAY 9TH FEBRUARY, 2024',
         topic: 'IN THE NAME OF THE SON',
         text: 'Proverbs 18:10 - “The name of the LORD is a strong tower: the righteous runneth into it, and is safe.\n”',
         introduction: `In this year 2024, your safety is of the Lord in your going out and coming in, in Jesus mighty name, Amen.\n
@@ -477,7 +477,7 @@ export const devotional = [
         reading_plan: 'Deuteronomy 16:18-20:20'
     },
     {
-        date: 'SATURDAY, 10TH FEBRUARY, 2024',
+        date: 'SATURDAY 10TH FEBRUARY, 2024',
         topic: 'IN THE NAME OF THE HOLY GHOST - 1',
         text: 'Romans 8:26 - “Likewise the spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the spirit itself maketh intercession for us with groanings which cannot be uttered”.\n',
         introduction: `May the Holy Ghost speak and spit fire in your favor and enmity away from you this year, Amen.\n
@@ -491,7 +491,7 @@ export const devotional = [
         reading_plan: 'Deuteronomy 21:1-26:19'
     },
     {
-        date: 'SUNDAY, 11TH FEBRUARY, 2024',
+        date: 'SUNDAY 11TH FEBRUARY, 2024',
         topic: 'IN THE NAME OF THE HOLY GHOST – 2',
         text: 'Romans 8:26 - “Likewise the spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the spirit itself maketh intercession for us with groanings which cannot be uttered”.\n',
         introduction: `Happy Sunday! May the person and power of the Holy Ghost work for your good today and always in Jesus name, Amen.\n
@@ -505,7 +505,7 @@ export const devotional = [
         reading_plan: 'Deuteronomy 27:1-3:20'
     },
     {
-        date: 'MONDAY, 12TH FEBRUARY 2024',
+        date: 'MONDAY 12TH FEBRUARY 2024',
         topic: 'PRAISE GOD FOR MERCY',
         text: 'Psalm 67:1 - “God be merciful unto us, and bless us; and cause his face to shine upon us; Selah”.\n',
         prayer_focus: 'Father, cause an atmosphere of shining to envelope me so that wherever I go and in whatever I do, I will showcase your brilliance and brightness.\n',
@@ -513,7 +513,7 @@ export const devotional = [
         reading_plan: 'Deuteronomy 31:1-34:12'
     },
     {
-        date: 'TUESDAY, 13TH FEBRUARY 2024',
+        date: 'TUESDAY 13TH FEBRUARY 2024',
         topic: 'PRAISE GOD FOR HEALTH',
         text: 'Psalm 67:2 - “That thy way may be known upon earth, thy saving health among all nations”.\n',
         prayer_focus: 'Father, we praise you for continuous health in my body, family, church and in Nigeria.\n',
@@ -521,7 +521,7 @@ export const devotional = [
         reading_plan: 'Joshua 1:1-5:12'
     },
     {
-        date: 'WEDNESDAY, 14TH FEBRUARY 2024',
+        date: 'WEDNESDAY 14TH FEBRUARY 2024',
         topic: 'PRAISE GOD FOR LIFTING',
         text: 'Psalm 67:3 - “Let the people praise thee, O God; let all the people praise thee”.\n',
         prayer_focus: 'Father, inspire me to praise you more this year so that my impact can climb high and far.\n',
@@ -529,7 +529,7 @@ export const devotional = [
         reading_plan: 'Joshua 5:13-8:35'
     },
     {
-        date: 'THURSDAY, 15TH FEBRUARY 2024',
+        date: 'THURSDAY 15TH FEBRUARY 2024',
         topic: 'PRAISE GOD FOR MORE GRACE',
         text: 'Psalm 67:4 - “O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth.\n Selah”.\n',
         prayer_focus: 'O Lord, deliver to me all that was due to me and command yokes of delay broken in my favor in Jesus name, Amen.\n',
@@ -537,7 +537,7 @@ export const devotional = [
         reading_plan: 'Joshua 9:1-12:24'
     },
     {
-        date: 'FRIDAY, 16TH FEBRUARY 2024',
+        date: 'FRIDAY 16TH FEBRUARY 2024',
         topic: 'ACCELERATED FAVOUR',
         text: 'Psalm 67:5 - “Let the people praise thee, O Lord; let all the people praise thee”.\n',
         prayer_focus: 'Father, don’t allow any threat from the enemy stop me from praising you.\n',
@@ -545,7 +545,7 @@ export const devotional = [
         reading_plan: 'Joshua 13:1-19:51'
     },
     {
-        date: 'SATURDAY, 17TH FEBRUARY 2024',
+        date: 'SATURDAY 17TH FEBRUARY 2024',
         topic: 'PRAISE GOD FOR INCREASE',
         text: 'Psalm 67:6 - “Then shall the earth yield her increase; and God, even our own God, shall bless us”.\n',
         prayer_focus: 'Father, continually give the ability to praise you for life and all the good things you have done in my life.\n',
@@ -553,7 +553,7 @@ export const devotional = [
         reading_plan: 'Joshua 20:1-24:33'
     },
     {
-        date: 'SUNDAY, 18TH FEBRUARY 2024',
+        date: 'SUNDAY 18TH FEBRUARY 2024',
         topic: 'PRAISE GOD FOR SCARING',
         text: 'Psalm 65:7 - “God shall bless us; and all the ends of the earth shall fear him”.\n',
         prayer_focus: 'Father, thank you for delivering to me the secret key of praise to scare enmity away from me and my household.\n',
@@ -561,7 +561,7 @@ export const devotional = [
         reading_plan: 'Judges 1:1-3:6'
     },
     {
-        date: 'MONDAY, 19TH FEBRUARY 2024',
+        date: 'MONDAY 19TH FEBRUARY 2024',
         topic: 'GOD’S THOUGHT: Fuels Love',
         text: 'Psalm 139:17 - “How precious also are thy thoughts unto me, O God! How great is the sum of them!”',
         prayer_focus: 'Father, thank you for loving me this much.\n',
@@ -597,7 +597,7 @@ export const devotional = [
     },
 
     {
-        date: 'FRIDAY, 23RD FEBRUARY, 2024',
+        date: 'FRIDAY 23RD FEBRUARY, 2024',
         topic: 'GOD’S THOUGHT: Restores us',
         text: 'Psalm 139:17 - “How precious also are thy thought unto me, O God! How great is the sum of them!”',
         prayer_focus: 'Father, as I continue to pray unto you, please Lord restore me on every side.\n',
@@ -615,7 +615,7 @@ export const devotional = [
     },
 
     {
-        date: 'SUNDAY, 25TH FEBRUARY, 2024',
+        date: 'SUNDAY 25TH FEBRUARY, 2024',
         topic: 'GOD’S THOUGHT: Provides daily favour',
         text: 'Psalm 139:17 - “How precious also are thy thoughts unto me, O God! How great is the sum of them!”',
         prayer_focus: 'Thank you Jesus, for despite my short comings as human, you still care for me.\n Thank you Lord.\n',
@@ -624,7 +624,7 @@ export const devotional = [
     }
     ,
     {
-        date: 'MONDAY, 26TH FEBRUARY, 2024',
+        date: 'MONDAY 26TH FEBRUARY, 2024',
         topic: 'DESIRE TO WALK IN GOD’S MERCY',
         text: 'Psalm 86:3, 4 - “Be merciful unto me, O Lord: for I cry unto thee daily (4) Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul”.\n',
         prayer_focus: 'Father, thank you for showing me mercies daily this year.\n',
@@ -633,7 +633,7 @@ export const devotional = [
     },
 
     {
-        date: 'TUESDAY, 27TH FEBRUARY, 2024',
+        date: 'TUESDAY 27TH FEBRUARY, 2024',
         topic: 'GOD’S MERCY REVERSES PEOPLE’S MOCKERY',
         text: 'Micah 7:8 - “Rejoice not against me, O mine enemy; when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me”.\n',
         prayer_focus: 'Father, by reason of your mercy, every experience in my life that causes people to mock me expires from today.\n',
@@ -642,7 +642,7 @@ export const devotional = [
     },
 
     {
-        date: 'WEDNESDAY, 28TH FEBRUARY, 2024',
+        date: 'WEDNESDAY 28TH FEBRUARY, 2024',
         topic: 'GOD’S MERCY CANCELS EVIL VERDICT',
         text: 'Micah 7:8 - “Rejoice not against me, O mine enemy; when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me”.\n',
         prayer_focus: 'Lord Jesus, don’t pass me by, I am desperately in need of a change of verdict (Mention your case to Him now).\n',
@@ -651,7 +651,7 @@ export const devotional = [
     },
 
     {
-        date: 'THURSDAY, 29TH FEBRUARY, 2024',
+        date: 'THURSDAY 29TH FEBRUARY, 2024',
         topic: 'BECOME A POINT OF REFERENCE BY GOD’S MERCY',
         text: 'Isaiah 51:2 - “Look unto Abraham your father, and unto Sarah that bare you: for I called him alone and blessed him, and increased him”.\n',
         prayer_focus: 'Father, comfort me with your mercy and catapult me to limelight and prominence.\n',
@@ -660,7 +660,7 @@ export const devotional = [
     }
     ,
     {
-        date: 'FRIDAY, 1ST MARCH, 2024',
+        date: 'FRIDAY 1ST MARCH, 2024',
         topic: 'GOD’S MERCY ENFORCES A CHANGE OF STORY',
         text: 'Psalm 3:2 - “Many there be which say of my soul, There is no hope for him in God”.\n',
         prayer_focus: 'O God, as I wait for my change of story, may I not be disappointed in the end.\n',
@@ -669,7 +669,7 @@ export const devotional = [
     },
 
     {
-        date: 'SATURDAY, 2ND MARCH, 2024',
+        date: 'SATURDAY 2ND MARCH, 2024',
         topic: 'DO NOT PAY ATTENTION TO MOCKERS',
         text: '1 Samuel 1:6, 10 - “And her adversary also provoked her sore, for to make her fret, because the LORD had shut up her womb (10) and she was in bitterness of soul, and prayed unto the LORD (for mercy), and wept sore”.\n',
         prayer_focus: 'Father, have mercy upon me in the area (mention it ) people are mocking me.\n',
@@ -678,7 +678,7 @@ export const devotional = [
     },
 
     {
-        date: 'SUNDAY, 3RD MARCH, 2024',
+        date: 'SUNDAY 3RD MARCH, 2024',
         topic: 'GOD’S MERCY TOPS ANY ACTIVITY',
         text: 'Romans 9:16 - “So then it is not of him that willeth, nor of him that runneth, but of God that showeth mercy”.\n',
         prayer_focus: 'Father, show me mercy in my project planning and implementation for good actualization.\n',
@@ -1658,7 +1658,7 @@ Have you seen a helpless sick fellow or grossly wretched family, and though you 
         reading_plan: 'Proverbs 13:1-25',
     },
     {
-        date: 'FRIDAY, 21ST JUNE, 2024',
+        date: 'FRIDAY 21ST JUNE, 2024',
         topic: 'GRACE IS AVAILABLE FOR GENEROUS GIVERS - 1',
         text: 'Acts 9:36-41 - “Then Peter arose and went with them.\n  When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and showing the coats and garments which Dorcas made, while she was with them.\n (40) But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise.\n  And she opened her eyes: and when she saw Peter, she sat up”.\n',
         introduction: `May your generous giving speak for you in time of dire need.\n
