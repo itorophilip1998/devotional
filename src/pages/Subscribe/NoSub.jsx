@@ -1,7 +1,7 @@
-import { usePaystackPayment } from "react-paystack";
+// import { usePaystackPayment } from "react-paystack";
 import { useSelector } from "react-redux";
 import { subscribe } from "../../utils/request/index";
-
+import { FlutterWaveButton, closePaymentModal } from "flutterwave-react-v3";
 
 // you can call this function anything
 const onSuccess = (data) => {
@@ -19,7 +19,7 @@ const onSuccess = (data) => {
   const payload = {
     start_date: startDate,
     end_date: endDate,
-    reference: data.reference,
+    reference: data.flw_ref,
     status: data.status,
   };
 
@@ -30,25 +30,54 @@ const onSuccess = (data) => {
   }, 1000);
 };
 
-// you can call this function anything
-const onClose = () => {
-  // implementation for  whatever you want to do when the Paystack dialog closed.
-  console.log("closed");
-};
+// // you can call this function anything
+// const onClose = () => {
+//   // implementation for  whatever you want to do when the Paystack dialog closed.
+//   console.log("closed");
+// };
 
 function NoSub() {
   const { email } = useSelector((state) => state.data.user);
 
-  const timestamp = new Date().getTime();
-  const referenceNumber = `REF-${timestamp}`;
+  // const timestamp = new Date().getTime();
+  // const referenceNumber = `REF-${timestamp}`;
+  // const config = {
+  //   reference: referenceNumber,
+  //   email,
+  //   amount: 700 * 100,
+  //   // publicKey: "pk_live_3f3b5aebbf467d9c030ed9c76ee332eaa9ab9ddf",
+  //   publicKey: "pk_test_b9ac9968f82485184ceaa9a31ab524bdc9efb58c",
+  // };
+  // const initializePayment = usePaystackPayment(config);
+
   const config = {
-    reference: referenceNumber,
-    email,
-    amount: 700 * 100,
-    // publicKey: "pk_live_3f3b5aebbf467d9c030ed9c76ee332eaa9ab9ddf",
-    publicKey: "pk_test_b9ac9968f82485184ceaa9a31ab524bdc9efb58c",
+    public_key: "FLWPUBK_TEST-7fe74240440f611fec527586f05f1b16-X",
+    tx_ref: Date.now(),
+    amount: 700,
+    currency: "NGN",
+    payment_options: "card,mobilemoney,ussd",
+    customer: {
+      email: email,
+      phone_number: "09024195493",
+      name: email,
+    },
+    customizations: {
+      title: "Fulga Devotional",
+      description: `Subscribe your double impact edition sunday school manual & the
+        dayspring devotional for  6 Months`,
+      logo: "/logo.jpeg",
+    },
   };
-  const initializePayment = usePaystackPayment(config);
+
+  const fwConfig = {
+    ...config,
+    text: "Subscribe",
+    callback: (response) => {
+      onSuccess(response);
+      closePaymentModal(); // this will close the modal programmatically
+    },
+    onClose: () => {},
+  };
 
   return (
     <div className="Subscribtion ">
@@ -60,12 +89,14 @@ function NoSub() {
         Subscribe your double impact edition sunday school manual & the
         dayspring devotional for <b>6 Months</b>
       </div>
-      <button
+      {/* <button
         className="subButn btn shadow mb-5"
         onClick={() => initializePayment(onSuccess, onClose)}
       >
         Subscribe
-      </button>
+      </button> */}
+
+      <FlutterWaveButton {...fwConfig} className="subButn btn shadow mb-5" />
     </div>
   );
 }

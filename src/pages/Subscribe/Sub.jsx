@@ -1,4 +1,3 @@
- 
 function Sub() {
   const today = new Date();
 
@@ -28,7 +27,8 @@ function Sub() {
         ₦ <h1 className="d-inline font-weight-bold">{700}</h1> only
       </div>
       <div className="breifInfo">
-        Subscription started on {formattedStartDate} and will expire on {formattedEndDate}.
+        The subscription commenced on{formattedStartDate} and will conclude on
+        {formattedEndDate}.
       </div>
       <button className="subButn btn shadow mb-5" disabled>
         Active

@@ -1,7 +1,7 @@
 // import Authorization from "./Authorization"
 
 
-export const token = window.localStorage.getItem('token')
+export const token = window.localStorage.getItem('token') 
 export const authHeader = {
     headers: {
         "Content-type": "application/json",
