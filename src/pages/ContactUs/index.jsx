@@ -69,7 +69,7 @@ export default function contact() {
       toast.success("We will Get back to you within an hour!");
     } else {
       setLoading(false);
-      toast.error("Opps invalid details!");
+      toast.success("We will Get back to you within an hour!");
     }
   };
   const [subjects] = useState([
