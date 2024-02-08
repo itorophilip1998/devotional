@@ -2,7 +2,7 @@ import React from "react";
 
 function Terms() {
   return (
-    <div className="container py-4">
+    <div className="container py-5 mb-4">
       <h1>Terms and Conditions for Fulga Devotionals Subscription Service</h1>
 
       <p>
