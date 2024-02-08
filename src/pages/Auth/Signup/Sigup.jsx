@@ -16,7 +16,8 @@ import "react-toastify/dist/ReactToastify.css";
 import { getUser, offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
+import { Checkbox, FormControlLabel } from "@material-ui/core";
 // import { Checkbox, FormControlLabel } from "@material-ui/core";
 /* eslint-disable */
 
@@ -152,7 +153,15 @@ export default function SignUp() {
               onClick={(e) => setPType("password")}
             />
           )}
-
+          <FormControlLabel className="py-3"
+            control={<Checkbox value="remember" color="primary" />}
+            label={
+              <>
+                I agree to Fulga Devotionals {" "}
+                <Link to="/terms">Terms and Conditions</Link>.
+              </>
+            }
+          />
           <Button
             type="submit"
             fullWidth
