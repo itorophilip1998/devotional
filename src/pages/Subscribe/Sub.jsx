@@ -24,7 +24,7 @@ function Sub() {
     <div className="Subscribtion ">
       <div className="headingText">You have an active subscription</div>
       <div className="priceTag my-5">
-        ₦ <h1 className="d-inline font-weight-bold">{700}</h1> only
+        ₦ <h1 className="d-inline font-weight-bold">{1000}</h1> only
       </div>
       <div className="breifInfo">
         The subscription commenced on{formattedStartDate} and will conclude on

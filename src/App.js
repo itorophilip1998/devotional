@@ -19,6 +19,8 @@ import PublicRoutes from "./Middleware/PublicRoutes";
 import React, { useEffect, useState } from "react";
 // import ContactUs from "./components/ContactUs";
 import ContactUs from './pages/ContactUs';
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import Terms from "./pages/Terms";
  
 
 
@@ -60,6 +62,8 @@ function App() {
           </Route>
           <Route path="/contact-us" element={<ContactUs />} />
           <Route path="/profile" element={<Profile />} />
+          <Route path="/policy" element={<PrivacyPolicy />} />
+          <Route path="/terms" element={<Terms />} />
         </Routes>
         {/* <ContactUs/> */}
         <Footer />

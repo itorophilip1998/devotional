@@ -67,11 +67,13 @@ export default function contact() {
     if (req && req.data) {
       setLoading(false);
       toast.success("We will Get back to you within an hour!");
+        navigate("/profile");
     } else {
       setLoading(false);
       toast.success("We will Get back to you within an hour!");
+        navigate("/profile");
     }
-    navigate("/profile");
+  
   };
   const [subjects] = useState([
     "Subscription Issues",
