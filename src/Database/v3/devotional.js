@@ -1045,7 +1045,7 @@ export const devotional = [
 ];
 
 
-// October Done
+// October Done, Next ois Novermber
 // use this format
 // export const devotional = [
 //   {
