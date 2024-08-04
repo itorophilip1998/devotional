@@ -9,6 +9,10 @@
    -moz-osx-font-smoothing: grayscale;
    background: #fff !important;
  }
+ .page{
+   width: clamp(320px, 100%, 999px) !important; 
+
+ }
 
  * {
    font-family: Arial !important;
@@ -183,3 +187,4 @@
  .text-unset {
    text-transform: unset !important;
  }
+ 

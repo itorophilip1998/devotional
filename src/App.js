@@ -36,7 +36,7 @@ function App() {
     return <Loader />
   else
     return (
-      <BrowserRouter>
+      <BrowserRouter >
         <Header />
         {/* <IsOffline /> */}
         <Routes>

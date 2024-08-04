@@ -24,10 +24,10 @@ function Devotional() {
   }, []);
   const navigate=useNavigate();
   const isSub = useSelector((state) => state.data.isSub);
-  console.debug(isSub);
+  // console.debug(isSub);
   if (isSub !== "1") return navigate("/subscribe");
   return (
-    <div>
+    <div className="page">
       <Header item={list} />
       <Navbar date={list.date} />
       <Introduction item={list} />
