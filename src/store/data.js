@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { devotional } from "../Database/v2/devotional";
-import { manual } from "../Database/v2/manual";
+import { devotional } from "../Database/v3/devotional";
+import { manual } from "../Database/v3/manual";
 
 let username = window.localStorage.getItem("username")
 let email = window.localStorage.getItem("email")

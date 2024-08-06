@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Introduction from "./components/Introduction";
 import PrayerFocus from "./components/PrayerFocus";
  
-import { devotional } from "../../Database/v2/devotional";
+import { devotional } from "../../Database/v3/devotional";
 import { useLocation, useNavigate } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";
 import { useSelector } from "react-redux";
@@ -25,7 +25,7 @@ function Devotional() {
   const navigate=useNavigate();
   const isSub = useSelector((state) => state.data.isSub);
   // console.debug(isSub);
-  if (isSub !== "1") return navigate("/subscribe");
+  // if (isSub !== "1") return navigate("/subscribe");
   return (
     <div className="page">
       <Header item={list} />
