@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Introduction from "./components/Introduction";
 import PrayerFocus from "./components/PrayerFocus";
  
-import { devotional } from "../../Database/v2/devotional";
+import { devotional } from "../../Database/v3/devotional";
 import { useLocation, useNavigate } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";
 import { useSelector } from "react-redux";

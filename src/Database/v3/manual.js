@@ -1,7 +1,7 @@
 export const manual = [
     {
-        date: "Sunday 7th July, 2024",
-        lesson: 1,
+        date: "SUNDAY 7TH JULY, 2024",
+        lesson: "Lesson 1",
         topic: "Potentialities in Prayer and Fasting",
         text: "Mark 9:17-29",
         memory_verse: "Mark 9:23 (KJV) - \"Jesus said unto him, If thou canst believe, all things are possible to him that believeth.\"",
@@ -17,25 +17,25 @@ export const manual = [
         discussion_question: [
             {
                 question: "What is fasting?",
-                answer: "Fasting is abstinence from food and drinks (Isaiah 58:3), pleasure (Amos 8:10), and social activities (Nehemiah 1:4)."
+                answer: ["Fasting is abstinence from food and drinks (Isaiah 58:3), pleasure (Amos 8:10), and social activities (Nehemiah 1:4)."]
             },
             {
                 question: "What is prayer?",
-                answer: "Prayer is a means of drawing supernatural powers to address life's issues, releasing oneself to be strengthened by God, accessing God’s grace and blessings, engaging in spiritual fervency, and seeking divine intervention."
+                answer: ["Prayer is a means of drawing supernatural powers to address life's issues, releasing oneself to be strengthened by God, accessing God’s grace and blessings, engaging in spiritual fervency, and seeking divine intervention."]
             },
             {
                 question: "What should we say about prayer and fasting?",
-                answer: "They are spiritual sacrifices that often yield good answers, ways to connect with God, opportunities to hear God more clearly, spiritual disciplines to grow, and methods to deny self-pleasures."
+                answer: ["They are spiritual sacrifices that often yield good answers, ways to connect with God, opportunities to hear God more clearly, spiritual disciplines to grow, and methods to deny self-pleasures."]
             },
             {
                 question: "What to do during prayer and fasting?",
-                answer: "Use the time for resting in God’s presence, listening to God, reading the Bible, planning extensively, and seeking guidance (Acts 13:2)."
+                answer: ["Use the time for resting in God’s presence, listening to God, reading the Bible, planning extensively, and seeking guidance (Acts 13:2)."]
             }
         ],
         conclusion: "Prayer and fasting offer numerous privileges and opportunities. Embrace them to enhance your spiritual life and achieve transformative results."
     },
     {
-        date: "SUNDAY 14th July, 2024",
+        date: "SUNDAY 14TH JULY, 2024",
         lesson: "Lesson 2",
         topic: "The Altar of Private Prayer",
         text: "Leviticus 6:12 (KJV)",
@@ -53,15 +53,15 @@ export const manual = [
         discussion_question: [
             {
                 question: "What does an altar represent?",
-                answer: "An altar represents a place or occasion for personal encounters with God, which can also be established in our hearts."
+                answer: ["An altar represents a place or occasion for personal encounters with God, which can also be established in our hearts."]
             },
             {
                 question: "What’s the fire on the altar?",
-                answer: "It represents the zeal, passion, and fervency in our prayer life that protects and purifies us."
+                answer: ["It represents the zeal, passion, and fervency in our prayer life that protects and purifies us."]
             },
             {
                 question: "How do you keep your altar of private prayer active and effective?",
-                answer: "Be consistent, persistent, and passionate in your prayers. Prepare to speak to God from your heart and approach Him with humility."
+                answer: ["Be consistent, persistent, and passionate in your prayers. Prepare to speak to God from your heart and approach Him with humility."]
             },
             {
                 question: "What are the five-fold benefits of the private prayer altar?",
@@ -78,7 +78,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 3",
-        date: "Sunday 21st July, 2024",
+        date: "SUNDAY 21ST JULY, 2024",
         topic: "GOD HEARS OUR PRAYERS",
         memory_verse: "Isaiah 43:26 - 'Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.'",
         central_truth: "Heartfelt prayers can move God to change what He earlier said.",
@@ -101,7 +101,7 @@ export const manual = [
             },
             {
                 question: "What kind of prayer is God quick to respond to?",
-                answer: "Heartfelt prayers."
+                answer:[ "Heartfelt prayers."]
             },
             {
                 question: "What is a heartfelt prayer?",
@@ -125,7 +125,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 4",
-        date: "Sunday 28th July, 2024",
+        date: "SUNDAY 28TH JULY, 2024",
         topic: "FROM SORROW TO MORE HONOURABLE",
         text: "1 Chronicles 4:9-10",
         memory_verse: "Job 14:15 - 'Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.'",
@@ -141,11 +141,11 @@ export const manual = [
         discussion_question: [
             {
                 question: "What is one quality in the life of Jabez that we all should emulate?",
-                answer: "Jabez never allowed his name to control his destiny in the wrong direction; he prayed his life to the right direction."
+                answer: ["Jabez never allowed his name to control his destiny in the wrong direction; he prayed his life to the right direction."]
             },
             {
                 question: "Where was Jabez’s prayer point taken from in the Bible?",
-                answer: "Genesis 1:28 - 'And God blessed them, and God said unto them; Be fruitful, and multiply, and replenish the earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.'"
+                answer: ["Genesis 1:28 - 'And God blessed them, and God said unto them; Be fruitful, and multiply, and replenish the earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.'"]
             },
             {
                 question: "Comparing 1 Chronicles 4:9-10 with Genesis 1:28, what did Jabez pray for?",
@@ -158,10 +158,10 @@ export const manual = [
             },
             {
                 question: "Whose prayer is also similar to Jabez's?",
-                answer: "Jacob’s prayer - Genesis 32:24-30. This involved a change of name and a change of his life’s story."
+                answer: ["Jacob’s prayer - Genesis 32:24-30. This involved a change of name and a change of his life’s story."]
             },
             {
-                question: "What other lessons can we learn from this Sunday school topic?",
+                question: "What other lessons can we learn from this SUNDAY school topic?",
                 answer: [
                     "Gain clarity about what you are named and how you name your children.",
                     "Like Jabez and Jacob, build a power base for yourself through your prayer life.",
@@ -174,7 +174,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 5",
-        date: "Sunday 4TH AUGUST, 2024",
+        date: "SUNDAY 4TH AUGUST, 2024",
         topic: "GOD’S LOVE IS BEYOND MEASURE",
         text: "Zephaniah 3:14-20",
         memory_verse: "Zephaniah 3:17 - “The Lord thy God in the midst of thee is mighty; He will save, He will rejoice over thee with joy, He will rest in His love, He will joy over thee with singing.”",
@@ -212,7 +212,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 6",
-        date: "Sunday 11TH AUGUST, 2024",
+        date: "SUNDAY 11TH AUGUST, 2024",
         topic: "EXCEEDING ABUNDANTLY ABOVE ALL",
         text: "Ephesians 3:14-21",
         memory_verse: "Ephesians 3:20 - “Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us.”",
@@ -257,7 +257,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 7",
-        date: "Sunday 18th August, 2024",
+        date: "SUNDAY 18TH August, 2024",
         topic: "GROW YOUR FAITH",
         text: "Romans 10:10-17",
         memory_verse: "Luke 17:5 - “And the Apostles said unto the Lord, Increase our faith.”",
@@ -320,7 +320,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 8",
-        date: "Sunday 25th August, 2024",
+        date: "SUNDAY 25TH August, 2024",
         topic: "CONTINUALLY SEEK TO HONOUR GOD",
         text: "Genesis 39:4-12",
         memory_verse: "1 Samuel 2:30 - “Wherefore the Lord God of Israel said, I said indeed that thy house, and the house of thy father, should walk before me forever but now the Lord said, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.”",
@@ -375,7 +375,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 9",
-        date: "Sunday 1st September, 2024",
+        date: "SUNDAY 1ST September, 2024",
         topic: "KINDNESS BEGETS KINDNESS",
         text: "Joshua 2:1-22",
         memory_verse: "Joshua 2:12 - “Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token.”",
@@ -465,7 +465,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 10",
-        date: "Sunday 8th September, 2024",
+        date: "SUNDAY 8TH September, 2024",
         topic: "BE KIND TO ONE ANOTHER",
         text: "Ephesians 4:29, 32",
         memory_verse: "Matt. 5:7 - “Blessed are the merciful; for they shall obtain mercy.”",
@@ -526,7 +526,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 11",
-        date: "Sunday 15th September, 2024",
+        date: "SUNDAY 15TH September, 2024",
         topic: "TITHES AND OFFERINGS",
         text: "Malachi 3:8-12",
         memory_verse: "Malachi 3:8 - “Will a man rob God? Yet ye have robbed me. But ye say, wherein have we robbed thee? In tithes and offerings.”",
@@ -574,7 +574,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 12",
-        date: "Sunday 22nd September, 2024",
+        date: "SUNDAY 22ND September, 2024",
         topic: "BE AN EFFECTIVE SOUL WINNER",
         text: "Acts 8:26-40",
         memory_verse: "Romans 5:8 - “But God commendeth his love towards us, in that while we were yet sinners, Christ died for us.”",
@@ -606,7 +606,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 13",
-        date: "Sunday 29th September, 2024",
+        date: "SUNDAY 29TH September, 2024",
         topic: "FEAR GOD: A RULE OF LIFE",
         text: "Luke 12:4-5, 16-21",
         memory_verse: "Ecclesiastes 12:13 - “Let us hear the conclusion of the whole matter: Fear God and keep his commandments: for this is the whole duty of man.”",
@@ -666,7 +666,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 14",
-        date: "Sunday 6th October, 2024",
+        date: "SUNDAY 6TH October, 2024",
         topic: "HOLD FAST THAT WHICH IS GOOD",
         text: "I Thess. 5:16-24",
         memory_verse: "I Thess. 5:24 - “Faithful is he that calleth you, who also will do it.”",
@@ -717,7 +717,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 15",
-        date: "Sunday 13th October, 2024",
+        date: "SUNDAY 13TH October, 2024",
         topic: "A mandate to speak God’s word",
         text: "Luke 12:11-15",
         memory_verse: "Luke 12:12 - “For the Holy Ghost shall teach you in the same hour what ye ought to say.”",
@@ -794,7 +794,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 16",
-        date: "Sunday 20th October, 2024",
+        date: "SUNDAY 20TH October, 2024",
         topic: "THE LORD IS COMPASSIONATE",
         text: "Psalm 103:1-5; Isa. 38:1-5",
         memory_verse: "Isaiah 38:5 - “Go, and say to Hezekiah, thus saith the Lord, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.”",
@@ -857,7 +857,7 @@ export const manual = [
 
     {
         lesson: "Lesson 17",
-        date: "Sunday 27th October, 2024",
+        date: "SUNDAY 27TH October, 2024",
         topic: "THE FRIENDSHIP OF JONATHAN AND DAVID",
         text: "I Samuel 18:1-5; 19:1-4",
         memory_verse: "Hebrews 7:7 - “And without all contradiction the less is blessed of the better.”",
@@ -919,12 +919,12 @@ export const manual = [
     },
     {
         lesson: "Lesson 18",
-        date: "Sunday 3rd November, 2024",
+        date: "SUNDAY 3RD November, 2024",
         topic: "THE MAN THAT FEARS GOD SHALL BE BLESSED",
         text: "Psalm 128:1-6",
         memory_verse: "GEN. 22:12 - “And he said, lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me”",
         aim: "To encourage believers to showcase reverential fear to God, whether convenient or not.",
-        introduction: "Read the week’s devotional. Abraham was the 1st person in the Bible to show that he has fear for God. This kind of fear is called reverential fear; this is not fearing God because of punishment, it is fearing God as an act of obedience in worship and because of who He is: The Almighty God. Any man or woman that fears God shall be blessed for doing so. Today, we sing “Abraham’s blessings are mine, I am blessed in the morning, blessed in the evening, Abraham’s blessings are mine”. This was because he had reverential fear for God.",
+        introduction: "Read the week’s devotional. Abraham was the 1ST person in the Bible to show that he has fear for God. This kind of fear is called reverential fear; this is not fearing God because of punishment, it is fearing God as an act of obedience in worship and because of who He is: The Almighty God. Any man or woman that fears God shall be blessed for doing so. Today, we sing “Abraham’s blessings are mine, I am blessed in the morning, blessed in the evening, Abraham’s blessings are mine”. This was because he had reverential fear for God.",
         main_point: [
             "Blessing is for those who fear God and walk in His ways - Verse 1",
             "This blessing comprises: Profiting, Happiness and well-being. (Personal blessing) – Vs. 2",
@@ -974,7 +974,7 @@ export const manual = [
     },
 
     {
-        date: "Sunday 10TH NOVEMBER, 2024",
+        date: "SUNDAY 10TH NOVEMBER, 2024",
         lesson: "Lesson 19",
         topic: "RAISE THE PRAISE: IT SHALL BE WELL!",
         text: "Acts 16:25-27",
@@ -1034,14 +1034,14 @@ export const manual = [
     },
     {
         lesson: "Lesson 20",
-        date: "Sunday 17TH NOVEMBER, 2024",
+        date: "SUNDAY 17TH NOVEMBER, 2024",
         topic: "STEPS OF FAVOUR",
         text: "2 Corinthians 9:6-7",
         memory_verse: "James 4:10",
         memory_text: "Humble yourselves in the sight of the lord, and he shall lift you up.",
         central_truth: "Arrogance robs us of favour but humility brings it in abundance.",
         aim: "To help believers know how to step into favour day by day.",
-        introduction: "Go through the week’s devotional for more insight. We serve a God who loves to favour His children. One act of favour can address several year of need and labour. For this reason, it is necessary to know what steps to take in order to attract favour from God. This day’s Sunday school lesson has laid out those steps and our ability to apply each of them will bring favour to us day by day.",
+        introduction: "Go through the week’s devotional for more insight. We serve a God who loves to favour His children. One act of favour can address several year of need and labour. For this reason, it is necessary to know what steps to take in order to attract favour from God. This day’s SUNDAY school lesson has laid out those steps and our ability to apply each of them will bring favour to us day by day.",
         main_point: [
             "Sow (or give) less, get less. Sow in abundance, get back in abundance.",
             "Listen to your heart before you sow (or give), it will instruct you on how to do it to attract favour.",
@@ -1110,7 +1110,7 @@ export const manual = [
     ,
     {
         lesson: "Lesson 21",
-        date: "Sunday 24th November, 2024",
+        date: "SUNDAY 24TH November, 2024",
         topic: "LIVING ACCORDING TO GOD’S PATTERN",
         text: "Deut. 10:12-13, Heb. 8:5",
         memory_verse: "John 15:12 - “This is my commandment, that ye love one another, as I have loved you.”",
@@ -1149,7 +1149,7 @@ export const manual = [
             {
                 question: "Who are the Moses of today according to Heb. 8:5?",
                 answer: [
-                    "The Ministers of God and Sunday School Teachers.",
+                    "The Ministers of God and SUNDAY School Teachers.",
                     "Our messages and teachings should be geared towards building good and godly character in our members and students.",
                     "Our prayer is to shape them into becoming vessels of honour and integrity for God’s use.",
                     "Our lessons should uplift them spiritually, scripturally, morally, intellectually, and dutifully."
@@ -1160,7 +1160,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 22",
-        date: "Sunday 1st December, 2024",
+        date: "SUNDAY 1ST December, 2024",
         topic: "LIVING TO PLEASE GOD",
         text: "Hebrews 11:1, 5-6",
         memory_verse: `Prov. 16:7 - “When a man’s ways please the Lord, he maketh even his enemies to be at peace with him”`,
@@ -1217,7 +1217,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 23",
-        date: "Sunday 8th December, 2024",
+        date: "SUNDAY 8TH December, 2024",
         topic: "WALKING IN THE TRUTH",
         text: "2 Cor. 4:2; 2 John 1:4",
         memory_verse: `John 8:32 - “And ye shall know the truth, and the truth shall make you free”`,
@@ -1283,7 +1283,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 24",
-        date: "Sunday 15th December, 2024",
+        date: "SUNDAY 15TH December, 2024",
         topic: "NEVER WAIVER IN YOUR TRUST IN GOD",
         text: "Job 13:13-16",
         memory_verse: `Job 13:15 - “Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.”`,
@@ -1339,7 +1339,7 @@ export const manual = [
     },
     {
         lesson: "Lesson 25",
-        date: "Sunday 22nd December, 2024",
+        date: "SUNDAY 22ND December, 2024",
         topic: "BUILDING UP OTHERS IN THE LORD",
         text: "Romans 15:1-7",
         memory_verse: `Rom. 14:19 - “Let us therefore follow after the things which make for peace and things wherewith one may edify another.”`,
