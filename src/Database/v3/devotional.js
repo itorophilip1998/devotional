@@ -1041,20 +1041,441 @@ export const devotional = [
     introduction: "May God use this last day of October and the remaining days in 2024 to enhance your well-being in all its ramifications in Jesus name, Amen. Happy Thursday and last day of the month of October 2024! From this day to the rest of your days in life: “It shall be well with you”. God has counted it for you as righteousness; because you have decided to walk in the fear of the Lord. For this reason I am hereby directed to connect you these divine pronouncements upon your life, family and endeavours; saying “Say ye to the righteous, that it shall be well with him”. Can you say Amen! Then for the entire family declare: “for they shall eat the fruit of their doing”. Say Amen again. Isaiah 3:10 works daily for you. When it is bad with somebody, he or she cannot enjoy the fruit (profit, reward, prize and benefits) of their doings. There are many people like that on planet earth. But from today, you’re covenantly exempted.",
     prayer_focus: "Father, thank you for declaring: “It shall be well with you” upon me and my family daily.",
     reading_plan: "Romans 12:1-16:27"
+  },
+  {
+    date: "Friday 1st November, 2024",
+    topic: "YOUR WIFE OR WOMB SHALL BE FRUITFUL",
+    text: "Psalm 128:3 - 'Thy wife shall be as a fruitful vine by the sides of thine house'.",
+    introduction: "I pray for you that your wife (as a man) and womb (as a woman) be fruitful to the extent of your desire, in Jesus name, Amen. Every husband desires his wife to be fruitful just as every woman desires that her womb be fruitful. That’s the special privilege God allocates to you when you fear Him and walk in His ways. As a matter of truth, being fruitful brings satisfaction, happiness and a sense of genuine success for those who fear God. I pray for you that this promise and prophecy of God, concerning fruitfulness come upon your life and family line up to three, four generation in the mighty name of Jesus. Amen. Beloved, until you are fruitful, your life cannot be eventful. Permit me to extend this grace of fruitfulness beyond marriage to other endeavours in life. God says, you’ll be fruitful if you fear Him and walk in obedience to His commands. Go for the obedience; wallow in His blessing now and in future. 'Thy wife shall be as a fruitful vine by the sides of thine house' speaks a beauty, glorious, successful and happy married life. It speaks of keeping evil eyes and hands of the enemy away from inflicting pains and hardship into your marriage. Furthermore, it talks of continuous progress, conquest and pleasure as a married man and woman. May these be fulfilled for you day by day.",
+    prayer_focus: "Father, thank you for the bed of joy and fruitfulness you have placed within my marriage.",
+    reading_plan: "1 Cor. 1:1-4:21",
+  },
+  {
+    date: "Saturday 2nd November, 2024",
+    topic: "YOUR CHILDREN SHALL BE LEADERS",
+    text: "Psalm 128:3 - 'Thy children like olive plants round about thy table'.",
+    introduction: "I pray for you: As a child to somebody, may you become a leader or as a father or mother, may all your children become leaders. 'Olive plants' have a leading grace and the capacity to reign over other plants. As proof: 'The trees went forth on a time to anoint a king over them; and they said unto the olive tree, reign thou over us' (Judges 9:8). Other trees recognize and accept olive tree as a leader. So, God’s promise and prophecy describing: 'thy children like olive plants' signifies that your children shall be leaders. Meaning, your children shall be able to lead themselves (this refers to self-leadership) and lead others (this refers to oversight leadership over other people’s functions). Beloved, until you are able to lead yourself well, you will not be able to lead others properly. Self-leadership majors on self-motivation. Motivation combines with self-discipline of maintaining a positive mindset, setting goals and taking personal initiative with relying on external motivation. An olive plant is a good example in self-leadership. In Judges 9:8 above, other trees asked olive tree to come lead and reign over them – this is external motivation. Here the answer in verse 9: 'But the olive tree said unto them, should I leave my fatness, wherewith by me they honour God and man, and go to be promoted over the trees? 'Thank God, if your children are focused, conscious of their strength and self-values; they will not only be kings and queens, they’ll be king-makers. This is why Olive oil is used specifically for anointing purposes.",
+    prayer_focus: "Father, help me to understand that self-motivation and self-discipline is superior to external motivation.",
+    reading_plan: "1 Cor. 5:1-6:20",
+  },
+  {
+    date: "Sunday 3rd November, 2024",
+    topic: "YOUR CHILDREN SHALL NOT DIE",
+    text: "Psalm 128:3 - 'Thy children like olive plants round about thy table'.",
+    introduction: "May your habit of fearing God erase pre-mature death from your life and lineage (blood line) but feed you with the wisdom that will enable you to live to very good old age (I Chron. 29:28), in the precious name of Jesus, Amen. We should not only raise our children in the fear of the Lord (Prov. 22:6) but also leave an example for them on how to live to good old age as a result of fearing God. By so doing, we will be raising kings and queens in our houses that will stand out of the crowd in life as well as showcase exceptional results in their endeavor. We will also fulfill God’s promises and prophecy upon us that: 'thy children like olive plant wound about thy table'. With this wisdom, your children shall not die young (Prov. 10:27). 'Thy children like olive plants round about thy table' speaks of your children participating in leading others (oversight leadership functions over other people or leaders). Yesterday, we dwelt on self-leadership. Today is about leading others. Leading others is a crucial skill that involves guiding and inspiring a group of individuals toward a common goal. This requires! (a) Ability to communicate clearly. (b) Lead by example (c) Build positive relationship with your team (d) provide feedback and recognition (e) Delegate and empower them to make decisions and take ownership of their work, which fosters engagement and growth.",
+    prayer_focus: "Lord, help me to lead and guide my children well, so as to help them fulfill their kingly destinies.",
+    reading_plan: "1 Cor. 7:1-40",
+  },
+  {
+    date: "Monday 4th November, 2024",
+    topic: "IT SHALL BE WELL: FAITH CONFESSION",
+    text: "Isaiah 3:10",
+    introduction: "I prophetically declare upon you, it shall be well with you and yours, in this end of the year. Amen. God, our God is worthy of your loud celebration: Why? He loves to speak into your life, declaring: “It shall be well with you”. Really, from now till the year ends, it shall be well with all of us. Taking stock of the year, I realize we are in the harvest season. For sure, by God’s grace, we shall eat the fruit of our doings. A special faith confession: “It shall be well with you”, is prophetic and prayer-based. No matter what the devil may do, God is in the mood to allow things go well with you. Have faith; don’t lose hope, no matter how things may turn adversely: It shall be well with you. Your righteousness is of God’s mercy and privilege (Isa: 54:17). “Say to the righteous, that it shall be well with him: is an inspirational statement indicating that barriers to your winning battles of life have been withdrawn. Also, every yoke round about you have been broken because God dwells with you that’s why it shall be continually well with you; meaning “No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD” (Isa. 54:17).",
+    prayer_focus: "Thank you Jesus, for I believe it shall be well with me this end of year and the next.",
+    reading_plan: "1 Cor. 8:1-11:1"
+  },
+  {
+    date: "Tuesday 5th November, 2024",
+    topic: "IT SHALL BE WELL: RAISE THE PRAISE",
+    text: "Psalm 67:5",
+    introduction: "May God give you reasons to raise your praise unto Him before this year is over so that your joy be fill as you march into 2025 in Jesus mighty name. God knows how to make things go well with us so that we can go full length to pour our praises unto Him. There are occasion in our lives that makes our joy to be on the average and there are also some that makes us raise our joy above average. When students do matriculation ceremony, their joy is on the average that they have gained admission into university or any tertiary institution. They will get to be serious with the tedious academic studies. They will face the pressure of paying school fees and they will go through several hurdles of examination from first to final year. In all believing that it shall be well with them. During the convocation ceremony, graduands do raise the praise to God to the peak because (a) all is now well with them (b) they have crossed clearance hurdles (c) they have put on the convocation gowns, taking photographs of joy and being in mood of celebration (d) they will obtain certificate that will fetch them employment (e) soon monthly salaries and financial benefits will soon enter their hands or Bank accounts and life will go on smoothly.",
+    prayer_focus: "Father, as I raise the praise unto you, release me from the hands of the oppressors.",
+    reading_plan: "1 Cor. 11:2-14:40"
+  },
+  {
+    date: "Wednesday 6th November, 2024",
+    topic: "IT SHALL BE WELL: PRAYER DECLARATION",
+    text: "John 14:13",
+    introduction: "I pray for you that it shall be well with you in all your goings and doings in this season. Amen. Jesus is the way, the truth and the life; as His identity often fuels His expectation to hear us pray to Him so that He can pave the way that it shall be well with us in life. It shall be well with us is a prophetic message and a prayer declaration that our lives, will not in anywhere, get messed up. Rather, our lives will experience and manifest many elevations, surplus supplies and elongated life span on earth. Death will be scared from us while help will keep coming to us from above. Why? Because it shall be well with us and as the prayer fire is still being declared upon us. Even when others are not praying for us; don’t stop declaring upon yourselves, endeavours and your family that it shall be well with you on all sides. God is eager to hear what we shall ask of Him, so that He will do it for us. Reason? So that the father may be glorified in the son, Jesus Christ; meaning, any day you don’t declare, it shall be well with me, it means, you don’t want Jesus to glorify the Father.",
+    prayer_focus: "O God, deliver me from the error of not allowing Jesus to glorify His father by my refusing to declare upon myself. It shall be well with me!",
+    reading_plan: "1 Cor. 15:1-16:24"
+  },
+  {
+    date: "Thursday 7th November, 2024",
+    topic: "IT SHALL BE WELL: IF FASTING IS ADDED",
+    text: "Matthew 17:21",
+    introduction: "May you realize as things are with you, if fasting is added to your attempt to find solution, it shall be well with you, Amen. Fasting, most times, accelerates solution to troubling incidents or ugly situations. Nobody who attempts to fast, go unrewarded by Heaven. Fasting helps us access grace for answers in the place of prayer. This is why Jesus told the disciples; howbeit this kind (of unclean spirit) goes not out but by prayer and fasting. Fasting destroys unbelief and fuels conviction for a miracle. Prayer alone is not enough. The disciples only majored on prayers to get the lunatic boy healed. Yet, the boy was not healed. Then Jesus, by their request for the way out for immediate healing answered, if fasting is added, he would have been well with ease. I don’t know what you are battling, struggling or grabbling with, hear the word of Jesus to you now: It shall be well with you if fasting is added. Adding fasting to your efforts request immediate answers to any situation and breakthrough will come with ease.",
+    prayer_focus: "O God, always open my eyes to the need to apply fasting so as to access answers to my challenges.",
+    reading_plan: "II Cor. 1:1-2:11"
+  },
+  {
+    date: "Friday 8th November, 2024",
+    topic: "IT SHALL BE WELL: WHEN SUPPLY IS AVAILABLE",
+    text: "Philippians 4:19",
+    introduction: "May the divine supply to you, in physical and spiritual things, not be cut off from you in this season, Amen. The prophetic message of: “It shall be well” becomes proven when supply is available. Our God is a God who is quick to supply all our needs according to his riches in glory by Christ Jesus, provided there is a prophetic message or a prayer declaration to that effect. God is the source of unending supplies when prayer is used to prompt to lift the embargo. He needs to be remolded concerning His yielding to our supply needs. Until God yields, you cannot wield His power to release supplies to you. Take note of that. Our wants and needs are in God’s hands to provide for us. A need is what you cannot do without, like car, house, shoes etc. God is primarily focused on meeting our needs while our wants requires His wisdom, grace and our endeavours to obtain. Our wants are to improve our lot whereas our needs are to ensure our survival. God is good at supplying both so that it shall be well with us now and in the future.",
+    prayer_focus: "O God help me not to struggle to get my needs met by you. Father, thank you that you are supplying all my needs.",
+    reading_plan: "II Cor. 2:12-7:16"
+  },
+  {
+    date: "Saturday 9th November, 2024",
+    topic: "IT SHALL BE WELL: IF SIN IS SHUNNED",
+    text: "John 5:14",
+    introduction: "I pray for you that sin should not hinder the fulfillment of the prophecy upon your life that: It shall be well with you and your household. The reason some believers are still struggling is because of secret sin. If sin is shunned, it shall be well with them. The man healed was full of joy. He went about the temple testifying to his healing. Those who saw him sick all those years, then saw him free. At that point Jesus saw him again and told him; I am sure you know that you are completely healed. The man said yes. Jesus then warned him to shun sin so that something worse will not happen to him. The opposite of “it shall be well with you” is “the worst thing will come upon you”. That can only happen if the man goes back to sin. Beloved, that warning is extended to us today. Beware of sin. Sin shortens one’s joy. It hinders good health and progress. Sin brings untold hardship. It can nullify someone’s blessing or healing testimony. Again, take note that it shall be well with you if sin is shunned in your life.",
+    prayer_focus: "O God, help me. Don’t let me be a slave to sin.",
+    reading_plan: "II Cor. 8:1-9:15"
+  },
+  {
+    date: "Sunday 10th November, 2024",
+    topic: "IT SHALL BE WELL: BY GRACE OR RECOVERY",
+    text: "I Samuel 30:8",
+    introduction:
+      "May God restore your lost years and replenish you to flourish one more time, in the mighty name of Jesus Christ, Amen. Recovering what you have lost to the enemy is one way that you can establish the prophecy in your life that 'It shall be well with you'. Actually, this needs you connecting strongly with God, in order to enjoy His leading and prompt instruction. Evil trends will always be there. However, it takes divine strategy to recover your due blessing and also have your lost years restore to you. When it shall not be well with you; it means a time is coming in future where you will be greatly in distress. David had this experience when he returned from battle and found his wives and children and those of his men kidnapped by his enemies. The people conspired against him, desiring to stone him. In that moment the future was bleak. David consulted with God and he was instructed to go ahead, pursue and recover all. He did, by the grace of recovery, all became well; from then henceforth. I prophesy to someone using this devotional that it shall be well with you by the grace of recovery of your lost item, opportunity and properties.",
+    prayer_focus: "O God, help me to recover all lost or stolen items that the enemy had taken from me.",
+    reading_plan: "II Cor. 10:1-13:14"
+  },
+  {
+    date: "Monday 11th November, 2024",
+    topic: "PRAISE GOD",
+    text: "Psalm 146:2",
+    introduction:
+      "May you receive help from God, as you praise His name on earth, Amen. Praise triggers help from God and men. I was in social occasion in which a prominent man walked in. The musician began to eulogize the man; pouring praises on him and giving accolades about his life. By this, the man was moved to get up from his seat, walked to the music stand and began to shower Naira (Nigerian currency) notes on the lead singer and the entire band stand. It dawned on me that words or songs of praise can sponsor financial help either from God or man. There are two reasons to praise God: One, because of what we expect to get from Him; this is praising God to attract His favour. Two, we praise God because of who He is; the Almighty, the great provider and custodian of our lives. Thus, praising as an act of worship. In Psalm 146:2a – David said: 'While I live will I praise the Lord' – this is as a point of favour for long life or for him (David) to continue to live. Then, Vs. 2b – He said – 'I will sing praises unto my God while I have any being' this is a vow to always maintain an atmosphere (or ambience) of worship.",
+    prayer_focus: "Father, receive my praise and raise my joy.",
+    reading_plan: "Galatians 1:1-2:21"
+  },
+  {
+    date: "Tuesday 12th November, 2024",
+    topic: "TELL GOD WHAT YOU WANT",
+    text: "Matthew 7:7",
+    introduction:
+      "I pray for you that you will not hesitate to pour out your mind to God in an atmosphere of prayer so that He can meet your expected and unexpected needs, Amen. Prayer session is an opportune time to pour out one’s heart to God without any reservations. Simply put, it is an occasion to tell God what you want from Him or man. It is wrong to be in a prayer arena and keep back certain things you ought to present before God. Though God searches our hearts, yet He still needs us to speak and have what we speak about to Him. Asking, seeking, and knocking are components of prayer (Ask). They sponsor accelerated favour to receive from God. They facilitate our finding what was missing in our lives and endeavors. Lastly, they kick closed doors open so that we can easily gain access into our blessings and due rewards. These indeed are avenues of favour in the arena of prayer.",
+    prayer_focus: "Father, thank you for doing far more than I had asked.",
+    reading_plan: "Galatians 3:1-4:31"
+  },
+  {
+    date: "Wednesday 13th November, 2024",
+    topic: "HUMBLE YOURSELF",
+    text: "James 4:10",
+    introduction:
+      "May God give you the grace to humble yourself so that you will not fumble in life. I give a loud celebration to God this day because He honours those who are humble and despise the proud. Until you are humble, you will not fail to stumble in your life/walk with God. Humility maximizes one’s dignity. Humble people are lovable people. If you humble yourself only in the sight of man, you lose out in life but if you humble yourself in the sight of God, you get lifted up in life. The spiritual formula for your lifting is embedded in your humility. Your humility outweighs your activity, because active people are numbered among proud people. To humble yourself in the sight of God, you must understand and walk in the will of God. You must reach out to people and make them give their lives to Christ or yield to rendering quality services to God. Every child of God must know that there is no limit to how far God can take you to if you are humble. The next thing you must ask is: 'How can I humble myself so that I become a candidate whom God shall lift up.'",
+    prayer_focus: "O God, as I have chosen to live a humble life, let me be qualified for a lifted and honourable life.",
+    reading_plan: "Galatians 5:1-6:18"
+  },
+  {
+    date: "Thursday 14th November, 2024",
+    topic: "GIVE CHEERFULLY AND BOUNTIFULLY",
+    text: "2 Corinthians 9:6,7",
+    introduction:
+      "May your giving stand you out for a special lifting and cheerful disposition. Giving is a route to favour and favour can be a reward for giving. There are two levels of giving: 'Sparingly' – This keeps one at a lower level of life. I have never heard somebody who gives sparingly become a high-flier in life. The next level is 'bountifully' – this shoots people to a high level of life and favour. Those who get promoted spiritually and physically are bountiful or sacrificial givers. They do their giving in abundance and so also continue to live in abundance. Two giving patterns also exist – Giving grudgingly and doing it cheerfully. Giving 'grudgingly' speaks of attaching complaints, regrets, and sorrowing to their giving in the church or to a fellow person. This is like pouring hot water to what somebody has planted in the farm. It does not yield good harvest or results. Giving 'cheerfully' talks about open-hand, open-mind and happy-gesture kind of action. It produces results and good harvest as well as gladdens God’s heart.",
+    prayer_focus: "Father, always help me to give to you or to men bountifully and cheerfully.",
+    reading_plan: "Ephesians 1:1-3:21"
+  },
+  {
+    date: "Friday 15th November, 2024",
+    topic: "PUT ALL YOUR TRUST IN GOD",
+    text: "Psalm 118:8",
+    introduction:
+      "May you not be a candidate of men’s deception and disappointment. Trust is a senior brother to transparency. A man who can be trusted must be as transparent as possible. Transparent means he should be open and not hide any skeleton in his cupboard. That means, he should not be trickish but fair, truthful, and honest in all his dealings with people. To put confidence in man is akin to putting trust on a man. Experience has been that, one day the man who is being trusted will begin to bring up some disappointments or lies, thereby abusing the trust or confidence reposed on him. 'It is better to trust in the Lord' is a good and timely advice. Man may fail you but God will not fail you. God will always justify the confidence reposed in Him. He does not fail, He does not disappoint. That’s why one of the steps of favour is to put confidence in God.",
+    prayer_focus: "O God, deliver me from the mistake of putting confidence in man, instead of you.",
+    reading_plan: "Ephesians 4:1-6:24"
+  },
+  {
+    date: "Saturday 16th November, 2024",
+    topic: "WALK CLOSELY WITH GOD",
+    text: "James 4:8",
+    introduction:
+      "I pray for you that you value the wisdom of drawing nearer to God day by day. Amen. Closeness to God is nearness to peace. This will help you leverage on a life of progress and prosperity. Everyone that walks closely with God has the tendency to walk away from shame, hardship, and curses. We are informed: 'Draw nigh to God, and he will draw nigh to you.' As it is often said: 'As the hand rubs the back, the back also rubs the hand'. This speaks of mutual help. That means, as you worship, God washes you clean from sin and all filthiness. This relationship that grows and thrives as you move closer to God helps you to be in line with God’s plans for your life. God is able to renew your heart so that you might take a fresh look at issues of life. When you draw nearer to God, you are essentially drawing close to peace and strength. This will make you better and to become an instrument of righteousness.",
+    prayer_focus: "Father, help me to be close to you for fulfilment in life.",
+    reading_plan: "Philippians 1:1-2:30"
+  },
+  {
+    date: "Sunday 17th November, 2024",
+    topic: "LIVE HOLY",
+    text: "I Peter 1:16 - “Because it is written, Be ye holy; for I am holy”",
+    introduction:
+      "I pray for you that the grace to live holy be delivered to you from today in the name of Jesus Christ, Amen. God Himself is holy and if we walk closely with Him, the grace to live holy will rub off on us. He that walks with a wise man will himself be wise. Once, you are a companion of an unholy man, you are bound to be unholy. One step of favour is to move away from wrong association and associate strongly with God. That will enhance your fellowship with Him and makes you to enjoy privileges from Him. God is a good and holy God; He knows how to align with us if we form alliance with Him. To live holy is to give top priority to holy living. Holy living involves total obedience to God and His laws as well as walk in His ways. Joshua 22:5 puts it very explicitly: “But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul”. This was a call to move away from idolatry practiced in Joshua’s days. Living holy also entails shunning idolatry and wholeheartedly worships God in spirit and in truth.",
+    prayer_focus: "Father, thank you for giving me the grace to live holy daily.",
+    reading_plan: "Philippians 2:1-30"
+  },
+  {
+    date: "Monday 18th November, 2024",
+    topic: "GREATER LOVE",
+    text: "John 15:13 - “Greater love hath no man than this, that a man lay down his life for his friends”",
+    introduction:
+      "May God make your love for Him greater than what you have for any other thing or person. Love grows in levels, leaps and bounds. Love can lift someone to a higher height or lower someone to the lowest abyss: It all depends on how that love is targeted at the person. Opportunity to love one another is always available on daily basis. All you need do is not to allow any pass you by. Ensure you show love or kindness to somebody today. The Bible verse above concerning love is speaking about Jesus Christ. No man had shown, no man is showing and no man will ever show the kind of love Jesus showed, and will continue to show to mankind. It is called unconditional love. Without conditions, he voluntarily laid down His live for mankind. He sees mankind as his friends. Jesus is showing a good example that we should love one another without any condition attached. Every one you see on the street, in the school, in the market and in the church needs love. So, go ahead and show love and you’ll be glad you did.",
+    prayer_focus: "Lord Jesus, help me too to show love to others without strings attached.",
+    reading_plan: "Philippians 3:1-21"
+  },
+  {
+    date: "Tuesday 19th November, 2024",
+    topic: "GREAT PEACE",
+    text: "Psalm 119:165 - “Great peace have they which love thy law: and nothing shall offend them”",
+    introduction:
+      "May God deliver you from offences that kill your love for others, Amen. Peace thrives in the atmosphere of love; so, great peace, great love and vice-versa. People who are loved stay at peace with those who love them. Meaning, for peace to prevail in a place, love must be in the air. Ease thrives where there is peace. With that, tasks are undertaken and completed. Without ease chaos sets in and duties or projects are abandoned. The experience of abandoned projects is borne by those who hate or refuse to obey divine instructions. Money may not necessarily be the cause of abandoned projects or programmes. Should they listen to and obey God, they can be guided on how to get money enough to continue their project. Secondly, projects can be abandoned because of offences. Peace and offence are at opposing ends. Offences can be avoided if: (a) One loves God’s word and walk in His ways. (b) One desires great peace. (c) God’s word is permitted to soothe our pains and allow it breathe His peace.",
+    prayer_focus: "Father, deliver me from offence. Help me to take refuge in your word.",
+    reading_plan: "Philippians 4:1-23"
+  },
+  {
+    date: "Wednesday 20th November, 2024",
+    topic: "JOYOUS GOD",
+    text: "3 John 1:4 - “I have no greater joy than to hear that my children walk in truth”",
+    introduction:
+      "I pray for you that God should be happy with you for whatever good thing you do, Amen. Love, peace and joy are components that make up the fruit of the Holy Spirit (Gal. 5:22). They are tools that help a Christian stand strong in faith. They strengthen and sustain our “walk in truth” before God and man. These three factors do sponsor God’s commendation towards us as Christians. It is time we allow these three attitudes to flow through us to others. We serve a joyous God. He has an open love for everyone. He has an agenda to keep us joyful and happy. What He requires from us is that we should walk in truth and not in falsehood in our dealings and relationship with others. A lot of yokes laid upon humanity are because so many people have refused to walk in truth. The “walk in truth” is to truly work out good plans and mutual benefits to the advantages of others. It is also to stop our feet from running evil errands. Then, to walk in obedience according to God’s word.",
+    prayer_focus: "Father, dismantle every evil structure that will compel me not to walk in truth.",
+    reading_plan: "Colossians 1:1-2:23"
+  },
+  {
+    date: "Thursday 21st November, 2024",
+    topic: "A FRIEND’S LOVE",
+    text: "Proverbs 17:17 - “A friend loveth at all times, and a brother is born for adversity”",
+    introduction:
+      "May you be connected to friends who will love you at all times, Amen. A lead pastor was addressing other pastors and he made this statement that touched everyone present. He said: If you don’t have up to ten friends who can suspend whatever they have to do for a day and rally around you when something happens to you, it means you are yet to enjoy friends’ love. A friend’s love is the love you enjoy from a friend at convenient and non-convenient times. The relationship lines of a friend and a brother are clearly drawn and defined in Prov. 17:17 above. A friend loves at all times (including the time of adversity) but a brother loves but not at all times. However, a brother will always be available in time of adversity. This is why brothers, even if they hate themselves, will always gather at a family meeting to plan for the burial of a deceased brother. What is Jesus telling us? “This is my commandment, that ye love one another, as I have loved you” (John 15:12). Jesus does not love only in time of adversity. He also loves us in time of felicity. This is to encourage brothers to love at all times, do it is for us by your grace, O Lord.",
+    prayer_focus: "Father, I come against any hidden agenda that thwart all-time love towards a brother and brother.",
+    reading_plan: "Colossians 3:1-4:18"
+  },
+  {
+    date: "Friday 22nd November, 2024",
+    topic: "GLORY IN HIS HOLY NAME",
+    text: "I Chronicles 16:10 - “Glory ye in his holy name: let the heart of them rejoice that seek the LORD”",
+    introduction:
+      "May God always endue you with the wisdom to extol His name for your success and safety in the mighty name of Jesus Christ. One day we were in the speedboat in the high sea, rain was falling and the wave was raging violently. Passengers started shouting the name of their fathers, mothers, wives, juju as well as making cultic and occultic chants or incantations. Here I was, calling God of Donald, Jesus repeatedly until God brought an unknown person that came, held our speed boat which had lost control. He had to hold the boat with one hand and using the other hand to swim till he took us to safety in a nearby fishing port and then went his way without talking to us. It is because one person glorified God! We are admonished in today’s text to glory in His holy name. For inside the name lies safety, success, survival and sustenance. God is always glorified when we call God of Donald, Jesus Christ. Let’s call the name of the Lord in time of trouble and He will rescue us. When our hearts seek the Lord to glorify His name our joy shall be full.",
+    prayer_focus: "Father, help me, let me not forget to glorify your name always.",
+    reading_plan: "I Thess. 1:1-3:13"
+  },
+  {
+    date: "Saturday 23rd November, 2024",
+    topic: "GOD’S LOVE DEFENCE",
+    text: "Psalm 91:4 - “He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler”",
+    introduction:
+      "May the Lord cover you with His feathers and let His truth be your shield in the mighty name of Jesus Christ. God is good at doing what He has promised to do in His word. It is a positive spiritual guarantee that if we trust in the Lord and allow Him to be our shield, He will always guard us from all forms of attacks. This is the assurance given by God to us in Psalm 91:4. His feathers will shield us. This is why I am always mindful of trusting God to defend me from all forms of attack. Trust means you are implicitly relying on God. The truth that is in God’s word shields us from attacks, dangers, evil, sins, and our enemy. It makes us not to feel the impact of any forms of attack. If God is your shield and buckler, He will keep you safe and defend you in all situations. No weapon fashioned against you will prosper.",
+    prayer_focus: "Father, help me to trust you always in all situations.",
+    reading_plan: "I Thess. 4:1-5:28"
+  },
+  {
+    date: "Sunday 24th November, 2024",
+    topic: "God Loves Humility",
+    text: "2 Sam. 22:28 - “And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down”",
+    introduction: "May you not be haughty (displaying feelings of scorn and seeing others as inferior to you) so that God will not bring you down, Amen. Haughty people are showy people; feeling superior to every other person around. God hates them and always determines to bring them down. Goliath was haughty that is why God used little David to bring him down and kill him by David’s hand. God loves humility. Humility attracts God’s love towards a person. The haughty shows no fear of God; the humble has the fear of God. You, with a humble heart, should be glad concerning the promises of God towards you. That He will keep you up and never down. The afflicted are those humbled by silencers or disease, God says He will heal you and grant you salvation. Amen. But the eyes of God are upon the haughty. The haughty will hear calamity for their pomposity. Your humility will yield for you felicity.",
+    prayer_focus: "O God, help me to stay humble by reason of your love towards me.",
+    reading_plan: "II Thess. 1:1-2:17"
+  },
+  {
+    date: "Monday 25th November, 2024",
+    topic: "The Lord Reigns",
+    text: "Lam. 5:19 - “Thou, O LORD, remaineth forever, thy throne from generation to generation”",
+    introduction: "May you live and fulfill your days on earth as God reigns eternally from generation to generation, Amen. Everyone on earth reigns by a specified tenure known to man. An exception is a man or woman’s tenure in terms of life-span on earth is only known by God. Tenure is a time during which someone reigns or holds office. I saw a post on a WhatsApp platform that caught my attention and may interest someone else. Someone by human wisdom sat down to peg lifespan into age bracket, giving different names and what such age should connote as follows: (a) 1-10 years – Baby’s Toddler/supervision Age (b) 11-20 years – Adolescence and studies Age (c) 21-30 years – commitment and determination Age (d) 31-40 years – Decision making age (e) 41-50 years – achievement and fulfillment age (f) 51-60 years amendments and reconciliation age (g) 61-70 years – old age (h) 71-80 – the aged (i) 81-90 years – sunset and (j) 91-100 years – overtime age. Interesting? Prophet Jeremiah while he wept and lamented over trials and tribulation, turned to God and said: “Thou, O LORD, remaineth forever, thy throne from generation to generation”. Acknowledging that God reigns forever; perhaps, God may apply His mercy on him and not allow all his days on earth to be consumed by tribulation. He called for the renewal of their tenure to keep going to higher age bracket (Lam. 5:21-22). We wish same!",
+    prayer_focus: "Father, renew our years on earth severally and restore to us those wasted years. Let us all live to full old age. Gen. 25:8, I Chron. 29:28.",
+    reading_plan: "II Thess. 3:1-18"
+  },
+  {
+    date: "Tuesday 26th November, 2024",
+    topic: "The Word of the Lord",
+    text: "Psalm 33:4 - “For the word of the LORD is right; and all his works are done in truth”",
+    introduction: "May God’s word right all the wrong in and about your life as you declare it daily, in the name of Jesus Christ. The word of the Lord is the promise and prophecy of God about our lives. It is meant to put things right in our lives and write-off the errors and negative trends in our lives. His works are done in truth for our good. It is necessary we order our steps in line with the word so that we can become worthy vessels that will glorify God on earth. One Sunday, I was going to church in the riverine Area centre, named Mbendoro, in Mbo zone of FULGA Oron District. While in the Beach, I saw over 100 boats line up ready to embark on journey by sea route. The striking thing was that all of them carry inscriptions about God signifying, they all seek God’s coverage as they embark on those journeys daily. Some inscriptions were: “In Jesus Name”, “God’s mercy”, “God is able”, “Jesus in the boat” etc. Why this storyline? It means the word of God has a role to play in our works in life. This agrees with today’s text Psm. 33:4. Until you decide to allow God design your path, He will not direct your steps to success and safety. Handover your life and work to God and He will help you do it better than your effort.",
+    prayer_focus: "Father, take away every falsehood derived by man, in what you want to use them to do for me.",
+    reading_plan: "I Timothy 1:1-17"
+  },
+  {
+    date: "Wednesday 27th November, 2024",
+    topic: "The Weary and the Burden",
+    text: "Matthew 11:28 - “Come unto me, all ye that labour and are heavy laden, and I will give you rest”",
+    introduction: "I pray for you that God should relieve you of every burden and weariness in Jesus name, Amen. To be weary means to be exhausted in strength, endurance, vigour and freshness. A weary person has a low tolerance limit and a low pleasure profile. He needs to be revived with breath of God’s work, prayer and songs. To be burdened is akin to carrying a burden – it could be burden of debt, guilt or responsibilities. Whatever it is, Jesus says come to Him, and He will take the burden away and give you rest. A boy was carrying a bucket of water on his head and the weight was so much that his neck began to sink in. An elderly man came, saw him and took the bucket from him and he became relieved. He was under stress but the stress was relieved with the help of the Elder. The Elder was like Jesus to that boy. So, it is with us. There are certain loads we’re carrying and it is only Jesus that can give us rest. Why not come over to Him – in repentance or bended knees in prayer. May your prayers be answered in Jesus Name, Amen.",
+    prayer_focus: "Father, as I cast my burden unto you, O God exchange it with your care.",
+    reading_plan: "1 Timothy 1:18-3:16"
+  },
+  {
+    date: "Thursday 28th November, 2024",
+    topic: "The Spirit of God",
+    text: "Job 33:4 - “The spirit of God hath made me, and the breath of the Almighty hath given me life”",
+    introduction: "May the spirit of God make you more effective in your endeavours; and the breath of the Almighty stir your life into a realm of excellence. God is a God of dimensions. His acts go from the level of zero to a degree of higher dimension. He makes His children triumph over adverse conditions. In life He upgrades by making them break growth barriers and advance with proven evidences of success and prayers. That is the kind of God you serve; He will do same for you. Two factors in God are responsible for a change of story in our lives. One is the spirit of God that sponsors mega breakthrough, accelerated favour, drastic changes and excellent spirit. The next is the breath of the Lord that makes a life experience positive shift. For instance, as God formed man from the dust of the ground by the breath of life; man became a living soul (Gen. 2:7). Also, by the breath of the Lord into the house of the widow of the prophet, the family moved from indebtedness to wealth. (2 Kings 4:1-7). As the year is about winding up, a positive shift is taking place in your life and finance. You will experience refreshing and flourishing in the name of Jesus.",
+    prayer_focus: "O God, thank you for making your spirit and breath to change me to a new man, woman, radiating favour and having peace.",
+    reading_plan: "I Timothy 4:1-6:21"
+  },
+  {
+    date: "Friday 29th November, 2024",
+    topic: "Fools and the Wise",
+    text: "Proverbs 29:11 - “A fool uttereth all his mind: but a wise man keepeth it in till afterwards”",
+    introduction: "May you not play the fool in your utterances, May you know how to select the right words before you speak, Amen. God is a very wise God; He knows how to demarcate the fools from the wise. He instructs us to assess them based on their utterances. The fool will open his mouth wide and say all his mind without hiding anything while the wise will keep his mouth shut and release his words as occasion demands. The one that opens his mouth makes people conclude for him what he will say even before he starts. While the wise thinks and weighs every word carefully before he speaks. It is important for you to be circumspect in your utterances. Let me remind you that when you speak, it must be your conviction and purpose, and not just saying it for sake of speaking.",
+    prayer_focus: "O God, help me to talk like a wise man and remain respectful to your instructions.",
+    reading_plan: "II Timothy 1:1-2:26"
+  },
+  {
+    date: "Saturday 30th November, 2024",
+    topic: "The Grace of God",
+    text: "Titus 2:11 - “For the grace of God that bringeth salvation hath appeared to all men.”",
+    introduction: "I pray for you that you should not abuse the grace of God bestowed upon you; but utilize it to work good to your salvation so that people will look at you and testify of the goodness of God in your life (Matt. 5:16). Amen. Some believers have had their salvation mocked because of the way they have abused the grace of God upon their lives because they still walk after the flesh and not after the spirit. So then, they that are in the flesh cannot please God. 'When a man’s ways please the LORD, he maketh even his enemies to be at peace with him' (Prov. 16:7). These set of believers are not at peace and don’t allow the light of salvation to shine through them. Jesus said: 'Let your light (of salvation) so shine before men, that they may see your good works, and glorify your Father which is in heaven' (Matt. 5:16). Word in bracket mine. In this case, the grace of God that brings salvation will appear to all men that you’re truly a child of God. The grace of God makes you: (1) Tower above all principalities, evil powers and spiritual wickedness in high places. (2) Glorify God with your life and testimonies. (3) Overcome all satanic influences to make you go back to sin or live in the flesh. (4) Grow in faith and endeavours that bring honour to God and you. May the grace of God be with you continually.",
+    prayer_focus: "Father God, help me not to abuse your grace in me.",
+    reading_plan: "II Timothy 3:1-4:22"
+  },
+  {
+    date: "Sunday 1st December, 2024",
+    topic: "The Lord Almighty",
+    text: "Isaiah 47:4 - 'As for our redeemer, the Lord of hosts is his name, the Holy one of Israel.'",
+    introduction: "Happy Sunday and happy new month! I keep praying for you that the Lord Almighty redeems you from the temptation of abusing the grace of God upon you. Amen. Until you are redeemed, you are not esteemed by onlookers concerning how you are handling your salvation. Our salvation is a product of the grace of God. It is also the gift of God and not by our work; otherwise some people will boast that they have worked better than others. Like the story of the Pharisee and the publican in the place of prayer (Luke 18:10-14). The Pharisee boasted that he is better than the publican (Lk. 18:11). But Paul said: 'for by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast' (Eph. 2:8-9). The Lord Almighty is: (1) Our Redeemer – To redeem is to prevent. He prevents us from harm. He intervenes for us against any death and destruction. He allows the blood of Jesus to speak better things for us. Beloved, be rest assured He will redeem you from any mishap in these ember months. Amen. (2) The Lord of hosts – He will fight all our seen and unseen battles; He will keep us safe in our journeys to and from. (3) The Holy one of Israel – We are the 'Israel' today, though we make attempts to be holy, yet His holiness will make up for us where we have lapses. Amen.",
+    prayer_focus: "O Lord Almighty, let your lifting hand lift me, my family, and my congregation from any calamity this end of year.",
+    reading_plan: "Titus 1:1-16"
+  },
+  {
+    date: "Monday 2nd December, 2024",
+    topic: "Let Justice Roll On",
+    text: "Amos 5:24 - 'But let justice roll on like a river, righteousness like a never failing stream'",
+    introduction: "I pray that Jesus Christ, the prince of justice, should guide you to toe the path of justice (fair dealing) with others in this end of year in the name of Jesus Christ, Amen. Justice is the practice of giving to others what is their due. It is the lack of favouritism towards one side or another.",
+    prayer_focus: "Lord, help me to execute fair dealings in and outside the church.",
+    reading_plan: "Titus 2:1-15",
+  },
+  {
+    date: "Tuesday 3rd December, 2024",
+    topic: "In Him and Through Faith",
+    text: "Ephesians 3:12 (NIV) - 'In him and through faith in him, we may approach God with freedom and confidence'.",
+    introduction: "May you operate in this last month of the year with boldness in Christ and confidence in the faith in Him, so that your miracle will not be dampened by the evil incidents in the world trying to dampen our trust in God, Amen. Beloved, what is important for us however is to realize that in Him (Christ) and through faith in Him we may approach God with freedom and confidence.",
+    prayer_focus: "Father, help us not suffer shame in the hands of mockers.",
+    reading_plan: "Titus 3:1-15",
+  },
+  {
+    date: "Wednesday 4th December, 2024",
+    topic: "Taste and See",
+    text: "Psalm 34:8 (NIV) - 'Taste and see that the LORD is good; blessed is the one who takes refuge in him'.",
+    introduction: "I pray for you that by your daily experiences, may you taste the delicious part of serving God and see the goodness of God in the land of the living, in Jesus name, Amen. There is no bitter taste for those who genuinely fear and trust in the Lord.",
+    prayer_focus: "Father, sustain me in the realm where I taste and see your goodness.",
+    reading_plan: "Philemon 1:1-25",
+  },
+  {
+    date: "Thursday 5th December, 2024",
+    topic: "The Name of the Lord",
+    text: "Proverbs 18:10 (NJV) - 'The name of the LORD is a strong tower: the righteous runneth into it, and is safe'.",
+    introduction: "I pray for you that the name of the LORD fortifies you from every attack and enmity and keep you in safety into the New Year and beyond, in Jesus name. Amen. Nothing gives the righteous immunity like the name of the Lord.",
+    prayer_focus: "O Lord, fortify me from harm and charm, being that I call your name daily.",
+    reading_plan: "Hebrews 1:1-2:18",
+  },
+  {
+    date: "Friday 6th December, 2024",
+    topic: "Out of His Fullness",
+    text: "John 1:16 (KJV) - 'And of his fullness have all we received, and grace for grace'.",
+    introduction: "I pray for you that out of His fullness, receive grace in place of grace in Jesus name. Amen. Dear believer let us operate on earth as those whom grace had already been given to excel in life. Grace means God going ahead of us in the race of life.",
+    prayer_focus: "Father, help me to walk in the consciousness that grace for exploits is already ahead of me.",
+    reading_plan: "Hebrews 3:1-4:13",
+  },
+  {
+    date: "Saturday 7th December, 2024",
+    topic: "The Heavens Declare",
+    text: "Psalm 19:1 - 'The heavens declare the glory of God; and the firmament sheweth his handy work'.",
+    introduction: "May your testimonies this year declare the glory of God upon your life and endeavours, in Jesus name Amen. The highpoint of a believer's relationship with God is when the heavens declare the glory of God upon the person's life.",
+    prayer_focus: "Lord, let my life declare your glory.",
+    reading_plan: "Hebrews 4:14-7:28",
+  },
+  {
+    date: "Sunday 8th December, 2024",
+    topic: "A Person’s Wisdom Yields Patience",
+    text: "Proverbs 19:11 - 'The discretion of a man deferreth his anger; and it is his glory to pass over a transgression'.",
+    introduction: "May God grant you the wisdom that yields patience in place of anger and help you to overlook offence and move on to higher heights in life, in Jesus name, Amen.",
+    prayer_focus: "Father, deliver me from the spell of anger and the bane of offences.",
+    reading_plan: "Hebrews 8:1-10:23",
+  },
+
+
+  {
+    date: "Monday 9th December, 2024",
+    topic: "O Come Let Us Sing",
+    text: "Psalms 95:1 - “O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation”.",
+    introduction: "Happy New Week! May God raise physical and divine partners for you in the place of worship to strengthen you to sing, praise and adore God with the whole of your being, in the name of Jesus, Amen. Beloved, there is need to seize every opportunity we have to worship and adore our God. He is the keeper of our lives and custodian of our souls. He, alone, knows what good to do for us daily. Until we are committed to worship God, He will not be committed to favour, fight and fend for us. O come, let us sing unto the LORD, is a call to worship God in oneness of heart and unity of faith. It takes uncommon zeal to worship God and derive benefits therefrom. Singing and making a joyful noise will spur, excite and inspire God to grant us benefits of salvation. The Bible says God inhabits in the praises of His people (Psalm 22:3). Singing and joyful noise constitute an atmosphere of praise. The presence of God in this atmosphere often brings forth open doors, answered prayers, supernatural defense and divine protection.",
+    prayer_focus: "Father, grant me help from above as I sing and praise your name.",
+    reading_plan: "Hebrews 10:24-13:25"
+  },
+  {
+    date: "Tuesday 10th December, 2024",
+    topic: "The Lord Gives Strength",
+    text: "Psalm 29:11 b - “The Lord will give strength unto his people; the Lord will bless his people with peace”.",
+    introduction: "I pray for you that the Lord gives you strength when your faith is about to fail and the Lord bless you with peace when your patience is about to be exhausted in view of the troubles of life, in the name of Jesus Christ, Amen. Beloved, God is all and all for us. We dare not toy with Him so that He should not allow us go astray as we run the race of life. The Lord has gifts and blessings for us. The tendency to enjoy these provisions yields to our ability to yield ourselves to Him. We must endeavor to cling to God daily and continually so that the devil will not have a field day over us. We are rightly told in the text for today, that the Lord Almighty will give us strength to overcome when the troubles and limitations of this world dare to visit us. Therefore we must always love Him, in order to enjoy and continue to enjoy this privilege. Secondly, the Lord Adonai will bless us with peace that sponsors grace, safety and security when the adversities of live will raise their ugly heads. So, stay in His presence with praise, joy and singing to enjoy these.",
+    prayer_focus: "Father, thank you for your gift of strength and blessing of peace to enable me overcome the trauma of life.",
+    reading_plan: "James 1:1-27"
+  },
+  {
+    date: "Wednesday 11th December, 2024",
+    topic: "I Have Fought the Good Fight",
+    text: "2 Tim. 4:7 - “I have fought a good fight, I have finished my course, I have kept the faith”.",
+    introduction: "I pray for you that whatever good fight you need to fight in the area of your career, may you finish your course and keep the faith in Jesus name, Amen. A successful and victorious life hinges on three factors: - Fighting the good fight that leads to success and our relevance - Fighting the course of our endeavors without giving up along the way - Keeping our faith in God intact without compromising with the devil. Every child of God must intentionally harbor these at the back of his/her mind. Paul the Apostle did live, thrive, survive and flourish by these three factors as he boldly testifies in the text above. Moreover, when we are able to get involved in these three factors, four benefits await us namely: - We will have favour that supercedes our labour – 1Cor. 15:10 - We will enjoy testimonies that will silence all acrimonies - Rom. 8:31, Rom. 8:31, 37. - We will have supply of sufficient grace that cancels all our infirmities, weaknesses and shortcomings - 2Cor. 12:9. - We will enjoy flourishing and grace to finish strong in the course of our lives - 2Tim. 4:7",
+    prayer_focus: "Father, empower me daily to fight the good fight, finish my course you set for me in life and keep my faith in you intact.",
+    reading_plan: "James 2:1-3:12"
+  },
+  {
+    date: "Thursday 12th December, 2024",
+    topic: "Be Completely Humble",
+    text: "Ephesians 4:2 - “With all lowliness and meekness, with longsuffering; for bearing one another in love”.",
+    introduction: "May no trace of pride be found in you so that you will patiently bear with one another in love as this year is winding up, in Jesus name, Amen. Apostle Paul’s preaching theme to the Ephesian church was: One Lord, one faith, one baptism. The aim was to fetch them blessing, conquests, honour and the privilege of continuity in service to God. Also, for these to happen, they needed to be completely humble before God and man. On the people part, this did not require superficial treatment; rather, it needed deep down determination to file off the rough edges of pride in their lives and utterances. Explaining Paul’s admonition in the text – “With all lowliness” means be completely humble. That is, don’t mind who you are but pay attention to whom God wants you to be. - “And meekness” means gentle. Until you are gentle, you cannot be entitled to God’s grace because God resists the proud and gives grace to the humble (1 Peter 5:5). - “With longsuffering; for bearing one another in love”, means be patient bearing with one another in love. This same message is still being preached to us today. May we yield to it in Jesus name, Amen.",
+    prayer_focus: "Father, help me to do away with pride and qualify for loud testimonies.",
+    reading_plan: "James 3:13-5:20"
+  },
+  {
+    date: "Friday 13th December, 2024",
+    topic: "In the Same Way",
+    text: "James 2:17 (NIV) - “In the same way faith by itself if it is not accompanied by action is dead.”",
+    introduction: "May God inspire you to add action to your faith so that your endeavours in the Lord will not be in vain. Amen. Faith fares when action is added to our believing. Faith being alone cannot accomplish anything because it is one-handed-scenario. It is handicapped and cannot produce results. For instance, when you pray, add fasting to it or when you sing add giving to it. Both fasting and giving are action added to our prayers. Prayer and fasting wrought miracles while singing and giving bring forth prosperity. In the same way, you are hereby admonished that your faith alone will not yield quick results in your church services endeavors. Works or actions should be added. Your action can involve your use of money, time, attention, skill or anything of value to boost and uplift your service to God. Solomon added sacrificial giving in addition to attendance in church and gained profitably and wonderfully. It earned him a divine visitation that prompted God to ask him at night, “what do you want me to do for you” (1 kings 3:3-5). God did beyond what he asked or thought (1 Kings 3:12:13). May God do it for you in the same way and exceed limits.",
+    prayer_focus: "Father, use my actions or works before to increase and enhance my worth in life.",
+    reading_plan: "1 Peter 1:1-2:12"
+  },
+  {
+    date: "Saturday 14th December, 2024",
+    topic: "Hope Deferred",
+    text: "Proverbs 13:12 - “Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.”",
+    introduction: "May your hope not be deferred and your longing fulfilled so that your life will experience freshness and flourishing like a tree of life, Amen. Hope is a sponsor of health because hope deferred or postponed makes the heart sick. Overall heart health is derived from the word of God or instructions coming from God to sustain us in faith. However, the heart being sick is not in terms of pains but by reason of worry and anxiety. When we have expectations from God based on the promises and prophecies, we have something to base our hope upon but where delay sets in, worry, sleepless nights and other nervous conditions set in but when the fulfillment of a desire comes in, it will rekindle hope and make one to be expectant. At the point of manifestation of the expectation comes the flourishing of health like that of a tree. I’m here to encourage someone, don’t allow your hope seem deferred. Indulge in singing, dancing, prayers and praises to God, He will visit you with His promise. That will help Him too to prove Himself as a promise keeper. A tree of life is a living tree that sheds its leaves and generates new ones as time goes on.",
+    prayer_focus: "Father, help me not to despair at all as I wait for the fulfillment of my heart desires.",
+    reading_plan: "1 Peter 2:13-3:12"
+  },
+  {
+    date: "Sunday 15th December, 2024",
+    topic: "Submit Yourselves",
+    text: "James 4:7 - “Submit yourselves therefore to God. Resist the devil, and he will flee from you.”",
+    introduction: "I pray for you that God should inspire you to submit yourself to His will so that the devil will flee from you. Amen. “Submit yourself therefore to God” is a command and demand made to a group, preferably the church. Until you submit yourself to God, you may not be able to surmount the obstacles, troubles, or upheavals that may come up. Barriers get destroyed and blockages get broken spiritually when we submit to God. Once such a victory is achieved in the spiritual realm, it becomes easy to have things working right well and normally in the physical realm. The devil understands this principle; that is why he will keep resisting us where and when we don’t submit to God’s will. You can imagine the higher level of agony Jesus would have experienced if He hadn’t submitted Himself to the will of God at Gethsemane (Matthew 26:39, 44). Each time we yield to God’s will, the devil will flee from us.",
+    prayer_focus: "Father, compel me to submit myself to your authority always so that evil incidents will be far from me.",
+    reading_plan: "1 Peter 5:1-4"
+  },
+  {
+    date: "Monday 16th December, 2024",
+    topic: "Bear the Infirmities of the Weak",
+    text: "Romans 15:1 - “We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.”",
+    introduction: "I pray for you that God should make you grow stronger so as to bear the burdens of the weak in Jesus' name, Amen. Burden-bearing is a tasking experience. It gets someone weighed down and affects his or her effectiveness at work. Burden-lifting is a great experience of relief and ease. It makes someone feel divinely visited and frees somebody from life’s tension down to the innermost part of one’s being. An infirmity is an abnormal experience that disrupts a person’s normal bodily functioning. It could be sickness, weakness, or bodily disorder that affects one’s fitness, soundness, and wellness. It can result in lack of physical strength and mental alertness or mental strength. A lot of people don’t like to bear with the infirmities of the weak. They find it difficult to care for, tolerate them, talk less of helping them. Paul the Apostle writing to the church in Rome admonished them saying: “We then that are strong ought to bear the infirmities of the weak and not to please ourselves”. What he is simply saying is that we should not only desire to please ourselves but should extend help, care, pleasure, and even finances to those who are not functioning well bodily. This of course should occupy our minds in this end of the year—how are such people coping with life and see how to reach out to them as individuals, families, and as a church; with one kind of help or the other.",
+    prayer_focus: "Father, help me to seek to please others, more than I do for myself.",
+    reading_plan: "2 Peter 1:1-21"
+  },
+  {
+    date: "Tuesday 17th December, 2024",
+    topic: "Please Your Neighbor",
+    text: "Romans 15:2 - “Let every one of us please his neighbor for his good to edification”",
+    introduction: "I pray for you that as you feel fine, may you also make your neighbor in the compound or friend at work to also feel fine, Amen. To please somebody is about an action taken to make that person happy, feel loved, satisfied, and enjoy pleasures. It is to help that person build for himself or herself an atmosphere of delight, rejoicing, feasting, jubilation, and celebration. It should make the person feel good about himself and herself. Besides the physical elation and elevation, it launches the person into an atmosphere of spiritual edification. I tell you, you yourself will be more pleased if you can please your neighbor in such a way that you make him or her sit down and be smiling, singing, and dancing. You make the person have and upgrade in his/her spiritual favor. I remember a time, one of my neighbors was struggling with an old car tire. Sometimes, it would puncture on the way and delay him on journeys. Then I went to buy a spare tire and decided to buy one as an end-of-year gift for him. Oh, come and see the joy that triggered out of the man’s life. He praised God, thanked me, felt a relief, and enjoyed his journeys. He remarked that I had made the year for him. That was our year of smiling, singing, and dancing (2017). That same year, I had a new car given to me by the church. There are great rewards if you can please your neighbor.",
+    prayer_focus: "Father, compel me to please my neighbor so that I don’t miss out of my rewards.",
+    reading_plan: "2 Peter 1:1-21"
+  },
+  {
+    date: "Wednesday 18th December, 2024",
+    topic: "Even Christ Pleased Not Himself",
+    text: "Romans 15:3 - “For even Christ pleased not himself; but, as it is written, the reproaches of them that reproached thee fell on me”.",
+    introduction: "May you follow the example of Jesus and not seek to please yourself only. Amen. Seeking to please your neighbor is another word for self-denial. Until you deny yourself of some things, you will not make room for certain new things and privileges to be delivered to you. Even Christ pleased not himself; if He did, He wouldn’t have accepted to come to earth and die for our sins. He forsook and denied Himself of the pleasures of Heaven to suffer pains, shame, and death on the cross. As is written, the reproaches (insults) of them that reproach us fell on him. That’s self-denial, accepting to bear and endure the insults, blackmail, and shame which you know nothing about or you are innocent of. Beloved, as Christians, make up your mind to receive insults for serving God. If you have not yet seen, wait, it will come. If you have seen or are even going through it right now, keep enduring, it will bring you a greater weight of glory. There is glory in self-denial. Imagine, if Jesus didn’t deny Himself the comfort of Heaven, how would He have become the savior of the world and have a name that is above every name: that at the mention of His name every knee bows in Heaven, on earth, and under the earth. That speaks of exceeding glory.",
+    prayer_focus: "Father, help me not to miss out on the glory you have accorded me by helping me to deny myself.",
+    reading_plan: "2 Peter 3:1-18"
+  },
+  {
+    date: "Thursday 19th December, 2024",
+    topic: "Have Hope",
+    text: "Romans 15:4 - “for whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope”.",
+    introduction: "I pray for you that your hope will not be dashed because of what you are passing through. May God give you patience and comfort to have hope that tomorrow will be better, Amen. Hope is what harnesses blessings and hope is what hinders us from getting frustrated whenever we face the vicissitudes of life. God gave us hope so that we can cope with the challenges of life. Solomon in his wisdom wrote: “for to him that is joined to all the living there is hope: for a living dog is better than a dead lion. What triggers the comparison is because when there’s hope, there is life. As the year is winding off, we should have hope that next year will be far better than this year with its attendant testimonies. Two traits in our lifestyle help to trigger, sustain and restore hope. These are patience and comfort. Patience is the capacity to endure what is difficult or disagreeable without complaining, expecting that a change will come. Hope is an expectation or anticipation that something good will happen. Comfort gives strength to the hope that a new chapter will be opened. Comfort helps to ease the grief or distress. Always understand that there will not be a better yesterday because of the hope that tomorrow will be better.",
+    prayer_focus: "Lord Jesus, endow me with hope for a better tomorrow.",
+    reading_plan: "1 John 1:1-2:27"
+  },
+  {
+    date: "Friday 20th December, 2024",
+    topic: "Be Likeminded",
+    text: "Romans 15:5 - “Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus”.",
+    introduction: "May you and another believer be of the same mind (likeminded) concerning the teachings of Jesus so that unity of purpose be established in the church and your endeavors will ensure unity of the spirit in the bond of peace. Amen. Being like-minded is having the same mind or same habit of thought. It is also likened to having a like disposition or purpose concerning a matter. The matter that matters to us is Jesus Christ. Therefore, may we be like-minded one to another according to how Christ Jesus has ordained us to be. Absence of like-mindedness speaks of disunity, division, and segregation instead of having a congregation. The reference to church as a congregation is the reason for being people with like-minds. God the father, and of the son, and of the Holy Ghost (Matthew 28:19) depicts that they are likeminded one towards another. Meaning, we are to connect in the gesture of being likeminded, if we are to achieve anything meaningful in our Christian walk and work. As seen in the text above, we cannot be like-mind if the God of patience and consolation does not grant us the grace. So, we need patience and consolation toward each other to be like-minded.",
+    prayer_focus: "Father, in this end time, compel your followers to be like-minded. With this unity, we defeat the devil.",
+    reading_plan: "1 John 2:28-4:21"
+  },
+  {
+    date: "Saturday 21st December, 2024",
+    topic: "Glorify God",
+    text: "Romans 15:6 - “That ye may with one mind and one mouth glorify God, even the father of our Lord Jesus Christ”.",
+    introduction: "I pray for you that your mind and mouth be tuned to glorify God, in Jesus name, Amen. It takes like-mindedness to glorify God in all earnestness and sincerity of purpose. When God is glorified, grace is released and lifting ensues as a result. Do you desire a lifting, then glorify God. If you glorify Him, He will grant you access to limitless opportunities that will not only leave you a source of blessing to the people around you but will also make your name to be established in history. Glorifying God takes from us all attitude of selfishness and self-centeredness. It empowers God’s work and power in our lives. When we glorify God, we’re naturally put in a position of further blessings because God will continue to do for us that which will make us glorify Him more. The capacity to do this is embedded in our like-mindedness (one mind, one mouth). Thus, unity of the spirit will make our glorification of God more impactful.",
+    prayer_focus: "Father, help me to always be united with fellow believers in the glorification of your name.",
+    reading_plan: "1 John 5:1-21"
+  },
+
+  {
+    date: "Sunday 22nd December, 2024",
+    topic: "Receive One Another",
+    text: "Romans 15:7 - “Wherefore receive ye one another, as Christ also received us to the glory of God”.",
+    introduction: "O God, may nothing make you reject, instead of receive, a fellow believer to the glory of God’s Holy name. This I pray for all the users of this devotional, in the mighty name of Jesus Christ Amen. One thing we don’t do to glorify God is when we bring rejection (in place of reception) to bear in our relationship with fellow believers. It is a gross error to reject one another. Be convinced that God has a reason for bringing you in contact with another person. Primary, God wants His name to be glorified by such connection. So, in church, preacher don’t reject member. Member don’t reject preacher. Listen to Paul’s message to the church in Rome – “Wherefore receive ye one another, as Christ also received us to the glory of God”. Let’s heed to this call and it will do us more good. A picture of how we should receive one another is shown in 1 Samuel 18:1 – “And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul”. This is how the friendship and relationship of Jonathan and David was triggered and inaugurated. If this did not happen, may be Jesus’ genealogy would not have been traced to David (Matt. 1:5-17).",
+    prayer_focus: "O God, compel me to receive one another as you did for Jonathan to David.",
+    reading_plan: "2 John 1:1-3 John 1:15"
   }
+
 ];
 
-
-// October Done, Next ois Novermber
-// use this format
-// export const devotional = [
-//   {
-//     date: "Monday 1st July, 2024",
-//     topic: "",
-//     text: "",
-//     introduction:
-//       "",
-//     prayer_focus: "",
-//     reading_plan: "",
-//   }
-// ]
+ 

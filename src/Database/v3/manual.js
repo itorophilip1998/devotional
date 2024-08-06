@@ -1,1419 +1,1408 @@
 export const manual = [
     {
-        img: "/images/bg/hero9.png",
-
-        lesson: "Lesson 1 ",
-        date: "Sunday 3rd July, 2022",
-        topic: "COME TO JESUS FOR STRENGTH",
-        text: "Isaiah 40:29-31",
-        memory_verse:
-            "Isaiah 40:29-31, “Come unto me, all ye that labour and are heavy laden, and I will give you rest”.",
-        aim: "To see fasting and prayer as the route to acquire strength for exploits in life and our daily tasks.",
-        central_truth:
-            "Strength is essential to shield us from the stresses and strains of life and endeavours.",
-        introduction:
-            "Jesus plays a-triple-role as far as divine strength is concerned.  He is a channel of strength (Phil. 4:13).  He gives and increases strength (Isa. 40:29) and He is involved in strength renewal (Isa. 40:31).  In case you lost your strength in any area of life.  Come to Jesus.  You cannot give what you don’t have.  Jesus Himself waited for forty days and forty nights (Matt. 4:1-11) to receive strength from God, the father.",
+        date: "Sunday 7th July, 2024",
+        lesson: 1,
+        topic: "Potentialities in Prayer and Fasting",
+        text: "Mark 9:17-29",
+        memory_verse: "Mark 9:23 (KJV) - \"Jesus said unto him, If thou canst believe, all things are possible to him that believeth.\"",
+        central_truth: "Prayer and fasting have the potential to reverse what seemed impossible.",
+        aim: "To teach that the efficacy or deficiency of prayer and fasting is based on our belief system.",
+        introduction: "Review the week's devotional for deeper insight. Potentialities in prayer and fasting refer to their capabilities to achieve significant results. These practices are powerful tools for overcoming challenges and accomplishing goals. The effectiveness of prayer and fasting depends on our belief in their power. In the passage, the father of the afflicted child had no faith, relying solely on Jesus’ faith for healing. It demonstrates that belief is crucial for the success of prayer and fasting.",
         main_point: [
-            "Waiting to get strength renewed or endued is important.",
-            "Divine strength gives you strength to carry our physical duties.",
-            "Divine strength shields you from fainting and weariness as you go about your affairs.",
+            "A man approached Jesus with his son suffering from a dumb spirit, described as foaming and gnashing his teeth (Mark 9:17-18).",
+            "Jesus lamented about the faithlessness of the generation and cast out the foul spirit (Mark 9:19-25).",
+            "After the healing, Jesus returned the boy to his father (Mark 9:26-27).",
+            "The disciples inquired about why they couldn’t cast out the spirit and learned that prayer and fasting are essential for such spiritual feats (Mark 9:28-29)."
         ],
         discussion_question: [
             {
-                question:
-                    "Who are the people described as a type of Christ who also harvested divine strength?",
-                answer: [
-                    "A type of Christ, like Moses, a Deliverer and law giver as well as Elijah a Prophet and destroyer of baal(idolatry); also fasted for forty days and harvested strength.",
-                ],
+                question: "What is fasting?",
+                answer: "Fasting is abstinence from food and drinks (Isaiah 58:3), pleasure (Amos 8:10), and social activities (Nehemiah 1:4)."
             },
             {
-                question: "Can divine strength be transferrable?",
-                answer: [
-                    "Yes; Moses gave divine strength to Joshua and seventy Elders while Elijah gave his to Elisha, Jehu and Hazeel (1Kings 19:17).",
-                ],
+                question: "What is prayer?",
+                answer: "Prayer is a means of drawing supernatural powers to address life's issues, releasing oneself to be strengthened by God, accessing God’s grace and blessings, engaging in spiritual fervency, and seeking divine intervention."
             },
             {
-                question:
-                    "Prayer is communicating with God. Cite the biblical instances:",
-                answer: [
-                    "In the Garden of Eden, God and man simply talked – Gen 3:8-13",
-                    "Now we pray and petition with thanksgiving - Phil. 4:6-7.",
-                    "First mentioned of prayer (calling on His name) was in Gen 4:26)",
-                ],
+                question: "What should we say about prayer and fasting?",
+                answer: "They are spiritual sacrifices that often yield good answers, ways to connect with God, opportunities to hear God more clearly, spiritual disciplines to grow, and methods to deny self-pleasures."
             },
             {
-                question:
-                    "Fasting means denying our bodies of its usual provision and pleasures.",
-                answer: [
-                    "Bible mentions denying yourself: food and water - Exo. 34:28, Deut. 9:9",
-                    "Fasting was ordained for the church by Jesus - Mark 2:19-20, Luke 5:35.",
-                    "Married persons may fast from sex – for a time, by mutual consent, to pray - 1 Cor. 7:4-5.",
-                ],
-            },
+                question: "What to do during prayer and fasting?",
+                answer: "Use the time for resting in God’s presence, listening to God, reading the Bible, planning extensively, and seeking guidance (Acts 13:2)."
+            }
         ],
-        conclusion:
-            "Fasting and prayers help you to develop immunity that barricades your life from harm.  No sickness ever came upon Moses, Elijah and Jesus.  Those who rose against them died for their sakes.  These three forty-day fast mentioned in the Bible were all miraculous in nature, and initiated by God... not the one fasting (Moses, Elijah, Jesus).  Don’t go on long days dry fast if God does not instruct you to.",
+        conclusion: "Prayer and fasting offer numerous privileges and opportunities. Embrace them to enhance your spiritual life and achieve transformative results."
     },
-
     {
-        img: "/images/bg/hero8.png",
-
+        date: "SUNDAY 14th July, 2024",
         lesson: "Lesson 2",
-        date: "Sunday 10th July, 2022",
-        topic: "STRENGTH TO KEEP EVIL AWAY",
-        text: "Isaiah 38:1-5",
-        memory_verse:
-            "Job 5:19, “He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee”.",
-        aim: "To show believers how to conduct themselves so that no evil will touch them.",
-        central_truth:
-            "The state of your heart towards God determines whether or not He will keep evil away from you.",
-        introduction: "In the first six months of this year, we as a Church, families and nations, have had troubles upon troubles, but thank God who delivered us from them all.  In this seventh month, I am inspired.  Be inspired over His declaration that: “THERE SHALL NO EVIL TOUCH THEE” (Job 5:19).  This speaks of immunity or covenant exemption from evil occurrences.  This is a very strong reason why God organizes deliverance for His children to get them divinely strengthened against any evil machinations.",
+        topic: "The Altar of Private Prayer",
+        text: "Leviticus 6:12 (KJV)",
+        memory_verse: "Leviticus 6:13 - \"The fire shall ever be burning upon the altar; it shall never go out.\"",
+        central_truth: "Praying in secret ceaselessly provides you testimonies in public consistently.",
+        aim: "To encourage believers not to abandon the responsibility of engaging in private prayers.",
+        introduction: "Read through the week's devotional for further understanding. Keeping the altar of private prayer alive means maintaining a fervent and consistent personal prayer life. This practice sustains intimacy with God and triggers victory over personal challenges.",
         main_point: [
-            "King Hezekiah’s life example instructs us that if we match our habit of fasting and prayer with our ability to walk before God in truth and with a perfect heart, evil occurrences will be diverted from us."
+            "The fire on the altar should always be burning, symbolizing the need for a constant and passionate prayer life (Leviticus 6:12).",
+            "Maintaining unceasing prayer vigilance secures divine presence, protection, and inspiration (Leviticus 6:12).",
+            "Burning wood every morning represents daily engagement with the Word of God, leading morning devotions (Leviticus 6:12).",
+            "Laying the burnt offering in order signifies offering praises and thanksgiving to God.",
+            "Burning the fat of peace offerings involves sharing testimonies to sustain peace and joy (Leviticus 6:12)."
         ],
         discussion_question: [
             {
-                question: "What are the two kinds of deliverances a child of God can experiences?",
-                answer: [
-                    "The one he gets by prayer and fasting - Mark 9:29, “And He (Jesus) said unto them, this kind can come forth by nothing, but by prayer and fasting.",
-                    "And what God, on His own, delivers him from; which can be called divinely inspired deliverance – Psalm 34:19: “Many are the affliction of the righteous: but the 	LORD delivereth him out of them all”.  He doesn’t need you to solicit His assistance in this.  Glory be to God in the highest."
-                ],
+                question: "What does an altar represent?",
+                answer: "An altar represents a place or occasion for personal encounters with God, which can also be established in our hearts."
             },
             {
-                question: "What kept Job free from evil or granted him recovery after he had been afflicted?",
-                answer: [
-                    "Job 1:8 – He was an upright man and had a perfect heart towards God.  Can this be said about you?",
-                    "Keep your heart right, so will you recover from attacks."
-                ],
+                question: "What’s the fire on the altar?",
+                answer: "It represents the zeal, passion, and fervency in our prayer life that protects and purifies us."
             },
             {
-                question: "What information does Micah 7:7-8 gives to us in this season?",
-                answer: [
-                    "As we wait on God, He will hear us.",
-                    "Though people may mock us, God will make us",
-                    "If we have fallen, with God, we will arise ",
-                    "Though sited in darkness, God through this fasting will shine His light upon us."
-                ],
+                question: "How do you keep your altar of private prayer active and effective?",
+                answer: "Be consistent, persistent, and passionate in your prayers. Prepare to speak to God from your heart and approach Him with humility."
             },
             {
-                question: "Is fasting and prayer tools for inspired deliverance?",
+                question: "What are the five-fold benefits of the private prayer altar?",
                 answer: [
-                    "Yes. Deliverance is to prevent and healing is to cure.  Prevention is better than cure, we do hear.  Fasting and prayer will do both."
-                ],
-            },
+                    "Prayer Fire gives warmth: Fosters love and peaceful relationships.",
+                    "Prayer Fire preserves: Protects from harm and maintains respect within the family.",
+                    "Prayer Fire destroys and keeps away wild beasts: Shields from spiritual and physical harm.",
+                    "The light of the fire offers direction: Provides guidance and counsel.",
+                    "Prayer Fire Refines: Enhances personal growth spiritually, physically, and financially."
+                ]
+            }
         ],
-        conclusion: "Let’s keep our lives upright and our hearts perfect like King Hezekiah and our fasting and prayer will bring us gain.",
+        conclusion: "Maintaining a robust private prayer altar builds confidence and facilitates divine intervention. Like King Hezekiah, use your private prayer life to address issues and seek God’s aid."
     },
-
     {
-        img: "/images/bg/hero2.png", 
         lesson: "Lesson 3",
-        date: "Sunday 17th July, 2022",
-        topic: "VITAL LESSONS FROM THE PRAYER OF JABEZ",
-        text: " 1 Chron. 4:9-10",
-        memory_verse: "Psalm 81:10, “I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it”.",
-        aim: "To develop a habit of talking to God about everything.",
-        central_truth: "Prayer gives God authority to change things in our favour",
-        introduction: "One opportunity that no one must not miss is the opportunity to pray and get your conditions changed for the better.  This is what the prayer of Jabez (1 Chron. 4:9-10) has taught us.  Another vital lesson from the prayer of Jabez is that what you don’t resist will persist.  Thirdly, when nothing seems to work for you, you need to work on your prayer life.  Many testimonies are pending because people have long stopped praying. This lesson is here to encourage you to PUSH (pray until something happens)",
+        date: "Sunday 21st July, 2024",
+        topic: "GOD HEARS OUR PRAYERS",
+        memory_verse: "Isaiah 43:26 - 'Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.'",
+        central_truth: "Heartfelt prayers can move God to change what He earlier said.",
+        aim: "To teach believers that a negative verdict from God should be handled in prayers for a change to the better.",
+        introduction: "Read the week’s devotional for more insight. You must dare to develop your personal prayer life. Because you will need it when you want to personally pray to God to change a negative verdict to a better outcome. There are certain challenges that, until you take it personal with God, no prophet or man can help you do it. You can see prophet Isaiah as God’s mouth piece received a message of Death for King Hezekiah. He didn’t intercede for him, until Hezekiah had to take it personal and prayed unto God with strong reasons and strong cry and God reversed the negative verdict for him. Develop the passion to take your matters personally to God in prayers.",
         main_point: [
-            "The prayer of Jabez showcases prayer as a tool for keeping a date with destiny.",
-            "Family pronouncements may exert a negative influence on your life and destiny but with prayers, you can brave through and breakthrough."
+            "That a man of God tells you something does not mean he has the final say.",
+            "You have the right to pray, cry and plead God to have mercy on you.",
+            "Hezekiah himself turned to God in heartfelt prayers and the same God gave another and better verdict.",
+            "Just handle your matters directly and personally with God in prayers. He is not deaf; He will deliver and defend you."
         ],
         discussion_question: [
             {
-                question: "3 OBSERVATIONS ABOUT THE PRAYER OF JABEZ",
+                question: "Why was it important for God to send Prophet Isaiah to tell King Hezekiah that he will soon die?",
                 answer: [
-                    "How smoothly things concerning your destiny runs depend largely on your life of prayer and fasting",
-                    "You have a coast; whatever takes your commitment on daily basis is your coast. It could be your retail shop, academic career, ministry endeavours, civil service appointment and any operation that brings money into your pocket. Note: Not operation that has to do with robbery, kidnapping and assassination.God does not encourage such.",
-                    "You will surely become unique when you make effort with divine backing though, to enlarge your coast or challenge what was a challenge to your father or mother."
-                ],
+                    "God did so to elicit a response of faith from Hezekiah.",
+                    "Hezekiah did not argue with Isaiah but turned to God in prayers to prove that his faith in God was genuine.",
+                    "When God announces judgment, it is almost always an invitation to repent and receive mercy. Hezekiah understood this and acted promptly."
+                ]
             },
             {
-                question: "WHAT IS “ENLARGE MY COAST”?",
-                answer: [
-                    "Refers to asking God to extend your area of influence (capacity) and affluence (wealth).",
-                    "Talks about helping maximize your potential",
-                    "Requesting God keep you constantly creative and innovative inorder  to bring forth witty inventions."
-                ],
+                question: "What kind of prayer is God quick to respond to?",
+                answer: "Heartfelt prayers."
             },
             {
-                question: "7 VITAL LESSONS FROM THE PRAYER OF JABEZ",
+                question: "What is a heartfelt prayer?",
                 answer: [
-                    "People live better when they pray better",
-                    "Prayer is the procedure that commits God to make you superior to your enemies like David (1Sam. 30:8, 18-19).",
-                    "Victories over every inherited affliction from the wombs (I Chron. 4:9-10)",
-                    "When Jabez saw that help could not come from anywhere, he turned to God (Psalm 121:1-3).  Do same!",
-                    "Prayer has an invisible hand that can turn things around for good or bad, depending on how it will favour you.",
-                    "Prayer is the call that God cannot reject.  You can call on Him today and He will answer you (Jere. 33:32).",
-                    "Anything the enemy has had the opportunity to do in your life has been as a result of your prayerlessness or shabby and inconsistent prayer life."
-                ],
+                    "It is feeling sorrowful and showing remorse over an improper behavior or action.",
+                    "This prayer is said not from the lips but from the depth of one’s heart."
+                ]
             },
+            {
+                question: "Scriptural examples of heartfelt prayers include:",
+                answer: [
+                    "The prayer of the publican - Luke 18:10-18",
+                    "The prayer of Hannah - 1 Samuel 1:13",
+                    "The prayer of Eliezer, Abraham’s servant - Genesis 24:43-45",
+                    "The prayer of David - Psalm 63:1, Psalm 119:43",
+                    "The prayer of Jabez - 1 Chronicles 4:9-10"
+                ]
+            }
         ],
-        conclusion: "We can see, apart from Jabez which we have studied:  - Jacob wrestled(prayed) to correct his destiny(Gen 32:24- 30) at penile, .- Even though Jesus was the son of God, it did not exempt Him from the task of prayer, praying and fasting.If He fasted and prayed to fulfill destiny then you and I have no option than to continue fasting and praying.The Lord is your strength.",
+        conclusion: "Heartfelt prayers do always attract instant answers from God. May God give us the privilege to turn to Him through our heartfelt prayers."
     },
     {
-        img: "/images/bg/hero5.png",
-
         lesson: "Lesson 4",
-        date: "Sunday 24th July, 2022",
-        topic: "VITAL LESSONS FROM THE FASTING OF ESTHER",
-        text: "Esther 4:10-11, 13-17, 5:1-3",
-        memory_verse: " 2 Chron. 20:3, “And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah”.",
-        aim: "To know that if you fast for what you want or towards what you fear, you’ll obtain favour in the end.",
-        central_truth: "Corporate fasting works well when people are in one accord.",
-        introduction: "You’ll learn more if you read the week’s devotional.  As prayer commits God to grant the answer to your request, fasting makes the door open wider and the answer far-reaching.  Fasting of Esther simply makes a complete story plain, that fasting can make what cannot happen in 30 days to happen in one day.  This is because fasting clothes somebody with the garment of favour.  It is your turn to testify.",
+        date: "Sunday 28th July, 2024",
+        topic: "FROM SORROW TO MORE HONOURABLE",
+        text: "1 Chronicles 4:9-10",
+        memory_verse: "Job 14:15 - 'Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.'",
+        central_truth: "In case your life is in the wrong direction, go to God in prayer for a change of story.",
+        aim: "To let believers know that no matter how things are with them, by prayer and fasting, a change is possible.",
+        introduction: "Read the week’s devotional. There is a better version to the level of life you are having now. Sit back and examine your life where there is need for a change; do not fold your hands and watch things still going in the wrong direction. Rather, go to God in prayers, and He will lead you into a far better and more honorable version of your life. Also, if you have a name that has no profitable meaning or one that is negative, please, as a matter of necessity and urgency, change it or I pray the Holy Spirit helps you change it.",
         main_point: [
-            "Fasting is a barrier breaker and a changer of negative to positive trends.",
-            "Fasting reverses death decrees and helps you succeed beyond protocols",
-            "Once you locate an opportunity fasting will help you secure it "
+            "The picture of a better future is revealed by the shadow of an earlier experience.",
+            "His mother pronounced sorrow upon Jabez through the name she gave to him.",
+            "When nothing seems to work for you, work on your prayer life.",
+            "Prayer is the secret of an ever-winning life."
         ],
         discussion_question: [
             {
-                question: "3 OBSERVATIONS ABOUT THE FASTING OF ESTHER",
-                answer: [
-                    "Fasting must always have a time frame otherwise, it is hunger strike.",
-                    "Dry fasting(total abstinence from food and drinks) does speed up results faster and better than partial fasting(drinking water and eating fruits in -between) – Esther 5: 1 - 3.",
-                    "Proper preparation towards the duration of your fasting gives you prompt result Esther 4: 1, 5: 1 - 3."
-                ],
+                question: "What is one quality in the life of Jabez that we all should emulate?",
+                answer: "Jabez never allowed his name to control his destiny in the wrong direction; he prayed his life to the right direction."
             },
             {
-                question: "7 VITAL LESSONS TO GLEAN FROM THE FASTING OF ESTHER",
-                answer: [
-                    "Don’t get scared when you have a challenge, just engage a fast and the challenge will flee.",
-                    "Breakthrough happens to those who are willing to brave through a stipulated day(s) of fasting.",
-                    "It is wisdom to appeal to your mentor to fast along with you to get a problem solved like Mordecai and Esther.",
-                    "God is pleased with a fasting which is not for self alone but for the general good of other people especially to save life.",
-                    "Fasting is a tool to break protocol not by openly boasting and challenging the authorities but secretly praying God intervene to your advantage.",
-                    "Fasting must be seen as a desperate attempt to hit a target or achieve a turn- around on time.",
-                    "When you don’t allow fear to attack your decision to fast, you notice that you would have regretted if you didn’t fast."
-                ],
+                question: "Where was Jabez’s prayer point taken from in the Bible?",
+                answer: "Genesis 1:28 - 'And God blessed them, and God said unto them; Be fruitful, and multiply, and replenish the earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.'"
             },
+            {
+                question: "Comparing 1 Chronicles 4:9-10 with Genesis 1:28, what did Jabez pray for?",
+                answer: [
+                    "Blessing",
+                    "Enlargement",
+                    "Preservation",
+                    "Dominion"
+                ]
+            },
+            {
+                question: "Whose prayer is also similar to Jabez's?",
+                answer: "Jacob’s prayer - Genesis 32:24-30. This involved a change of name and a change of his life’s story."
+            },
+            {
+                question: "What other lessons can we learn from this Sunday school topic?",
+                answer: [
+                    "Gain clarity about what you are named and how you name your children.",
+                    "Like Jabez and Jacob, build a power base for yourself through your prayer life.",
+                    "Develop the ability through your prayers to subdue your environment or territory.",
+                    "Don’t be afraid to step up for a blessing, even if you have to stand alone."
+                ]
+            }
         ],
-        conclusion: "Fasting involve self-denial.  The door of success opens to those who fast and pray.  Fast for survival and favour will announce your arrival.",
+        conclusion: "One thing that no one must misuse is the opportunity to pray and get your condition changed for the better. This is what the prayers of Jabez and Jacob have taught us."
     },
     {
-        img: "/images/bg/hero1.png",
-
         lesson: "Lesson 5",
-        date: "Sunday 31st July, 2022",
-        topic: " EVIDENCE OF SPIRITUAL GROWTH",
-        text: " Acts 13:1-12",
-        memory_verse: "Mark 16:18, “They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover”.",
-        central_truth: "To know that fasting and prayer imparts supernatural power upon the believer.",
-        aim: "To know that fasting and prayer imparts supernatural power upon the believer.",
-        introduction: "Receive strength as you fast.  The devotional from Mon-Sat has a lot on spiritual growth, for you to read and gain. The text today tells of two Ministers; Barnabas and Paul who through fasting and prayers and hands laid on them received exceptional spiritual strength and supernatural power and physical impartation that combined to make them climb up on the ladder of spiritual growth and tower above satanic influences and occultic powers in town.  They became territorial commanders as they were sent away to preach the gospel.  One of them, Paul, silenced Elymas, a renowned sorcerer; being filled with the Holy Ghost pronounced him blind, so it was and in the process got the deputy governor converted.  Glory to God!",
-        main_point: [
-            "Fasting and prayer have power to subdue evil powers.",
-            "The Holy Spirit called Saul and Barnabas(13: 1 - 3); and backed them to answer the call with signs and wonders(13:4- 12).",
-            "Going out to preach requires first of all, sitting down to fast and pray if one is to overcome attacks, confrontations and contentions ahead."
+        date: "Sunday 4TH AUGUST, 2024",
+        topic: "GOD’S LOVE IS BEYOND MEASURE",
+        text: "Zephaniah 3:14-20",
+        memory_verse: "Zephaniah 3:17 - “The Lord thy God in the midst of thee is mighty; He will save, He will rejoice over thee with joy, He will rest in His love, He will joy over thee with singing.”",
+        central_truth: "God’s love is a resting place for our weary souls.",
+        aim: "To make believers know that it is in God’s love that we can find comfort and peace.",
+        introduction: "Despite the chaos and noise in the world today, God’s love is a constant refuge—a shelter from danger or distress. It is a sanctuary where we find solace and rejuvenation. Zephaniah 3:14-20 shows us that His love is a safe haven for rest and restoration. Indeed, God’s love for us is beyond measure.",
+        main_points: [
+            "God’s Love and Joy: God’s love cheers us into singing, rejoicing, and gladness because we shall not see evil anymore (Zeph. 3:14-15).",
+            "God’s Presence in Trials: In our trials and challenges, He assures us of His unwavering presence (Zeph. 3:16-17).",
+            "God’s Joy and Blessings: God’s love not only saves us but also rejoices over us with immense joy and will give us praise and fame (Zeph. 3:18-19).",
+            "Living in God’s Love: Dwelling in His love fills our lives with gratitude, praise, and turnaround from captivity (Zeph. 3:20)."
         ],
         discussion_question: [
             {
-                question: "What does spiritual growth entails?",
+                question: "How has God assured us of His love towards us without measure?",
                 answer: [
-                    "It doesn’t come overnight after being born again or given one’s life to Christ.",
-                    "It takes the process of studying the word of God and being well - grounded in the faith.",
-                    "It further progresses through prayer and fasting to a level where one has spiritual stamina to resolve difficult situations without resorting to fetish means.",
-                    "It gets to a level where one can handle spiritual battles boldly, confidently and wisely and still come out victorious.",
-                    "It now gets to a level where one has grown in grace and rises to holding office(of Elder, Deaconess, Evangelist, Pastor etc) in the Church."
-                ],
+                    "He promises to remain mighty and powerful for us amid trials and challenges.",
+                    "He will be intimately involved in our journey through life.",
+                    "He will rescue us from despair."
+                ]
             },
             {
-                question: "Why do we fast and pray to attain spiritual growth?",
+                question: "What must we do so that God will keep finding joy in our lives?",
                 answer: [
-                    "Fasting and prayer helps us become too strong for the devil to manipulate.",
-                    "Fasting connects us with the Almighty and this gives us upper hand and dominion over sin, sickness and wickedness leading to our triumphing in spiritual warfare",
-                    "Fasting fortified us for victory and qualifies us for higher levels of accomplishments and occupying five- fold ministry offices.",
-                    "So as to put a stop to evil advances, satanic oppression and backsliding in the Church."
-                ],
-            },
-            {
-                question: "What to do when fasting for spiritual growth?",
-                answer: [
-                    "Increase your Bible study and prayer time",
-                    "Reduce physical activities as much as you can",
-                    "Increase you giving to the needy",
-                    "Increase you talking to God more than you talk to people",
-                    "Increase your sensitivity for the voice of the Holy Ghost or leading of the Holy Spirit."
-                ],
-            },
-            {
-                question: "What are evidences of Spiritual Growth in the life and ministry of Paul?",
-                answer: [
-                    "Ability to preach the word of God with boldness and proficiency till a new minister John was added to him.",
-                    "Ability to withstand and defeat Elymas, the Sorcerer and verbally struck him with blindness to the glory of God.",
-                    "Ability to ensure no loss of soul to idolatry or worldliness.",
-                    "His spiritual growth helped him retain and secure other flocks."
-                ],
-            },
+                    "Walk in His ways and experience His blessings.",
+                    "Dwell in His presence and let His love permeate every aspect of our lives.",
+                    "Respond with gratitude and praise.",
+                    "Align ourselves with His will and surrender to His plans.",
+                    "Make a difference in our spheres of influence.",
+                    "Reflect His love and truth to those around us."
+                ]
+            }
         ],
-        conclusion: "In a Church, increase in numerical strength, developmental and victories or testimonies are evidences.",
+        conclusion: "Let us walk in obedience, seeking His guidance and relying on His strength. God’s love will keep flowing to us. Thank you, O Lord, for Your constant love and unwavering commitment to me. Amen."
     },
-
-
     {
-        img: "/images/bg/hero3.png",
-
         lesson: "Lesson 6",
-        date: "Sunday 7th August, 2022",
-        topic: "HELP AS A SEED",
-        text: "Luke 6:38",
-        memory_verse: "Proverbs 11:25b “He that watereth shall be watered also himself”.",
-        central_truth: "Help attracts help; harm attracts harm.",
-        aim: "To encourage people to do good to one another.",
-        introduction: "  Each time you render help to someone physically, there’s help you’ll receive spiritually; which is due to manifest someday.Help attracts a reciprocating gesture.This experience will continue as long as you keep helping others.So don’t be tired to help, because there’s a bigger reward ahead. Whatever you sow as a seed comes back to you in multiple fold(Lk. 6: 38); The power  of a seed is to produce after its kind in several dimensions.",
-        main_point: [
-            "Help often comes back to you in a good portion and in an overflowing dimension.",
-            "The portion of help you give will determine the portion you receive in return."
-        ],
+        date: "Sunday 11TH AUGUST, 2024",
+        topic: "EXCEEDING ABUNDANTLY ABOVE ALL",
+        text: "Ephesians 3:14-21",
+        memory_verse: "Ephesians 3:20 - “Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us.”",
+        central_truth: "No matter how dire our circumstances may be, God is able to do or go beyond our wildest imagination or request.",
+        aim: "To remind believers of the power and ability of God to do exceeding abundantly above all that we ask or think.",
+        introduction: "Exceeding abundantly above all refers to a superlative level of lifting and expansion. 'Exceeding' means going beyond limits, 'abundantly' signifies massive size and surplus, and 'above' denotes moving to a higher level. In this year of lifting, God has the intention and capacity to elevate you or your endeavor to the zenith.",
         discussion_question: [
             {
-                question: "What is help?",
+                question: "What role are we (Christians) to play to trigger this superlative lifting promised by God?",
                 answer: [
-                    "Acts of service done to others in life or in church",
-                    "How the love of God which directly in you is expressed – 1 John 3: 17",
-                    "A way of showing kindness to others",
-                    "Showing mercy, so that you also will be shown mercy.",
-                    "Being generous "
-                ],
+                    "Keep thanking Him for His promises until they are fulfilled.",
+                    "Surrender our circumstances to Him.",
+                    "Invite His divine power to work in us and through us.",
+                    "Seek His help to stay in faith and step up our service.",
+                    "Trust in His provision spiritually, financially, and politically.",
+                    "Continue to weather life’s storms until God’s glory manifests."
+                ]
             },
             {
-                question: "Why you should help",
+                question: "How will this 'exceeding abundantly above all' realm manifest in our lives?",
                 answer: [
-                    "To encourage each other - 1 Thess. 5: 11",
-                    "To build up each other.",
-                    "To make for yourself wallets that don’t wear out. - Luke 12: 33",
-                    "To prevent yourself from lack",
-                    "Avenue to get happy – Prov. 22: 9",
-                    "To refresh others so that you yourself will be refreshed.",
-                    "To secure yourself from loses - Luke 12: 33"
-                ],
+                    "Through positive results.",
+                    "Lifting experiences.",
+                    "Enabling environment.",
+                    "Activated affections or affiliations.",
+                    "Sumptuous financial and nutritional provision.",
+                    "Added advantages.",
+                    "Numerous testimonies and termination of evil plans."
+                ]
             },
             {
-                question: "What does God say about helping others?",
-                answer: ["Those who are generous to the poor, lend to the Lord and the Lord will fully repay them – Prov. 19: 17."],
-            },
-            {
-                question: "Avenues of Helping others",
+                question: "How will we sustain ourselves on this exalted level?",
                 answer: [
-                    "Intercessory prayer – Acts 12: 5",
-                    "Giving to the needy Rom. 12: 13",
-                    "Donations – Prov. 19: 17",
-                    "Lifting others up – Prov. 3: 17",
-                    "Connecting others to profit – Phil. 2: 4",
-                    "Sharing with one who has none – Luke 3: 10 - 11",
-                    "Mutual help – Heb. 6: 10",
-                    "Mutual exchange – 2 Corinthians 8: 13 - 14",
-                    "Opening your hand to others – Duet. 5: 11."
-                ],
-            },
-            {
-                question: "Benefits of helping",
-                answer: [
-                    "Cures lack Prov. 28: 27",
-                    "Breaks the curse  of helplessness and hopelessness.",
-                    "Secures for the one who helps a treasure in heaven that never runs out.",
-                    "Mutual exchange of gladness - Acts 20: 35",
-                    "Avenue of forgiveness - Eph. 4: 32",
-                    "Grants spiritual security over your wealth - Luke 12: 33",
-                    "God helps those who help others - 1 Kings 17: 13 - 14."
-                ],
+                    "Engage in positive confessions.",
+                    "Maintain holiness and a regulated prayer schedule.",
+                    "Clear our hearts of grudges and malice.",
+                    "Practice gratitude and generosity."
+                ]
             }
         ],
-        conclusion: "Help is a seed.  You keep adding value  to your life as you sow help into the lives of others.  Someone said: “God help those who help themselves’ but He blesses those who help others”.  So helping others is a sure channel of ceaseless blessings.",
+        conclusion: "Celebrate Jesus ceaselessly and murmur less."
     },
     {
-        img: "/images/bg/hero2.png",
-
         lesson: "Lesson 7",
-        date: "Sunday 14th August, 2022",
-        topic: "BLESSINGS FOR FRUITFULNESS/PROFITABILITY",
-        text: "John 15:2 (NKJV), “Every branch in me that does not bear fruit He takes away; and every branch that bears fruit He prunes, that it may bear more fruit”.",
-        memory_verse: "Mk 11:12-25",
-        aim: "To let believers know the essence of being fruitful in the house of God",
-        central_truth: "Fruitfulness is the only sure way that believers can have access to and sustain their relevance in God’s kingdom.",
-        introduction: "Fruit and offspring are the main reasons a farmer plant trees and raise animals.  Everyone would love to spend his/her time, energy and resources to go into any business that brings profit.  Fruitfulness/profitability therefore is essential in everyone’s life. By this lesson, be encouraged to yield your life to fruitfulness and profitability.",
-        main_point: [],
+        date: "Sunday 18th August, 2024",
+        topic: "GROW YOUR FAITH",
+        text: "Romans 10:10-17",
+        memory_verse: "Luke 17:5 - “And the Apostles said unto the Lord, Increase our faith.”",
+        central_truth: "Your faith is like a seed; you have to water and nurture it to grow.",
+        aim: "To let believers know that faith is not static, but rather exists in degrees - no faith, little faith, and greater faith.",
+        introduction: "At the new birth, every Christian receives a measure of faith (Rom. 12:3). Just as initial prayers are answered promptly, lack of growth in faith can lead to struggles where there were once victories. To overcome this, believers must grow their faith continually.",
+        main_point: [
+            "Faith is a matter of the heart, not the head, and is expressed through the mouth (Rom. 10:10).",
+            "Faith will not bring you shame (Rom. 10:11).",
+            "Faith works for everyone, regardless of tribe or tongue (Rom. 10:12).",
+            "The spoken or written word triggers faith (Rom. 10:13).",
+            "To produce desired results, one must labor to understand the word of God."
+        ],
         discussion_question: [
             {
-                question: "What are the blessings for fruitfulness?",
+                question: "What faith is not:",
                 answer: [
-                    "Anyone that is fruitful shall be blessed(Pruned) to yield more, (John 15: 2).",
-                    "Only the fruitful can have their names written into the book of life – (Luke 18: 18 - 22).",
-                    "The fruitful can quickly receive healing on sick bed(Ps 41: 1 - 3)",
-                    "The fruitful shall be preserved(Ps. 41: 2)",
-                    "The food and water of the fruitful shall be blessed(Ex. 23: 25) No lack.",
-                    "The prayers of the fruitful will instantly be answered – (Jn. 15: 16)",
-                    "It is only the fruitful that receive more supply from God - (2Tim. 2: 6)"
-
-                ],
+                    "Faith is not an ideology; it is a tangible force (Mark 5:25-34).",
+                    "Faith does not bring insult; it brings results (Heb. 11:1-2).",
+                    "Faith is not just a mental exercise but a matter of the heart (Rom. 10:9).",
+                    "Faith is not merely believing God can act; it is acting on His word and expecting Him to perform (Mark 9:23; 10:27).",
+                    "Faith is not vague; it is substantial and evidential (Heb. 11:1)."
+                ]
             },
             {
-                question: "What are the fruits God expects us to bear for him (Prov. 11:30)?",
+                question: "What is Faith?",
                 answer: [
-                    "Winning lost souls for God as the highest point of fruitfulness.Failure to win a soul for Christ is the worst barrenness in life.",
-                    "Bearing the fruit of the Spirit – love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, and self- control – (Gal. 5: 12)",
-                    "Being righteous and Holy – (2 Pet. 1: 16)."
-                ],
+                    "Faith is a spiritual force that moves God's hand in your favor (Heb. 11:1).",
+                    "It is the ability to believe in God's work and recognize the reality beyond physical sight.",
+                    "Faith is the invisible confidence that something exists beyond present sight.",
+                    "It is partnering with the invisible God according to the scriptures, committing His integrity to perform what He has spoken.",
+                    "Faith is the essence of your destiny."
+                ]
             },
+            {
+                question: "How to grow your Faith:",
+                answer: [
+                    "Continue hearing the word of God repeatedly (Rom. 10:17).",
+                    "Meditate on the scriptures (Joshua 1:8).",
+                    "Associate with faith giants, like Caleb and Joshua (Num. 13:30).",
+                    "Avoid complainers and negative influences (2 Thess. 3:14).",
+                    "Surround yourself with people whose words increase your faith (Prov. 27:17).",
+                    "Speak to create the outcomes you desire (Heb. 11:3)."
+                ]
+            },
+            {
+                question: "What are the benefits of Faith?",
+                answer: [
+                    "It delivers your inheritance (Heb. 11:2).",
+                    "It guarantees victory (1 John 5:4).",
+                    "It prevents the execution of wicked plans (Eph. 6:16).",
+                    "It connects you with the miraculous (Acts 9:33-34).",
+                    "It makes things possible (Mark 9:24).",
+                    "It provides rest (Heb. 4:3-4).",
+                    "Your eternal life depends on faith in Jesus (John 3:16)."
+                ]
+            }
         ],
-        conclusion: "Prosperity matches with fruitfulness.  Those who lack are people who are not profitable to God and man.  Simply, being useful equates with being fruitful and profitable.  Question is: Are you useful.  Examine yourself from now, God bless you.",
+        conclusion: "Faith is crucial for receiving God's promises and transforming negative reports into positive ones. Building and growing your faith is essential for achieving victory and experiencing God's blessings."
     },
     {
-        img: "/images/bg/hero1.png",
-
         lesson: "Lesson 8",
-        date: "Sunday 21th August, 2022",
-        topic: "OBEDIENCE IS BETTER THAN SACRIFICE",
-        text: "Deut. 28:1",
-        memory_verse: "1 Sam. 15:22b, “Behold, to obey is better than sacrifice, and to heed than the fat of rams”.",
-        aim: "believers the need to obey rather than sacrifice.",
-        central_truth: "There is no other way to be happy in God than to trust and obey.",
-        introduction: "Most of the time, people prefer to disobey God, believing that God is the God of mercy and forgiveness, and that He will understand the situation that compelled them to disobey.  This is not true.  The truth is that to every disobedience, there is a corresponding punishment.  No evil man will be allowed to go completely unpunished (Prov. 11:21). David for instance, was a man after God’s heart, but he didn’t go completely unpunished for killing Uriah Hittite and taking Bathsheba his wife.  He was forgiven by God by not killing him but he lost 5 of his sons (the first Son that David impregnated Bathsheba (2Sam 12:13-19), Amnon (2 Sam 13:30), Absalom (2Sam. 18:5,14), Adonijah (1King 2:23-25), and finally Jesus Christ the Son of David (Matt. 1:1); Though Jesus came back to life to fulfill destiny.",
-        main_point: [],
+        date: "Sunday 25th August, 2024",
+        topic: "CONTINUALLY SEEK TO HONOUR GOD",
+        text: "Genesis 39:4-12",
+        memory_verse: "1 Samuel 2:30 - “Wherefore the Lord God of Israel said, I said indeed that thy house, and the house of thy father, should walk before me forever but now the Lord said, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.”",
+        central_truth: "Until you continually seek to honour God, you will not become honourable in life.",
+        aim: "To let believers know that a person who reverences God will become a point or person of reference in life.",
+        introduction: "In God’s agenda for man, honour is reciprocal (1 Samuel 2:30). Prophet Eli started well by honouring God but later honoured his sons above God, leading to God withdrawing His promises. Similarly, we should strive to honour God throughout our lives. Joseph, as depicted in the text, continuously honoured God and, in turn, was made more honourable than his peers.",
+        main_point: [
+            "Joseph served Potiphar and was made overseer of his household; God blessed Potiphar's house for Joseph's sake (Gen. 39:4-6).",
+            "Potiphar’s wife desired Joseph and attempted to seduce him, but Joseph refused (Gen. 39:7-9).",
+            "Joseph fled from the woman’s advances, demonstrating his deep honour and fear of God (Gen. 39:10-12)."
+        ],
         discussion_question: [
             {
-                question: "What is obedience?",
+                question: "What is the meaning of honour?",
                 answer: [
-                    "Obedience is a requirement of carrying out orders that have been given to you."
-                ],
+                    "To show respect, appreciation, or affection for someone with a public celebration.",
+                    "To hold somebody in high esteem.",
+                    "To refuse to rebel against someone higher in rank or authority.",
+                    "To reverence someone in a position of authority."
+                ]
             },
             {
-                question: "What is obedience to God?",
+                question: "In what ways did Joseph prove that he honours God?",
                 answer: [
-                    "Obedience to God is to do what the Lord has commanded you to do."
-                ],
+                    "His life was a testament to God's glory (Gen. 39:9).",
+                    "He demonstrated reverence towards God in his public speeches (Gen. 41:16) and private actions (Gen. 39:7-9).",
+                    "He showed respect for hierarchy (Gen. 39:9).",
+                    "He maintained a good conscience and adhered to integrity (Gen. 39:6).",
+                    "He honored his boss and authority (Prov. 29:2)."
+                ]
             },
             {
-                question: "What is Sacrifice to God?",
+                question: "Which other ways can one honour God?",
                 answer: [
-                    "In this context, sacrifice is the price one pays to every act of disobedience to  God’s instruction.In the real life situation, when the Road Safety officials asks us to go with our spare tyre, if a driver fails to carry his spare tyre, he will be arrested to pay for his disobedience, but the obedient drivers will not be disturbed.Likewise, to every instruction of God we disobey, we have a price to pay to the “Kingdom Road Safety”."
-                ],
+                    "With our substance (Prov. 3:9-10).",
+                    "With our first fruits (Prov. 3:9-10).",
+                    "By doing what pleases God (Prov. 16:7).",
+                    "By our faith (Heb. 11:6)."
+                ]
             },
             {
-                question: "The Benefits of Obedience to God",
+                question: "What are the benefits of honouring God?",
                 answer: [
-                    "Blessed you will be in the city and the field – Deut. 28: 3",
-                    "Blessed shall be the fruit of your body, the produce of your ground -  Deut. 28: 4",
-                    "Blessed shall be your basket and your kneading bowl - Deut. 28: 5",
-                    "The Lord your God will set you high above all nations of the earth -  Deut. 28: 1"
-                ],
-            },
-
+                    "When you honour God, God honours you (1 Sam. 2:30).",
+                    "God grants you a flawless prophetic record (Gen. 41:13, Gen. 41:16; Dan. 2:19).",
+                    "God fills your endeavours with abundant profit and new opportunities (Prov. 3:9).",
+                    "If you shift honour from God, He will shift His benefits away from you (1 Sam. 2:29)."
+                ]
+            }
         ],
-        conclusion: "Obedience is the sure way to success and greatness(Jos. 1: 8).No amount of sacrifice can move God like being obedient to him.In truth, your obedience is a clear evidence of your love, faithfulness, sonship and worship to God.",
+        conclusion: "Continually seeking to honour God is essential for receiving His blessings and achieving high dignity and respect in life. Until you show respect for heavenly hierarchy, you will not rise to a position of great honour and authority."
     },
     {
-        img: "/images/bg/hero4.png",
-
         lesson: "Lesson 9",
-        date: "Sunday 28th August, 2022",
-        topic: "HUMILITY: THE PATHWAY TO GREATNESS",
-        text: "Phil. 2:1-3",
-        memory_verse: "Psalm 138:6: “Though the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off”.",
-        aim: "To encourage people to humble themselves so as to be elevated.",
-        central_truth: "Humility is the character of God and pride the habit of Satan",
-        introduction: "Humility is variously seen as the act of lowering oneself in relation to others (Rom. 12:3).  It is the quality of being humble and not to think that you are better than other people.  It signifies lowliness or submissiveness.  The Bible describes humility as a quality of being courteously showing respect to others; It is the opposite of aggressiveness, arrogance and boastful.  Pathway is a tract that a person can go along or a road map to guide our destiny to greatness.",
+        date: "Sunday 1st September, 2024",
+        topic: "KINDNESS BEGETS KINDNESS",
+        text: "Joshua 2:1-22",
+        memory_verse: "Joshua 2:12 - “Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token.”",
+        central_truth: "Kindness should never be rewarded with wickedness.",
+        aim: "To teach people to be kind to others always, so as to enjoy kindness also.",
+        introduction: "In a world where wickedness often prevails, kindness is a timely and necessary virtue. It involves treating people with love, respect, and finding opportunities to do good for others. Kindness is characterized by good-heartedness, warm-heartedness, and the ability to overlook others' flaws.",
         main_point: [
-            "We must imitate Christ’s Humility – lowliness of mind",
-            "Who did not mind His glory in Heaven but took the form of a servant on earth.",
-            "He took the nature of being mean even as God to be able to save the fallen man vs 6",
-            "He brought down his reputation.As a result, God exalted him above all creatures vs 5."
+            "Joshua sent two men to spy Jericho, and the men of the city sought to kill them, but Rahab saved the spies (Josh. 2:1-3).",
+            "Rahab hid the men on her rooftop and did not reveal their location (Josh. 2:2).",
+            "She requested that the spies show kindness to her and her family in return (Josh. 2:12-17).",
+            "The spies instructed Rahab to tie a scarlet thread in her window for her household's rescue, and she let them down by the window (Josh. 2:18-22)."
         ],
         discussion_question: [
             {
-                question: "How does the world regard humility?",
+                question: "What are the habits that do not reflect kindness?",
                 answer: [
-                    "Due to the innate (inborn/natural) self-centeredness of man, the world does not place high regard to humility.  The inevitable tendency of human nature and the world is towards pride, arrogance, a haughty spirit an exaggerated feeling of self-importance (1John 2:16, Isa. 14:13-14)."
-                ],
+                    "Bitterness (angry at people).",
+                    "Callousness (no sympathy).",
+                    "Unkindness (not friendly).",
+                    "Hardheartedness (no human kindness).",
+                    "Harassment (treating people wrongly).",
+                    "Cruelty (no mercy).",
+                    "Unfeelingness (no empathy)."
+                ]
             },
             {
-                question: "How does God regard humility? ",
+                question: "What key lessons can we learn from the harlot Rahab?",
                 answer: [
-                    "The Bible present God’s view of humility and salvation places high premium on humility thus:  To be humble means we will be conscious of our weaknesses and quick to give credit to God and others for what we accomplish.  (John 3:27, 5:19, 14:10, James 4:6).",
-                    "We must be humble because we are single apart from Christ (Lk. 18:9-14) and can boast of nothing (Rom. 7:18, Gal 6:3) except in the Lord (2 Cor. 10:17).",
-                    "We are dependent on God for our fruitfulness and can accomplish nothing good without the help of God and the help of others (Ps. 8:4-5, Jn 15:1-16)",
-                    "God delight in those who walk humbly - Isa. 57:15, Micah 6:8 – He gives an increase of grace to the humble, but opposes the proud (Jos. 4:6, 1 Pet. 5:5).  As believers, we must live in humility towards one another considering others more important than ourselves (Rom 12:3)."
-                ],
+                    "Her faith in God led her to save the spies and avoid perishing with the unbelievers in Jericho (Heb. 11:31).",
+                    "She pleased God by not conspiring with the people of Jericho to kill the spies (Josh. 2:1).",
+                    "Rahab was justified by her works (James 2:25).",
+                    "Her actions illustrate that kindness begets kindness (Josh. 6:25; Josh. 2:6).",
+                    "Rahab's betrayal of Jericho is a testament to her faith in the God of Israel (Josh. 2:9).",
+                    "She was courageous in protecting the spies based on God's miracles and sought to save herself and her family (Josh. 2:12).",
+                    "Biblical interpreters view Rahab as a model of hospitality, mercy, faith, patience, and repentance in her interaction with the spies."
+                ]
             },
+            {
+                question: "What are examples of acts of kindness in the Bible?",
+                answer: [
+                    "Rebekah (Gen. 24:15,19).",
+                    "The Good Samaritan (Luke 10:34).",
+                    "A young man of Egypt (1 Sam. 30:15-16).",
+                    "Lydia (Acts 16:15)."
+                ]
+            },
+            {
+                question: "Who did not return kindness for kindness?",
+                answer: [
+                    "Nabal (1 Sam. 25:2-10, 18, 32-33).",
+                    "Nabal benefited from David’s protection but refused to offer food when requested, though his wife Abigail later provided."
+                ]
+            },
+            {
+                question: "How can we show kindness today?",
+                answer: [
+                    "Feed the hungry (Matt. 25:35-36).",
+                    "Clothe the naked.",
+                    "Forgive the guilty.",
+                    "Welcome the unwanted.",
+                    "Care for the ill.",
+                    "Love your enemies.",
+                    "Do unto others as you would have them do unto you (Matt. 7:12).",
+                    "Avoid doing to others what angers you if done to you by others."
+                ]
+            },
+            {
+                question: "What are examples of kind acts?",
+                answer: [
+                    "A smile.",
+                    "A nice word.",
+                    "An unexpected deed.",
+                    "A planned surplus."
+                ]
+            },
+            {
+                question: "What are the effects of acts of kindness?",
+                answer: [
+                    "We make people feel good.",
+                    "We pass along hope.",
+                    "We promote peace.",
+                    "We show people that we care."
+                ]
+            }
         ],
-        conclusion: "Humility is the character of God and pride is the symbol of Satan.  God of course is the most humble person in the universe,  He regards the lowly (Ps. 138:6).  Thus, He demonstrated right from the beginning of time when He left His exalted position to pick  the form of man – a nobody and made of him what he is today.",
+        conclusion: "Kindness involves prioritizing others' needs and can be as simple as giving up our seat on a bus to someone who needs it more."
     },
     {
-        img: "/images/bg/hero1.png",
-
         lesson: "Lesson 10",
-        date: "Sunday 4th September, 2022",
-        topic: "A CALL TO SERVICE",
-        text: "Romans 14:18, “For he that in these things serveth Christ is acceptable to God, and approved of men”.",
-        memory_verse: "Romans 14:18, “For he that in these things serveth Christ is acceptable to God, and approved of men”.",
-        aim: "To show that many serve God but only few rendered it acceptably.",
-        central_truth: "To teach believers what activates acceptance in services",
-        introduction: "Dearly beloved, God, right from ages  has revealed through His word that He has a standard and principle of which if not followed renders a service unacceptable. Services to God starts and ends with your personal relationship with Him, the level of your understanding about His word and your knowledge about who He is determine the acceptance or rejection.",
+        date: "Sunday 8th September, 2024",
+        topic: "BE KIND TO ONE ANOTHER",
+        text: "Ephesians 4:29, 32",
+        memory_verse: "Matt. 5:7 - “Blessed are the merciful; for they shall obtain mercy.”",
+        central_truth: "Until we are kind one to another, we will not work good for each other.",
+        aim: "To make believers show love and kindness to one another.",
+        introduction: "A man who is kind does good to himself because kindness often returns. The principle of mercy is clear: showing mercy results in receiving mercy. Expressing kindness through words and deeds helps one another, offering wisdom and new ideas.",
         main_point: [
-            "Personal relationship here means how sacrificial is the body, spirit and soul of the giver(Rom. 12: 1) because God is not a compromiser.",
-            "Understanding talks about the revelations and your perception about His word because it determines how far you can worship God(Heb. 11: 6)."
+            "Kindness should start with our words and extend to our deeds (Eph. 4:29a).",
+            "Our speech should be good and edifying (Eph. 4:29b).",
+            "Our words should minister grace to the hearers (Eph. 4:29c).",
+            "We should be kind and forgiving towards one another (Eph. 4:32)."
         ],
         discussion_question: [
             {
-                question: "What is acceptable service?",
+                question: "What is kindness?",
                 answer: [
-                    "Acceptable is capable, worthy, or sure of being accepted or received with pleasure, pleasing to a receiver, gratifying, agreeable, and welcomed, as an acceptable present acceptable to us.",
-                    "Service - A religious rite or ritual."
-                ],
+                    "Kindness is the quality of being friendly, generous, and considerate.",
+                    "It involves affection, gentleness, warmth, care, and concern.",
+                    "Kindness is more than outward behavior; it includes harboring a helpful spirit, being generous, doing things without expecting returns, and solving problems at little or no cost."
+                ]
             },
             {
-                question: "Serve in the spirit:",
+                question: "How is kindness demonstrated in the Bible?",
                 answer: [
-                    "To serve God in the spirit is the ability to ignore your senses (John 4:23-24).  It equally means denying yourself of what the natural body demands to do and allow God to lead you (Romans 1:9, Prov. 15:3-6)."
-                ],
+                    "The Good Samaritan shows love for enemies and doing good to others.",
+                    "Ruth demonstrated immense kindness to her mother-in-law by accompanying her to her homeland.",
+                    "David showed kindness to Jonathan’s son due to his friendship with Jonathan."
+                ]
             },
             {
-                question: "Serve with Holiness:",
+                question: "What does it mean to 'be kind one to another'?",
                 answer: [
-                    "God still demand that in other to possess your reward for service it must be rendered in holiness. The scripture says “Deliverance and Holiness” (Obadiah 1:17).  Deliverance here is not for sickness but from sin, then further by practicing holiness before your reward for service can come. (1Peter 1:15-16, Eph. 1:4).  Holiness is a command; it gives no room for default."
-                ],
+                    "Being selfless.",
+                    "Caring.",
+                    "Compassionate.",
+                    "Generous.",
+                    "Unconditionally helpful or useful to others."
+                ]
             },
             {
-                question: "Sincerity in Service:",
+                question: "How is kindness expressed in words?",
                 answer: [
-                    "This is where even the church have fail.  People commend themselves about serving God but the big question is “How sincere is your service?  (Joshua 24:14-15, 1Cor. 14:1-2)."
-                ],
+                    "Compliments and affirmations such as 'I love the way you think' (Col. 4:6), 'You are creative' (Lk. 6:31), 'You are as beautiful as you are' (Prov. 16:24), 'You make me smile' (2 Sam. 9:7), 'I am proud of you' (Prov. 12:25), 'We are so favored that you’re a part of our family' (Prov. 11:17), and 'Always remember that I believe in you' (Matt. 7:12)."
+                ]
             },
             {
-                question: "God accept a willing service:",
+                question: "Does kindness in words play a role in soul winning? How?",
                 answer: [
-                    "God loves a cheerful giver, a liberal giver, it comes from your heart when giving at ease.  Exo. 35:5, 2 Cor. 9:7, 8:1-5."
-                ],
-            },
-            {
-                question: "Be passionate:",
-                answer: [
-                    "Passion derives away forceful service.  The key to effective service is passion.  Jesus says “my meat is to do the will of my father” (John 4:34, 2:17).  You don’t run into anything without asking yourself if there’s a passion for it, service without passion equals failure."
-                ],
-            },
-            {
-                question: "Serve God wholeheartedly:",
-                answer: [
-                    "God does not share His glory with anything seen or unseen (Isaiah 42:8).  This brings about firmness in God and does not cause for doubt while in service. (Deut. 10:12, Jer. 29:13)."
-                ],
-            },
-            {
-                question: "Make your life acceptable:",
-                answer: [
-                    "It’s one of the most important aspects in the place of service.  For God to even consider your service, your body must be a living sacrifice, holy and acceptable (Roman 12:1).  It calls for questioning when you serve God and people doubt if you are truly serving God. Service is more of your life than anything else, because God is so interested in your life. (2 Cor.7:1, Gal. 5:24, 1 Cor. 6:20)."
-                ],
+                    "Yes, kindness in words is crucial for soul winning.",
+                    "A kind word can unlock unbelieving hearts and facilitate conversion.",
+                    "It inspires friendship, encourages fellowship, and attracts cooperation.",
+                    "Kind words can endear someone to your faith and make them more receptive to the gospel.",
+                    "A smile and kind words can also draw attention and open doors for sharing the message of Christ."
+                ]
             }
         ],
-        conclusion: "The quality of your service is not measured by human view though it is part of it, it’s deeper than that.  Forceful and carnal service should be put to a stop as it amount to waste of time. Give room for passion which is the driving force of every reaction.  It is a call to check our life. God bless you.  ",
+        conclusion: "We should extend our kindness to unbelievers to win them for Christ and invite them to Church."
     },
     {
-        img: "/images/bg/hero9.png",
-
         lesson: "Lesson 11",
-        date: "Sunday 11th September, 2022",
-        topic: "A COMMAND TO SHUN FEAR.",
-        text: "Isaiah 41: 10-13.",
-        memory_verse: "Joel 2:21  Fear not, o land, be glad and rejoice: for the LORD will do great things.",
-        aim: "To encourage believers to chase fear out of their lives and endeavours.",
-        central_truth: "Fear shows that we have lost trust in God.",
-        introduction: "Fear is not really about lack of things but the concern with loss of things. This is the root causes of anxieties and worries. One of Satan's favourite tools is the question: `What if`. What if I fail? What if my sickness prolongs, what if the economy collapses etc. These simply shift our focus from God to the challenge at hand. Recall Psalm 34:5 - They looked unto him, and were lightened: and their faces were not ashamed Fear sponsors shame and spoil our anticipated joy when we fail to look unto God for things. According to John Maxwell (A Leadership Genius): Fear showcases an acronym: False Evidence Appearing Real. Fear is counterfeit of Faith. Counterfeit doesn't pay for anything. ",
-        main_point: [],
+        date: "Sunday 15th September, 2024",
+        topic: "TITHES AND OFFERINGS",
+        text: "Malachi 3:8-12",
+        memory_verse: "Malachi 3:8 - “Will a man rob God? Yet ye have robbed me. But ye say, wherein have we robbed thee? In tithes and offerings.”",
+        central_truth: "Our lifting is tied to our positive response to tithes and offerings.",
+        aim: "To teach people that our tithes and offerings will open Heaven in our favor and keep us from suffering.",
+        introduction: "Read the week’s devotional for more understanding. Despite people around the world paying their tithes and giving offerings, some still do not receive the financial blessings promised in scripture. This lesson explores why and how our response to tithes and offerings impacts our blessings.",
+        main_point: [
+            "God complains that we have robbed Him in tithes and offerings.",
+            "We are commanded to bring all tithes to God and let Him prove Himself as a supplier of blessings beyond abundance (Vs. 10).",
+            "God will rebuke the devourer for the sake of tithers, preventing hindrances to finances, favors, harvests, and excesses.",
+            "Obeying God in tithes and offerings leads to abundant blessings and makes us amiable people."
+        ],
         discussion_question: [
             {
-                question: "A. WHAT'S VITAL TRUTH ABOUT FEAR?",
+                question: "How do we rob God in tithes and offerings?",
                 answer: [
-                    "Fear is the antithesis of trust; therefore, if we live in fear of man or the future, we suffer from the problem of not putting trust in God.",
-                    "That doesn't mean we shouldn't give respect to whom respect is due.",
-                    "That doesn’t mean we shouldn't plan for the future.",
-                    "But if we live in fear, it means that we have taken on a responsibility that belongs to God.",
-
-                ],
+                    "By paying less than 10% or not paying our tithes at all.",
+                    "By being irregular in tithes and offerings.",
+                    "By not honoring Him with our finances."
+                ]
             },
             {
-                question: "WHY SHOULD WE SHUN FEAR?",
+                question: "Are tithes and offerings the same? If not, what are the differences?",
                 answer: [
-                    "Fear is a trap, don't set it for yourself.. Prov. 29:25",
-                    "Fear is the enemy of safety.. Prov. 29:25",
-                    "Fear attracts adversity.. Job 3:25",
-                    "Fear fights trust in God.. Prov. 14:27",
-                    "Fear demoralizes a believer.. Prov. 12:25."
-                ],
+                    "Tithes are not the same as offerings.",
+                    "Tithe is 10% of a person’s income or increase, while offering is a discretionary amount determined by the giver (2 Cor. 9:7).",
+                    "Unlike tithes, there is no set amount or percentage for offerings.",
+                    "Tithe opens financial doors of favor from God and man.",
+                    "An offering is a seed for reaping a harvest (Gal. 6:7).",
+                    "Tithes represent strict obedience and trustworthiness, while offerings are expressions of love and gratitude.",
+                    "Tithes establish a trust relationship with God, whereas offerings reflect the depth of your love for Him."
+                ]
             },
+            {
+                question: "What are some benefits of tithing?",
+                answer: [
+                    "Sponsors welfare in the church (Mal. 3:10).",
+                    "Opens financial doors outside the church.",
+                    "Serves as a defense to our business and labor (Mal. 3:11).",
+                    "Speaks for us and helps us win battles in life, both physically and spiritually."
+                ]
+            }
         ],
-        conclusion: "If others see us living lives of fear, we lose our witness. We sponsor betrayal of trust in God. God wants us to consider these things and even plan for them without reason, but a Christian must consciously reject the attitude of fear and dare situations and triumph over them knowing that God is able to see us through.",
+        conclusion: "Tithes and offerings are routes to financial peace. Without peace in your finances, your life will remain fragmented."
     },
     {
-        img: "/images/bg/hero2.png",
-
         lesson: "Lesson 12",
-        date: "Sunday 18th September, 2022",
-        topic: "MIRACULOUS PROVISIONS",
-        text: "John 2:1-10",
-        memory_verse: "Phil. 4:19, “But my God shall supply all your needs according to His riches in glory by Christ Jesus”.",
-        aim: "To enlighten people about God’s amazing provisions for all our needs through Christ Jesus.",
-        central_truth: "Every good gift and lasting provision comes from God.",
-        introduction: "God often uses ridiculous situations to  bring forth miraculous provisions.  The story in John 2:1-10 confirms.  At the time, wine was finished which could have brought great shame to the marriage ceremony, Jesus was invited to reverse the situation. We want to examine how God makes provision for our needs through Christ Jesus.  God has put something into our hands, something that we can use to obtain whatever we need.  We have the name of Jesus.  He is our shepherd.  We have power to use the Name.",
-        main_point: [],
+        date: "Sunday 22nd September, 2024",
+        topic: "BE AN EFFECTIVE SOUL WINNER",
+        text: "Acts 8:26-40",
+        memory_verse: "Romans 5:8 - “But God commendeth his love towards us, in that while we were yet sinners, Christ died for us.”",
+        central_truth: "Follow divine leading to be an effective soul winner.",
+        aim: "To reach people and use every opportunity to preach and lead sinners to repentance and water baptism.",
+        introduction: "To some people, the act of soul winning is not taught but caught through revelation or divine prompting. People like Philip the Evangelist and Paul the Apostle exemplify this divine burden. Most Christians need to understand that being a follower of Jesus involves being a fisher of men (Matt. 4:19). This lesson aims to teach and inspire Christians to actively pursue soul winning.",
         discussion_question: [
             {
-                question: "Why did Mary go to tell Jesus they have no wine",
+                question: "What should be the basis of our message?",
                 answer: [
-                    "see Jn. 15:24. Jesus is the source of miraculous provisions to fulfill our joy."
-                ],
+                    "God’s love towards us and how we need to reciprocate His love by yielding our lives to walk with Him, serve Him, and testify His love, goodness, and mercy to others (John 3:16, Romans 5:8).",
+                    "Understanding that Jesus’ sacrifice and death on the cross should not be in vain (Romans 5:8; Galatians 2:21; 1 Corinthians 15:14, 17, 58; 2 Corinthians 6:1)."
+                ]
             },
             {
-                question: "Why did Jesus tell his mother: “Woman what have I to do with thee?  Mine hours is not yet come?",
+                question: "What are the proven methods to be an effective soul winner?",
                 answer: [
-                    "He is the author and finisher of our faith - Heb. 12:2",
-                    "Jesus knew that God has bestowed the power of supernatural provision upon him - Matt. 11:28",
-                    "He was connecting with His father for the appointed time – Jn. 2:4; Eccl 3:11.",
-                ],
-            },
-            {
-                question: "What lessons can we draw from this study?",
-                answer: [
-                    "Jesus is the source and His commitment to our demands is the answer to our miraculous needs (Supplies) Jn. 2:5.",
-                    "We can only commit Him by approaching Him with the heart to receive His voice and obey.  Because our obedience is what commits Him to act on our behalf (Deut. 28:1-8, Isa. 1:19).",
-                    "This is the practical demonstration of obedience, faith and love to do whatever he tells us to do and obtain the desired result (Jn. 2:9-10)"
-                ],
-            },
+                    "Intentional method: Ask God to give you an Evangelistic burden for perishing souls and opportunities to reach them for Christ.",
+                    "Lifestyle method: Live a consistent Christian life (Matt. 5:14-16). Demonstrate integrity, authentic faith, love, forgiveness, and trust.",
+                    "Friendship approach: Build relationships with those needing Christ, following Jesus’ example with Zacchaeus.",
+                    "Groom yourself in the word (2 Timothy 2:15): Memorize scriptures and share them. Examples include Romans 3:23, Romans 6:23, Romans 10:9-10, 13, and 1 John 5:1, 13.",
+                    "Be ready to preach to someone, like Philip (Acts 8:26-40) and Peter (1 Peter 3:15).",
+                    "Create opportunities: Invite someone to church, share tracts, handbills, etc., and impress upon them the need for Christ.",
+                    "Fulfill your part, and God will do His part. Preach the word, but only God can convert the soul (John 12:32)."
+                ]
+            }
         ],
-        conclusion: "Any time we lack provisions or resources, it is for surprising supplies to be made to us.  The song writer says why worry when you can pray.  Take your request to Jesus and He will surely meet your needs.",
+        conclusion: "We are not expected to be perfect, only Christ was sinless. However, we must have a growing, maturing Christian life that others can recognize and respect. Let our light so shine."
     },
     {
-        img: "/images/bg/hero3.png",
-
         lesson: "Lesson 13",
-        date: "Sunday 25th September, 2022",
-        topic: "REPENTANCE",
-        text: "Gal 4:21-30",
-        memory_verse: "Gal. 5:1 (NIV)  “It is for freedom that Christ has set us free, stand firm, then, and do not let yourselves be burdened again by a yoke of slavery”.",
-        aim: "To make believers understand that a call for repentance is a call for liberation and freedom in Christ, doing away with the old life (sin) and embracing the life that Jesus died to give us.",
-        central_truth: "Repentance is the way to everlasting life.",
-        introduction: "Friends, we must understand that it is not the will of God for any man to be in eternal damnation but that all should come to REPENTANCE and be saved.  (2Peter 3:9).  No wonder Jesus speaking in (Rev. 3:20) “Behold, I stand at the door and knock: if any man hear my voice, and open the door, I will come into him and will sup with him and he with me”. It is understanding that the decision of “opening that door of your heart” won’t be by you own strength or might but by the Holy Spirit of God.  That’s why we can’t talk about REPENTANCE without the Spirit of God having a role because it is the Holy Spirit that brings convictions to the heart of men, may be through the messages we hear.",
-        main_point: [],
+        date: "Sunday 29th September, 2024",
+        topic: "FEAR GOD: A RULE OF LIFE",
+        text: "Luke 12:4-5, 16-21",
+        memory_verse: "Ecclesiastes 12:13 - “Let us hear the conclusion of the whole matter: Fear God and keep his commandments: for this is the whole duty of man.”",
+        central_truth: "Until we fear God, God cannot keep us going strong, healthy, and hearty in life.",
+        aim: "To encourage God’s people to fix their faith and reverential fear on God for exploits in life.",
+        introduction: "It is absolutely necessary to fear God as the ruler of life in heaven and earth. When we take this as a responsibility and our duty due to God, He will help us enjoy all time possibilities in life.",
+        main_point: [
+            "We are to fear God because He has the power to kill and cast us into hell (Luke 12:4-5).",
+            "In the parable of the rich fool, the man had no time to fear God or plan his ways along with God. For that reason, God took his life and cast him into hell (Luke 12:16-21)."
+        ],
         discussion_question: [
             {
-                question: "What is Repentance?",
+                question: "What is the fear of God?",
                 answer: [
-                    "The definition of the word Repentance is Matt. 16:24, “If any man will come after me, let him deny himself, and take up his cross and follow me”"
-                ],
+                    "Having reverence for God.",
+                    "Having no hidden intention to keep Him outside life and plans.",
+                    "Acknowledging Him in all our ways.",
+                    "Giving Him first place in our lives."
+                ]
             },
             {
-                question: "What are the criteria’s to follow Jesus unto REPENTACE?",
+                question: "What did the Rich man not know?",
                 answer: [
-                    "Deny yourself: The greatest enemy of Repentance is SELF - LIFE.Until we allow God’s will to overwrite our own self - will –we are still far from his promises to us unto repentance.",
-                    "Take up your cross daily: We must know that the cross represents sign of arbitrary(Death) meaning that we must be dead to sinful life style(Rom. 6: 8 - 11).This is where the water baptism comes in, therefore receiving the life of Christ in us.",
-                    "Follow Jesus: This third criteria is the embodiment of the 1st and 2nd, therefore for us to be able to follow Jesus we must attain self- denial and taking up our cross daily."
-                ],
+                    "He did not realize that it was God who made his ground yield plentifully, not his own strength (Luke 12:16).",
+                    "He knew he had enough and to spare but didn’t understand that the surplus should be given to those who had nothing (Luke 12:17).",
+                    "He did not understand that selfishness and self-centeredness are wrong (Luke 12:18).",
+                    "He did not know how to acknowledge God for the expansion of his business.",
+                    "He had no time to give thanks to God."
+                ]
             },
             {
-                question: "Why do we need Repentance?",
+                question: "What is ‘fear not’?",
                 answer: [
-                    "To be dead to sin (Rom. 6:11)",
-                    "That our soul might be saved",
-                    "To obtain eternal life in Christ Jesus (Rom. 6:23)",
-                    "To be liberated and freed from the slavery of the gods of these world."
-                ],
+                    "‘Fear not’ means to have more faith.",
+                    "Lack of faith leads to more fear.",
+                    "To avoid harboring fear in our lives, we are advised to ‘fear not’ and shun fear."
+                ]
             },
             {
-                question: "Question for the Church",
+                question: "What are possibly the reasons we are being asked to ‘fear not’?",
                 answer: [
-                    "Does baptism, partaking in the Lord’s table (holy communion) and speaking in tongues guarantees that a believer has repented?"
-                ],
+                    "A moral advice (Ruth 3:11).",
+                    "A safety tip (1 Samuel 22:23).",
+                    "A word of prophecy (1 Samuel 23:17).",
+                    "A promise of restoration (2 Samuel 9:7).",
+                    "A spur for a miracle (1 Kings 17:13).",
+                    "A boost of confidence (2 Kings 6:16).",
+                    "A promise of divine help (Isaiah 41:13)."
+                ]
             },
-
+            {
+                question: "What is the whole duty of man?",
+                answer: "The whole duty of man is to fear God and keep His commandments."
+            }
         ],
-        conclusion: "A life without Christ is a life full of crisis, the scripture states that Christ came to redeem us from darkness into His marvelous light, He didn’t abolish darkness, and therefore darkness will still exist till Christ returns. That is why He’s still calling us to come out of darkness to enjoy the light of life.",
+        conclusion: "Until you fear God, other creatures and situations on earth will not fear you."
     },
     {
-        img: "/images/bg/hero6.png",
-
         lesson: "Lesson 14",
-        date: "Sunday 2nd October, 2022",
-        topic: "GIVERS DON'T LACK",
-        text: "2Cor9:5-7",
-        memory_verse: "Lk.6:38 - Give and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom, for with the same measure that ye mete withal it shall be measured to you again.",
-        aim: "To teach the believer the necessity of giving as a means to financial freedom. ",
-        central_truth: "Giving is sowing, it has a process, when it grows to maturity, increase begins. ",
-        introduction: "The devotional this week must have been a great blessing to you, keep studying.  When you give, you access God's well of abundance, giving is not letting go, on the contrary, it is saving for tomorrow. A believer who gives cheerfully will not be in lack, because he operates in heaven's economy which never runs dry. Don't stop giving. ",
-        main_point: [],
+        date: "Sunday 6th October, 2024",
+        topic: "HOLD FAST THAT WHICH IS GOOD",
+        text: "I Thess. 5:16-24",
+        memory_verse: "I Thess. 5:24 - “Faithful is he that calleth you, who also will do it.”",
+        central_truth: "When you hold fast to that which is good, you are bound to rise to a higher height of greatness in life.",
+        aim: "To give believers practical instructions that will enable them to gain and sustain relevance in their Christian walk.",
+        introduction: "“Hold fast that which is good” is the motto of Methodist Boys’ High School, Oron, Akwa Ibom State, Nigeria. This phrase has triggered excellence and launched people into prominence in governance, ministry, politics, academics, and business who have passed through the school. I believe this was also the intention of Paul the Apostle when he exhorted the Thessalonian Christians to “prove all things, hold fast that which is good” (I Thess. 5:21). By this lesson, he is also extending the advice to the church of this dispensation and generation.",
+        main_point: [
+            "Paul the Apostle gives a spiritual code of conduct that will ever remain to fetch Christians victory and success in their walk with God.",
+            "These include: continuous rejoicing, prayers, giving thanks, and a fervent spirit - Vs. 16-19.",
+            "He also warns them against despising prophesying, failure to prove all things, and indulging in evil practices. For God will sanctify, preserve, and back them to succeed in the end."
+        ],
         discussion_question: [
             {
-                question: "When must I give?",
+                question: "What does it mean to ‘hold fast that which is good’?",
                 answer: [
-                    "At all times.",
-                    "Whenever you're in lack"
-                ],
+                    "It is an exhortation to hold to Christian standards without any intention of deviating.",
+                    "It is an encouragement to persevere through persecution and temptation in the course of discharging our duties or responsibilities to God.",
+                    "It is a command to resist following false teachings and fake prophesying or the spirit of anti-Christ.",
+                    "It is an inspirational counsel to keep pleasing God, even if our faith and character are under attack."
+                ]
             },
             {
-                question: "Who must I give to?",
+                question: "What are these Christian standards?",
                 answer: [
-                    "Everyone(Ec.11: 1)",
-                    "The poor(prov.19: 17)",
-                    "The rich(Heb.7: 7)"
-                ],
+                    "Rejoice evermore.",
+                    "Pray without ceasing.",
+                    "Give thanks constantly.",
+                    "Quench not the spirit.",
+                    "Despise not prophesying.",
+                    "Prove all things, hold fast that which is good.",
+                    "Abstain from all appearances of evil."
+                ]
             },
             {
-                question: "Is it a law that members alone give to Ministers?",
+                question: "Why is keeping to these Christian standards or spiritual code of conduct necessary?",
                 answer: [
-                    "No! There's no such law, some members are doing very well than their Ministers financially, it is not out of place for the Ministers to sow into the members' lives, and they’ll get bountiful harvest."
-                ],
-            },
-            {
-                question: "What if I'm forced or levied to give especially in Church? ",
-                answer: [
-                    "Give cheerfully if you have what is demanded for God accepts that which you've offered. ",
-                    "If you don't have what is demanded, please explain to the authorities involved and cheerfully cast what you have, God holds no judgment against you.",
-                    "It is not advisable for any Minister to force one to give, it's not scriptural. God loves voluntary giving."
-                ],
-            },
-            {
-                question: "If I give to the rich, I'm I not making them richer?",
-                answer: [
-                    "Well, they're fertile ground so you have not much option.",
-                    "You're sowing into their lives so as to get into the place of wealth they are."
-                ],
-            },
-            {
-                question: "Must I give money alone?",
-                answer: [
-                    "No! If you lack money, sow what you have, maybe possession, food, clothing, prayers, time, support etc. These things are currencies in the spirit."
-                ],
-            },
-            {
-                question: "Do I sow everything I have?",
-                answer: [
-                    "Well, that depends on you, if you're willing to try God and see, but make sure family is well okay or they're in support of your decision to sow all."
-                ],
-            },
+                    "We are not to serve God sorrowfully and lose the presence of God and His right hand working out things for our good and pleasure (opposite of Ps. 16:11).",
+                    "We are not to stay prayerless and become a prey to the devil and be killed by the ‘Herods’ of this world (Acts 12:1-3).",
+                    "Our thanklessness and joylessness will pitch God against us (Deut. 28:47-48).",
+                    "If we quench the spirit, we’ll grieve the Holy Spirit and run out of Divine help (opposite of Rom. 8:26).",
+                    "If we despise prophesying, we will lack edification.",
+                    "If we don’t prove all things, we’ll be carried about by every wind of doctrine.",
+                    "If we don’t abstain from all appearances of evil, we will not be able to keep a date with destiny (compare Samson, Judges 16:18-20, 28-30)."
+                ]
+            }
         ],
-        conclusion: "If we have believers who would practice 10% of what is revealed in this manual everything this week, I tell you the gates of hell will be on the run. If we can practice these codes of prosperity, poverty will be history in our lives and churches. My prayer is that God grants us the grace to practice everything we've been learning. Amen.",
+        conclusion: "When we hold fast that which is good, God hides us from attacks and persecutions that destroy life. He also watches over our involvement in God’s work till He rewards us."
     },
     {
-        img: "/images/bg/hero2.png",
-
         lesson: "Lesson 15",
-        date: "Sunday 9th October, 2022",
-        topic: "MANIFESTATION; PRIZE FOR THE SONS",
-        text: "2 kings1:1-18",
-        memory_verse: "Rom.8:19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
-        aim: "To let believers understand that manifestation is strictly for sons, not children. ",
-        central_truth: "As a child, I have my heritage, but as a son, I manifest in that heritage. ",
-        introduction: "Happy Sunday beloved, your week is blessed and fruitful. Keep studying you daily devotional, keep up the good work! From our text above, you'll agree with me that the prophet Elijah was a son of his father, you see, he called himself man of God, this is the height of true sonship. He knew he'd come of age as a mature son to display some of his father's abilities, God responded immediately because the father knows the son's voice. To manifest, you must be a son!",
-        main_point: [],
+        date: "Sunday 13th October, 2024",
+        topic: "A mandate to speak God’s word",
+        text: "Luke 12:11-15",
+        memory_verse: "Luke 12:12 - “For the Holy Ghost shall teach you in the same hour what ye ought to say.”",
+        central_truth: "Key into speaking the word that God puts in your mouth and every mountain before you shall become a plain land.",
+        aim: "To let believers know that God’s word put in their mouths or placed on their minds has the power to achieve the impossible.",
+        introduction: "God’s words programmed into our mouths have the capacity to open closed doors. They have the tendency to turn unwilling minds to yielding ones and the ability to help us accomplish tasks in an uncommon manner. The Holy Spirit is the major channel that God uses to lay His word in our mouths. Reading through this week’s devotional will provide additional help.",
+        main_point: [
+            "When you are brought before hypocrites, don’t worry; God will give you the right words to answer them – Vs.11-12.",
+            "Jesus showed an example of how to answer hypocrites/unfriendly friends – Vs. 13-14.",
+            "Jesus warns that a man’s life is not sustained by his possessions."
+        ],
         discussion_question: [
             {
-                question: "Who are these creatures waiting for my manifestation?",
+                question: "What is a mandate?",
                 answer: [
-                    "The believer - Matt.5:16",
-                    "The unbelievers - Jn.11:41-45",
-                    "The oppressed, sick and maimed."
-                ],
+                    "An authorization to act, given to a representative.",
+                    "The right God has given to His servants to minister to people’s needs on His behalf.",
+                    "The secret backing of God to His servants and children to succeed when it seems like God’s name and their faith are going to be ridiculed."
+                ]
             },
             {
-                question: "What distinguishes a child from a son?",
+                question: "Why the mandate to speak God’s word?",
                 answer: [
-                    "Spiritual authority -Lk.10:17-22",
-                    "Willingness to accept spiritual responsibilities -Psm.110:3a",
-                    "Holiness and perfection -Matt.5:48",
-                    "Knowledge of spiritual things -1Cor 2:14-16, 1:18.",
-                    "Manifestation -Rom.8:19"
-                ],
+                    "To serve as God’s oracle.",
+                    "The right to speak and demand from Heaven to act in our favor.",
+                    "To call forth God to heal, provide, and protect people from harm and receive God's response."
+                ]
             },
+            {
+                question: "What is God’s word capable of doing?",
+                answer: [
+                    "Teaches us what to say.",
+                    "Fuels how to speak.",
+                    "Puts words in our mouths.",
+                    "Guides our utterances.",
+                    "Operates through channels.",
+                    "Triggers Holy Ghost Response.",
+                    "Guides mouth and wisdom."
+                ]
+            },
+            {
+                question: "Without God’s word, what do we face?",
+                answer: [
+                    "Ignorance.",
+                    "Confusion.",
+                    "Loss of words.",
+                    "Disorderly utterance.",
+                    "No link to Divine instructions.",
+                    "Loss of Holy Ghost’s help.",
+                    "Silence and foolishness."
+                ]
+            },
+            {
+                question: "Those who depended on God’s word to carry out their assignments:",
+                answer: [
+                    "Moses – Exo. 4:2.",
+                    "Isaiah – Isa. 50:4.",
+                    "Jeremiah – Jer. 1:9.",
+                    "The 12 Apostles of Jesus – Mat. 10:19."
+                ]
+            },
+            {
+                question: "Benefits of God’s word:",
+                answer: [
+                    "Defends us.",
+                    "Counsels us.",
+                    "Gives us dominion in the midst of our enemies.",
+                    "Gives us the privilege to defeat our enemies.",
+                    "Gives us the grace to become more than conquerors."
+                ]
+            }
         ],
-        conclusion: "Today's message may not be lengthy but striking, it is clear that manifestation is for sons not children. If you must be a son, you must upgrade and update your relationship status with your father-Jesus. You're not far from it, sonship is an inert potential in you, grow in it and you'll manifest at default.",
+        conclusion: "The best thing we can always do for ourselves in this Christian walk is to continually yield to God’s word. God’s word will always work out things for our good and joy."
     },
     {
-        img: "/images/bg/hero1.png",
-
         lesson: "Lesson 16",
-        date: "Sunday 16th October, 2022",
-        topic: "CHOOSE TO BE A GOD",
-        text: "Psm.82:6-7",
-        memory_verse: "Jn.10:34 - Jesus answered them, is it not written in your law, I said, ye are gods?",
-        aim: "To help believers understand their spiritual status, live and walk in it.",
-        central_truth: "I have been mandated by my maker to act in His capacity, I believe that I possess His abilities.",
-        introduction: "Good morning beloved, happy Sunday. If you followed your devotional from Monday, by now you'd agree that you're not a child in the spirit. You are a god, though you can operate in lesser capacities, but your main calling is to be a god. Your mentality and readiness to accept this teaching will determine your status in Christ, potentially, every believer can be great or little in Christ (Matt.13:23); your determination, belief and mentality is what pushes you to either way, decide to be a god today. ",
-        main_point: [],
+        date: "Sunday 20th October, 2024",
+        topic: "THE LORD IS COMPASSIONATE",
+        text: "Psalm 103:1-5; Isa. 38:1-5",
+        memory_verse: "Isaiah 38:5 - “Go, and say to Hezekiah, thus saith the Lord, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.”",
+        central_truth: "God’s compassion can sponsor your life’s elongation.",
+        aim: "To show believers how to draw compassion from God through their prayer life.",
+        introduction: "Ensure you go through this week’s devotional. Two great kings in the Bible proved that the Lord is compassionate. They did this, at different times and unknown to each other, by their humility and prayer life. They are David and Hezekiah. Beloved, by your humility and prayer life you can win the sympathy of a compassionate God in times of difficulty or near calamity and even at moments of uncertainty.",
+        main_point: [
+            "David blessed and thanked the Lord for:",
+            "Forgiving his iniquities.",
+            "Healing all his diseases.",
+            "Crowning him with loving kindness.",
+            "Granting him tender mercies.",
+            "Redeeming his life from destruction.",
+            "Satisfying his mouth with good things.",
+            "Renewing his youth like the eagle’s.",
+            "God reversed the death sentence with fifteen extra years of life for Hezekiah through Isaiah’s voice."
+        ],
         discussion_question: [
             {
-                question: "What are the rankings in the spirit and their weaknesses?",
+                question: "What is compassionate?",
                 answer: [
-                    "God: There are no weaknesses here, when you operate in this level; you're perfect just like God. This is the main realm God wants us to operate in (Job 36:26, Psm.71:19, 77:13, 95:3)",
-                    "Angels: in this realm, you have authority over the spirit realm, you're a pillar in the spirit, but you may be a bit imperfect, their weakness is the possibility of sinning (Isaiah 14:12-20, Gen. 6:2-4).",
-                    "Man: In this realm you have dominion over everything on earth that lives,   walks, crawls, flies, etc. You command and receive obedience from all things. Their weakness is death (Heb. 9:27, Psm. 82:7)",
-                    "Prince: In this realm, you're limited to commanding defined territories, you rule over your territory and perfect Christ’s holiness, their weakness is pride and death (Psm. 82:7, Acts 3:14-15). (Study your devotional from Thursday-Sunday for clarity).",
-                ],
+                    "Being sympathetic or feeling pity for someone.",
+                    "Being conscious of someone’s distress and willing to help out.",
+                    "Being sensitive to someone’s need and being ready to provide it."
+                ]
             },
             {
-                question: "How can I be a god?",
+                question: "What is the meaning of: The Lord is compassionate?",
                 answer: [
-                    "Already you're one (Psm. 82:6).",
-                    "Think like one(Philemon 1: 14a).",
-                    "Act like one(Matt. 5: 16)",
-                    "Proclaim it aloud",
-                    "Believe it",
-                    "Follow the qualities of God and live them."
-                ],
+                    "God is kind, good-hearted, and merciful.",
+                    "God is moved by our tears, pleadings, and prayers and is willing to bring us joy and peace.",
+                    "God is sensitive to our suffering and ready to alleviate it.",
+                    "He uses His love and kindness to wipe away tears and keep us from sorrowing."
+                ]
             },
             {
-                question: "What can stop me from becoming a God?",
+                question: "How did (a) David and (b) Hezekiah attract God’s compassion?",
                 answer: [
-                    "Unbelief",
-                    "Sin",
-                    "Not acting like one"
-                ],
+                    "David:",
+                    "David killed Uriah and took his wife Bathsheba (2 Sam. 12:9), and David was to die also.",
+                    "David was prompt to show remorse, fast, pray, confess his sins, and plead with tears for God’s mercy and compassion (Psalm 51:1-2,5,9).",
+                    "God did not kill David, although the child born by Uriah’s wife died (2 Sam. 12:13-20).",
+                    "Hezekiah:",
+                    "He turned his face to the wall and prayed unto God – Isa. 38:3.",
+                    "He reminded God of how he had walked before the Lord in truth and with a perfect heart and had done good in His sight – Isa. 38:3.",
+                    "Hezekiah wept sore – Isa. 38:3, and God reversed the death sentence – Isa. 38:5."
+                ]
             },
-
+            {
+                question: "Why did God show them compassion?",
+                answer: [
+                    "Their responses gave God strong reason to do so (Isa. 41:21).",
+                    "Hezekiah’s lineage linked to David – Isa. 38:5.",
+                    "Because of God’s covenant with David and his sons – 2 Chron. 13:5."
+                ]
+            }
         ],
-        conclusion: "You are a god! It's no longer a bible quotation; make it your daily confession and reality. Live as one, act as one, stop everything that God doesn't do and promote all that God does. As a commitment, from the Bible or internet sources, copy out the qualities of God and live by them daily. See you as a god! You're bless you",
+        conclusion: "God is ready to show His compassion to His children who are covenantally linked to David. David pleased Him with his attitude of remorse and plea for forgiveness. Let us strive to please God by cultivating a genuine attitude of humility and seeking His compassion through heartfelt prayer."
     },
+
     {
-        img: "/images/bg/hero5.png", 
         lesson: "Lesson 17",
-        date: "Sunday 23rd October, 2022",
-        topic: "SAFEGUARDING YOUR MARRIAGE AGAINST ADULTERY",
-        text: "Pro 5:15-21",
-        memory_verse: "Prov. 6:32 - But whoso committed adultery with a woman lacketh understanding, he that doeth it destroyeth his own soul.",
-        aim: "The study is aimed at teaching ways of sustaining purity and chastity in marriages",
-        central_truth: "No matter how men try to cover it, adultery is a grave sin",
-        introduction: "Adultery is an extramarital sex that wilfully and maliciously interferes with marriage relations. It is gotten from the Latin word adulterium and is considered objectionable on social, religious, moral or legal grounds. The rate of normalization of divorcement today, even in churches demands quick response. And most divorcement today is traceable to adultery. God hates divorce and encourages the honourableness of every marriage institution and He also stands in readiness to judge whoremongers and adulterers. (Heb13:4)",
-        main_point: [],
+        date: "Sunday 27th October, 2024",
+        topic: "THE FRIENDSHIP OF JONATHAN AND DAVID",
+        text: "I Samuel 18:1-5; 19:1-4",
+        memory_verse: "Hebrews 7:7 - “And without all contradiction the less is blessed of the better.”",
+        central_truth: "Until you have a destiny helper, your life cannot get better.",
+        aim: "To encourage believers to pray and seek for destiny helpers.",
+        introduction: "Read the week’s devotional for more understanding. God created things in twos – for example, male and female (Gen. 1:27). He does not want any man or creature to operate alone. He Himself never operated alone when He said: 'Let us make man in our image, after our likeness.' (Gen. 1:26). The 'us' refers to Jesus and the Holy Spirit. They are in relationship with Him. Notice this: He created other things alone (Gen. 1:3-25). You need another person to encourage, defend, inspire, and cooperate with you to accomplish tasks in life. Like David, you need a Jonathan to defend or give you safety hints when attempts are being made to cut short your life.",
+        main_point: [
+            "This was a divine plan:",
+            "The soul of Jonathan was knit with the soul of David, and Jonathan loved David as his own soul – verse 1.",
+            "King Saul’s heart also knit with the heart of David (God had clothed David with the garment of acceptance before Saul and the people of Israel) – verse 2.",
+            "Jonathan and David made a covenant because he loved him as his own soul – verse 3 (God never intended that relationship to be short-term, but long-lived).",
+            "Jonathan stripped himself of the robe that was upon him, and gave it to David – verse 4 (This was an impartation, giving his privilege and particulars to David).",
+            "David did not take all these for granted; he behaved himself wisely – verse 5."
+        ],
         discussion_question: [
             {
-                question: "What is the real context of adultery?",
+                question: "What are friends for?",
                 answer: [
-                    "God chose the Israelites to be a holy (separate) and special people before him just as a man chooses a woman from all others to be special and separate for him (Deut 7:6, 14:2). And whenever the Israelites disobeyed or worshipped other gods, God said they have gone a whoring, meaning they have committed adultery or prostitution.(Judges 2:17, Exo. 34:15, Lev. 17:7). The real context of adultery is in Matt 15:18, Isa 29:13, Eze. 33:31 which reveals that adultery happens when the heart of man goes after other things (worldly things) rather than God. When other things interfere in your relationship with God, it is adultery."
-                ],
+                    "Mutual help.",
+                    "Upgrading each other’s potential.",
+                    "Defending or giving safety hints during hostile times.",
+                    "Inspiring each other to higher heights.",
+                    "Elevating a fellow person."
+                ]
             },
             {
-                question: "What does our reading text and others counsel about adultery?",
+                question: "How can friendship be played out?",
                 answer: [
-                    "In the Old Testament, God recommended the death of adulterers. By putting them   to death, the sacrilege of adultery would be cleansed from the land (Deut. 22:22). Today, an adulterer is spiritually dead even if he/she lives (1Tim 5:6)",
-                    "Sexual pleasure should be obtained only from spouse and not another (Prov. 5:15,17)",
-                    "Always rejoice with your spouse and be satisfied and ravished with the pleasure you derive from her as this will close doors against searching for another (Prov. 5:18-20)",
-                    "God knows the thoughts of your heart towards strange women (Prov. 5:21) and wants you to redress your steps",
-                    "Adultery drifts a man of understanding and safety (Prov. 6:32)",
-                    "Adultery reduces the greatness of a man (Prov. 6:26)"
-                ],
+                    "Relationship – Prov. 13:20.",
+                    "Mentoring – Heb. 7:7.",
+                    "Connection – Eccl. 4:9.",
+                    "Association – Prov. 27:17.",
+                    "Solidarity – Eccl. 4:11.",
+                    "Synergy – Eccl. 4:12.",
+                    "Affiliation – Eccl. 4:10."
+                ]
             },
             {
-                question: "What is God's take on divorcement? ",
+                question: "How can one identify a friend?",
                 answer: [
-                    "God originally designed that death alone should part couples in marriage relationship (Rom 7:2-3) but due to the hard heartedness and unforgiveness in men, he compromised some standards (Matt19:8)",
-                    "No amount of hatred a couple has towards a spouse should propel divorcement (Deut. 22:13-19)",
-                    "Divorcement is only legal on the grounds of uncleanness or unchastity (Deut. 24:1-2, Matt 19:9, 5:32)",
-                    "Any woman who receives certificate of divorcement on the ground of adultery can be married to another but she is never to return to the former spouse paradventure another separation occurs (Duet 24:2-4). ",
-                    "On the whole, divorcement on whatever ground was not the original plan of God and should be highly discouraged (Matt 19:8)",
-
-                ],
+                    "When you have a divine stirring within you as you meet the person – I Sam. 18:1.",
+                    "When his idea or reasoning tickles your fancy.",
+                    "Each time you meet with him/her, something is supernaturally added to you.",
+                    "When you see he/she is all out for your good.",
+                    "He/she is a secret informant to you."
+                ]
             },
             {
-                question: "How to safeguard your marriage against adultery and polygamy. ",
+                question: "What lessons to learn from the friendship of Jonathan and David?",
                 answer: [
-                    "Polygamy, except that which occurred naturally because of the death of a spouse who left seeds behind, is a great threat to a glorious marriage and it mostly results from adultery. ",
-                    "The lineage of Ishmael, born out of the unhealthy desperation of Sarah to give children to Abraham became a great threat to the children of Israel in the future because he was fashioned to be wild and be against every man including his brethren (Gen. 16:11-12). This is the mystery behind most crises in polygamous homes",
-                    "A king and priest of Christ should not multiply wives in order for his heart not to turn from God (Deut. 17:17, 1Tim3:2, Rev. 5:11)",
-                    "God made a man to cleave to a woman and not for man to cleave to women (Matt. 19:4-5)"
-                ],
-            },
-            {
-                question: "Safeguards against adultery ",
-                answer: [
-                    "Though married and born again, you are still flesh and blood and can be   tempted; be therefore watchful of adultery which can come in disguise (1Pet 5:8, Prov. 6:27-29) ",
-                    "Avoid idleness and comfort at work during working hour’s times. Give the devil no room in you (1Sam. 11:1)",
-                    "Avoid strong drink- it can take you from the house to mingle with senseless people.",
-                    "Its influence can make you do any senseless thing (Gen. 19:30-35, Prov. 20:1)",
-                    "Make your spouse your closest friend, trust and communicate when     due",
-                    "Give each other their due right and especially the sexual rights (1Co. 7:3, 5). This shows honour and refrains the partner's feet from going to another for satisfaction",
-                    "Bear each other's burden",
-                    "You are married and are one flesh with your spouse and not children or other relations. Don’t esteem others above your spouse as they can become instruments of asunder in your marriage (Matt. 19:6)",
-                    "Cover well (2Sam. 11:1-2)",
-                    "Reveal to your spouse or higher authority if you start losing feelings for him so that another may not fill the vacuum in your heart",
-                    "Let God's word guide your marriage (Prov. 6:23-25)",
-
-                ],
-            },
-
+                    "Jonathan was a mentor to David – He knew what David didn’t know.",
+                    "Jonathan recognized his divine affiliation with David and held on to it by covenant – I Sam. 18:1,3.",
+                    "God used Jonathan to pave the way for David to access the throne he was anointed for. In other words, a destiny helper to David – I Sam. 18:4, I Sam. 19:1-7.",
+                    "David didn’t take things for granted; he was humble and behaved himself wisely before Saul. Saul assigned him higher duty – I Sam. 18:5."
+                ]
+            }
         ],
-        conclusion: "Adultery is a grave sin, avoid it",
+        conclusion: "Friendship is like a destiny ladder that can take you to your greatness, popularity, and prominence. (I Sam. 18:6-7; 19:4-8).",
     },
     {
-        img: "/images/bg/hero2.png",
-
         lesson: "Lesson 18",
-        date: "Sunday, 30th October, 2022",
-        topic: "DELIVERANCE FROM FINANCIAL EMBARRASSMENT",
-        text: "Matt. 17: 24-27",
-        memory_verse: "Phil. 4:19 - “But my God shall supply all your need according to his riches in glory by Christ Jesus”.",
-        aim: "To examine what God expects us to do to get delivered from financial harassment.",
-        central_truth: "Recognize God as the one who takes away financial embarrassment and financial favour will come.",
-        introduction: "I suggest you quickly browse through the week’s devotional to beef up your understanding of this lesson. Time is money.  Let’s use our time well.  Let’s do something and money will come.  If we sit complaining and lamenting about lack of money or inadequate money coming to us, we’ll soon become an offence.  The labour of our hand is an escape route from financial embarrassment.  So, don’t ever joke with your work.  It’s the channel to your financial sufficiency.",
+        date: "Sunday 3rd November, 2024",
+        topic: "THE MAN THAT FEARS GOD SHALL BE BLESSED",
+        text: "Psalm 128:1-6",
+        memory_verse: "GEN. 22:12 - “And he said, lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me”",
+        aim: "To encourage believers to showcase reverential fear to God, whether convenient or not.",
+        introduction: "Read the week’s devotional. Abraham was the 1st person in the Bible to show that he has fear for God. This kind of fear is called reverential fear; this is not fearing God because of punishment, it is fearing God as an act of obedience in worship and because of who He is: The Almighty God. Any man or woman that fears God shall be blessed for doing so. Today, we sing “Abraham’s blessings are mine, I am blessed in the morning, blessed in the evening, Abraham’s blessings are mine”. This was because he had reverential fear for God.",
         main_point: [
-            "Even where people experience financial embarrassment, you can experience a turnaround.Believe God for this to happen(v 24)",
-            "God will give you somebody who will shield you from financial embarrassment(v 25).",
-            "Peter is someone; who reassures your confidence that strangers to the faith can suffer lack but real children of God are free from lack(verse 26)",
-            "You’re an offence to somebody(Landlord, needy, bills and fees) if you don’t have money. (Verse 27)"
+            "Blessing is for those who fear God and walk in His ways - Verse 1",
+            "This blessing comprises: Profiting, Happiness and well-being. (Personal blessing) – Vs. 2",
+            "Other blessings include: fruitful womb, flourishing home and thriving children. (family blessing) –Vs. 3",
+            "Next is, blessing outside one’s house, enjoying goodness of the land all the days of one’s life (city or community blessing).",
+            "Last is, seeing children’s children and living in peace (Generational blessing) – Vs.6"
         ],
         discussion_question: [
             {
-                question: "What’s another word for deliverance?",
+                question: "How should we fear God?",
                 answer: [
-                    "Freedom; freeing from",
-                    "Liberation",
-                    "Release",
-                    "Rescue"
-                ],
+                    "Fearing God is akin to honouring Him.",
+                    "By Honouring God.",
+                    "By Reverencing God.",
+                    "Act in line with the understanding that He has the whole Heaven and Earth.",
+                    "Walk in line with His word",
+                    "Submit to the leading of the Holy Spirit",
+                    "Recognize and celebrate His glory and majesty",
+                    "Go out and tell others about His goodness and mercy."
+                ]
             },
             {
-                question: "How can you express verse 24 in one sentence?",
+                question: "What is the content of the Blessing for fearing the Lord?",
                 answer: [
-                    "If you have a financial helper it is possible to be free from financial embarrassment where others are having it."
-                ],
+                    "You shall not be denied or deprived of the reward of your labour - Ps. 128:2a.",
+                    "You will not live a life of sorrow – Vs. 2b",
+                    "You will have enhanced well-being Vs. 2c",
+                    "Family blessing – children and resources shall increase and multiply – Vs. 3a",
+                    "Your marriage shall be purposeful and your wife productive.",
+                    "You’ll be blessed in your city and in the field.",
+                    "You will enjoy generational blessing – of seeing your children’s children.",
+                    "You’ll enjoy divine allocation irrespective of your location"
+                ]
             },
             {
-                question: "How can you explain verse 25 with Peter in mind?",
+                question: "Who set the example of enjoying blessings from fearing the Lord?",
                 answer: [
-                    "Peter is somebody who does not look down on his Preacher even though he knows there’s no money in his pocket or bank account",
-                    "Somebody who will still reverence the grace of God upon his Pastor, money or no money.",
-                    "Somebody who will not allow his Senior to feel discouraged because his anointing does not attract the volume of money he needs to live like a responsible man."
-                ],
-            },
-            {
-                question: "In verse 27, Jesus told Peter “go thou to the sea” (not bank?).",
-                answer: [
-                    "Peter was a former Fisherman, that means, there’s money in your trade go for it there.",
-                    "There are many financial yielding items in the sea namely: fish, oil, crayfish, sand, water, periwinkle etc. these are all channels to getting money.",
-                    "Speaks of a particular action you need to take to attract money into your pocket.",
-                    "Go to your work place and apply diligence and wisdom to your work, money will flow or follow you.",
-                ],
-            },
-            {
-                question: "“And cast a hook” – verse 27",
-                answer: [
-                    "Hook speaks of something you have that’ll compel somebody to give you money example; Testimonies (as a result of your prayers), beauty, your word as honey for sweetness, e.g. MC, Preacher, Comedian, Guest speaker etc., Anointing for wealth, Royal grace, amiable (humorous) personality, writing skill, preaching style, evident success, mentorship grace and grace for having your word confirmed via prophecy, prophetic utterance and decrees."
-                ],
-            },
-            {
-                question: "“And take up the first fish that comes up”.",
-                answer: [
-                    "The 1st person that believes in what you carry is your sources of reverence.",
-                    "The 1st fish is the volunteer financier that approaches you as you get to a place.",
-                    "The 1st person that gives you money and it is enough and to spare.  He/she is your destiny helper.  Take a solid relationship with him/her."
-                ],
-            },
+                    "Abraham – Gen. 22:12.",
+                    "He was addicted to obeying God’s instruction whether convenient or not.",
+                    "He had a strong reverential fear for God. For this he was made great by God.",
+                    "He did not withhold his son, his only son from being used for sacrifice to God. However, it was God who stopped him.",
+                    "He was completely committed to God and determined to serve God."
+                ]
+            }
         ],
-        conclusion: "God’s children have free access to attract money, we must not just relax.  We must make efforts to attract more money.",
+        conclusion: "Fear of God fetches for someone God’s wisdom. It brings profiting in one’s endeavor, happiness, personal and business breakthroughs."
     },
-    {
-        img: "/images/bg/hero1.png",
 
+    {
+        date: "Sunday 10TH NOVEMBER, 2024",
         lesson: "Lesson 19",
-        date: "Sunday, 6th November, 2022",
-        topic: "THE MINDSET OF A CHAMPION",
-        text: "1 Samuel 17:16, 25-27, 32-36.",
-        memory_verse: "Proverbs 23:7a - “For as he thinketh in his heart, so is he”.",
-        aim: "To illustrate that a Christian champion must think positively and operate with a growth mindset.",
-        central_truth: "For you to win in the ring, you must first win in your mind.",
-        introduction: "please read the week’s devotional!  A man or woman who has much experience and won several emotional, spiritual, financial, marital, psychological and physical challenges in life and deserves high praise is a person with the mindset of a champion; a Christian champion. This lesson reveals that there are people talking very loud in their approach but no progress and no winning skills.  So, don’t be intimidated by the noise in the atmosphere.  Just be a setter and you’ll become a goal getter.",
+        topic: "RAISE THE PRAISE: IT SHALL BE WELL!",
+        text: "Acts 16:25-27",
+        memory_verse: `Psalm 67:3 -  "Let the people praise thee, O God; let all the people praise thee."`,
+        central_truth: "The praise is raised when all the people are in praise.",
+        aim: "To encourage believers to be in continual praise no matter the adverse condition they may face.",
+        introduction: "Read this week’s devotional. God is glad when we raise the praise. As a result, He continually opens His heart to us. He grants us our requests, opens the door for us and helps us to break barriers that fight our growth. When praise is low, morale is low. When we raise the praise, revival is enforced and well-being is enhanced. David and his people knew that the secret of freedom, increase and well-being is to raise the praise (Ps. 67:3, 5-7). Do you want all to be well with you? Then, raise the frequency of the praise to God.",
         main_point: [
-            "It is challenges that produce champions - verse 16",
-            "Champions like to know the price before the fight begins - verse 25 – 27",
-            "He sets a goal to achieve – to take away the reproach from Israel.Champions don’t fight aimlessly – verse 26",
-            "A winning mindset – verse 32.",
-            "Age should not be a limiting factor - verse 33",
-            "Encouraged by past victories - verse 34 - 36",
-            "Acknowledge God’s presence and power with you; to use you as the instrument of honour to glorify His name - verse 37."
+            "Midnight determines what shape the day will take. If we raise the praise at midnight, then the daybreak will be a good day.",
+            "Loud praise gives us dominion over the environment and our territories – Vs. 25",
+            "Loud praise to God triggers the supernatural earthquake that opens all closed doors and lead people into freedom – Vs. 26",
+            "When the praise is raised, any enemy who does not want things to be well with you will attempt suicide – Vs. 27"
         ],
         discussion_question: [
             {
-                question: "As a champion to be, what was David’s mindset?",
+                question: "What is Raise the Praise?",
                 answer: [
-                    "His mindset or way of thinking was towards success, progress and ultimate future achievement - verse 26 - 37.",
-                    "He had already seen his victory with God by his side before starting to fight - verse 36",
-                    "His anger fuel his zeal to fight and win – verse 36"
-                ],
+                    "Shout loud and extol the name of the Lord.",
+                    "Say sweet things to God with a sense of vehemence and vibrancy.",
+                    "Give thanks to God with your voice raised and the atmosphere filled with your emotion towards God for His love and faithfulness.",
+                    "Speak out very audibly about God’s mercy and compassion towards you and your family.",
+                    "Lift up your voice in testimonies and spell out the possibilities He has brought forth in your life.",
+                ]
             },
             {
-                question: "What was the emotional challenge and how did David win?",
+                question: "What does 'It shall be well' specify?",
                 answer: [
-                    "Eliab; his eldest brother’s anger against David when he(David) spoke to the men – verse 28.",
-                    "David did not react or insult his brother",
-                    "Eliab accused David of being proud and naughty - verse 28",
-                    "David said he has not done him any wrong - verse 29"
-                ],
+                    "Promise of well-being for the faithful and consistent believer.",
+                    "Prophecy of a far better future.",
+                    "A decree instructing your enemies to stop attacking you.",
+                    "An encouragement that things will change for good.",
+                    "A declaration that you are a light no darkness can quench.",
+                ]
             },
             {
-                question: "Why did say: “Is there not a cause?",
+                question: "Raise the Praise: It shall be well - what does this mean?",
                 answer: [
-                    "David was trying to keep a date with destiny as:",
-                    "As a future King of Israel, he was trying to defend Israel from reproach.",
-                    "He had been anointed secretly by Samuel(1 Sam. 16: 1 - 13).This was an Occasion to prove the oil",
-                    "The one Israel can trust if Saul was no more King.",
-                    "Showcased to the enemy nation(Philistine) that they cannot just come and torment Israel for 40 days anymore.",
-                    "That you have to kill a champion in battle, to become a champion.",
-                    "To justify that God was right choosing him as the future King after Saul - 1 Sam 18: 7."
-                ],
+                    "Our well-being is tied to our praise – filled life.",
+                    "When we increase our praise to God, we attract good things to happen to us.",
+                    "As we raise the praise to God it becomes easy for us to experience freedom and obtain breakthroughs.",
+                ]
             },
             {
-                question: "What’s the champion mindset of David to emulate?",
+                question: "What are the conditions to fulfill 'It shall be well'?",
                 answer: [
-                    "Testify about your small victories while believing for the bigger one verse 37.",
-                    "When you thank God for the little, He will do more - Rev. 12: 11, 17: 37.",
-                    "There’s always a positive word in the champions mouth - verse 32",
-                    "He encourages himself - 1 Sam 30: 6",
-                    "Load yourself with the word of God, you will need it when the battle is tough - 1 Sam 17: 45, 46",
-                    "Your hidden weapons, talents and gifting’s will open doors for your victory – 1Sam 17: 49"
-                ],
+                    "Take it as a faith confession. So keep confessing it to yourself and your family.",
+                    "Raise the praise and you experience open doors.",
+                    "Take it as a prayer declaration. Keep at it.",
+                    "If fasting is added – It shall be well.",
+                    "It shall be well when supply is available.",
+                    "If sin is shunned, it shall be well with you.",
+                    "It shall be well; By Grace of Recovery."
+                ]
             },
         ],
-        conclusion: "Anything conceivable, if believable is achievable.  Life is a battle.  You win with words before you win with action.",
+        conclusion: "By now, your eyes must have been opened. May you now know how to attract increase, freedom and open doors to yourself."
     },
     {
-        img: "/images/bg/hero2.png",
-
         lesson: "Lesson 20",
-        date: "Sunday, 13th November, 2022",
-        topic: "PAYMENT OF TITHES",
-        text: "Mal. 3:8-10",
-        memory_verse: "Lev. 27:30 - “And all the tithes of the land whether of the seed of the land or of the fruit of the tree is the Lord’s, it is Holy unto the Lord”.",
-        aim: "To point out to believers that there are divine provisions, blessing and victory in paying tithes.",
-        central_truth: "If you don’t pay your tithe, you are making things tight and tough for you.",
-        introduction: "Tithes are God’s major key to prosperity.  It is a key to kingdom covenant investment and a must do commandment. “Bring ye all the tithes …..” (Mal. 3:10).  God commanded His children.  Our obedience will bring us blessings; otherwise we will experience lack, financial hardship, losses, defeat and disappointment.",
-        main_point: [],
-        discussion_question: [
-            {
-                question: "Why do we give tithe?",
-                answer: [
-                    "(To ensure that the work in the house of God and God’s Ministers are taken care of (Mal. 3:10a; Nem. 28:20-21, 23-24).",
-                ],
-            },
-            {
-                question: "Who must pay tithes?",
-                answer: [
-                    "People from all nations (Isa. 1:19; Mal. 3:8)",
-                    "Christians (Believers) - Heb. 7:1-2",
-                    "The priests of God - Heb. 7:9-10",
-                    "Friends of the Church like Nicodemus etc",
-                    "God’s covenant of wealth and prosperity is the result of tithing (Ps. 75:6-7)"
-                ],
-            },
-            {
-                question: "When is our tithes due?",
-                answer: [
-                    "When we receive our income, wages or increase (Lev. 27:30).",
-                ],
-            },
-            {
-                question: "Who first taught us how to pay tithe after a victory, profit or an increase?",
-                answer: [
-                    "Abraham (Gen. 14:18-20).",
-                ],
-            },
-            {
-                question: "Can we use tithe to seal up (ie support) our prayer request?",
-                answer: [
-                    "Yes, see Gen. 28:20-22, Jacob did it.  God answered him - Gen 31:13; Also read Deut. 14:26).",
-                ],
-            },
-            {
-                question: "What are the seven benefits of paying tithes?",
-                answer: [
-                    "(See Mal. 3:10-12) We will enjoy",
-                    "Open Heaven - v 10",
-                    "Out-pouring of blessings - v 10, Deut. 28:1,2",
-                    "Surplus supplies - Chron. 31:5.10",
-                    "Supernatural defence - v11, Isa. 54:17",
-                    "Divine protection - v11",
-                    "Good success - v12",
-                    "Divine favour - v 12",
-
-                ],
-            },
-        ],
-        conclusion: "Tithe is 10% of our income.  It is God’s money.  We must pay it to appreciate His goodness towards us. Everybody pays tithes; only very few to the Lord, many to devourer.  Who takes your tithes?",
-    },
-    {
-        img: "/images/bg/hero5.png",
-
-        lesson: "Lesson 21",
-        date: "Sunday, 20th November, 2022",
-        topic: "Principles of True Salvation",
-        text: "Jer. 3:1-23", //empty
-        memory_verse: "Jer. 3:23 - “Truly in vain is salvation hoped for from the hills, and from the multitude of mountains.  Truly in the Lord our God is the salvation of Israel”.",
-        aim: "To reveal to believers that false teachers have introduce popular doctrine that cannot practically lead people to salvation in Christ and help people trace back to the truth.",
-        central_truth: "Until there is disillusion from Christians false believe and practice many shall realize it too late that they are too far from salvation.",
-        introduction: "Various religions have different mythological studies that give them false senses of safety of whatever they are made to believe.  Christianity shouldn’t be one of these but unfortunately it is.  This makes it necessary to differentiate between faith based Christians and mere religious Christians. While the former shares in the faith of every other religion, they later is not a religion but a way of life leading to true salvation.  This is what Jesus came to author and finish (Heb. 12:2).",
-        main_point: [],
-        discussion_question: [
-            {
-                question: "What is true salvation? ",
-                answer: [
-                    "True salvation is the divine package of the totality of God’s design to liberate man from worldly and satanic captivity and activities and restoring eternal life to man.",
-                    "True salvation is assured while man is still alive.  There is no repentance after life hence no salvation for un-repented sinner when he dies (Heb. 9:27-28).",
-                    "Salvation is personal; it cannot be obtained generally.  It is meant for individual’s desire, pursuit, sustenance and assurance.",
-                ],
-            },
-            {
-                question: "What are the illusion in salvation?",
-                answer: [
-                    "Salvation is based on religion or denomination: There is neither human name or congregation name other than Jesus Christ meant for salvation.",
-                    "Salvation is based on services and loyalty to church or a personality:  The reverse of Roman 8:1 clarifies that condemnation is the portion of whoever is not in Christ Jesus irrespective of one’s connection and affiliation.",
-                    "Once save is forever save:  Rev. 2:24-26 is a clear point that true salvation is to be held fast unto Christ coming and we can only overcome as we stand till the end.",
-                ],
-            },
-        ],
-        conclusion: "New Testament salvation is all about grace.  Romans 6:1-2 is a New Testament ministration asking and forbidding the notion or practice of covering up sin with the preaching of grace. ",
-    },
-    {
-        img: "/images/bg/hero7.png",
-
-        lesson: "Lesson 22",
-        date: "Sunday, 27th November, 2022",
-        topic: "THE SEED OF BROTHERLY LOVE",
-        text: "Rom. 12:10, Heb. 13:1",
-        memory_verse: "1 John 4:7 (KJV) - “Beloved, let us love one another for love is of God, and every one that loveth is born of God, and knoweth God”.",
-        aim: "To help believers demonstrate the God kind of love to the fellow man",
-        central_truth: "you first receive love as that you can give love.",
-        introduction: "Happy Sunday believers and welcome to a new week.  We’ve been talking about brotherly love this past week.  I hope you have been following it?  God’s design is to first deposit His love inside the born again believer so that he shows that love to others without any struggle (Rom. 5:5).  The God kind of love is not a product of human endeavor.  There are few things that will frustrate you and cause you to burn out like trying to do what God commanded by your own strength. Many believers today are caught between “their reality” and “what God has commanded”.",
-        main_point: [],
-        discussion_question: [
-            {
-                question: "What is brotherly Love?",
-                answer: [
-                    "Brotherly love in the biblical sense is an extension of the natural affection towards the greater community of fellow believers.",
-                    "Brotherly love is a love seeking the best interest of fellow believers and counting them as more significant than oneself (Phil. 2:3).",
-                    "Brotherly love means loving our brother in Christ with selfless desires and humility.",
-                ],
-            },
-            {
-                question: "How can we show brotherly love?",
-                answer: [
-                    "Showing love to another takes various forms.",
-                    "Steady Love – True brotherly love never chooses the perfect time to love nor the best person to love (Prov. 17:17).",
-                    "Unselfish Compassion – Selfish compassion for a brother is a form of murder – (1John 3:11-12). Charity is the heartbeat of compassion – (1John 3:17).  Brotherly compassion without action is vain.",
-                    "Keeping Unity - What binds the people of God in perfect harmony is to bear with each other and to love   (Col. 3:13-14).  The best element to fuel unity among believers is to practice brotherly love.",
-                    "An attitude of Sharing -   Every follower of Christ carries a burden for His kingdom and these loads become lighter when shared – As one body of brothers stumble without a hand lifting them.",
-                ],
-            },
-        ],
-        conclusion: "We already know that brotherly love is a command from God. It is not an option we can choose not to follow.  Every Christian receives God’s love with the purpose of giving it to others.  The way you treat others is reflection of your perception of how God treats you.  The mark of true Christianity is love.",
-    },
-    {
-        img: "/images/bg/hero2.png",
-
-        lesson: "Lesson 23",
-        date: "Sunday 4th December, 2022",
-        topic: "YOU CAN BE A VESSEL UNTO HONOUR",
-        text: "2 Timothy 2:19-22",
-        memory_verse: "I Cor. 10:14 -“Wherefore, my dearly beloved, flee from idolatry”.",
-        aim: "To instill in believers the spirit of total dedication to God.",
-        central_truth: "Let the fear of God be found inside you and outside you.",
-        introduction: "Being a vessel unto honour can only happen by choice and not by force.  God allows us to make a choice on how we want Him to rate us as we relate with Him.  Do you want Him to rate you a vessel (believer) unto honour or dishonor.  The choice is yours.  But note this:  Jabez became more honourable than all his brethren (1 Chron. 4:9-10) because of his choice to be a vessel unto honour through his prayer life.  You, too, can be a vessel unto honour.",
+        date: "Sunday 17TH NOVEMBER, 2024",
+        topic: "STEPS OF FAVOUR",
+        text: "2 Corinthians 9:6-7",
+        memory_verse: "James 4:10",
+        memory_text: "Humble yourselves in the sight of the lord, and he shall lift you up.",
+        central_truth: "Arrogance robs us of favour but humility brings it in abundance.",
+        aim: "To help believers know how to step into favour day by day.",
+        introduction: "Go through the week’s devotional for more insight. We serve a God who loves to favour His children. One act of favour can address several year of need and labour. For this reason, it is necessary to know what steps to take in order to attract favour from God. This day’s Sunday school lesson has laid out those steps and our ability to apply each of them will bring favour to us day by day.",
         main_point: [
-            "To be a vessel unto honour you must",
-            "Verse 19   -Depart from iniquity, immorality, idolatry, cultism and insincerity.",
-            "Verse 20	-Operate with pure wisdom that is far better and more valuable than  gold.",
-            "Verse 21	-Purge or free yourself from all appearances of evil.",
-            "Make yourself suitable for God to use.  Holy Spirit is looking for whom to use.  Make yourself available.",
-            "Verse 22	-Call on the Lord out of a pure and not pretentious prayers are answered on time.",
+            "Sow (or give) less, get less. Sow in abundance, get back in abundance.",
+            "Listen to your heart before you sow (or give), it will instruct you on how to do it to attract favour.",
+            "Giving grudgingly leads to gloomy life.",
+            "Key into cheerful giving, God loves it and uses it to favour us abundantly."
         ],
         discussion_question: [
             {
-                question: "What does it mean to be a vessel unto honour?",
+                question: "What is favour?",
                 answer: [
-                    "To be one believer or minister who is sanctified (made himself holy), consecrate (have deep intimate link with God) or set apart (kept uniquely for His use) in that holy and honourable  capacity or office.",
-                    "Note:  Dishonour is a state in which people disapprove of you and you lose their respect for you."
-                ],
+                    "An act of kindness and assistance",
+                    "It is God fending or fighting for us.",
+                    "Having victory where we were supposed to fall victim",
+                    "Outstanding success from minimal effort.",
+                    "Unction to function effectively in our endeavors.",
+                    "The result that replaces insult.",
+                    "An alleviation of labour and toils"
+                ]
             },
             {
-                question: "What does it mean to be a vessel for God’s use?",
+                question: "What do we mean by “steps of favour”?",
                 answer: [
-                    "Note this: a vessel is a container, which is different from a utensil or an instrument.",
-                    "The vessel for God’s use is meant to contain God; like bucket contains water.  This is not blasphemy!",
-                    "The power in Romans 9 desires that the human, as a vessel, is to contain God Himself.",
-                    "He’s to be God-like in all considerations (love, compassion, truthful, faithful etc).",
-                ],
+                    "Spiritual strategies that triggers favour",
+                    "Actions taken at convenient or non-convenient times that fetch us God’s help.",
+                    "Ventures that God opens our eyes to embark upon that yields for us exceptional results.",
+                    "Opportunities we don’t allow pass us by."
+                ]
             },
             {
-                question: "What does the Bible say about a chosen vessel?",
+                question: "How to carry the consciousness of favour:",
                 answer: [
-                    "Read Acts 9:15",
-                    "A chosen vessel is someone divinely assigned, ordained, empowered and commissioned to do a great work for the Lord.He / she could be a clergy or laity.",
-                ],
+                    "Understanding that favour is of the Lord not by man’s labour – Psalm 44:3.",
+                    "Being conscious that God will always fight our battles – 2 Chron. 20:17.",
+                    "God is faithful to grant us a way to escape from vicissitudes of life – I Cor. 10:13.",
+                    "God will supply our needs – Phil. 4:13.",
+                    "God is for us – Rom. 8:31",
+                    "God’s mercy is available for us - Rom. 9:16",
+                    "When we give, God will give us back - Luke 6:38"
+                ]
             },
             {
-                question: "How does one become a vessel unto honour? You must: ",
+                question: "ACTION THAT TRIGGERS FAVOUR:",
                 answer: [
-                    "Hunger and thirst after a close personal relationship with God ",
-                    "Long to hear His voice in your innermost being",
-                    "Never be satisfied with anything less than the experience of His presence, power and glory.",
-                    "Be willing to obey Him at all times and in all things.",
-                ],
-            },
-
-        ],
-        conclusion: "Above all, maintain a status of purity in God’s service, not just in the body (flesh) but also in action (your functions).  You must avoid things and habits that would make you unfit for the master’s use.  Celebrate Jesus!",
-    },
-    {
-        img: "/images/bg/hero9.png",
-
-        lesson: "Lesson 24",
-        date: "Sunday 11th December, 2022",
-        topic: "ONE WITH GOD IS MAJORITY",
-        text: "2 Kings 6:11-19",
-        memory_verse: "Judges 6:16 “And the LORD said unto him, Surely I will be with thee, and thou shall smite the Medianites as one man”.",
-        aim: "To let the people know when God is on your side, He equips you with divine security (as the host of heaven).",
-        central_truth: "God’s presence with a man empowers him with special abilities and victory possibilities.",
-        introduction: "God’s presence with a man renders him untouchable and unmolestable.  In other words, when God is on your side you’re immune to any attack rather you gain victory over adversity and dominion over your adversaries.  How does this happen?  Wherever God is, legions of angelic hosts are present, and so when God is with you, His innumerable company of angelic host are also with you to back you or work in your favour – (2 Kings 6:15).",
-        main_point: [
-            "Because of accuracy of Elisha’s prophecy to the King of Israel, the King of Syria sent his troop to Dothan to kidnap Elisha – Verse 11 - 15.",
-            "Elisha was not afraid knowing his life exemplifies. “One with God is majority” – verse 16; Ps. 91: 5.",
-            "His servant doubted presence of divine security with them.Elisha prayed God to open servant’s eyes to see it. – verse 17",
-            "To the kidnappers Elisha prayed God to smite them with blindness.God did.They  became useless and helpless – verse 18",
-            "As a result, they could not execute their agenda and their hands could not perform their enterprise.Elisha directed them away from him to another city called Samaria.And their mission was impossible – verse 19.  Elisha prayed again and open their eyes – verse 20. Glory be to God!."
-        ],
-        discussion_question: [
-            {
-                question: "What lesson does “One with God is majority” teach?",
-                answer: [
-                    "A child of God cannot afford to either leave the presence of God or engage in things that would make God forsake him or her.",
-                ],
+                    "Praise God – Psalm 146:2",
+                    "Tell God what you want – Matt. 7:7",
+                    "Humble yourself – James 4:10",
+                    "Give cheerfully – 2 Cor. 9:6,7",
+                    "Put all your trust in God – Psalm 118:8",
+                    "Walk closely with God – James 4:8",
+                    "Live holy – I Pet. 1:16"
+                ]
             },
             {
-                question: "How should you understand “One with God is majority”?",
+                question: "Habits that fetches favour:",
                 answer: [
-                    "When God is with you – (Ps. 118:16), the host of heaven rises to back you against attackers.",
-                    "Divine security accompanies you wherever you are or go",
-                    "Help and gifts from many people will come to you compare David 2 Sam 8:6",
-                    "You’ll rule and reign in the midst of your enemies – (Ps. 110:2)",
-                    "God honours the word in your mouth such that what you say becomes a pointer to your victory.",
-                    "God will open your eyes as you pray to see His host with you, in case adversity will arise.",
-
-                ],
-            },
-            {
-                question: "Why would you need God’s presence?",
-                answer: [
-                    "To help you confront the battles of life that are before you.",
-                    "If He leaves you alone, you’ll be at the mercy of the enemies that seem stronger than you."
-                ],
-            },
-            {
-                question: "People in the Bible who exemplify “One with God is majority”.",
-                answer: [
-                    "Gideon -	Judges 6:16",
-                    "David  -	Ps. 118:16; 2 Sam 8:6 (David’s battle victories)",
-                    "Paul and Silas – Acts 16:22-26, 35-39.",
-                    "Shadrach, Meshach and Abednego -  Dan. 3:15",
-                    "Daniel – Dan. 6:15-17, 19-22",
-                    "Joshua – Joshua 10:5-14",
-                    "Jesus – Matt. 26:53",
-                ],
-            },
-            {
-                question: "Scriptures that signify “One with God is majority",
-                answer: [
-                    "Rom. 8:31,32,37",
-                    "Ps. 118:16; 91:5, 7,10-11,15",
-                    "Isa. 54:17",
-                    "Job 5:12 etc",
-                ],
-            },
-            {
-                question: "What can you learn from this lesson via – Isaiah 54:17 and Rom. 8:31",
-                answer: [
-                    "Assurance that victory is predicated on God’s righteousness and not yours."
+                    "Being humble in the sight of God.",
+                    "Refusing to manipulate others to get to the top",
+                    "Minimizing self-ego and self-interest.",
+                    "Working and wanting for God’s appointed time to lift us up.",
+                    "Patiently waiting for God to strengthen us for favour."
                 ],
             }
-
         ],
-        conclusion: "Winning life’s battles and enjoying sustainable victories are based on God’s presence with you.  Keep hosting His presence.  If you lose it, you’ll lose out! May God help us in Jesus name. Amen!",
-    },
-    {
-        img: "/images/bg/hero3.png",
-
-        lesson: "Lesson 25",
-        date: "Sunday 18th December, 2022",
-        topic: "BALANCE IS KEY",
-        text: "Proverbs 24:15-20",
-        memory_verse: "Isaiah 28:10 “For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little”.",
-        aim: "To introduce moderation into our dealings so as to maximize our time on earth.",
-        central_truth: "Balance calls for elimination of excesses in all we do.",
-        introduction: "Moderation and elimination of excesses fuel balance.  Balance is a key to long life.  An evil man does not know the meaning of balance.  He dives into wickedness and go neck deep and doesn’t want or know when and how to withdraw or seek help from God. When you live a balanced Christian life, you prompt God to send warning to your enemies not to touch you – (Prov. 24: 15 - 16).Even when you fall seven times, God will still help you up and prolong your days on earth because you’re fair in your dealings.",
-        main_point: [
-            "God is against the wicked because of you and shields you and your household from evil attack – verse 15.",
-            "Recovery and restoration are possible for you as far as you shun injustice and stay from wickedness – verse 16.",
-            "You’re warned not to rejoice over other people’s misfortune; else God will distance Himself from you – verse 17 -18.",
-            "Don’t envy evil men, there’s no reward for them and their light will be put off when they are supposed to excel – verse 19-20.",
-        ],
-        discussion_question: [
-            {
-                question: "What is balance?",
-                answer: [
-                    "Literarily, balance is an even distribution of weight enabling someone or something to remain upright and steady - Proverb 20: 23.",
-                    "Spiritually, it is to discipline yourself to live a life that is firm in faith and fair to people of all classes – Psalm 62: 9.",
-                    "It calls for elimination of excesses and to cut down on taking things to the extreme – 2 Tim 1: 7.",
-                    "Balance is the exercise of caution or pre- caution in the course of your assignment – 2 Cor. 1: 5.",
-                    "It is paying attention to what you must do or avoid in the course of your Christian practice in towing your path in destiny.",
-                    "Balance as a noun mean stability but as a verb, it means steady or to stabilize – 2 Peter 3: 17."
-                ],
-            },
-            {
-                question: "Bible example of those who had balance as key",
-                answer: [
-                    "Job – Job 1:9, 2:9, 31:6, 42:7-8: He was just, eschewed evil, maintained his integrity and did not hold on to unforgiveness and willing to repent",
-                    "David: He was steady in praises and prayer life, quick to seek forgiveness.",
-                    "Paul –Phil. 4:12: - He was quick to anger and quick to let go – Eph. 4:26-27 , -He knew how to live in abundance and survive through scarcity."
-                ],
-            },
-            {
-                question: "How you can make balance key in your Christian life",
-                answer: [
-                    "Prov. 30: 7 - 9 – Constantly remembering God at good or bad times",
-                    "Rom. 12: 2 – Living in the acceptable will of God",
-                    "Cor. 4: 3, 4, 5, 6 – Judging yourself and balancing it with how people are judging or assessing you.",
-                    "Cor.10: 12–14 – Bear temptation, pass through it and keep your faith in God."
-                ],
-            },
-            {
-                question: "Benefits of balanced life",
-                answer: [
-                    "Recovery and restoration like Job – Job 42: 10 - 12",
-                    "Finishing strong like Paul – 2 Tim.4: 6",
-                    "Living till good old age like David – 1 Chron. 29: 28",
-                    "Gideon - judges 8: 32 and Abraham – Gen. 15: 15.",
-                    "Fulfilled destiny – 2 Tim. 4: 7 – (Paul).",
-                ],
-            },
-        ],
-        conclusion: "Living a balanced Christian life helps someone to fulfill his destiny and grow in spiritual maturity to a good old age.",
-    },
-    {
-        img: "/images/bg/hero8.png",
-
-        lesson: "Lesson 26",
-        date: "Sunday 25th December, 2022",
-        topic: "DON’T GIVE UP",
-        text: "Luke 18:2-7.",
-        memory_verse: "1kings 18:43 “Go and look toward the sea,” he said to his servant. So the servant went and looked, and he said, “There is nothing there.” Seven times Elijah said, “Go back.”",
-        aim: "To spur believers’ enthusiasm to go above life’s entanglements",
-        central_truth: "Don’t get discouraged, go ahead and you will win.",
-        introduction: "Endeavour to read the past week’s devotional to gain more and be more equipped for coming week. Brave through also known as don’t give up is a timely counseling to keep you from missing your breakthrough.  Those who don’t brave through ugly situations end up living their lives in regrets and lack nothing ahead to hope on.  The phrase: Don’t give up will speak personally to you based on your vision, aspiration and revelations as life is.  Better yield to this divine instruction for a better tomorrow.  God has you in mind.",
-        main_point: [
-            "V1 - Praying without ceasing ought to be taken as breathing to ensure living.",
-            "V2 - You will always have people who will attack your faith; but with prayer you can win.",
-            "V3 - You can’t live your Christian life in isolation.You will always need  to have association, affiliation and communication with those who don’t fear or know God or regard God’s people.Let your prayer life grant you victory as you relate with them.",
-            "V4 - Persistence wearies the devil",
-            "V5	- Persistence pays",
-            "V6 - Your enemy’s confession of his evil deeds is what leads to his conversion.",
-            "V7 - Our brave through day and night over an issue will make answer to   our prayers on time."
-        ],
-        discussion_question: [
-            {
-                question: "What do you mean by: Brave through?  Brave through is:",
-                answer: [
-                    "A command that sponsors encouragement",
-                    "A hidden voice telling somebody if you stop here people, colleagues will mock at you.",
-                    "A strength- inducing statement to a woman about to deliver a baby"
-                ],
-            },
-            {
-                question: "Which route does brave through leads?",
-                answer: [
-                    "To the route that helps you travel from nothing to something.",
-                    "Ability to ignore evil advice and carry on - Job 2: 9.",
-                    "A means to getting results on time",
-                    "An inspired decision to pass an endurance test - Job 14: 14."
-                ],
-            },
-            {
-                question: "Consequences: People who don’t brave through: ",
-                answer: [
-                    "End their lives in regrets – 1 Kings 20: 19 - 20",
-                    "Joke with opportunities – Prov.11: 24 - 26",
-                    "Are P.O.O.R(Passing Over Opportunities Repeatedly)",
-                    "They fight and run away and live to fight another day",
-                    "Lack God’s loving discipline(Heb. 12: 1)",
-                    "Feel incomplete.Run from one marriage and turn round to marry another person.",
-                    "Loose a testimony of lasting impact"
-                ],
-            },
-            {
-                question: "BENEFITS",
-                answer: [
-                    "You become a point of reference – James 5: 17 - 18",
-                    "Topic of discussion – Heb. 12: 2",
-                    "Qualify for double portion of blessing",
-                    "Enjoy captivity- turning experience",
-                    "Angelic ministration to your needs and absence of satanic manipulation - Matt. 4: 11",
-                    "You become ten times better than your colleagues – Daniel 1: 8, 20"
-                ],
-            },
-        ],
-        conclusion: "Brave through or don’t give up speaks of courage. You need to be courageous to stay victorious and prosperous – Joshua 1:5,8.",
-    },
-    {
-        img: "/images/bg/hero4.png",
-
-        lesson: "Lesson 1",
-        date: "Sunday 1st January 2023",
-        topic: "BE DETERMINED TO FINISH WELL",
-        text: "Daniel 1:8-20",
-        memory_verse: "John 4:34 “Jesus saith unto them, my meat is to do the will of him that sent me, and to finish his work”.",
-        aim: "A determination to finish His work is a decision to finish well.",
-        central_truth: "To help believers resolve to finish their Christian journey well.",
-        introduction: "Every resolution comes on the heels of a revelation.  The revelation to share here is that winners in a race are those who finish; not those who attempted or those who meant well but those that faced the challenge and finish well.  To finish well in this Christian race, you must stick to doing the will of God from beginning to the end.  It takes a determination that knows no defeat.  Determination is a positive word that involves persevering towards a difficult goal in spite of obstacles and destructions.  Moreso, in Christian race, it takes purposefulness and unyieldedness to travel to completeness and rise up in greatness. Simply decoded as being determined to finish well.",
-        main_point: [
-            "Firm decision to do the will of God – verse 8-14 often attracts favour to the believer.",
-            "In a duration of time more favourable and maximum results often emerge – verse 15 -17.",
-            "At the end, most excellent performance(compared with others) becomes the evidence – verse 18-20",
-            "The four boys finish well – became ten times better than other colleagues"
-        ],
-        discussion_question: [
-            {
-                question: "What is the secret of the four boy’s success?",
-                answer: [
-                    "Vision to make a difference",
-                    "Seeking to please God only",
-                    "Purity – driven life",
-                    "Fasting against or rejecting food and drinks sacrificed to idol.",
-                    "Dogged determination to finish well.",
-                ],
-            },
-            {
-                question: "Why did God give them favour before the Eunuchs?",
-                answer: [
-                    "To prove that it is far better to follow the Almighty God than the heathen god.",
-                    "To show that He(God) does not share His glory with anyone.",
-                    "To confuse the Eunuchs that serving God is better rewarding.",
-                    "To instruct them that anyone who takes side with God can never be stranded.",
-                    "To come up with the evidence that true worship is ten times better than fetish worship.",
-                    "To showcase that God is the original source of wisdom, knowledge and skill in all learning."
-                ],
-            },
-            {
-                question: "As a Christian what can you deduce from this story through the memory verse?",
-                answer: [
-                    "It pays to serve Jesus",
-                    "If we follow the footsteps of Jesus you can never stop your journey half - way.",
-                    "When Jesus leads you, others will have no choice but to follow or queue behind you.",
-                    "If you take the determination to do the will of God, as your “meat”, you will never fail or be defeated in life.",
-                    "With Jesus on your side the finishing grace is your portion."
-                ],
-            },
-            {
-                question: "What became of Daniel and 3 friends?",
-                answer: [
-                    "They were living in Dominion - (Gen. 1: 26, 28).",
-                    "They ruled in the midst of their enemies – (Psalm 110: 2).",
-                    "They reign over oppressors – (Isaiah 14: 2).",
-                    "They became pacesetters, record breakers and pathfinders."
-                ],
-            },
-        ],
-        conclusion: "As long as you are born of God, you will overcome – (1John 5:4).  Be determined to finish well and make Heaven at last.  Happy New Year!",
+        conclusion: "Favour is one commodity that is always in demand. When you yield yourself to God, you will have abundance of it. As you humble yourself before God and man, you’ll never be in short supply of favour. Just hold unto the steps of favour."
     }
+    ,
+    {
+        lesson: "Lesson 21",
+        date: "Sunday 24th November, 2024",
+        topic: "LIVING ACCORDING TO GOD’S PATTERN",
+        text: "Deut. 10:12-13, Heb. 8:5",
+        memory_verse: "John 15:12 - “This is my commandment, that ye love one another, as I have loved you.”",
+        central_truth: "Try to love one another as God loves us.",
+        aim: "To let every believer know that God wants us to relate with one another in love as His pattern is.",
+        introduction: "Go through the week’s devotional for details. God’s commandment is God’s pattern. The pattern He showed and still shows us is to love one another as He Himself loves us. Living according to God’s pattern is simply to showcase unconditional love to one another. Without this pattern, Moses wouldn’t have been able to build the Tabernacle according to the pattern shown to him in the mount, through the offerings brought to him with a heart of one love.",
+        main_point: [
+            "God’s pattern requires that we: fear Him and love Him.",
+            "Walk in all His ways.",
+            "Serve Him with all our hearts and soul.",
+            "Keep the commandments and His statutes.",
+            "Doing all the above is for our personal good and collective bliss."
+        ],
+        discussion_question: [
+            {
+                question: "What’s God’s pattern for us?",
+                answer: [
+                    "Micah 6:8 gives three things of what God’s standard of goodness and commitments to Him are:",
+                    "We must act justly – being fair and honest in our dealings with one another (Matt. 7:17).",
+                    "We must love mercy – show genuine compassion to individuals in need.",
+                    "We must work humbly with our God – Humble ourselves daily in godly fear and reverence for His will (James 4:6-10; I Peter 5:5-6)."
+                ]
+            },
+            {
+                question: "How can we love according to God’s pattern?",
+                answer: [
+                    "Emulate and show greater love towards our friends – John 15:13.",
+                    "Take actions to create an atmosphere of great peace amongst us – Psalm 119:165.",
+                    "Stay joyous as we serve a joyous God – 3 John 4.",
+                    "Let someone connect with us in an atmosphere of a friend’s love – Prov. 17:17.",
+                    "Always glory in His name – I Chron. 16:10.",
+                    "Live to allow God’s love to defend us – Psalm 118:6.",
+                    "Our lives should exemplify humility because God loves humility – 2 Sam. 22:28."
+                ]
+            },
+            {
+                question: "Who are the Moses of today according to Heb. 8:5?",
+                answer: [
+                    "The Ministers of God and Sunday School Teachers.",
+                    "Our messages and teachings should be geared towards building good and godly character in our members and students.",
+                    "Our prayer is to shape them into becoming vessels of honour and integrity for God’s use.",
+                    "Our lessons should uplift them spiritually, scripturally, morally, intellectually, and dutifully."
+                ]
+            }
+        ],
+        conclusion: "We can rightly say that it takes the fear of God and walking according to the pattern of His word to lead to an acceptable standard of worship."
+    },
+    {
+        lesson: "Lesson 22",
+        date: "Sunday 1st December, 2024",
+        topic: "LIVING TO PLEASE GOD",
+        text: "Hebrews 11:1, 5-6",
+        memory_verse: `Prov. 16:7 - “When a man’s ways please the Lord, he maketh even his enemies to be at peace with him”`,
+        aim: "To let believers know that when we live to please God, God will stay to bless us.",
+        central_truth: "When we live to please God, God will not leave any stone unturned to satisfy us.",
+        introduction: `Read the week’s devotional. No man can virtually obtain favour from someone he does not please. Likewise God, He will allow us to have a delightful life when we live a life pleasing to Him, like Enoch did. Meaning, numerous blessings can be derived by aligning our lives to please God. One can only live to please God by faith.`,
+        main_point: [
+            "Faith is what is hoped for - Vs. 1",
+            "By faith Enoch had this testimony that he pleased God – Vs. 5",
+            "But without faith it is impossible to please God – Vs. 6a",
+            "As you come to God, believe He will reward you if you diligently seek Him – Vs. 6b"
+        ],
+        discussion_question: [
+            {
+                question: "What does “Living to please God” mean?",
+                answer: [
+                    "Walk worthy of the Lord (be agreeable with God).",
+                    "Bearing fruits of good works (shun sin, do good).",
+                    "Growing in knowledge of God (Study His word).",
+                    "Being strengthened in His glorious power (through fasting and prayer).",
+                    "Being strengthened unto all patience and longsuffering yet being joyful.",
+                    "Giving thanks unto God the Father continually."
+                ],
+            },
+            {
+                question: "How can you be living to please God?",
+                answer: [
+                    "Have faith in God – for without faith no one can please God - Heb. 11:6.",
+                    "Be spiritually minded – Rom. 8:6-8.",
+                    "Fear God – Psalm 147:11",
+                    "Study and follow the example of Jesus Christ – Matt. 17:5.",
+                    "Obey God – I Sam. 15:22.",
+                    "Give the sacrifice God wants – Heb. 13:15-16."
+                ],
+            },
+            {
+                question: "Who are the two people in the Old Testament and New Testament who lived to please God?",
+                answer: [
+                    "O.T. – Enoch - Heb. 11:5",
+                    "N.T. – Jesus - Matt. 3:17"
+                ],
+            },
+            {
+                question: "How can you do a self-check about living to please God?",
+                answer: [
+                    "Read I Corinthians 11:31-32.",
+                    "Examine yourself: Am I living to please God?",
+                    "Is my daily lifestyle in line with God?",
+                    "God wants us to examine and judge ourselves."
+                ],
+            },
+        ],
+        conclusion: "From the text of this lesson, Heb. 11:5-6 and the memory verse Prov. 16:7, we can deduce the benefits of living a life pleasing to God as follows: enjoying divine presence, fruitfulness, victory over our enemies, spiritual growth, being announced by God, and being free from sin.",
+    },
+    {
+        lesson: "Lesson 23",
+        date: "Sunday 8th December, 2024",
+        topic: "WALKING IN THE TRUTH",
+        text: "2 Cor. 4:2; 2 John 1:4",
+        memory_verse: `John 8:32 - “And ye shall know the truth, and the truth shall make you free”`,
+        central_truth: "Conscience is an open wound only the truth can heal it.",
+        aim: "To encourage believers to walk in truth, not in craftiness nor handle the work or word of God deceitfully.",
+        introduction: `Endeavour to go through the week’s devotional. Life is a journey in which you know when you had started but don’t know when you are ending. Walking in the truth also has a bearing on and an impression of a journey. This journey is one done in truth (the Christ) John 14:6. When you walk in Christ, you have to walk in the knowledge of spiritual principles and the truth in God’s word.`,
+        main_point: [
+            "You have to renounce hidden things of dishonesty – Vs. 2",
+            "Walk in manifestation of the truth",
+            "Commend ourselves to good conscience in the sight of God – Vs. 2",
+            "Walk in truth as we have received a commandment from the Father to do."
+        ],
+        discussion_question: [
+            {
+                question: "What does it mean: ‘Walking in the Truth’?",
+                answer: [
+                    "Living a word-based lifestyle.",
+                    "Aligning your thoughts and actions with scriptural guidelines.",
+                    "Walking and working to please God.",
+                    "Following inspired instructions to stay on course with God.",
+                    "Not compromising with deceit and falsehood in the world.",
+                    "Watching over the grace upon your life and not allowing it to get into abuse."
+                ],
+            },
+            {
+                question: "How do we walk in the Truth?",
+                answer: [
+                    "Let justice roll on in our relationships.",
+                    "In Him (Jesus) and through faith in Him we approach God.",
+                    "Keep to the good taste and see the goodness in serving God.",
+                    "Call and run into the name of the Lord daily (This speaks of following a daily prayer routine).",
+                    "Walking in the consciousness that grace is already available for our exploits.",
+                    "Relate well with God so that He may be pleased to announce and endorse us for His glory.",
+                    "Keep to wisdom that yields patience and shun offence."
+                ],
+            },
+            {
+                question: "Why do we need to walk in Truth?",
+                answer: [
+                    "In order to stay clear of the hidden things of dishonesty.",
+                    "So that we take heed to manifest the truth in our lives.",
+                    "To keep to good conscience.",
+                    "To obey the commandment to walk in Truth."
+                ],
+            },
+            {
+                question: "What are the benefits of walking in the truth?",
+                answer: [
+                    "Freedom from satanic oppression.",
+                    "Live in truth and model truth.",
+                    "Increase in knowledge of God.",
+                    "Grow in grace.",
+                    "Live a triumphant life.",
+                    "Increase in unction.",
+                    "Restoration from falsehood.",
+                    "Grow in spiritual health.",
+                    "Live a transparent life.",
+                    "Bear good testimony towards God."
+                ],
+            },
+        ],
+        conclusion: "When we walk in truth, we increase in wisdom, inspiration, and become agents of transformation.",
+    },
+    {
+        lesson: "Lesson 24",
+        date: "Sunday 15th December, 2024",
+        topic: "NEVER WAIVER IN YOUR TRUST IN GOD",
+        text: "Job 13:13-16",
+        memory_verse: `Job 13:15 - “Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.”`,
+        central_truth: "It is your steadfastness that strengthens God’s faithfulness towards your life and ministry.",
+        aim: "To let believers know how to turn difficulty to possibility.",
+        introduction: `Read the week’s devotional for some level of guidance. We are told never to waiver in our trust in God. Though the experience may be extremely difficult, just persevere and know that God will not fail. He will ultimately come to our rescue and turn every difficulty to possibility. The story of Job suffices, where he passed through moments of great sorrow, trials, and tribulation but at the end enjoyed recuperation and restoration.`,
+        main_point: [
+            "A determination to hold on to the end – Vs. 13",
+            "Sometimes you need to risk life in order to reach God’s provision for your life – Vs. 14",
+            "A decision not to shift, trusting God – Vs. 15",
+            "Salvation, victory, and deliverance will come at last; no hypocrisy survives around God – Vs. 16"
+        ],
+        discussion_question: [
+            {
+                question: "What is that one word that stands for ‘Never waiver in your trust in God’?",
+                answer: [
+                    "The word is: Steadfastness."
+                ],
+            },
+            {
+                question: "What is the aim of steadfastness here?",
+                answer: [
+                    "Aims at multiplying your joy and eroding your grief.",
+                    "It is what makes you stand out among colleagues or peer group.",
+                    "It witnesses for you when wicked ones or the devil attempt to attack you (Job 1:8).",
+                    "It renews God’s love towards you every morning.",
+                    "Like a good friend of a true believer, steadfastness is a lift when you are down, a smile when you are sad, and a good song when you are depressed.",
+                    "Steadfastness is a status of loyalty where a believer will never waiver in his/her trust in God."
+                ],
+            },
+            {
+                question: "What to do during moments of tribulation?",
+                answer: [
+                    "Spend time singing and praising God.",
+                    "Ask strength from God to withstand and conquer.",
+                    "Maintain strong faith and trust in God.",
+                    "Avoid doubting God.",
+                    "Trust God’s ability to meet you at your point of need."
+                ],
+            },
+            {
+                question: "How do we show trust in God?",
+                answer: [
+                    "Always reflect on God’s past faithfulness.",
+                    "Meditate on the word of God.",
+                    "Live a life of unwavering faith.",
+                    "Obey God’s commands.",
+                    "Pray continually for God’s help."
+                ],
+            },
+        ],
+        conclusion: "God’s faithfulness is as strong as we stay with Him, no matter the tribulations. No matter how rough it is, the God of Job will definitely come to your aid. Therefore, don’t waiver, stay put, trust Him and watch Him transform your situation.",
+    },
+    {
+        lesson: "Lesson 25",
+        date: "Sunday 22nd December, 2024",
+        topic: "BUILDING UP OTHERS IN THE LORD",
+        text: "Romans 15:1-7",
+        memory_verse: `Rom. 14:19 - “Let us therefore follow after the things which make for peace and things wherewith one may edify another.”`,
+        aim: "To show believers how to build up one another in the Lord.",
+        central_truth: "As you build up others in the Lord, God by His love will build you up for greater exploits.",
+        introduction: `Read the week’s devotional for deeper insight. It is often said: “As the hand scratches the back, so the back scratches (or nabs) the hand.” That means the process of building each other is mutual and reciprocal. No one can grow alone in the house of God. One person needs to edify another and vice-versa. Besides, upgrading one another, the building process sponsors peace, harmony, and mutual co-existence in the body of Christ.`,
+        main_point: [
+            "The strong should help the weak – Vs. 1",
+            "Everyone should endeavor to edify one another – Vs. 2",
+            "The reproach upon us fell upon Jesus – Vs. 3",
+            "Every written word is for our learning – Vs. 4",
+            "We should be likeminded – Vs. 5",
+            "We should glorify God with one mind and one mouth – Vs. 6",
+            "We should gladly receive one another as Christ received us – Vs. 7"
+        ],
+        discussion_question: [
+            {
+                question: "What are the requirements for building up others in the Lord?",
+                answer: [
+                    "Help of the Holy Spirit",
+                    "Yielding to divine instructions",
+                    "An atmosphere of peace",
+                    "Release of impartation on others",
+                    "Willingness to be our brother’s keeper",
+                    "Practice of self-denial",
+                    "Following the example of Jesus"
+                ],
+            },
+            {
+                question: "How to build up others in the Lord?",
+                answer: [
+                    "Bear the infirmities of the weak – Rom. 15:1",
+                    "Please your neighbor – Rom. 15:2",
+                    "Follow the pace set by Christ – Rom. 15:3",
+                    "Have hope of being rewarded – Rom. 15:4",
+                    "Be likeminded – Rom. 15:5",
+                    "Do it to Glorify God – Rom. 15:6",
+                    "Always be willing to receive one another – Rom. 15:7"
+                ],
+            },
+            {
+                question: "Why build up others in the Lord?",
+                answer: [
+                    "To show that we don’t please ourselves only.",
+                    "To fulfill a desire to edify others",
+                    "To relieve people of reproaches",
+                    "To apply patience and comfort others",
+                    "To be likeminded to glorify God",
+                    "Receive one another as Christ also received us"
+                ],
+            },
+            {
+                question: "What benefits to build others in the Lord?",
+                answer: [
+                    "To open the door for help coming to us – Prov. 11:25",
+                    "To qualify for God’s mercy – Matt. 5:7",
+                    "To attract help of the Holy Spirit as we pray – Rom. 8:26",
+                    "Strengthens our hope in God for a change of story and a better tomorrow – 1 Kings 17:9, 14-16",
+                    "Imputed to us for righteousness – Rom. 4:23-24",
+                    "To avoid rejection in our lives and in our endeavors – Rom. 15:7"
+                ],
+            },
+        ],
+        conclusion: "Just as respect is reciprocal, so is building up others in the Lord, returning favor, provisions, and privileges to us. By doing this, the God of comfort and consolation will always be there for us at the point of our needs.",
+    },
 ];
