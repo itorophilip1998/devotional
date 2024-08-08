@@ -8,7 +8,7 @@ import LockOutlinedIcon from "@material-ui/icons/LockOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { signUp } from "../../../utils/request";
+// import { signUp } from "../../../utils/request";
 // import { Link } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 import { ToastContainer, toast } from "react-toastify";
@@ -18,6 +18,7 @@ import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
 import { Link, useNavigate } from "react-router-dom";
 import { Checkbox, FormControlLabel } from "@material-ui/core";
+import { signUp } from "../../../utils/firebase/functions";
 // import { Checkbox, FormControlLabel } from "@material-ui/core";
 /* eslint-disable */
 
@@ -45,7 +46,11 @@ export default function SignUp() {
   const classes = useStyles();
   const navigate = useNavigate();
   const dispatch = useDispatch();
-  const [state, setState] = useState();
+  const [state, setState] = useState({
+    email: "",
+    password: "",
+    username: "",
+  });
   const [loading, setLoading] = useState(false);
   const [passwordType, setPType] = useState("password");
   const [error, setError] = useState({
@@ -64,24 +69,36 @@ export default function SignUp() {
     dispatch(offKeys(true));
   };
 
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    setLoading(true);
-    setError({});
+const handleSubmit = async (e) => {
+  e.preventDefault();
+  setLoading(true);
+  setError(null); // Clear any previous errors
 
-    const req = await signUp(state);
-    if (req && req.data) {
-      setLoading(false);
-      dispatch(getUser(req.data));
-      // navigate("/auth/devotional");
-      window.location.href = "/devotional";
+  try {
+    const response = await signUp(state.email, state.password, {
+      username: state.username,
+    });
+
+    setLoading(false); 
+    
+    if (response.status === "success") {
+      // Success: dispatch user data, navigate to another page, and show a success toast
+      dispatch(getUser(response.data));
+      navigate("/auth/devotional");
+      toast.success("User registered successfully!");
     } else {
-      setLoading(false);
-      let err = JSON.parse(req.response.data);
-      setError(err);
-      toast.error("Opps invalid details!");
+      // Error: Set the error state and show an error toast
+      const errorMessage = response.message || "Oops, something went wrong!";
+      setError(errorMessage);
+      toast.error(errorMessage);
     }
-  };
+  } catch (err) {
+    setLoading(false);
+    const errorMessage = err.message || "Oops, something went wrong!";
+    setError(errorMessage);
+    toast.error(errorMessage);
+  }
+};
   const handleSearchOpen = (e) => {
     dispatch(offKeys(false));
   };
@@ -110,7 +127,7 @@ export default function SignUp() {
             onMouseLeave={handleSearchClose}
             helperText={error?.username && error?.username[0]}
             onFocus={handleSearchOpen}
-            className="d-none"
+            // className="d-none"
           />
           <TextField
             variant="outlined"
@@ -153,11 +170,12 @@ export default function SignUp() {
               onClick={(e) => setPType("password")}
             />
           )}
-          <FormControlLabel className="py-3"
+          <FormControlLabel
+            className="py-3"
             control={<Checkbox value="remember" color="primary" />}
             label={
               <>
-                I agree to Fulga Devotionals {" "}
+                I agree to Fulga Devotionals{" "}
                 <Link to="/terms">Terms and Conditions</Link>.
               </>
             }
@@ -179,7 +197,7 @@ export default function SignUp() {
             variant="contained"
             color="dark"
             size="large"
-            className={"mt-0 shadow-sm text-unset"}
+            className={"mt-0 shadow-sm text-unset bg-transparent"}
             onClick={(e) => navigate("/auth/signin")}
           >
             {"I have an account already, "} <b> Login</b>

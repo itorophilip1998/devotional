@@ -40,7 +40,6 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(3, 0, 1, 0),
   },
 }));
-
 export default function SignIn() {
   const classes = useStyles();
   const dispatch = useDispatch();
@@ -147,7 +146,7 @@ export default function SignIn() {
             variant="contained"
             color="dark"
             size="large"
-            className={"mt-0 shadow-sm text-unset"} 
+            className={"mt-0 shadow-sm text-unset bg-transparent"}
             onClick={(e) => navigate("/auth/signup")}
           >
             {"I don't have account, "} <b> Register</b>

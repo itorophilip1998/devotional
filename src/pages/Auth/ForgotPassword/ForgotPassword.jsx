@@ -2,14 +2,13 @@ import React, { useState } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import TextField from "@material-ui/core/TextField";
-import Grid from "@material-ui/core/Grid";
+import TextField from "@material-ui/core/TextField"; 
 import LockOpenOutlinedIcon from "@material-ui/icons/LockOpenOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import { signIn } from "../../../utils/request";
-import { Link } from "react-router-dom";
+import {  useNavigate } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 
 const useStyles = makeStyles((theme) => ({
@@ -54,6 +53,8 @@ export default function ForgotPassword() {
     setLoading(false);
     console.log(state);
   };
+  const navigate = useNavigate();
+
   return (
     <Container component="main" maxWidth="xs">
       <CssBaseline />
@@ -89,13 +90,24 @@ export default function ForgotPassword() {
           >
             {loading !== true ? "Verify" : <Loader />}
           </Button>
-          <Grid container>
+          <Button
+            type="button"
+            fullWidth
+            variant="contained"
+            color="dark"
+            size="large"
+            className={"mt-0 shadow-sm text-unset bg-transparent"}
+            onClick={(e) => navigate("/auth/signin")}
+          >
+            {"I have an account already, "} <b> Login</b>
+          </Button>
+          {/* <Grid container>
             <Grid item xs={12}>
               <Link to="/auth/signin" variant="body2">
                 {"I have an account? Sign In"}
               </Link>
             </Grid>
-          </Grid>
+          </Grid> */}
         </form>
       </div>
     </Container>
