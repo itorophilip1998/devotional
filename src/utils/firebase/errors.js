@@ -8,7 +8,7 @@ export const getCustomErrorMessage = (error) => {
         'auth/weak-password': 'The password is too weak. Please use a stronger password.',
         'auth/invalid-credential': 'Invalid Credential: Please use forgot password to recover your account or contact us',
         // Add more custom error messages here based on the Firebase error codes
-        default: 'An error occurred. Please try again.',
+        default: 'An error occurred. Please check your internet try again.',
     };
 
     return errorMessages[errorCode] || errorMessages.default;

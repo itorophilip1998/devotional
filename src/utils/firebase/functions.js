@@ -1,8 +1,10 @@
 import { db } from "./";
 import { signInWithEmailAndPassword, sendPasswordResetEmail, signOut, getAuth, confirmPasswordReset, createUserWithEmailAndPassword, sendEmailVerification } from "firebase/auth";
-import { doc, setDoc, collection, addDoc } from "firebase/firestore";
+import { doc, setDoc } from "firebase/firestore";
 import { getCustomErrorMessage } from "./errors";
+import { v4 as uuidv4 } from 'uuid';
 
+const uniqueId = uuidv4();
 
 export const signUp = async (email, password, userData) => {
     const auth = getAuth();
@@ -55,41 +57,37 @@ export const signIn = async (email, password) => {
 
 
 
-export const createSubscriptionDocument = async (subscriptionData) => {
+export const createSubscriptionDocument = async (userId, subscriptionData) => {
     try {
-        const user = JSON.parse(localStorage.getItem('authUser'));
-        if (!user || !user.uid) {
-            throw new Error('User is not authenticated');
-        }
-        const userId = user.uid;
-        const subscriptionsRef = collection(doc(db, 'users', userId), 'subscriptions');
-        await addDoc(subscriptionsRef, subscriptionData);
+        const subscriptionsRef = doc(db, 'subscriptions', uniqueId);
+        await setDoc(subscriptionsRef, subscriptionData); 
         return {
             status: 'success',
-            message: 'Subscription document created successfully',
+            message: 'Subscription initiated successfully!',
             data: subscriptionData,
         };
     } catch (error) {
         return {
             status: 'error',
-            message: error.message || 'Failed to create subscription document',
+            message: error.message || 'Failed to initiate subscription!',
         };
     }
 };
-
 export const createContactUsDocument = async (contactData) => {
-    try {
-        const contactRef = collection(db, 'contactUs');
-        await addDoc(contactRef, contactData);
+    try { 
+        const contactRef = doc(db, 'contactUs', uniqueId);
+ 
+        await setDoc(contactRef, contactData);
+ 
         return {
             status: 'success',
-            message: 'Contact Us created successfully',
+            message: "We will get back to you within an hour!",
             data: contactData,
         };
-    } catch (error) {
+    } catch (error) { 
         return {
             status: 'error',
-            message: error.message || 'Failed to create Contact Us ',
+            message: error.message || "An error occurred while submitting your request. Please try again later.",
         };
     }
 };

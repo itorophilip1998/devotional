@@ -11,6 +11,7 @@ import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../../store/data";
 import SetFont from "./components/SetFont";
+import { useAuth } from "../../context/firebaseContext";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -31,7 +32,7 @@ function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
 
-  const { token, user, isSub } = useSelector((state) => state.data);
+  const { token, isSub } = useSelector((state) => state.data);
   const dispatch = useDispatch();
   const changePassword = () => {
     dispatch(logout());
@@ -44,8 +45,10 @@ function Profile() {
   const contactUs = () => {
     navigate("/contact-us");
   };
-  const username = user.username || "Anonymous";
   const [speech] = useState(16);
+  const {  userDetails:user } = useAuth();
+  const username = user?.username || "Anonymous";
+  console.debug(user);
   return (
     <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
@@ -59,6 +62,7 @@ function Profile() {
           className="userName text-capitalize"
         >
           {username}
+          {/* {user.email} */}
         </Typography>
       </div>
       {!token ? (
@@ -109,7 +113,7 @@ function Profile() {
           {navigator.appVersion}
         </div>
       </div>
-      <small className="version text-muted float-right">v1.0</small>
+      <small className="version text-muted float-right">v1.2</small>
     </div>
   );
 }

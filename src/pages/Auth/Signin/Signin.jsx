@@ -15,7 +15,7 @@ import { Link, useNavigate } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 import { offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
-import { ToastContainer, toast } from "react-toastify";
+import {  toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
 import { signIn } from "../../../utils/firebase/functions";

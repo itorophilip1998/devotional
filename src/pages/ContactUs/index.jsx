@@ -9,14 +9,16 @@ import TextField from "@material-ui/core/TextField";
 import Phone from "@material-ui/icons/Phone";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
-import Container from "@material-ui/core/Container";
-import { contactUs } from "../../utils/request";
+import Container from "@material-ui/core/Container"; 
 import { useNavigate } from "react-router-dom";
 import Loader from "../../components/Loader/Loader";
 import { offKeys } from "../../store/data";
-import { useDispatch } from "react-redux";
-import { ToastContainer, toast } from "react-toastify";
+import { useDispatch } from "react-redux"; 
 import "react-toastify/dist/ReactToastify.css";
+import { createContactUsDocument } from "../../utils/firebase/functions";
+
+import { toast } from "react-toastify";
+ 
 
 /* eslint-disable */
 
@@ -60,21 +62,28 @@ export default function contact() {
   const handleSearchOpen = () => {
     dispatch(offKeys(false));
   };
+ 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    const req = await contactUs(state);
-    if (req && req.data) {
+
+    try {
+      const response = await createContactUsDocument(state);
       setLoading(false);
-      toast.success("We will Get back to you within an hour!");
-        navigate("/profile");
-    } else {
+      if (response.status === "success") {
+        toast.success(response.message);
+        setTimeout(() => {
+          navigate(-1);
+        }, 2000);
+      } else {
+        toast.error(response.message);
+      }
+    } catch (err) {
       setLoading(false);
-      toast.success("We will Get back to you within an hour!");
-        navigate("/profile");
+      toast.error(err.message);
     }
-  
   };
+
   const [subjects] = useState([
     "Subscription Issues",
     "Login Issues",
@@ -147,17 +156,7 @@ export default function contact() {
           </Button>
         </form>
       </div>
-      <ToastContainer
-        position="top-right"
-        autoClose={3000}
-        hideProgressBar={false}
-        newestOnTop={false}
-        closeOnClick
-        rtl={false}
-        pauseOnFocusLoss
-        draggable
-        pauseOnHover
-      />
+      
     </Container>
   );
 }
