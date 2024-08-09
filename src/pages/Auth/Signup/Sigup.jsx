@@ -53,6 +53,7 @@ export default function SignUp() {
   });
   const [loading, setLoading] = useState(false);
   const [passwordType, setPType] = useState("password");
+  const [checked, setChecked] = useState(false);
   const [error, setError] = useState({
     device: navigator.appVersion,
   });
@@ -69,36 +70,32 @@ export default function SignUp() {
     dispatch(offKeys(true));
   };
 
-const handleSubmit = async (e) => {
-  e.preventDefault();
-  setLoading(true);
-  setError(null); // Clear any previous errors
-
-  try {
-    const response = await signUp(state.email, state.password, {
-      username: state.username,
-    });
-
-    setLoading(false); 
-    
-    if (response.status === "success") {
-      // Success: dispatch user data, navigate to another page, and show a success toast
-      dispatch(getUser(response.data));
-      navigate("/auth/devotional");
-      toast.success("User registered successfully!");
-    } else {
-      // Error: Set the error state and show an error toast
-      const errorMessage = response.message || "Oops, something went wrong!";
-      setError(errorMessage);
-      toast.error(errorMessage);
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    if (!checked) {
+      return toast.warning("Please you have not agree to Terms and condition");
     }
-  } catch (err) {
-    setLoading(false);
-    const errorMessage = err.message || "Oops, something went wrong!";
-    setError(errorMessage);
-    toast.error(errorMessage);
-  }
-};
+    setLoading(true);
+    try {
+      const response = await signUp(state.email, state.password, {
+        username: state.username,
+      });
+
+      setLoading(false);
+      if (response.status === "success") {
+        toast.success(`${response.message}`);
+        setTimeout(() => {
+          navigate("/auth/signin");
+        }, 5000);
+      } else {
+        toast.error(response.message);
+      }
+    } catch (err) {
+      setLoading(false);
+      toast.error(err.message);
+      console.debug(err);
+    }
+  };
   const handleSearchOpen = (e) => {
     dispatch(offKeys(false));
   };
@@ -172,12 +169,21 @@ const handleSubmit = async (e) => {
           )}
           <FormControlLabel
             className="py-3"
-            control={<Checkbox value="remember" color="primary" />}
+            control={
+              <Checkbox
+                value="remember"
+                color="primary"
+                checked={checked}
+                onChange={() => setChecked(event.target.checked)}
+              />
+            }
             label={
-              <>
-                I agree to Fulga Devotionals{" "}
-                <Link to="/terms">Terms and Conditions</Link>.
-              </>
+              <small>
+                I agree to the
+                <Link to="/terms"> Terms/Condition </Link>
+                {" and "}
+                <Link to="/policy"> Privacy Policy</Link>
+              </small>
             }
           />
           <Button
@@ -204,17 +210,6 @@ const handleSubmit = async (e) => {
           </Button>
         </form>
       </div>
-      <ToastContainer
-        position="top-right"
-        autoClose={1000}
-        hideProgressBar={false}
-        newestOnTop={false}
-        closeOnClick
-        rtl={false}
-        pauseOnFocusLoss
-        draggable
-        pauseOnHover
-      />
     </Container>
   );
 }

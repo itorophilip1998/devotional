@@ -2,14 +2,16 @@ import React, { useState } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import TextField from "@material-ui/core/TextField"; 
+import TextField from "@material-ui/core/TextField";
 import LockOpenOutlinedIcon from "@material-ui/icons/LockOpenOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { signIn } from "../../../utils/request";
-import {  useNavigate } from "react-router-dom";
+// import { signIn } from "../../../utils/request";
+import { useNavigate } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
+import { forgotPassword } from "../../../utils/firebase/functions";
+import { toast } from "react-toastify";
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -45,13 +47,19 @@ export default function ForgotPassword() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    const req = await signIn(state);
-    if (req || req === undefined) {
-      console.log(state);
+
+    try {
+      const response = await forgotPassword(state.email);
       setLoading(false);
+      if (response.status === "success") {
+        toast.success(response.message);
+      } else {
+        toast.error(response.message);
+      }
+    } catch (err) {
+      setLoading(false);
+      toast.error(err.message);
     }
-    setLoading(false);
-    console.log(state);
   };
   const navigate = useNavigate();
 

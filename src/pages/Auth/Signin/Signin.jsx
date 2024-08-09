@@ -10,14 +10,15 @@ import ExitToAppOutlinedIcon from "@material-ui/icons/ExitToAppOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { signIn } from "../../../utils/request";
+// import { signIn } from "../../../utils/request";
 import { Link, useNavigate } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
-import { getUser, offKeys } from "../../../store/data";
+import { offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
+import { signIn } from "../../../utils/firebase/functions";
 
 /* eslint-disable */
 
@@ -66,14 +67,21 @@ export default function SignIn() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    const req = await signIn(state);
-    if (req && req.data) {
-      dispatch(getUser(req.data));
+
+    try {
+      const response = await signIn(state.email, state.password);
       setLoading(false);
-      window.location.href = "/devotional";
-    } else {
+      if (response.status === "success") {
+        toast.success(response.message);
+        setTimeout(() => {
+          navigate("/");
+        }, 2000);
+      } else {
+        toast.error(response.message);
+      }
+    } catch (err) {
       setLoading(false);
-      toast.error(req.response.data.message || "Oops cant access right now!!");
+      toast.error(err.message);
     }
   };
   return (
@@ -165,17 +173,7 @@ export default function SignIn() {
           </Grid>
         </form>
       </div>
-      <ToastContainer
-        position="top-right"
-        autoClose={5000}
-        hideProgressBar={false}
-        newestOnTop={false}
-        closeOnClick
-        rtl={false}
-        pauseOnFocusLoss
-        draggable
-        pauseOnHover
-      />
+       
     </Container>
   );
 }

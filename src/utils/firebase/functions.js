@@ -1,6 +1,7 @@
 import { db } from "./";
-import { signInWithEmailAndPassword, sendPasswordResetEmail, signOut, getAuth, confirmPasswordReset, createUserWithEmailAndPassword } from "firebase/auth";
+import { signInWithEmailAndPassword, sendPasswordResetEmail, signOut, getAuth, confirmPasswordReset, createUserWithEmailAndPassword, sendEmailVerification } from "firebase/auth";
 import { doc, setDoc, collection, addDoc } from "firebase/firestore";
+import { getCustomErrorMessage } from "./errors";
 
 
 export const signUp = async (email, password, userData) => {
@@ -8,23 +9,50 @@ export const signUp = async (email, password, userData) => {
 
     try {
         const userCredential = await createUserWithEmailAndPassword(auth, email, password);
-
         const userId = userCredential.user.uid;
-        const userRef = doc(db, 'users', userId);
-        await setDoc(userRef, userData);
-
+        const user = userCredential.user;
+        const userDoc = {
+            id: userId,
+            email: email,
+            username: userData.username,
+            createdAt: new Date(),
+        };
+        await setDoc(doc(db, 'users', userId), userDoc);
+        await sendEmailVerification(user);
         return {
             status: 'success',
-            message: 'User document created successfully',
+            message: 'Account created successfully, Please check your email inbox for email account verification ',
             data: { ...userData, userId },
         };
     } catch (error) {
         return {
             status: 'error',
-            message: error.message || 'Failed to create user document',
+            message: getCustomErrorMessage(error),
         };
     }
 };
+
+export const signIn = async (email, password) => {
+    try {
+        const auth = getAuth();
+        const userCredential = await signInWithEmailAndPassword(auth, email, password);
+        const user = userCredential.user;
+        const token = await user.getIdToken();
+        localStorage.setItem('authUser', token);
+
+        return {
+            status: 'success',
+            message: 'LoggedIn successfully',
+            data: user,
+        };
+    } catch (error) {
+        return {
+            status: 'error',
+            message: getCustomErrorMessage(error),
+        };
+    }
+};
+
 
 
 export const createSubscriptionDocument = async (subscriptionData) => {
@@ -55,13 +83,13 @@ export const createContactUsDocument = async (contactData) => {
         await addDoc(contactRef, contactData);
         return {
             status: 'success',
-            message: 'Contact Us document created successfully',
+            message: 'Contact Us created successfully',
             data: contactData,
         };
     } catch (error) {
         return {
             status: 'error',
-            message: error.message || 'Failed to create Contact Us document',
+            message: error.message || 'Failed to create Contact Us ',
         };
     }
 };
@@ -72,7 +100,7 @@ export const forgotPassword = async (email) => {
         await sendPasswordResetEmail(auth, email);
         return {
             status: 'success',
-            message: 'Password reset email sent successfully',
+            message: 'Password reset email sent successfully, please check your email inbox',
         };
     } catch (error) {
         return {
@@ -98,26 +126,6 @@ export const resetPassword = async (oobCode, newPassword) => {
     }
 };
 
-export const signInAndStoreToken = async (email, password) => {
-    try {
-        const auth = getAuth();
-        const userCredential = await signInWithEmailAndPassword(auth, email, password);
-        const user = userCredential.user;
-        const token = await user.getIdToken();
-        localStorage.setItem('authUser', token);
-
-        return {
-            status: 'success',
-            message: 'User signed in and token stored successfully',
-            data: user,
-        };
-    } catch (error) {
-        return {
-            status: 'error',
-            message: error.message || 'Failed to sign in and store token',
-        };
-    }
-};
 
 export const signOutAuth = async () => {
     const auth = getAuth();
@@ -135,3 +143,4 @@ export const signOutAuth = async () => {
         };
     }
 };
+
