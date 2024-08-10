@@ -59,7 +59,7 @@ export const signIn = async (email, password) => {
 
 export const createSubscriptionDocument = async (userId, subscriptionData) => {
     try {
-        console.debug(userId, subscriptionData)
+       
         const subscriptionsRef = doc(db, 'subscriptions', uniqueId);
         await setDoc(subscriptionsRef, subscriptionData); 
         return {

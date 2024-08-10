@@ -12,6 +12,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../../store/data";
 import SetFont from "./components/SetFont";
 import { useAuth } from "../../context/firebaseContext";
+import { signOutAuth } from "../../utils/firebase/functions";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -31,17 +32,13 @@ const useStyles = makeStyles((theme) => ({
 function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
-
-  const { token, isSub } = useSelector((state) => state.data);
+ 
   const dispatch = useDispatch();
   const changePassword = () => {
     dispatch(logout());
     navigate("/auth/forgot-password");
   };
-  const signOut = () => {
-    dispatch(logout());
-    navigate("/auth/signin");
-  };
+ 
   const contactUs = () => {
     navigate("/contact-us");
   };
@@ -65,7 +62,7 @@ function Profile() {
           {/* {user.email} */}
         </Typography>
       </div>
-      {!token ? (
+      {!user ? (
         <div
           className="signout shadow-sm p-3 text-dark"
           onClick={(e) => navigate("/auth/signin")}
@@ -73,7 +70,7 @@ function Profile() {
           <ExitToAppIcon /> Signin
         </div>
       ) : (
-        <div className="signout shadow-sm p-3 text-dark" onClick={signOut}>
+        <div className="signout shadow-sm p-3 text-dark" onClick={signOutAuth}>
           <ExitToAppIcon /> Signout
         </div>
       )}
@@ -82,15 +79,19 @@ function Profile() {
         <span>Settings</span>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"
-          // onClick={(e) => navigate("/subscribe")}
+          onClick={(e) => navigate("/subscribe")}
         >
           <CreditCardIcon /> {"Subscription"}
-          {isSub === "0" && (
-            <span className="badge badge-danger float-right">expired</span>
+          {!user?.isSub ? (
+            <span className="badge badge-danger float-right">
+              No Subscription
+            </span>
+          ) : (
+            <span className="badge badge-success float-right">Active</span>
           )}
-          <span className="badge badge-success float-right">
+          {/* <span className="badge badge-success float-right">
             Free For today
-          </span>
+          </span> */}
         </div>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"

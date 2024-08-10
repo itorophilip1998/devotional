@@ -1,12 +1,14 @@
-import { useSelector } from "react-redux";
+ 
 
 import NoSub from "./NoSub";
 import Sub from "./Sub";
+import { useAuth } from "../../context/firebaseContext";
 
 function Subscribe() {
-  const isSub = true;
+  const { userDetails: user } = useAuth();
  
-  return <div>{isSub ? <NoSub /> : <Sub />}</div>;
+ 
+  return <div>{!user?.isSub ? <NoSub /> : <Sub />}</div>;
 }
 
 export default Subscribe;
