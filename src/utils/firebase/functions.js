@@ -84,8 +84,7 @@ export const createSubscriptionDocument = async (userId, subscriptionData) => {
         const subscriptionWithUser = {
             ...subscriptionData,
             userId
-        };
-        console.debug(subscriptionWithUser) 
+        }; 
         await setDoc(subscriptionDocRef, subscriptionWithUser);
         return {
             status: 'success',
@@ -156,6 +155,21 @@ export const signOutAuth = async () => {
     try {
         await signOut(auth);
         localStorage.removeItem('authUser');
+        return {
+            status: 'success',
+            message: 'User signed out successfully',
+        };
+    } catch (error) {
+        return {
+            status: 'error',
+            message: error.message || 'Failed to sign out',
+        };
+    }
+};
+
+export const signInLink = async () => { 
+    try { 
+        localStorage.clear('authUser');
         return {
             status: 'success',
             message: 'User signed out successfully',
