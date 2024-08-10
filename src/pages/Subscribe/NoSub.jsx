@@ -2,12 +2,14 @@
 
 import { FlutterWaveButton, closePaymentModal } from "flutterwave-react-v3";
 import { useAuth } from "../../context/firebaseContext";
-import { createSubscriptionDocument } from "../../utils/firebase/functions";
+import { 
+  updateSubStatus,
+} from "../../utils/firebase/functions";
 import { useNavigate } from "react-router-dom";
 
 function NoSub() {
   const navigate = useNavigate();
-  const onSuccess = async (data, user) => {
+  const onSuccess = async (data) => {
     // Implementation for whatever you want to do with reference and after success call.
     const currentDate = new Date();
     const startDate = currentDate.toISOString().split("T")[0];
@@ -23,15 +25,14 @@ function NoSub() {
       start_date: startDate,
       end_date: endDate,
       reference: data.flw_ref,
-      status: data.status,
-      userId: user.id,
-    };
-    
-  await createSubscriptionDocument(user.id, payload);
+      status: true,  
+    }; 
+ 
+    await updateSubStatus(payload.status, payload);
 
-    // setTimeout(() => {
-    //   navigate(-1);
-    // }, 1000);
+    setTimeout(() => {
+      navigate(-1);
+    }, 1000);
   };
 
   const { userDetails } = useAuth();

@@ -1,6 +1,6 @@
-import { db } from "./";
+import { auth, db } from "./";
 import { signInWithEmailAndPassword, sendPasswordResetEmail, signOut, getAuth, confirmPasswordReset, createUserWithEmailAndPassword, sendEmailVerification } from "firebase/auth";
-import { doc, setDoc } from "firebase/firestore";
+import { doc, setDoc, updateDoc } from "firebase/firestore";
 import { getCustomErrorMessage } from "./errors";
 import { v4 as uuidv4 } from 'uuid';
 
@@ -56,16 +56,41 @@ export const signIn = async (email, password) => {
 };
 
 
-
-export const createSubscriptionDocument = async (userId, subscriptionData) => {
+export const updateSubStatus = async (status,subscriptionData) => {
     try {
-       
-        const subscriptionsRef = doc(db, 'subscriptions', uniqueId);
-        await setDoc(subscriptionsRef, subscriptionData); 
+        const user = auth.currentUser;
+        const userDocRef = doc(db, 'users', user.uid);
+        await updateDoc(userDocRef, {
+            isSub: status,
+        })
+        await createSubscriptionDocument(user.uid, { ...subscriptionData, status: status })
         return {
             status: 'success',
             message: 'Subscription initiated successfully!',
             data: subscriptionData,
+        };
+    }
+    catch (error) {
+        return {
+            status: 'error',
+            message: error.message || 'Failed to initiate subscription!',
+        };
+    }
+}
+export const createSubscriptionDocument = async (userId, subscriptionData) => {
+    try {
+       const subscriptionDocRef = doc(db, 'subscribers', uniqueId);
+
+        const subscriptionWithUser = {
+            ...subscriptionData,
+            userId
+        };
+        console.debug(subscriptionWithUser) 
+        await setDoc(subscriptionDocRef, subscriptionWithUser);
+        return {
+            status: 'success',
+            message: 'Subscription initiated successfully!',
+            data: subscriptionWithUser,
         };
     } catch (error) {
         return {
@@ -75,17 +100,17 @@ export const createSubscriptionDocument = async (userId, subscriptionData) => {
     }
 };
 export const createContactUsDocument = async (contactData) => {
-    try { 
+    try {
         const contactRef = doc(db, 'contactUs', uniqueId);
- 
+
         await setDoc(contactRef, contactData);
- 
+
         return {
             status: 'success',
             message: "We will get back to you within an hour!",
             data: contactData,
         };
-    } catch (error) { 
+    } catch (error) {
         return {
             status: 'error',
             message: error.message || "An error occurred while submitting your request. Please try again later.",
