@@ -21,22 +21,23 @@ import React, { useEffect, useState } from "react";
 import ContactUs from './pages/ContactUs';
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Terms from "./pages/Terms";
- 
+import { ToastContainer } from "react-toastify"; 
 
 
 function App() {
-  const [isLoaded, setLoading] = useState(false);
-
+  const [isLoaded, setLoading] = useState(false); 
   useEffect(() => {
     setTimeout(() => {
       setLoading(true)
     }, 1000);
   })
+
+  
   if (!isLoaded)
     return <Loader />
   else
     return (
-      <BrowserRouter>
+      <BrowserRouter >
         <Header />
         {/* <IsOffline /> */}
         <Routes>
@@ -67,6 +68,17 @@ function App() {
         </Routes>
         {/* <ContactUs/> */}
         <Footer />
+        <ToastContainer
+          position="top-right"
+          autoClose={5000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+        />
       </BrowserRouter >
     );
 }
