@@ -8,7 +8,7 @@ import LockOutlinedIcon from "@material-ui/icons/LockOutlined";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { signUp } from "../../../utils/request";
+// import { signUp } from "../../../utils/request";
 // import { Link } from "react-router-dom";
 import Loader from "../../../components/Loader/Loader";
 import { ToastContainer, toast } from "react-toastify";
@@ -18,6 +18,7 @@ import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
 import { Link, useNavigate } from "react-router-dom";
 import { Checkbox, FormControlLabel } from "@material-ui/core";
+import { signUp } from "../../../utils/firebase/functions";
 // import { Checkbox, FormControlLabel } from "@material-ui/core";
 /* eslint-disable */
 
@@ -45,9 +46,14 @@ export default function SignUp() {
   const classes = useStyles();
   const navigate = useNavigate();
   const dispatch = useDispatch();
-  const [state, setState] = useState();
+  const [state, setState] = useState({
+    email: "",
+    password: "",
+    username: "",
+  });
   const [loading, setLoading] = useState(false);
   const [passwordType, setPType] = useState("password");
+  const [checked, setChecked] = useState(false);
   const [error, setError] = useState({
     device: navigator.appVersion,
   });
@@ -66,20 +72,28 @@ export default function SignUp() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (!checked) {
+      return toast.warning("Please you have not agree to Terms and condition");
+    }
     setLoading(true);
-    setError({});
+    try {
+      const response = await signUp(state.email, state.password, {
+        username: state.username,
+      });
 
-    const req = await signUp(state);
-    if (req && req.data) {
       setLoading(false);
-      dispatch(getUser(req.data));
-      // navigate("/auth/devotional");
-      window.location.href = "/devotional";
-    } else {
+      if (response.status === "success") {
+        toast.success(`${response.message}`);
+        setTimeout(() => {
+          navigate("/auth/signin");
+        }, 5000);
+      } else {
+        toast.error(response.message);
+      }
+    } catch (err) {
       setLoading(false);
-      let err = JSON.parse(req.response.data);
-      setError(err);
-      toast.error("Opps invalid details!");
+      toast.error(err.message);
+      console.debug(err);
     }
   };
   const handleSearchOpen = (e) => {
@@ -110,7 +124,7 @@ export default function SignUp() {
             onMouseLeave={handleSearchClose}
             helperText={error?.username && error?.username[0]}
             onFocus={handleSearchOpen}
-            className="d-none"
+            // className="d-none"
           />
           <TextField
             variant="outlined"
@@ -153,13 +167,23 @@ export default function SignUp() {
               onClick={(e) => setPType("password")}
             />
           )}
-          <FormControlLabel className="py-3"
-            control={<Checkbox value="remember" color="primary" />}
+          <FormControlLabel
+            className="py-3"
+            control={
+              <Checkbox
+                value="remember"
+                color="primary"
+                checked={checked}
+                onChange={() => setChecked(event.target.checked)}
+              />
+            }
             label={
-              <>
-                I agree to Fulga Devotionals {" "}
-                <Link to="/terms">Terms and Conditions</Link>.
-              </>
+              <small>
+                I agree to the
+                <Link to="/terms"> Terms/Condition </Link>
+                {" and "}
+                <Link to="/policy"> Privacy Policy</Link>
+              </small>
             }
           />
           <Button
@@ -179,24 +203,13 @@ export default function SignUp() {
             variant="contained"
             color="dark"
             size="large"
-            className={"mt-0 shadow-sm text-unset"}
+            className={"mt-0 shadow-sm text-unset bg-transparent"}
             onClick={(e) => navigate("/auth/signin")}
           >
             {"I have an account already, "} <b> Login</b>
           </Button>
         </form>
       </div>
-      <ToastContainer
-        position="top-right"
-        autoClose={1000}
-        hideProgressBar={false}
-        newestOnTop={false}
-        closeOnClick
-        rtl={false}
-        pauseOnFocusLoss
-        draggable
-        pauseOnHover
-      />
     </Container>
   );
 }

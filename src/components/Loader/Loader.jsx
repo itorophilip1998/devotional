@@ -4,7 +4,7 @@ import CircularProgress from "@material-ui/core/CircularProgress";
 function Loader() {
   return (
     <Fragment>
-      <CircularProgress color="white" className={'circle mr-2'} /> {" please wait.."}
+      <CircularProgress color="white" className={'circle mr-2'} /> {" Please wait.."}
     </Fragment>
   );
 }

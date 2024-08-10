@@ -1,57 +1,47 @@
 // import { usePaystackPayment } from "react-paystack";
-import { useSelector } from "react-redux";
-import { subscribe } from "../../utils/request/index";
+
 import { FlutterWaveButton, closePaymentModal } from "flutterwave-react-v3";
-
-// you can call this function anything
-const onSuccess = (data) => {
-  // Implementation for whatever you want to do with reference and after success call.
-  const currentDate = new Date();
-  const startDate = currentDate.toISOString().split("T")[0];
-  const endDate = new Date(
-    currentDate.getFullYear(),
-    currentDate.getMonth() + 5,
-    currentDate.getDate()
-  )
-    .toISOString()
-    .split("T")[0];
-
-  const payload = {
-    start_date: startDate,
-    end_date: endDate,
-    reference: data.flw_ref,
-    status: data.status,
-  };
-
-  subscribe(payload);
-
-  setTimeout(() => {
-    window.location.href = "/profile";
-  }, 1000);
-};
-
-// // you can call this function anything
-// const onClose = () => {
-//   // implementation for  whatever you want to do when the Paystack dialog closed.
-//   console.log("closed");
-// };
+import { useAuth } from "../../context/firebaseContext";
+import { 
+  updateSubStatus,
+} from "../../utils/firebase/functions";
+import { useNavigate } from "react-router-dom";
 
 function NoSub() {
-  const { email } = useSelector((state) => state.data.user);
+  const navigate = useNavigate();
+  const onSuccess = async (data) => {
+    // Implementation for whatever you want to do with reference and after success call.
+    const currentDate = new Date();
+    const startDate = currentDate.toISOString().split("T")[0];
+    const endDate = new Date(
+      currentDate.getFullYear(),
+      currentDate.getMonth() + 5,
+      currentDate.getDate()
+    )
+      .toISOString()
+      .split("T")[0];
 
-  // const timestamp = new Date().getTime();
-  // const referenceNumber = `REF-${timestamp}`;
-  // const config = {
-  //   reference: referenceNumber,
-  //   email,
-  //   amount: 700 * 100,
-  //   // publicKey: "pk_live_3f3b5aebbf467d9c030ed9c76ee332eaa9ab9ddf",
-  //   publicKey: "pk_test_b9ac9968f82485184ceaa9a31ab524bdc9efb58c",
-  // };
-  // const initializePayment = usePaystackPayment(config);
+    const payload = {
+      start_date: startDate,
+      end_date: endDate,
+      reference: data.flw_ref,
+      status: true,  
+    }; 
+ 
+    await updateSubStatus(payload.status, payload);
+
+    setTimeout(() => {
+      navigate(-1);
+    }, 1000);
+  };
+
+  const { userDetails } = useAuth();
+  const email = userDetails?.email ?? "";
+  const username = userDetails?.username ?? "";
+  const id = userDetails?.id ?? "";
 
   const config = {
-    public_key: "FLWPUBK-f3d08435d1916da22fe81a0c0d94b9b5-X",
+    public_key: process.env.REACT_APP_FLUTTER_KEY,
     tx_ref: Date.now(),
     amount: 1000,
     currency: "NGN",
@@ -59,7 +49,8 @@ function NoSub() {
     customer: {
       email: email,
       phone_number: "09024195493",
-      name: email,
+      name: username,
+      id: id,
     },
     customizations: {
       title: "Fulga Devotional",

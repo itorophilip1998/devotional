@@ -5,8 +5,8 @@ import PrayerFocus from "./components/PrayerFocus";
 import { manual } from "../../Database/v3/manual";
 import { useLocation, useNavigate } from "react-router-dom";
 import Navbar from "../../layouts/Headers/Navbar";
-import DiscussionQuestion from "./components/DiscussionQuestion";
-import { useSelector } from "react-redux";
+import DiscussionQuestion from "./components/DiscussionQuestion"; 
+import { useAuth } from "../../context/firebaseContext";
 /* eslint-disable */
 
 function Manual() {
@@ -25,9 +25,10 @@ function Manual() {
     setList({ ...newList });
   }, []);
   const navigate = useNavigate();
-  const isSub = useSelector((state) => state.data.isSub);
+  const { userDetails: user } = useAuth();
 
-  if (isSub !== "1") return navigate("/subscribe");
+
+  if (!user?.isSub) return navigate("/subscribe");
   return (
     <div>
       <Header item={list} />

@@ -11,6 +11,8 @@ import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../../store/data";
 import SetFont from "./components/SetFont";
+import { useAuth } from "../../context/firebaseContext";
+import { signOutAuth } from "../../utils/firebase/functions";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -30,22 +32,20 @@ const useStyles = makeStyles((theme) => ({
 function Profile() {
   let navigate = useNavigate();
   const classes = useStyles();
-
-  const { token, user, isSub } = useSelector((state) => state.data);
+ 
   const dispatch = useDispatch();
   const changePassword = () => {
     dispatch(logout());
     navigate("/auth/forgot-password");
   };
-  const signOut = () => {
-    dispatch(logout());
-    navigate("/auth/signin");
-  };
+ 
   const contactUs = () => {
     navigate("/contact-us");
   };
-  const username = user.username || "Anonymous";
   const [speech] = useState(16);
+  const { userDetails: user } = useAuth();
+  const username = user?.username || "Anonymous";
+  // console.debug(user);
   return (
     <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
@@ -59,9 +59,10 @@ function Profile() {
           className="userName text-capitalize"
         >
           {username}
+          {/* {user.email} */}
         </Typography>
       </div>
-      {!token ? (
+      {!user ? (
         <div
           className="signout shadow-sm p-3 text-dark"
           onClick={(e) => navigate("/auth/signin")}
@@ -69,7 +70,7 @@ function Profile() {
           <ExitToAppIcon /> Signin
         </div>
       ) : (
-        <div className="signout shadow-sm p-3 text-dark" onClick={signOut}>
+        <div className="signout shadow-sm p-3 text-dark" onClick={signOutAuth}>
           <ExitToAppIcon /> Signout
         </div>
       )}
@@ -80,10 +81,17 @@ function Profile() {
           className="setting_items signout shadow-sm p-3 text-dark"
           onClick={(e) => navigate("/subscribe")}
         >
-          <CreditCardIcon /> Subscription
-          {isSub === "0" && (
-            <span className="badge badge-danger float-right">expired</span>
+          <CreditCardIcon /> {"Subscription"}
+          {!user?.isSub ? (
+            <span className="badge badge-danger float-right">
+              No Subscription
+            </span>
+          ) : (
+            <span className="badge badge-success float-right">Active</span>
           )}
+          {/* <span className="badge badge-success float-right">
+            Free For today
+          </span> */}
         </div>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"
@@ -109,7 +117,7 @@ function Profile() {
           {navigator.appVersion}
         </div>
       </div>
-      <small className="version text-muted float-right">v1.0</small>
+      <small className="version text-muted float-right">v1.2</small>
     </div>
   );
 }
