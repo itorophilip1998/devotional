@@ -12,7 +12,7 @@ import { useDispatch } from "react-redux";
 import { logout } from "../../store/data";
 import SetFont from "./components/SetFont";
 import { useAuth } from "../../context/firebaseContext";
-import { signOutAuth } from "../../utils/firebase/functions";
+import { signInLink, signOutAuth } from "../../utils/firebase/functions";
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
@@ -42,6 +42,16 @@ function Profile() {
   const contactUs = () => {
     navigate("/contact-us");
   };
+  const signInFn = async () => {
+    await signInLink()
+    navigate("/auth/signin");
+    
+  }
+
+  const signOutFn = async () => {
+    await signOutAuth();
+    navigate("/auth/signin");
+  };
   const [speech] = useState(16);
   const { userDetails: user } = useAuth();
   const username = user?.username || "Anonymous";
@@ -63,14 +73,11 @@ function Profile() {
         </Typography>
       </div>
       {!user ? (
-        <div
-          className="signout shadow-sm p-3 text-dark"
-          onClick={(e) => navigate("/auth/signin")}
-        >
+        <div className="signout shadow-sm p-3 text-dark" onClick={signInFn}>
           <ExitToAppIcon /> Signin
         </div>
       ) : (
-        <div className="signout shadow-sm p-3 text-dark" onClick={signOutAuth}>
+        <div className="signout shadow-sm p-3 text-dark" onClick={signOutFn}>
           <ExitToAppIcon /> Signout
         </div>
       )}
