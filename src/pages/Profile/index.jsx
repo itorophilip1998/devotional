@@ -46,9 +46,9 @@ function Profile() {
     navigate("/contact-us");
   };
   const [speech] = useState(16);
-  const {  userDetails:user } = useAuth();
+  const { userDetails: user } = useAuth();
   const username = user?.username || "Anonymous";
-  console.debug(user);
+  // console.debug(user);
   return (
     <div className="container py-4 mb-4 ">
       <div className="header_profile my-2">
@@ -82,12 +82,15 @@ function Profile() {
         <span>Settings</span>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"
-          onClick={(e) => navigate("/subscribe")}
+          // onClick={(e) => navigate("/subscribe")}
         >
-          <CreditCardIcon /> Subscription
+          <CreditCardIcon /> {"Subscription"}
           {isSub === "0" && (
             <span className="badge badge-danger float-right">expired</span>
           )}
+          <span className="badge badge-success float-right">
+            Free For today
+          </span>
         </div>
         <div
           className="setting_items signout shadow-sm p-3 text-dark"

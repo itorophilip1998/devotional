@@ -27,7 +27,7 @@ function Manual() {
   const navigate = useNavigate();
   const isSub = useSelector((state) => state.data.isSub);
 
-  if (isSub !== "1") return navigate("/subscribe");
+  // if (isSub !== "1") return navigate("/subscribe");
   return (
     <div>
       <Header item={list} />

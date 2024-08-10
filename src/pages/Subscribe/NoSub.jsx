@@ -26,7 +26,8 @@ function NoSub() {
       status: data.status,
       userId: user.id,
     };
-    await createSubscriptionDocument(user.id, payload);
+    
+  await createSubscriptionDocument(user.id, payload);
 
     // setTimeout(() => {
     //   navigate(-1);
@@ -36,17 +37,19 @@ function NoSub() {
   const { userDetails } = useAuth();
   const email = userDetails?.email ?? "";
   const username = userDetails?.username ?? "";
-  console.debug(userDetails, "dev");
+  const id = userDetails?.id ?? "";
+
   const config = {
     public_key: process.env.REACT_APP_FLUTTER_KEY,
     tx_ref: Date.now(),
-    amount: 100,
+    amount: 1000,
     currency: "NGN",
     payment_options: "card,mobilemoney,ussd",
     customer: {
       email: email,
       phone_number: "09024195493",
       name: username,
+      id: id,
     },
     customizations: {
       title: "Fulga Devotional",
