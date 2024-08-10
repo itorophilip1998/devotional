@@ -4,7 +4,7 @@ import { token } from "../utils/config";
 
 /* eslint-disable */
 const useAuth = () => {
-  const isAuth = token;
+  const isAuth = token ?? 'token';
 
   if (!isAuth || isAuth === null || isAuth==='') {
     return false;

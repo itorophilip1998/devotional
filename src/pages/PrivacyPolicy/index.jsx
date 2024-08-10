@@ -1,9 +1,15 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 function PrivacyPolicy() {
+  const navigate = useNavigate();
+
   return (
-    <div className="container py-5 mb-3">
-      <h1>Privacy Policy</h1>
+    <div className="container pb-5 pt-2 mb-4">
+      <button className="btn shadow my-4" onClick={() => navigate(-1)}>
+        Back
+      </button>
+      <h2>Privacy Policy</h2>
       <p>Last updated: February 07, 2024</p>
       <p>
         This Privacy Policy describes Our policies and procedures on the
@@ -17,15 +23,15 @@ function PrivacyPolicy() {
         accordance with this Privacy Policy. This Privacy Policy has been
         created with the help of the.
       </p>
-      <h2>Interpretation and Definitions</h2>
-      <h3>Interpretation</h3>
+      <h4>Interpretation and Definitions</h4>
+      <h5>Interpretation</h5>
       <p>
         The words of which the initial letter is capitalized have meanings
         defined under the following conditions. The following definitions shall
         have the same meaning regardless of whether they appear in singular or
         in plural.
       </p>
-      <h3>Definitions</h3>
+      <h5>Definitions</h5>
       <p>For the purposes of this Privacy Policy:</p>
       <ul>
         <li>
@@ -103,8 +109,8 @@ function PrivacyPolicy() {
           </p>
         </li>
       </ul>
-      <h2>Collecting and Using Your Personal Data</h2>
-      <h3>Types of Data Collected</h3>
+      <h4>Collecting and Using Your Personal Data</h4>
+      <h5>Types of Data Collected</h5>
       <h4>Personal Data</h4>
       <p>
         While using Our Service, We may ask You to provide Us with certain
@@ -151,7 +157,7 @@ function PrivacyPolicy() {
         visit our Service or when You access the Service by or through a mobile
         device.
       </p>
-      <h3>Use of Your Personal Data</h3>
+      <h5>Use of Your Personal Data</h5>
       <p>The Company may use Personal Data for the following purposes:</p>
       <ul>
         <li>
@@ -258,7 +264,7 @@ function PrivacyPolicy() {
           information for any other purpose with Your consent.
         </li>
       </ul>
-      <h3>Retention of Your Personal Data</h3>
+      <h5>Retention of Your Personal Data</h5>
       <p>
         The Company will retain Your Personal Data only for as long as is
         necessary for the purposes set out in this Privacy Policy. We will
@@ -274,7 +280,7 @@ function PrivacyPolicy() {
         functionality of Our Service, or We are legally obligated to retain this
         data for longer time periods.
       </p>
-      <h3>Transfer of Your Personal Data</h3>
+      <h5>Transfer of Your Personal Data</h5>
       <p>
         Your information, including Personal Data, is processed at the Company's
         operating offices and in any other places where the parties involved in
@@ -294,7 +300,7 @@ function PrivacyPolicy() {
         a country unless there are adequate controls in place including the
         security of Your data and other personal information.
       </p>
-      <h3>Delete Your Personal Data</h3>
+      <h5>Delete Your Personal Data</h5>
       <p>
         You have the right to delete or request that We assist in deleting the
         Personal Data that We have collected about You.
@@ -314,7 +320,7 @@ function PrivacyPolicy() {
         Please note, however, that We may need to retain certain information
         when we have a legal obligation or lawful basis to do so.
       </p>
-      <h3>Disclosure of Your Personal Data</h3>
+      <h5>Disclosure of Your Personal Data</h5>
       <h4>Business Transactions</h4>
       <p>
         If the Company is involved in a merger, acquisition or asset sale, Your
@@ -345,7 +351,7 @@ function PrivacyPolicy() {
         </li>
         <li>Protect against legal liability</li>
       </ul>
-      <h3>Security of Your Personal Data</h3>
+      <h5>Security of Your Personal Data</h5>
       <p>
         The security of Your Personal Data is important to Us, but remember that
         no method of transmission over the Internet, or method of electronic
@@ -353,7 +359,7 @@ function PrivacyPolicy() {
         means to protect Your Personal Data, We cannot guarantee its absolute
         security.
       </p>
-      <h2>Children's Privacy</h2>
+      <h4>Children's Privacy</h4>
       <p>
         Our Service does not address anyone under the age of 13. We do not
         knowingly collect personally identifiable information from anyone under
@@ -369,7 +375,7 @@ function PrivacyPolicy() {
         require Your parent's consent before We collect and use that
         information.
       </p>
-      <h2>Links to Other Websites</h2>
+      <h4>Links to Other Websites</h4>
       <p>
         Our Service may contain links to other websites that are not operated by
         Us. If You click on a third party link, You will be directed to that
@@ -380,7 +386,7 @@ function PrivacyPolicy() {
         We have no control over and assume no responsibility for the content,
         privacy policies or practices of any third party sites or services.
       </p>
-      <h2>Changes to this Privacy Policy</h2>
+      <h4>Changes to this Privacy Policy</h4>
       <p>
         We may update Our Privacy Policy from time to time. We will notify You
         of any changes by posting the new Privacy Policy on this page.
@@ -395,7 +401,7 @@ function PrivacyPolicy() {
         changes. Changes to this Privacy Policy are effective when they are
         posted on this page.
       </p>
-      <h2>Contact Us</h2>
+      <h4>Contact Us</h4>
       <p>
         If you have any questions about this Privacy Policy, You can contact us:
       </p>
