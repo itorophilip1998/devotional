@@ -68,6 +68,7 @@ export default function Header() {
     setSearch(e);
     if (currentPage === "devotional") dispatch(getSearch(e));
     else if (currentPage === "manual") dispatch(getSearch2(e));
+    else if (currentPage === "") dispatch(getSearch(e));
   };
 
   // Calculate the last Sunday
@@ -206,7 +207,7 @@ export default function Header() {
             </>
           ) : (
             <div>
-              {["/manual", "/devotional"].includes(page.pathname) ? (
+              {["/manual", "/devotional",'/'].includes(page.pathname) ? (
                 <IconButton
                   aria-label="account of current user"
                   aria-describedby={id}
