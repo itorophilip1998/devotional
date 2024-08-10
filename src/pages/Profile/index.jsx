@@ -8,7 +8,7 @@ import VpnKeyIcon from "@material-ui/icons/VpnKey";
 import Phone from "@material-ui/icons/Email";
 // import SetVolume from "./components/SetVolume";
 import { useNavigate } from "react-router-dom";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { logout } from "../../store/data";
 import SetFont from "./components/SetFont";
 import { useAuth } from "../../context/firebaseContext";

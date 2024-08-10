@@ -10,17 +10,17 @@ import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 // import { signUp } from "../../../utils/request";
 // import { Link } from "react-router-dom";
-import Loader from "../../../components/Loader/Loader";
-import { ToastContainer, toast } from "react-toastify";
+import Loader from "../../../components/Loader/Loader"; 
 import "react-toastify/dist/ReactToastify.css";
-import { getUser, offKeys } from "../../../store/data";
+import {  offKeys } from "../../../store/data";
 import { useDispatch } from "react-redux";
 import { Visibility, VisibilityOff } from "@material-ui/icons";
 import { Link, useNavigate } from "react-router-dom";
 import { Checkbox, FormControlLabel } from "@material-ui/core";
 import { signUp } from "../../../utils/firebase/functions";
+import { toast } from "react-toastify";
 // import { Checkbox, FormControlLabel } from "@material-ui/core";
-/* eslint-disable */
+ 
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -54,7 +54,7 @@ export default function SignUp() {
   const [loading, setLoading] = useState(false);
   const [passwordType, setPType] = useState("password");
   const [checked, setChecked] = useState(false);
-  const [error, setError] = useState({
+  const [error, ] = useState({
     device: navigator.appVersion,
   });
   const handleInput = (evt) => {
@@ -174,7 +174,7 @@ export default function SignUp() {
                 value="remember"
                 color="primary"
                 checked={checked}
-                onChange={() => setChecked(event.target.checked)}
+                onChange={(e) => setChecked(e.target.checked)}
               />
             }
             label={
