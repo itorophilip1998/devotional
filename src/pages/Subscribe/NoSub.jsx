@@ -2,9 +2,7 @@
 
 import { FlutterWaveButton, closePaymentModal } from "flutterwave-react-v3";
 import { useAuth } from "../../context/firebaseContext";
-import { 
-  updateSubStatus,
-} from "../../utils/firebase/functions";
+import { updateSubStatus } from "../../utils/firebase/functions";
 import { useNavigate } from "react-router-dom";
 
 function NoSub() {
@@ -25,9 +23,9 @@ function NoSub() {
       start_date: startDate,
       end_date: endDate,
       reference: data.flw_ref,
-      status: true,  
-    }; 
- 
+      status: true,
+    };
+
     await updateSubStatus(payload.status, payload);
 
     setTimeout(() => {
@@ -80,14 +78,16 @@ function NoSub() {
         Subscribe your double impact edition sunday school manual & the
         dayspring devotional for <b>6 Months</b>
       </div>
-      {/* <button
-        className="subButn btn shadow mb-5"
-        onClick={() => initializePayment(onSuccess, onClose)}
-      >
-        Subscribe
-      </button> */}
-
-      <FlutterWaveButton {...fwConfig} className="subButn btn shadow mb-5" />
+      {!userDetails ? (
+        <button
+          className="subButn btn shadow mb-5"
+          onClick={() => navigate("/auth/signin")}
+        >
+          Subscribe
+        </button>
+      ) : (
+        <FlutterWaveButton {...fwConfig} className="subButn btn shadow mb-5" />
+      )}
     </div>
   );
 }
